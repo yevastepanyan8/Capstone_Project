@@ -82,6 +82,7 @@ def create_subset(
 
     copied = 0
     missing = 0
+    missing_images = []
 
     for _, row in df_sample.iterrows():
         filename = row["filename"]
@@ -95,6 +96,7 @@ def create_subset(
             copied += 1
         else:
             missing += 1
+            missing_images.append(str(src_path))
 
     # Save subset metadata
     metadata_out = os.path.join(output_dir, "metadata_subset.csv")
@@ -103,6 +105,7 @@ def create_subset(
     print("\nSubset creation complete")
     print(f"Images copied: {copied}")
     print(f"Images missing: {missing}")
+    print(missing_images)
     print(f"Metadata saved to: {metadata_out}")
 
 

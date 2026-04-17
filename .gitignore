@@ -3,6 +3,8 @@
 # ============================================================
 wikiart/
 dataset_impressionism/
+dataset_realism/
+dataset_romanticism/
 
 # ============================================================
 # Python

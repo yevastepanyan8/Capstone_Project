@@ -25,11 +25,11 @@ from pathlib import Path
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import normalize
 
-BASE_DIR    = Path(__file__).resolve().parent.parent
-OUTPUTS_DIR = BASE_DIR / 'outputs' / 'figures'
-OUTPUTS_DIR.mkdir(parents=True, exist_ok=True)
+from config import (
+    PROJECT_ROOT, EMBEDDINGS_DIR, FIGURES_DIR, N_PCA_COMPONENTS, RANDOM_STATE,
+)
 
-N_COMPONENTS = 50
+FIGURES_DIR.mkdir(parents=True, exist_ok=True)
 
 
 def reduce(embeddings_path: Path, output_dir: Path, genre: str):
@@ -43,8 +43,8 @@ def reduce(embeddings_path: Path, output_dir: Path, genre: str):
     print(f'  Dtype  : {embeddings_raw.dtype}')
 
     # ── Fit PCA ───────────────────────────────────────────────────────────────
-    print(f'\nFitting PCA ({N_COMPONENTS} components)...')
-    pca            = PCA(n_components=N_COMPONENTS, random_state=42)
+    print(f'\nFitting PCA ({N_PCA_COMPONENTS} components)...')
+    pca            = PCA(n_components=N_PCA_COMPONENTS, random_state=RANDOM_STATE)
     embeddings_pca = pca.fit_transform(embeddings_norm)
     cumvar         = np.cumsum(pca.explained_variance_ratio_)
 
@@ -66,13 +66,13 @@ def reduce(embeddings_path: Path, output_dir: Path, genre: str):
     # ── Variance plot ─────────────────────────────────────────────────────────
     fig, axes = plt.subplots(1, 2, figsize=(14, 4))
 
-    axes[0].plot(range(1, N_COMPONENTS + 1), pca.explained_variance_ratio_,
+    axes[0].plot(range(1, N_PCA_COMPONENTS + 1), pca.explained_variance_ratio_,
                  marker='o', markersize=3, color='steelblue')
     axes[0].set_xlabel('Principal Component')
     axes[0].set_ylabel('Explained Variance Ratio')
     axes[0].set_title('Scree Plot')
 
-    axes[1].plot(range(1, N_COMPONENTS + 1), cumvar,
+    axes[1].plot(range(1, N_PCA_COMPONENTS + 1), cumvar,
                  marker='o', markersize=3, color='steelblue')
     axes[1].axhline(0.80, color='crimson', linestyle='--', linewidth=1, label='80%')
     axes[1].axhline(0.90, color='orange',  linestyle='--', linewidth=1, label='90%')
@@ -87,7 +87,7 @@ def reduce(embeddings_path: Path, output_dir: Path, genre: str):
     )
     plt.tight_layout()
 
-    out_fig = OUTPUTS_DIR / f'pca_variance_{genre}.png'
+    out_fig = FIGURES_DIR / f'pca_variance_{genre}.png'
     plt.savefig(out_fig, dpi=150, bbox_inches='tight')
     plt.close()
     print(f'Saved variance plot     → {out_fig}')
@@ -98,12 +98,12 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='PCA reduction for any genre embeddings.')
     parser.add_argument(
         '--embeddings_path', type=Path,
-        default=BASE_DIR / 'embeddings' / 'image_embeddings.npy',
+        default=EMBEDDINGS_DIR / 'image_embeddings.npy',
         help='Path to image_embeddings.npy'
     )
     parser.add_argument(
         '--output_dir', type=Path,
-        default=BASE_DIR / 'embeddings',
+        default=EMBEDDINGS_DIR,
         help='Directory to save embeddings_pca50.npy and pca_model.pkl'
     )
     parser.add_argument(

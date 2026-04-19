@@ -2,8 +2,13 @@ import os
 import shutil
 import argparse
 import ast
+import logging
 
 import pandas as pd
+
+from config import IMAGE_EXTENSIONS
+
+logger = logging.getLogger(__name__)
 
 
 def _parse_genre_cell(value):
@@ -95,8 +100,21 @@ def create_subset(
             shutil.copy2(src_path, dst_path)
             copied += 1
         else:
-            missing += 1
-            missing_images.append(str(src_path))
+            # Try alternative extensions before giving up
+            found = False
+            base, ext = os.path.splitext(src_path)
+            for alt_ext in IMAGE_EXTENSIONS:
+                alt_path = base + alt_ext
+                if alt_path != src_path and os.path.exists(alt_path):
+                    dst_path = os.path.join(images_out, os.path.splitext(filename)[0] + alt_ext)
+                    os.makedirs(os.path.dirname(dst_path), exist_ok=True)
+                    shutil.copy2(alt_path, dst_path)
+                    copied += 1
+                    found = True
+                    break
+            if not found:
+                missing += 1
+                missing_images.append(str(src_path))
 
     # Save subset metadata
     metadata_out = os.path.join(output_dir, "metadata_subset.csv")
@@ -105,7 +123,8 @@ def create_subset(
     print("\nSubset creation complete")
     print(f"Images copied: {copied}")
     print(f"Images missing: {missing}")
-    print(missing_images)
+    if missing_images:
+        logger.warning(f"Missing images ({missing}): {missing_images[:10]}{'...' if missing > 10 else ''}")
     print(f"Metadata saved to: {metadata_out}")
 
 

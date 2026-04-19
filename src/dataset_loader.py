@@ -1,4 +1,3 @@
-import os
 from pathlib import Path
 from typing import Callable, Optional, Tuple
 
@@ -10,9 +9,7 @@ from torchvision import transforms
 
 import pandas as pd
 
-
-IMAGENET_MEAN = [0.485, 0.456, 0.406]
-IMAGENET_STD = [0.229, 0.224, 0.225]
+from config import IMAGENET_MEAN, IMAGENET_STD, IMAGE_SIZE, DEFAULT_BATCH_SIZE
 
 
 class ImageDataset(Dataset):
@@ -43,7 +40,7 @@ class ImageDataset(Dataset):
 
         self.transform = transform or transforms.Compose(
             [
-                transforms.Resize((224, 224)),
+                transforms.Resize(IMAGE_SIZE),
                 transforms.ToTensor(),
                 transforms.Normalize(mean=IMAGENET_MEAN, std=IMAGENET_STD),
             ]
@@ -73,7 +70,7 @@ class ImageDataset(Dataset):
 def create_dataloader(
     metadata_csv: str,
     images_root: str,
-    batch_size: int = 32,
+    batch_size: int = DEFAULT_BATCH_SIZE,
     num_workers: int = 0,
     shuffle: bool = False,
 ) -> DataLoader:

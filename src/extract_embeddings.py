@@ -15,40 +15,23 @@ python src/extract_embeddings.py \\
 """
 
 import argparse
-import os
 import sys
 from pathlib import Path
 
 import numpy as np
 import pandas as pd
 import torch
-from torch import nn
 from tqdm import tqdm
-from torchvision import models
 
-BASE_DIR = Path(__file__).resolve().parents[1]
-sys.path.insert(0, str(Path(__file__).resolve().parent))
+from config import PROJECT_ROOT, EMBEDDING_DIM, DEFAULT_BATCH_SIZE
+from utils import get_device, load_resnet50
 from dataset_loader import create_dataloader
 
 
-def get_device() -> torch.device:
-    if torch.cuda.is_available():
-        return torch.device('cuda')
-    if torch.backends.mps.is_available():
-        return torch.device('mps')
-    return torch.device('cpu')
-
-
-def load_feature_extractor(device: torch.device) -> nn.Module:
-    """ResNet-50 with final FC removed → 2048-dim feature vector."""
-    model    = models.resnet50(weights=models.ResNet50_Weights.IMAGENET1K_V2)
-    backbone = nn.Sequential(*list(model.children())[:-1])
-    backbone.eval().to(device)
-    return backbone
-
-
 @torch.no_grad()
-def extract_all_embeddings(dataset_dir: Path, output_dir: Path, batch_size: int = 32):
+def extract_all_embeddings(
+    dataset_dir: Path, output_dir: Path, batch_size: int = DEFAULT_BATCH_SIZE
+):
     images_dir   = dataset_dir / 'images'
     metadata_csv = dataset_dir / 'metadata_subset.csv'
 
@@ -91,8 +74,13 @@ def extract_all_embeddings(dataset_dir: Path, output_dir: Path, batch_size: int 
     num_images = len(df_meta)
     print(f'Images found : {num_images} (after filtering)')
 
-    model          = load_feature_extractor(device)
-    all_embeddings = np.zeros((num_images, 2048), dtype=np.float32)
+    if num_images == 0:
+        print('[error] No valid images found. Check your dataset directory.')
+        filtered_csv.unlink(missing_ok=True)
+        sys.exit(1)
+
+    model          = load_resnet50(device)
+    all_embeddings = np.zeros((num_images, EMBEDDING_DIM), dtype=np.float32)
     meta_rows      = []
     current_index  = 0
 
@@ -131,16 +119,16 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Extract ResNet-50 embeddings for a genre dataset.')
     parser.add_argument(
         '--dataset_dir', type=Path,
-        default=BASE_DIR / 'dataset_impressionism',
+        default=PROJECT_ROOT / 'dataset_impressionism',
         help='Path to genre dataset folder (must contain images/ and metadata_subset.csv)'
     )
     parser.add_argument(
         '--output_dir', type=Path,
-        default=BASE_DIR / 'embeddings',
+        default=PROJECT_ROOT / 'embeddings',
         help='Directory to save image_embeddings.npy and embedding_metadata.csv'
     )
     parser.add_argument(
-        '--batch_size', type=int, default=32,
+        '--batch_size', type=int, default=DEFAULT_BATCH_SIZE,
         help='Batch size for embedding extraction'
     )
     args = parser.parse_args()

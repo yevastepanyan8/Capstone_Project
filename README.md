@@ -31,7 +31,7 @@
 
 ## Overview
 
-This project investigates whether **stylistically out-of-distribution artwork** can be automatically detected using deep learning embeddings. We extract feature representations from paintings using a pretrained **ResNet-50** CNN, then apply **five distinct anomaly detection methods** — ranging from classical statistical tests to deep autoencoders — to identify paintings that deviate from their genre's learned distribution.
+This project investigates whether **stylistically out-of-distribution artwork** can be automatically detected using deep learning embeddings. We extract feature representations from paintings using a pretrained **ResNet-50** CNN, then apply **eight distinct anomaly detection methods** — ranging from classical statistical tests to deep autoencoders and clustering-based approaches — to identify paintings that deviate from their genre's learned distribution.
 
 The evaluation framework uses **controlled anomaly injection**: 75 cross-genre paintings (Cubism, Expressionism, Abstract Expressionism) are injected into each genre dataset (~5% contamination), providing ground-truth labels for rigorous AUC-ROC benchmarking across three art genres: **Impressionism**, **Realism**, and **Romanticism**.
 
@@ -44,17 +44,23 @@ The evaluation framework uses **controlled anomaly injection**: 75 cross-genre p
 | Method | Impressionism | Realism | Romanticism | **Mean** |
 |:---|:---:|:---:|:---:|:---:|
 | **Autoencoder (raw 2048-dim)** | **0.9128** | **0.8833** | **0.9048** | **0.9003** |
+| LOF (raw 2048-dim) | 0.8025 | 0.8038 | 0.7931 | 0.7998 |
 | Cosine Similarity | 0.8334 | 0.7492 | 0.7988 | 0.7938 |
 | KS Test | 0.8008 | 0.6790 | 0.7683 | 0.7494 |
+| GMM (raw 2048-dim) | 0.7435 | 0.7283 | 0.7271 | 0.7330 |
 | Autoencoder (PCA 50-dim) | 0.5534 | 0.5896 | 0.5781 | 0.5737 |
 | Sliced Wasserstein Distance | 0.4461 | 0.6242 | 0.5520 | 0.5408 |
+| LOF (PCA 50-dim) | 0.4556 | 0.4353 | 0.4101 | 0.4337 |
+| GMM (PCA 50-dim) | 0.2995 | 0.4361 | 0.4983 | 0.4113 |
 | Isolation Forest | 0.3960 | 0.2679 | 0.3355 | 0.3331 |
+| HDBSCAN (PCA 50-dim) | 0.2523 | 0.3136 | 0.2870 | 0.2843 |
 
 > **Key Findings:**
-> - The **Autoencoder on raw 2048-dim embeddings** is the top-performing method with a mean AUC of **0.9003**, significantly outperforming all statistical baselines.
-> - **Cosine Similarity** is the strongest non-deep-learning method (mean AUC = 0.7938), confirming that centroid-based distance in high-dimensional space captures genre coherence effectively.
-> - **PCA compression to 50 dims hurts autoencoder performance** dramatically (0.9003 → 0.5737), suggesting the bottleneck removes discriminative signal needed for reconstruction-based detection.
-> - **Isolation Forest underperforms** on this task (AUC < 0.5), likely because the injected anomalies are not spatially isolated in the PCA-reduced embedding space.
+> - The **Autoencoder on raw 2048-dim embeddings** is the top-performing method with a mean AUC of **0.9003**, significantly outperforming all other methods.
+> - **LOF (raw)** is the strongest unsupervised baseline (mean AUC = 0.7998), nearly matching Cosine Similarity, confirming that local density estimation in high-dimensional space is effective.
+> - **Cosine Similarity** is the strongest non-ML method (mean AUC = 0.7938), confirming that centroid-based distance captures genre coherence.
+> - **Raw 2048-dim space consistently outperforms PCA 50-dim** — LOF drops from 0.80 to 0.43, GMM from 0.73 to 0.41, and Autoencoder from 0.90 to 0.57 after PCA reduction.
+> - **HDBSCAN and Isolation Forest underperform** (AUC < 0.35), suggesting that injected anomalies are not spatially isolated in the PCA-reduced embedding space.
 
 ---
 
@@ -78,6 +84,9 @@ The evaluation framework uses **controlled anomaly injection**: 75 cross-genre p
 | 3 | **Kolmogorov-Smirnov Test** | PCA 50-dim | Per-dimension distribution test + BH-FDR correction | Mean D-statistic |
 | 4 | **Isolation Forest** | PCA 50-dim | Tree-based isolation scoring | Negated decision function |
 | 5 | **Autoencoder** | Raw 2048-dim | Reconstruction error (MSE) | Normalized MSE |
+| 6 | **LOF** | Raw / PCA | Local density deviation from k-nearest neighbours | Negated LOF score |
+| 7 | **HDBSCAN** | PCA 50-dim | Density-based clustering outlier scores | Outlier probability |
+| 8 | **GMM** | Raw / PCA | Gaussian mixture negative log-likelihood | Normalized neg-loglik |
 
 ### 3. Evaluation Strategy
 
@@ -176,6 +185,7 @@ Capstone_Project/
 ├── run_pipeline.py                     # End-to-end data preparation pipeline
 ├── run_all_analysis.py                 # Run all 4 statistical methods + AUC
 ├── run_autoencoder_analysis.py         # Autoencoder anomaly detection + AUC
+├── run_clustering_analysis.py          # LOF, HDBSCAN, GMM clustering analysis + AUC
 ├── Data Preprocessing.ipynb            # Exploratory data analysis
 ├── requirements.txt                    # Python dependencies
 └── README.md
@@ -232,6 +242,9 @@ python run_all_analysis.py
 
 # Step 3 — Run autoencoder anomaly detection
 python run_autoencoder_analysis.py
+
+# Step 4 — Run clustering-based anomaly detection (LOF, HDBSCAN, GMM)
+python run_clustering_analysis.py
 ```
 
 ### Option B: Step-by-Step
@@ -335,9 +348,14 @@ All shared hyperparameters are centralised in [`src/config.py`](src/config.py):
 | Autoencoder (raw) | **0.9128** | ✅ |
 | Cosine Similarity | 0.8334 | ✅ |
 | KS Test | 0.8008 | ✅ |
+| LOF (raw) | 0.8025 | ✅ |
+| GMM (raw) | 0.7435 | ✅ |
 | Autoencoder (PCA) | 0.5534 | ✅ |
+| LOF (PCA) | 0.4556 | ⚠️ |
 | Wasserstein Distance | 0.4461 | ⚠️ |
 | Isolation Forest | 0.3960 | ⚠️ |
+| GMM (PCA) | 0.2995 | ⚠️ |
+| HDBSCAN (PCA) | 0.2523 | ⚠️ |
 
 </details>
 
@@ -347,10 +365,15 @@ All shared hyperparameters are centralised in [`src/config.py`](src/config.py):
 | Method | AUC-ROC | Status |
 |:---|:---:|:---:|
 | Autoencoder (raw) | **0.8833** | ✅ |
+| LOF (raw) | 0.8038 | ✅ |
 | Cosine Similarity | 0.7492 | ✅ |
+| GMM (raw) | 0.7283 | ✅ |
 | KS Test | 0.6790 | ✅ |
 | Wasserstein Distance | 0.6242 | ✅ |
 | Autoencoder (PCA) | 0.5896 | ✅ |
+| GMM (PCA) | 0.4361 | ⚠️ |
+| LOF (PCA) | 0.4353 | ⚠️ |
+| HDBSCAN (PCA) | 0.3136 | ⚠️ |
 | Isolation Forest | 0.2679 | ⚠️ |
 
 </details>
@@ -362,10 +385,15 @@ All shared hyperparameters are centralised in [`src/config.py`](src/config.py):
 |:---|:---:|:---:|
 | Autoencoder (raw) | **0.9048** | ✅ |
 | Cosine Similarity | 0.7988 | ✅ |
+| LOF (raw) | 0.7931 | ✅ |
 | KS Test | 0.7683 | ✅ |
+| GMM (raw) | 0.7271 | ✅ |
 | Autoencoder (PCA) | 0.5781 | ✅ |
 | Wasserstein Distance | 0.5520 | ✅ |
+| GMM (PCA) | 0.4983 | ⚠️ |
+| LOF (PCA) | 0.4101 | ⚠️ |
 | Isolation Forest | 0.3355 | ⚠️ |
+| HDBSCAN (PCA) | 0.2870 | ⚠️ |
 
 </details>
 
@@ -375,16 +403,23 @@ All shared hyperparameters are centralised in [`src/config.py`](src/config.py):
  Rank  Method                       Mean AUC    Embedding Space
  ───── ──────────────────────────── ────────── ─────────────────
   1.   Autoencoder (raw)              0.9003    Raw 2048-dim
-  2.   Cosine Similarity              0.7938    Raw 2048-dim
-  3.   KS Test                        0.7494    PCA 50-dim
-  4.   Autoencoder (PCA)              0.5737    PCA 50-dim
-  5.   Wasserstein Distance           0.5408    PCA 50-dim
-  6.   Isolation Forest               0.3331    PCA 50-dim
+  2.   LOF (raw)                      0.7998    Raw 2048-dim
+  3.   Cosine Similarity              0.7938    Raw 2048-dim
+  4.   KS Test                        0.7494    PCA 50-dim
+  5.   GMM (raw)                      0.7330    Raw 2048-dim
+  6.   Autoencoder (PCA)              0.5737    PCA 50-dim
+  7.   Wasserstein Distance           0.5408    PCA 50-dim
+  8.   LOF (PCA)                      0.4337    PCA 50-dim
+  9.   GMM (PCA)                      0.4113    PCA 50-dim
+ 10.   Isolation Forest               0.3331    PCA 50-dim
+ 11.   HDBSCAN (PCA)                  0.2843    PCA 50-dim
 ```
 
 ### Observations
 
-1. **Raw embedding space is superior** — Both top methods (Autoencoder, Cosine Similarity) operate on the full 2048-dim ResNet-50 embeddings, suggesting PCA loses discriminative information for anomaly detection.
-2. **Reconstruction-based detection excels** — The autoencoder's ability to learn the normal manifold and flag high-reconstruction-error samples is highly effective for this task.
-3. **Consistent performance** — The autoencoder achieves AUC > 0.88 across all three genres, demonstrating robustness to genre-specific characteristics.
-4. **Isolation Forest limitation** — IF's below-random performance suggests that anomalies in art embedding space are not isolated in low-density regions but rather dispersed among normal samples in the PCA-reduced space.
+1. **Raw embedding space is superior** — All top-4 methods (Autoencoder, LOF, Cosine Similarity, GMM) operate on the full 2048-dim ResNet-50 embeddings. PCA reduction consistently degrades performance across all methods.
+2. **Reconstruction-based detection excels** — The autoencoder's ability to learn the normal manifold and flag high-reconstruction-error samples is the most effective approach (AUC = 0.9003).
+3. **Local density methods are strong** — LOF (raw) achieves mean AUC = 0.80, confirming that anomalous paintings occupy locally sparse regions in the original embedding space.
+4. **Consistent performance** — The autoencoder achieves AUC > 0.88 across all three genres, demonstrating robustness to genre-specific characteristics.
+5. **PCA degrades all methods uniformly** — LOF: 0.80 → 0.43, GMM: 0.73 → 0.41, Autoencoder: 0.90 → 0.57. The 50-dim reduction discards discriminative features needed for anomaly detection.
+6. **HDBSCAN and Isolation Forest fail** — Both density-isolation methods score below random (AUC < 0.35), indicating that anomalies in art embedding space are not globally isolated but rather interspersed with normal samples.

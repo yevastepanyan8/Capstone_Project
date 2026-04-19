@@ -1,0 +1,1576 @@
+filename,artist,hdbscan_raw_score,hdbscan_anomaly_score,hdbscan_label,hdbscan_noise
+Realism/vasily-polenov_winter-imochentsy-1880.jpg,vasily polenov,0.2983189210508574,0.7662532456372189,-1,1
+Realism/ivan-vladimirov_the-soldier-on-the-position-1916.jpg,ivan vladimirov,0.2389781338798593,0.6138322372470304,-1,1
+Realism/aleksey-savrasov_type-of-kiev-from-the-dnieper-to-the-pechersk-lavra-1852.jpg,aleksey savrasov,0.19078618733243652,0.49004781443717876,-1,1
+Realism/salvador-dali_portrait-of-the-marquis-de-cuevas.jpg,salvador dali,0.0,0.0,1,0
+Realism/constantin-stahi_queen-elizabeth-and-princess-m-rioara-1877.jpg,constantin stahi,0.11766473110488561,0.30223018301537297,-1,1
+Realism/viktor-vasnetsov_pond-in-ochtir-1880.jpg,viktor vasnetsov,0.17766341483405942,0.4563410452412482,-1,1
+Realism/pavel-fedotov_andrey-grigoriy-and-alexander-druzhinin.jpg,pavel fedotov,0.15250663909866705,0.39172408769424166,-1,1
+Realism/henri-fantin-latour_daisies-1872.jpg,henri fantin latour,0.11439508373205383,0.29383186251094057,-1,1
+Realism/john-singer-sargent_mrs-walter-bacon-virginia-purdy-barker-1896.jpg,john singer sargent,0.0,0.0,0,0
+Realism/jean-francois-millet_puy-de-dome.jpg,jean francois millet,0.24508682883202088,0.6295228522345507,-1,1
+Realism/david-burliuk_an-actor-1938.jpg,david burliuk,0.04163709370411639,0.1069478197269328,1,0
+Impressionism/wilhelm-leibl_strickende-m-dchen-auf-der-ofenbank-1895.jpg,wilhelm leibl,0.08467083109758466,0.21748301753969002,-1,1
+Realism/vincent-van-gogh_scheveningen-road-1882.jpg,vincent van gogh,0.15264687115723752,0.39208428365379894,-1,1
+Realism/nicholas-roerich_skulls-1901.jpg,nicholas roerich,0.04199980281586465,0.10787946373100829,1,0
+Realism/vasily-surikov_fourth-ecumenical-council-of-chalcedon-1876.jpg,vasily surikov,0.1619706663870644,0.4160331110742819,-1,1
+Realism/vasily-vereshchagin_letter-remained-unfinished-1901.jpg,vasily vereshchagin,0.13187341214041673,0.33872618508372193,-1,1
+Realism/ivan-shishkin_pine-forest-1885-1.jpg,ivan shishkin,0.14727201842623183,0.3782785943081572,-1,1
+Realism/ivan-shishkin_pines-1892.jpg,ivan shishkin,0.22446020645254094,0.5765419139516742,-1,1
+Realism/charles-francois-daubigny_the-banks-of-the-oise-1877.jpg,charles francois daubigny,0.14692943309870052,0.3773986396669837,-1,1
+Realism/alexey-bogolyubov_view-of-moscow-from-the-house-of-g-i-chludov-1878.jpg,alexey bogolyubov,0.16119691857665355,0.4140456851043049,-1,1
+Realism/thomas-eakins_anatomical-studies.jpg,thomas eakins,0.15465166824823065,0.3972337467599479,-1,1
+Realism/vincent-van-gogh_vase-with-flowers.jpg,vincent van gogh,0.17071121376159407,0.4384838251315289,-1,1
+Realism/vincent-van-gogh_still-life-with-scabiosa-and-ranunculus-1886.jpg,vincent van gogh,0.21758754788155013,0.5588890043821858,-1,1
+Realism/john-singer-sargent_my-dining-room.jpg,john singer sargent,0.1951038524436348,0.5011380426177313,-1,1
+Realism/vincent-van-gogh_church-pew-with-worshippers-1882(1).jpg,vincent van gogh,0.0056251707222890615,0.01444864880857702,1,0
+Realism/james-tissot_in-church.jpg,james tissot,0.06718166555795195,0.17256085902884735,-1,1
+Realism/isaac-levitan_at-twilight-river-istra-1885.jpg,isaac levitan,0.1374888642551379,0.35314987096146727,-1,1
+Impressionism/theo-van-rysselberghe_spaarnwoude-island-1883.jpg,theo van rysselberghe,0.1588423934517648,0.40799792081055825,-1,1
+Realism/vincent-van-gogh_still-life-with-basket-of-apples-1885.jpg,vincent van gogh,0.20989828381992964,0.5391385858602112,-1,1
+Realism/boris-kustodiev_portrait-of-elizabeth-pushkina.jpg,boris kustodiev,0.08475854249405256,0.2177083104644101,-1,1
+Realism/odilon-redon_wildflowers-in-a-long-necked-vase.jpg,odilon redon,0.12685882695215045,0.3258458683994902,-1,1
+Realism/john-singer-sargent_mrs-ernest-g-raphael-florence-cecilia-sassoon-1905.jpg,john singer sargent,0.07973633023099796,0.2048084030992029,-1,1
+Realism/vasily-vereshchagin_retired-butler-1888.jpg,vasily vereshchagin,0.0,0.0,0,0
+Realism/william-adolphe-bouguereau_psyche-and-amour-1889.jpg,william adolphe bouguereau,0.12537591560094455,0.32203690572340143,-1,1
+Realism/mihaly-munkacsy_milton-1878.jpg,mihaly munkacsy,0.07684344630506745,0.19737782615259986,-1,1
+Realism/ivan-shishkin_cape-ai-todor-crimea-1879.jpg,ivan shishkin,0.14506608378164645,0.3726124951712909,-1,1
+Realism/ilya-repin_street-in-tiflis-1881.jpg,ilya repin,0.16602805281146754,0.4264547950410635,-1,1
+Realism/henri-fantin-latour_vase-of-peonies-1875.jpg,henri fantin latour,0.08712312578861042,0.22378190987825897,-1,1
+Realism/vincent-van-gogh_the-potato-eaters-1885-1.jpg,vincent van gogh,0.14533894657437071,0.3733133625510806,-1,1
+Realism/ilya-repin_zaporozhets.jpg,ilya repin,0.19386824873170683,0.4979643071025617,-1,1
+Realism/ivan-kramskoy_portrait-of-the-photographer-andrey-denier-1883.jpg,ivan kramskoy,0.2499633826794376,0.6420486256583247,-1,1
+Realism/volodymyr-orlovsky_sunset-over-the-river-1890.jpg,volodymyr orlovsky,0.11052600715495439,0.28389386570410724,-1,1
+Realism/camille-corot_the-bridge-at-nantes-1870.jpg,camille corot,0.25431988017822177,0.6532385975725926,-1,1
+Realism/isaac-levitan_landscare-distant-view.jpg,isaac levitan,0.2537815090319401,0.6518557532101144,-1,1
+Realism/arkhip-kuindzhi_forgotten-village-1873.jpg,arkhip kuindzhi,0.0,0.0,1,0
+Realism/vasily-surikov_the-good-samaritan-1874.jpg,vasily surikov,0.12111090119855168,0.31108191461183904,-1,1
+Realism/john-singer-sargent_nude-1.jpg,john singer sargent,0.14545214023502323,0.3736041084734479,-1,1
+Realism/vasily-surikov_wanderer.jpg,vasily surikov,0.0,0.0,1,0
+Realism/vasily-perov_shy-girl-study-for-the-painting-the-janitor-who-gives-an-apartment-to-her-mistress-1864.jpg,vasily perov,0.08600583462199124,0.2209120685027004,-1,1
+Realism/edgar-degas_a-roman-beggar-woman-1857.jpg,edgar degas,0.11426732150642169,0.2935036961991438,-1,1
+Impressionism/vasily-surikov_maria-s-head.jpg,vasily surikov,0.07553850011129042,0.1940259795689461,-1,1
+Realism/vasily-surikov_head-of-khakasy-1893.jpg,vasily surikov,0.20997857134735548,0.5393448100522856,-1,1
+Impressionism/frederic-remington_what-an-unbranded-cow-has-cost-1895.jpg,frederic remington,0.22159376079477994,0.5691792455665615,-1,1
+Realism/vasily-perov_court-pugacheva-1875.jpg,vasily perov,0.10192035425099011,0.2617896376341558,-1,1
+Realism/vincent-van-gogh_still-life-with-clogs-and-pots-1884.jpg,vincent van gogh,0.16585436553841698,0.4260086669971833,-1,1
+Realism/theodore-rousseau_not_detected_198951.jpg,theodore rousseau,0.1297697622304433,0.3333228115212157,-1,1
+Realism/pyotr-konchalovsky_in-the-cathedral-of-yuryev-abbot-bessarion-1926.jpg,pyotr konchalovsky,0.24335697036966056,0.6250795884395244,-1,1
+Realism/thomas-eakins_mrs-richard-day.jpg,thomas eakins,0.04965972962689622,0.12755452745013415,-1,1
+Realism/camille-corot_the-lac-de-nemi.jpg,camille corot,0.25412312610583565,0.6527332208233501,-1,1
+Realism/ilya-repin_n-wentzell-1879.jpg,ilya repin,0.09833955409122046,0.25259209919195286,-1,1
+Realism/edouard-manet_polichinelle-1873.jpg,edouard manet,0.13727115305271345,0.3525906643416469,-1,1
+Realism/aleksey-savrasov_type-in-the-swiss-alps-mount-small-ruhen-1862.jpg,aleksey savrasov,0.26718618446047543,0.6862866100181464,-1,1
+Realism/vasily-polenov_what-people-think-about-me.jpg,vasily polenov,0.22926343135823382,0.5888793368028559,-1,1
+Realism/vladimir-makovsky_at-the-boulevard-1887.jpg,vladimir makovsky,0.28641236162018835,0.7356704057154855,-1,1
+Realism/vincent-van-gogh_woman-with-shawl-sewing-1883.jpg,vincent van gogh,0.0,0.0,1,0
+Realism/pyotr-konchalovsky_lilacs.jpg,pyotr konchalovsky,0.21877973448008622,0.5619512199711787,-1,1
+Realism/henry-herbert-la-thangue_study-of-the-bust-of-a-young-cornishwoman-with-a-window-behind.jpg,henry herbert la thangue,0.13620679384293657,0.34985678244055096,-1,1
+Realism/camille-corot_marshy-pastures.jpg,camille corot,0.208158768624956,0.5346705180645497,-1,1
+Realism/edouard-manet_portrait-of-emile-zola-1868.jpg,edouard manet,0.0,0.0,0,0
+Realism/henri-fantin-latour_flowers-roses-1883-1.jpg,henri fantin latour,0.19986513561238742,0.5133677351514898,-1,1
+Realism/vincent-van-gogh_sien-s-mother-s-house-closer-view-1882.jpg,vincent van gogh,0.18447472391244393,0.47383637430038156,-1,1
+Realism/camille-corot_voltarra-the-citadel-1834.jpg,camille corot,0.12386898680461313,0.3181662525410098,-1,1
+Realism/arthur-segal_the-artist-in-the-studio.jpg,arthur segal,0.15457414967936553,0.39703463483375556,-1,1
+Realism/vasily-surikov_head-of-girl-portrait-of-z-s-khaminova-1908.jpg,vasily surikov,0.25792122565986825,0.6624889081269878,-1,1
+Realism/vincent-van-gogh_head-of-a-woman.jpg,vincent van gogh,0.12997605484716582,0.3338526886961458,-1,1
+Realism/ivan-shishkin_alley-of-the-summer-garden-in-st-petersburg-1869.jpg,ivan shishkin,0.2495745252110049,0.6410498177509106,-1,1
+Realism/vincent-van-gogh_two-hands-2.jpg,vincent van gogh,0.18158705389428742,0.4664191896446202,-1,1
+Realism/ilya-repin_old-farmer-1885.jpg,ilya repin,0.2991778137227621,0.7684593722053316,-1,1
+Realism/isaac-levitan_the-lake-eventide.jpg,isaac levitan,0.242115546574979,0.6218909036302097,-1,1
+Realism/vasily-perov_yaroslavna-s-lament-1881.jpg,vasily perov,0.23609300929552135,0.6064215907180434,-1,1
+Realism/vincent-van-gogh_sien-sewing-half-figure-1883-1.jpg,vincent van gogh,0.04163709370411639,0.1069478197269328,1,0
+Realism/anders-zorn_way-to-the-church.jpg,anders zorn,0.08198005743118585,0.21057157508779886,-1,1
+Realism/mikhail-nesterov_portrait-of-maxim-gorky-1901.jpg,mikhail nesterov,0.0,0.0,0,0
+Realism/isaac-levitan_spring-in-the-village.jpg,isaac levitan,0.1930034800360386,0.49574308755186386,-1,1
+Realism/isaac-levitan_the-last-rays-of-the-sun-a-lake-1899.jpg,isaac levitan,0.2414660203928056,0.6202225496972325,-1,1
+Realism/james-tissot_a-luncheon-1868.jpg,james tissot,0.18583707552255385,0.47733567075555966,-1,1
+Realism/fyodor-vasilyev_peasant-s-house.jpg,fyodor vasilyev,0.16079931767772723,0.4130244190773383,-1,1
+Realism/martin-johnson-heade_portrait-of-a-man-1840.jpg,martin johnson heade,0.21338498052401986,0.5480944129215669,-1,1
+Realism/klavdy-lebedev_spat-on-the-terrace.jpg,klavdy lebedev,0.2013418153806326,0.5171606915660506,-1,1
+Realism/frits-thaulow_in-the-elbank-hamburg.jpg,frits thaulow,0.20458201547193341,0.5254833746453783,-1,1
+Realism/boris-kustodiev_portrait-of-vasily-vasilyevich-mate.jpg,boris kustodiev,0.11564351316357749,0.29703854179391825,-1,1
+Realism/ilya-repin_admiralty-1869.jpg,ilya repin,0.13005119090716058,0.33404568097981513,-1,1
+Realism/vincent-van-gogh_interior-with-peasant-woman-sewing-1885-2.jpg,vincent van gogh,0.0,0.0,1,0
+Realism/ivan-shishkin_forest-stream-1874.jpg,ivan shishkin,0.14727201842623183,0.3782785943081572,-1,1
+Realism/ilya-repin_portrait-of-the-surgeon-nikolay-pirogov-1881.jpg,ilya repin,0.13589293954822934,0.34905062548902593,-1,1
+Realism/pyotr-konchalovsky_blue-willows-1926.jpg,pyotr konchalovsky,0.11052600715495439,0.28389386570410724,-1,1
+Realism/isaac-levitan_a-yard.jpg,isaac levitan,0.22877524481718606,0.5876253951479432,-1,1
+Realism/julius-leblanc-stewart_portrait-of-laure-hayman-1882(1).jpg,julius leblanc stewart,0.14412316412542964,0.3701905393516395,-1,1
+Realism/ivan-shishkin_pine-forest-1889.jpg,ivan shishkin,0.12850679929711764,0.3300788019110599,-1,1
+Realism/john-singer-sargent_ena-and-betty-daughters-of-asher-and-mrs-wertheimer-1901.jpg,john singer sargent,0.08095945527050152,0.20795008626176695,-1,1
+Realism/pyotr-konchalovsky_crimean-landscape-my-crimea-1947.jpg,pyotr konchalovsky,0.197746952650754,0.5079270324180271,-1,1
+Realism/ivan-kramskoy_self-portrait-1867.jpg,ivan kramskoy,0.0,0.0,0,0
+Realism/john-singer-sargent_gordon-greenough-1880.jpg,john singer sargent,0.07335904823578186,0.18842790329729772,-1,1
+Realism/isaac-levitan_river-in-the-forest-autumn-at-river-istra-1886.jpg,isaac levitan,0.26959517470462085,0.6924742718224411,-1,1
+Realism/ilya-repin_shiryaev-gully-on-the-volga-1870.jpg,ilya repin,0.2535113675317136,0.6511618756625532,-1,1
+Realism/vasily-polenov_golden-tsarina-s-chamber-window-1877.jpg,vasily polenov,0.12505672641962495,0.3212170457383328,-1,1
+Realism/thomas-eakins_portrait-of-sarah-sagehorn-frishmuth-1900.jpg,thomas eakins,0.05882984409025187,0.1511086149537329,-1,1
+Realism/gustave-courbet_the-wave-1866.jpg,gustave courbet,0.2112354962259591,0.5425733104918806,-1,1
+Realism/john-singer-sargent_temple-of-denderah-1891.jpg,john singer sargent,0.2604336271411954,0.6689421890071586,-1,1
+Realism/henri-fantin-latour_yellow-and-red-roses-1879.jpg,henri fantin latour,0.08712312578861042,0.22378190987825897,-1,1
+Realism/vasily-polenov_fishing-boat-etretat-normandy-1874.jpg,vasily polenov,0.23805944683471628,0.6114725246026362,-1,1
+Realism/arkhip-kuindzhi_on-a-valaam-island-1873.jpg,arkhip kuindzhi,0.15259373428688727,0.3919477978444998,-1,1
+Realism/ivan-shishkin_in-the-grove-1865.jpg,ivan shishkin,0.14727201842623183,0.3782785943081572,-1,1
+Realism/thomas-eakins_william-rush-carving-his-allegorical-figure-of-the-schuykill-river-1877.jpg,thomas eakins,0.20898177959424918,0.5367844799419743,-1,1
+Realism/valentin-serov_self-portrait-1885-1.jpg,valentin serov,0.0681927923467034,0.17515800969197762,-1,1
+Realism/fyodor-vasilyev_autumn-forest-1873.jpg,fyodor vasilyev,0.26283327971579873,0.6751058663468807,-1,1
+Realism/anders-zorn_at-the-piano-1900.jpg,anders zorn,0.09529796319796144,0.24477955788330752,-1,1
+Realism/ivan-shishkin_winter-in-a-forest-rime-1877.jpg,ivan shishkin,0.2680862925375455,0.6885986012691527,-1,1
+Realism/n.c.-wyeth_the-death-of-guenever.jpg,n.c. wyeth,0.24001215715817148,0.616488199162822,-1,1
+Realism/boris-kustodiev_portrait-of-vsevolod-voinov-1924.jpg,boris kustodiev,0.12795751921393606,0.3286679371726814,-1,1
+Realism/ivan-shishkin_creek-in-gurzuf.jpg,ivan shishkin,0.27564022842465585,0.7080014198045783,-1,1
+Realism/salvador-dali_original-sin.jpg,salvador dali,0.14385959422349318,0.36951354141902537,-1,1
+Realism/vincent-van-gogh_edge-of-a-wood-1882(1).jpg,vincent van gogh,0.14727201842623183,0.3782785943081572,-1,1
+Realism/isaac-levitan_autumn-landscape-village.jpg,isaac levitan,0.15247726093642447,0.3916486278069173,-1,1
+Realism/vasily-surikov_study-to-tsarevna-s-visit-of-nunnery-1.jpg,vasily surikov,0.2967622079080143,0.7622547178400957,-1,1
+Impressionism/vasily-surikov_venice-doge-s-palace-1900.jpg,vasily surikov,0.19564809201170688,0.5025359604365892,-1,1
+Realism/henri-fantin-latour_white-phlox-summer-chrysanthemum-and-larkspur.jpg,henri fantin latour,0.08712312578861042,0.22378190987825897,-1,1
+Realism/guntis-strupulis_pavasaris.jpg,guntis strupulis,0.19996347040000012,0.5136203150076446,-1,1
+Realism/konstantinos-volanakis_moonlit-harbour.jpg,konstantinos volanakis,0.21917553081420071,0.5629678508458085,-1,1
+Realism/konstantin-bogaevsky_view-of-sudak-1.jpg,konstantin bogaevsky,0.24485169060769682,0.6289188830765537,-1,1
+Realism/ivan-shishkin_forest-5.jpg,ivan shishkin,0.14727201842623183,0.3782785943081572,-1,1
+Realism/isaac-levitan_late-autumn.jpg,isaac levitan,0.18534412814442125,0.4760695005539114,-1,1
+Realism/mihaly-munkacsy_paris-saloon-wife-of-the-artist.jpg,mihaly munkacsy,0.22239562447257072,0.5712388891302396,-1,1
+Realism/mikhail-nesterov_the-korin-brothers-1930.jpg,mikhail nesterov,0.09589637855924717,0.2463166300583111,-1,1
+Realism/john-collier_mrs-huxley-1928.jpg,john collier,0.209864668022558,0.539052241307375,-1,1
+Realism/fyodor-bronnikov_exile-in-front-of-the-grave-1870.jpg,fyodor bronnikov,0.2856120042437974,0.7336146311934776,-1,1
+Realism/theodore-rousseau_town-in-auvergne-1830.jpg,theodore rousseau,0.13477736258586595,0.34618518716832575,-1,1
+Realism/ilya-repin_portrait-of-railroad-tycoon-and-patron-of-the-arts-savva-ivanovich-mamontov-1878.jpg,ilya repin,0.10167379106707039,0.26115632265947164,-1,1
+Realism/ivan-grohar_brna-1899.jpg,ivan grohar,0.16015592922660254,0.41137183034061603,-1,1
+Realism/jean-francois-millet_brushwood-collectors.jpg,jean francois millet,0.21972562568244675,0.564380808417246,-1,1
+Realism/john-singer-sargent_jack-millet-as-a-baby-1888.jpg,john singer sargent,0.008675991867362976,0.02228489867176626,1,0
+Realism/nikolay-bogdanov-belsky_portrait-of-feodor-chaliapin.jpg,nikolay bogdanov belsky,0.13984963611959614,0.3592136804475634,-1,1
+Realism/nikolai-ge_bay-in-livorno.jpg,nikolai ge,0.2348420599973663,0.6032084389794197,-1,1
+Realism/aleksey-savrasov_spring-1874.jpg,aleksey savrasov,0.27754126115015976,0.7128843567998204,-1,1
+Realism/alexey-venetsianov_full-scale-class.jpg,alexey venetsianov,0.180893778293669,0.46463846223643684,-1,1
+Realism/vladimir-makovsky_a-party-1875.jpg,vladimir makovsky,0.18391294463911206,0.4723934045081676,-1,1
+Realism/winslow-homer_sailing-off-gloucester.jpg,winslow homer,0.31578541165910884,0.8111171619832526,-1,1
+Realism/ivan-kramskoy_kramskoi-ivan-mina-moiseev-sun-1882.jpg,ivan kramskoy,0.06691992726190084,0.17188856570547975,-1,1
+Realism/vasily-surikov_boyarynya-morozova-study-1887.jpg,vasily surikov,0.08083330850828299,0.20762606938199252,-1,1
+Realism/nikolay-bogdanov-belsky_portrait-of-m-sheremetova.jpg,nikolay bogdanov belsky,0.11181111939192498,0.28719476736705923,-1,1
+Realism/jean-francois-millet_the-knitting-shepherdess-1857.jpg,jean francois millet,0.25271215647379064,0.6491090455405971,-1,1
+Realism/camille-pissarro_landscape-with-factory-1867.jpg,camille pissarro,0.16420216391396505,0.4217648702821652,-1,1
+Realism/isaac-levitan_forest-gave.jpg,isaac levitan,0.11427551928907681,0.29352475278363527,-1,1
+Realism/fyodor-vasilyev_tide-near-the-shore-of-the-crimea.jpg,fyodor vasilyev,0.2328739026282758,0.5981530875901147,-1,1
+Realism/mykola-yaroshenko_portrait-of-nikolaj-nikolajewitsch-ge-1890.jpg,mykola yaroshenko,0.06977011519213937,0.17920947496771517,-1,1
+Realism/ilya-repin_railway-guard-hotkovo-1882.jpg,ilya repin,0.1932651750895619,0.4964152698037407,-1,1
+Realism/antã³nio-de-carvalho-da-silva-porto_lugar-do-prado-santa-marta-minho-1892.jpg,antã³nio de carvalho da silva porto,0.12198743819561135,0.3133333618769073,-1,1
+Realism/vasily-surikov_yermak-s-conquest-of-siberia-study-2.jpg,vasily surikov,0.1268498075151289,0.3258227013376517,-1,1
+Realism/boris-kustodiev_interior-the-female-figure-at-the-window-in-studio-1920.jpg,boris kustodiev,0.16137339314677948,0.414498972517839,-1,1
+Realism/ivan-shishkin_fallen-tree.jpg,ivan shishkin,0.10493631869582402,0.2695363555977357,-1,1
+Realism/valentin-serov_lilacs-in-vase-1887.jpg,valentin serov,0.19941879850922886,0.5122212867373604,-1,1
+Realism/henri-fantin-latour_flowers-in-an-earthenware-vase-1883.jpg,henri fantin latour,0.08712312578861042,0.22378190987825897,-1,1
+Realism/m.c.-escher_emblemata-dice.jpg,m.c. escher,0.04163709370411639,0.1069478197269328,1,0
+Realism/pyotr-konchalovsky_skating-rink-dynamo-1948.jpg,pyotr konchalovsky,0.23564207544714802,0.605263335238751,-1,1
+Realism/boris-kustodiev_portrait-of-l-i-shetalova-woman-with-a-cup-1920.jpg,boris kustodiev,0.04736277998711043,0.12165464986157497,-1,1
+Realism/ivan-shishkin_birch-grove-1896.jpg,ivan shishkin,0.1523135673883631,0.3912281693524215,-1,1
+Realism/viktor-vasnetsov_children-are-ruining-the-nest.jpg,viktor vasnetsov,0.09008007521086814,0.23137704358284825,-1,1
+Realism/vincent-van-gogh_man-loading-a-cart-1885.jpg,vincent van gogh,0.0788929850513613,0.20264221136448915,-1,1
+Realism/camille-corot_seine-landscape-near-chatou-1855.jpg,camille corot,0.14681094485776347,0.3770942942407264,-1,1
+Realism/ilya-repin_the-young-soldier-parisian-style.jpg,ilya repin,0.17484220550614632,0.44909456956843335,-1,1
+Realism/ivan-shishkin_a-woman-under-an-umbrella-on-a-flowering-meadow-1881.jpg,ivan shishkin,0.20416751203699426,0.5244186932593264,-1,1
+Realism/n.c.-wyeth_tristram-and-isolde.jpg,n.c. wyeth,0.19602101509902314,0.5034938397592367,-1,1
+Realism/jean-francois-millet_laundress.jpg,jean francois millet,0.15816541325082117,0.4062590492888396,-1,1
+Realism/vasily-surikov_self-portrait-man-with-hurt-hand-1913.jpg,vasily surikov,0.0,0.0,0,0
+Realism/george-pemba_self-portrait-1987.jpg,george pemba,0.060748923800755014,0.15603790690621647,-1,1
+Realism/theodore-gericault_scene-of-cannibalism-for-the-raft-of-the-medusa.jpg,theodore gericault,0.2597021056550655,0.6670632243373151,-1,1
+Realism/edouard-manet_madame-manet-at-the-piano-1868.jpg,edouard manet,0.0,0.0,0,0
+Realism/vincent-van-gogh_sale-of-building-scrap-1885.jpg,vincent van gogh,0.1894193736247264,0.48653705676875797,-1,1
+Realism/koloman-moser_blooming-flowers-with-garden-fence.jpg,koloman moser,0.2598410050390766,0.6674199972280208,-1,1
+Realism/vasily-vereshchagin_on-the-way-bad-news-from-france-1895.jpg,vasily vereshchagin,0.16269897631598035,0.4179038266323022,-1,1
+Realism/pyotr-konchalovsky_autumn-bouquet-1919.jpg,pyotr konchalovsky,0.17209749745696037,0.44204459284014935,-1,1
+Realism/boris-kustodiev_portrait-of-a-n-protasova-1900.jpg,boris kustodiev,0.12659234674819916,0.3251613951503364,-1,1
+Realism/ivan-shishkin_young-pines-on-the-sandy-cliff-mary-howie-on-finnish-railways-1890.jpg,ivan shishkin,0.2250699563044545,0.5781080995674232,-1,1
+Realism/david-burliuk_june-g-1950.jpg,david burliuk,0.038342372062357105,0.09848509418952432,1,0
+Realism/isaac-levitan_fountain-1886.jpg,isaac levitan,0.27825602423086904,0.7147202763201976,-1,1
+Realism/vincent-van-gogh_miners-1880.jpg,vincent van gogh,0.11844878087956355,0.30424407030911815,-1,1
+Realism/john-singer-sargent_m-carey-thomas-1899.jpg,john singer sargent,0.13779473459868544,0.35393552056981886,-1,1
+Realism/isaac-levitan_apiary.jpg,isaac levitan,0.12853100577730392,0.33014097796728475,-1,1
+Realism/julius-leblanc-stewart_rio-della-maddalena-1908(1).jpg,julius leblanc stewart,0.20585342909206436,0.5287490904422204,-1,1
+Realism/nicolae-grigorescu_turkish-prisoners.jpg,nicolae grigorescu,0.05734026830384417,0.14728253420452384,-1,1
+Realism/pierre-auguste-renoir_leonard-renoir-1869.jpg,pierre auguste renoir,0.08643582190469269,0.2220165212467372,-1,1
+Realism/ivan-shishkin_wind-fallen-trees-1867.jpg,ivan shishkin,0.23317226189021106,0.5989194444541664,-1,1
+Realism/camille-corot_archicourt-near-arras.jpg,camille corot,0.11052600715495439,0.28389386570410724,-1,1
+Realism/odilon-redon_vase-of-flowers-2.jpg,odilon redon,0.08712312578861042,0.22378190987825897,-1,1
+Realism/alexey-venetsianov_bather.jpg,alexey venetsianov,0.18646332968648435,0.47894424886389814,-1,1
+Realism/ivan-vladimirov_the-revolt-of-the-peasants-on-the-estate-of-prince-shahovskoy.jpg,ivan vladimirov,0.18253066603045537,0.46884292414799783,-1,1
+Realism/camille-corot_corot-in-the-studio-of-constant-dutilleux-1856.jpg,camille corot,0.16576663455668725,0.4257833237663331,-1,1
+Realism/ilya-repin_reception-for-local-cossack-leaders-by-alexander-iii-in-the-court-of-the-petrovsky-palace-in-1885.jpg,ilya repin,0.23606725038102738,0.6063554271245121,-1,1
+Realism/william-adolphe-bouguereau_a-little-coaxing-1890.jpg,william adolphe bouguereau,0.20686411715717637,0.5313451142126565,-1,1
+Realism/gustave-courbet_landscape-near-puit-noir-near-ornans-1872.jpg,gustave courbet,0.241136392426581,0.6193758769549115,-1,1
+Realism/thomas-eakins_photograph-1910-3.jpg,thomas eakins,0.1615274246636508,0.4148946133619307,-1,1
+Realism/charles-francois-daubigny_the-meadow-of-graves-in-villerville.jpg,charles francois daubigny,0.1918094068839646,0.49267602621669304,-1,1
+Realism/henri-fantin-latour_flowers-1862-1.jpg,henri fantin latour,0.12868177881607434,0.3305282491799368,-1,1
+Realism/nicolae-grigorescu_giri-with-white-veil(1).jpg,nicolae grigorescu,0.08831598439930466,0.22684585157800433,-1,1
+Realism/james-tissot_the-wisdom-of-solomon.jpg,james tissot,0.08693437519351307,0.22329709062643338,-1,1
+Realism/konstantin-makovsky_landscape-with-lake.jpg,konstantin makovsky,0.11146905415664174,0.2863161486196055,-1,1
+Realism/ilya-repin_portrait-of-s-a-repina-1878.jpg,ilya repin,0.08450389609642531,0.21705423318367859,-1,1
+Realism/gustave-courbet_the-winnowers-1855(1).jpg,gustave courbet,0.1399709464165702,0.3595252745243258,-1,1
+Realism/theodore-rousseau_meadows-crossed-by-a-river-1851.jpg,theodore rousseau,0.15774188851818427,0.40517119606167085,-1,1
+Realism/ilya-repin_prophet-1890.jpg,ilya repin,0.27031648684973936,0.694327013077899,-1,1
+Realism/pavel-fedotov_the-fresh-cavalier.jpg,pavel fedotov,0.09404312406159034,0.2415564148201391,-1,1
+Realism/vincent-van-gogh_the-parsonage-garden-at-nuenen-in-the-snow-1885-1.jpg,vincent van gogh,0.2452553167081769,0.6299556252598094,-1,1
+Realism/ilya-repin_portrait-of-m-p-shevtsova-wife-of-a-shevtsov-1876.jpg,ilya repin,0.0,0.0,0,0
+Realism/ilya-repin_old-woman.jpg,ilya repin,0.07754127299240676,0.1991702433488757,-1,1
+Realism/vasily-polenov_a-yard-1881.jpg,vasily polenov,0.16420216391396505,0.4217648702821652,-1,1
+Realism/fyodor-vasilyev_the-barn.jpg,fyodor vasilyev,0.11052600715495439,0.28389386570410724,-1,1
+Realism/theodore-rousseau_the-passer-1855.jpg,theodore rousseau,0.17126696492607676,0.4399113112998599,-1,1
+Realism/constantin-artachino_turk-bargainer.jpg,constantin artachino,0.12070886421595008,0.31004925419023555,-1,1
+Realism/isaac-levitan_summer-evening.jpg,isaac levitan,0.17800754942452102,0.45722497927382094,-1,1
+Realism/vincent-van-gogh_head-of-a-woman-16.jpg,vincent van gogh,0.04163709370411639,0.1069478197269328,1,0
+Realism/martiros-saryan_cover-of-book-of-fairy-tales-by-hovhannes-tumanyan-1930.jpg,martiros saryan,0.04163709370411639,0.1069478197269328,1,0
+Realism/james-tissot_the-bunch-of-lilacs.jpg,james tissot,0.24502597378460447,0.6293665417416328,-1,1
+Realism/henri-fantin-latour_white-roses-and-cherries-1865.jpg,henri fantin latour,0.08712312578861042,0.22378190987825897,-1,1
+Realism/vincent-van-gogh_interior-with-peasant-woman-sewing-1885.jpg,vincent van gogh,0.0,0.0,1,0
+Realism/james-tissot_the-lost-drachma-1894.jpg,james tissot,0.27642178675074747,0.710008907636436,-1,1
+Realism/valentin-serov_portrait-of-alexei-morozov-1909.jpg,valentin serov,0.05851587865361669,0.15030217252630607,-1,1
+Realism/boris-kustodiev_merchant-1920.jpg,boris kustodiev,0.1733160233579474,0.44517446279018563,-1,1
+Realism/vasily-surikov_portrait-of-young-lady-1906.jpg,vasily surikov,0.1403347818187713,0.3604598114850799,-1,1
+Realism/ivan-kramskoy_portrait-of-the-author-mikhail-saltykov-shchedrin-1879.jpg,ivan kramskoy,0.0,0.0,0,0
+Realism/john-everett-millais_self-portrait.jpg,john everett millais,0.1609105095775579,0.41331002333547145,-1,1
+Realism/edouard-manet_portrait-of-monsieur-tillet.jpg,edouard manet,0.14290430157351344,0.36705980468988386,-1,1
+Realism/fyodor-vasilyev_dugout.jpg,fyodor vasilyev,0.1664956738916449,0.4276559128553546,-1,1
+Realism/winslow-homer_farmer-with-a-pitchfork.jpg,winslow homer,0.26381159645045654,0.677618742065766,-1,1
+Realism/camille-corot_plains-near-beauvais.jpg,camille corot,0.20352675089081493,0.5227728529411576,-1,1
+Realism/viktor-vasnetsov_acrobats-festival-in-a-paris-suburb-1877.jpg,viktor vasnetsov,0.1383812835026492,0.3554421129100029,-1,1
+Realism/n.c.-wyeth_what-is-your-name-my-boy.jpg,n.c. wyeth,0.0978154858852513,0.25124599294316186,-1,1
+Impressionism/gregoire-boonzaier_still-life-with-tulips-1937.jpg,gregoire boonzaier,0.17236743587972753,0.44273794876889466,-1,1
+Realism/ilya-repin_the-sitter-s-head-the-second-half-of-the-xix-century.jpg,ilya repin,0.12186175979788945,0.31301054802446493,-1,1
+Realism/vincent-van-gogh_peasant-woman-peeling-potatoes-1885.jpg,vincent van gogh,0.10743744265770605,0.2759606693716729,-1,1
+Realism/volodymyr-orlovsky_the-outskirts-of-kyiv-1886.jpg,volodymyr orlovsky,0.18014497788172584,0.46271511542368765,-1,1
+Realism/winslow-homer_mending-the-nets.jpg,winslow homer,0.2135059189493278,0.5484050518196564,-1,1
+Realism/aleksey-savrasov_volga.jpg,aleksey savrasov,0.1898951312864727,0.4877590739682226,-1,1
+Realism/arkhip-kuindzhi_oaks.jpg,arkhip kuindzhi,0.2198724385423355,0.5647579076303793,-1,1
+Realism/pyotr-konchalovsky_cock-in-a-basket-1930.jpg,pyotr konchalovsky,0.15426673408574665,0.3962450161413167,-1,1
+Realism/valentin-serov_portrait-of-praskovia-tchaokovskaia-1892.jpg,valentin serov,0.0759089672078043,0.19497755050553167,-1,1
+Impressionism/henry-herbert-la-thangue_landscape-study-1889.jpg,henry herbert la thangue,0.2654148488644464,0.6817368092720563,-1,1
+Realism/vincent-van-gogh_peasant-woman-head-3.jpg,vincent van gogh,0.03854926302366908,0.09901650825484698,1,0
+Realism/camille-corot_houses-near-orleans-1830.jpg,camille corot,0.19864060617639906,0.5102224446972365,-1,1
+Realism/james-tissot_portrait-of-the-pilgrim-1894.jpg,james tissot,0.1333744211077869,0.34258163276678016,-1,1
+Realism/martiros-saryan_the-gifts-of-spring-1968.jpg,martiros saryan,0.07287596179519228,0.1871870616110877,-1,1
+Realism/henri-fantin-latour_the-corner-of-the-table-1872.jpg,henri fantin latour,0.2247637221522872,0.5773215154909034,-1,1
+Realism/william-merritt-chase_my-daughter-dieudonne-alice-dieudonne-chase.jpg,william merritt chase,0.2088296587459933,0.5363937467853426,-1,1
+Realism/ivan-shishkin_ivan-shishkin-and-a-guinet-in-the-studio-on-the-island-of-valaam-1860.jpg,ivan shishkin,0.177555565812969,0.4560640274035655,-1,1
+Realism/thomas-eakins_photograph-1910-21.jpg,thomas eakins,0.10921753123741336,0.28053295277534596,-1,1
+Realism/nikolay-bogdanov-belsky_southern-seascape.jpg,nikolay bogdanov belsky,0.20967687223037743,0.5385698745343642,-1,1
+Realism/vincent-van-gogh_woman-shelling-peas-1885.jpg,vincent van gogh,0.11698277219140879,0.30047852331842145,-1,1
+Realism/giovanni-boldini_portrait-of-a-lady-1889.jpg,giovanni boldini,0.17766911881860423,0.4563556963289335,-1,1
+Impressionism/adolf-hitler_the-munich-opera-house.jpg,adolf hitler,0.17287556539158683,0.44404311535469054,-1,1
+Realism/isaac-levitan_landscape-1883.jpg,isaac levitan,0.11052600715495439,0.28389386570410724,-1,1
+Realism/john-singer-sargent_beatrice-townsend.jpg,john singer sargent,0.12076521205210931,0.3101939875922925,-1,1
+Realism/vincent-van-gogh_clock-clog-with-cutlery-and-a-spoon-rack-1885(1).jpg,vincent van gogh,0.12059061011825734,0.30974551017745966,-1,1
+Realism/vasily-polenov_architectural-sketches-from-travelling-in-germany-1872.jpg,vasily polenov,0.0992817302103943,0.25501214518412696,-1,1
+Realism/valentin-serov_portrait-of-maria-nikolayevna-yermolova-1905.jpg,valentin serov,0.19486685298491194,0.5005292927475556,-1,1
+Realism/vasily-polenov_christ-and-the-sinner-1885.jpg,vasily polenov,0.19376019985457993,0.49768677592051563,-1,1
+Realism/isaac-levitan_night-riverbank.jpg,isaac levitan,0.19451186861008946,0.4996174902765624,-1,1
+Realism/n.c.-wyeth_painting-of-native-american.jpg,n.c. wyeth,0.1672561152394273,0.42960916023504614,-1,1
+Realism/henri-fantin-latour_chrysanthemums-1889.jpg,henri fantin latour,0.09894341265607161,0.254143152620254,-1,1
+Realism/john-singer-sargent_a-bedouin-arab.jpg,john singer sargent,0.07602573001924219,0.1952774640440992,-1,1
+Realism/nikolai-ge_not_detected_252979-1880.jpg,nikolai ge,0.27793254236535647,0.7138893902722037,-1,1
+Realism/ivan-shishkin_grass-1892.jpg,ivan shishkin,0.24141724807606602,0.6200972745525407,-1,1
+Realism/viktor-vasnetsov_beggars-singer-pilgrims-1873.jpg,viktor vasnetsov,0.17438452180349664,0.4479189766110869,-1,1
+Realism/thomas-eakins_portrait-of-charles-edmund-dana.jpg,thomas eakins,0.1639704237553421,0.42116962929623036,-1,1
+Realism/pyotr-konchalovsky_spring-in-moscow-konyushkovskaya-street-1943.jpg,pyotr konchalovsky,0.1936163458217216,0.49731727666385633,-1,1
+Realism/martiros-saryan_still-life-cyclamen-1940.jpg,martiros saryan,0.09467959171708937,0.24319122700386278,-1,1
+Realism/aleksey-savrasov_spruce.jpg,aleksey savrasov,0.23996678316801684,0.616371652860291,-1,1
+Realism/boris-kustodiev_shells-1918.jpg,boris kustodiev,0.2109946350017203,0.5419546414038757,-1,1
+Realism/maxime-lalanne_vall-e-du-lys.jpg,maxime lalanne,0.3596381466299272,0.9237560129924041,-1,1
+Realism/vasily-polenov_nile-near-karnak-1881.jpg,vasily polenov,0.23168906919649498,0.5951097591299439,-1,1
+Realism/volodymyr-orlovsky_huts-in-the-forest-calm-1890(1).jpg,volodymyr orlovsky,0.21089086577311492,0.5416881028017111,-1,1
+Realism/john-singer-sargent_the-countess-of-essex-1907.jpg,john singer sargent,0.2203015957274921,0.5658602282101682,-1,1
+Realism/john-singer-sargent_alice-wernher-born-alice-sedgwick-mankiewicz-1902.jpg,john singer sargent,0.1862617458294849,0.47842646647131715,-1,1
+Realism/felix-vallotton_moroccan-jug-and-pears-1924.jpg,felix vallotton,0.1078568039888906,0.27703782860777826,-1,1
+Realism/ilya-repin_religious-procession-in-an-oak-forest-appearance-of-the-icon-1878.jpg,ilya repin,0.22576571231821752,0.5798951980921816,-1,1
+Realism/vasily-perov_portrait-of-peter-ivanovich-nikolayev-chairman-of-the-vladimir-district-council-1876.jpg,vasily perov,0.0598747872153089,0.15379262526813314,-1,1
+Realism/david-burliuk_a-dying-swan.jpg,david burliuk,0.12234947793962378,0.3142632865626161,-1,1
+Realism/vasily-polenov_christ-and-the-sinner-1876.jpg,vasily polenov,0.2379430065260525,0.6111734394352513,-1,1
+Realism/gustave-courbet_calm-seas-1873.jpg,gustave courbet,0.16608074671486636,0.4265901430584216,-1,1
+Realism/henri-fantin-latour_yellow-flowers-also-known-as-coucous-1873.jpg,henri fantin latour,0.1600315241655499,0.4110522871434581,-1,1
+Realism/boris-kustodiev_strike-1906.jpg,boris kustodiev,0.1294576936200598,0.33252124122615856,-1,1
+Realism/pavel-fedotov_portrait-of-anna-zhdanovich.jpg,pavel fedotov,0.0,0.0,0,0
+Realism/constant-troyon_cows-in-the-field-1852.jpg,constant troyon,0.15401800344211833,0.39560613389308963,-1,1
+Realism/nicholas-roerich_ozertitsy-1893.jpg,nicholas roerich,0.15586391579961503,0.40034749032502903,-1,1
+Realism/isaac-levitan_landscape.jpg,isaac levitan,0.15259373428688727,0.3919477978444998,-1,1
+Realism/james-tissot_the-princesse-de-broglie.jpg,james tissot,0.11355212341874768,0.29166665933261426,-1,1
+Realism/ilya-repin_girl-with-flowers-daughter-of-the-artist-1878.jpg,ilya repin,0.22728778775481026,0.5838047564912449,-1,1
+Realism/valentin-serov_naked-woman-1910.jpg,valentin serov,0.0652233186781352,0.16753070657503338,-1,1
+Realism/isaac-levitan_study-to-above-the-eternal-tranquility-1892.jpg,isaac levitan,0.11052600715495439,0.28389386570410724,-1,1
+Realism/camille-corot_ville-d-avray-the-large-pond-and-villas.jpg,camille corot,0.11052600715495439,0.28389386570410724,-1,1
+Realism/boris-kustodiev_portrait-of-the-commandant-of-the-mariinsky-palace-major-general-pavel-shevelev-1903.jpg,boris kustodiev,0.09832676781216773,0.2525592567299687,-1,1
+Realism/isaac-levitan_overgrown-pond-1887-1.jpg,isaac levitan,0.13998387459631795,0.35955848146828023,-1,1
+Realism/vincent-van-gogh_four-people-sharing-a-meal-1885(1).jpg,vincent van gogh,0.09138728881278957,0.23473471416467048,-1,1
+Realism/nikolai-ge_the-view-from-santo-terenzo-at-lerici-by-night.jpg,nikolai ge,0.18795537459119896,0.48277667171809296,-1,1
+Realism/thomas-eakins_perspective-drawing-for-the-biglin-brothers-turning-the-stake-1.jpg,thomas eakins,0.21936419772187213,0.5634524551405622,-1,1
+Realism/ilya-repin_portrait-of-zinaida-nikolayevna-gippius-1894.jpg,ilya repin,0.06662612942156966,0.17113392517539888,-1,1
+Realism/ivan-kramskoy_portrait-s-i-kramskoy.jpg,ivan kramskoy,0.14174294151500924,0.36407676924899557,-1,1
+Realism/john-singer-sargent_portrait-of-james-carroll-beckwith.jpg,john singer sargent,0.02430166825160643,0.062420553502262895,1,0
+Realism/camille-corot_path-towards-a-house-in-the-countryside.jpg,camille corot,0.16039846083399706,0.41199478992588473,-1,1
+Realism/vincent-van-gogh_wheat-field-with-sheaves-and-a-windmill-1885.jpg,vincent van gogh,0.21447725575719906,0.5508999991029746,-1,1
+Realism/ivan-shishkin_aspen-on-the-way-to-kivach-1889.jpg,ivan shishkin,0.07642945563990423,0.1963144618519803,-1,1
+Realism/peder-severin-kroyer_sophus-schandorf-1895.jpg,peder severin kroyer,0.11363562613186029,0.291881141956501,-1,1
+Realism/james-tissot_out-building-of-the-armenian-convent-jerusalem-illustration-from-the-life-of-our-lord-jesus.jpg,james tissot,0.23426944367102803,0.6017376334501694,-1,1
+Realism/valentin-serov_portrait-of-konstantin-stanislavski-1908.jpg,valentin serov,0.0,0.0,1,0
+Realism/nikolaos-gyzis_old-man-that-sew.jpg,nikolaos gyzis,0.17674000072308718,0.45396919079397674,-1,1
+Realism/ivan-shishkin_forest-lake.jpg,ivan shishkin,0.16705784436335627,0.42909988746827166,-1,1
+Realism/vincent-van-gogh_cradle-1882(1).jpg,vincent van gogh,0.0,0.0,1,0
+Realism/aleksey-savrasov_the-death-of-the-ship-at-sea-1862.jpg,aleksey savrasov,0.15484108750935302,0.39772028352774635,-1,1
+Realism/julius-leblanc-stewart_end-of-summertime-the-ride-form-the-cover-of-soleil-du-dimanche-sunday-20th-of-october-1901-1901(1).jpg,julius leblanc stewart,0.2428754762884752,0.6238428368410548,-1,1
+Realism/pyotr-konchalovsky_first-snow-1940.jpg,pyotr konchalovsky,0.20691152341897176,0.5314668805486177,-1,1
+Realism/winslow-homer_west-point-prout-s-neck.jpg,winslow homer,0.1805656999695218,0.46379576985938115,-1,1
+Realism/ilya-repin_portrait-of-the-author-leonid-andreev-1905.jpg,ilya repin,0.1801218530136613,0.4626557175646884,-1,1
+Realism/ilya-repin_dragon-fly-portrait-of-vera-repina-the-artist-s-daughter-1884.jpg,ilya repin,0.17857351734284746,0.4586787078969217,-1,1
+Realism/winslow-homer_road-in-bermuda.jpg,winslow homer,0.2073237028733583,0.5325255926262698,-1,1
+Realism/boris-kustodiev_wife-wakes-up-chertokutsky-1905.jpg,boris kustodiev,0.12034522069592714,0.3091152100924258,-1,1
+Realism/anton-azbe_portrait-of-a-girl-1888.jpg,anton azbe,0.1529102921898906,0.39276089920513074,-1,1
+Realism/gustave-courbet_rocky-landscape-with-figure-1865.jpg,gustave courbet,0.14429532943451726,0.37063275812344854,-1,1
+Realism/isaac-levitan_the-gully-1898.jpg,isaac levitan,0.26351127951672215,0.676847356783253,-1,1
+Realism/edouard-manet_portrait-of-ernest-cabaner-1880.jpg,edouard manet,0.0,0.0,0,0
+Realism/arkhip-kuindzhi_waves.jpg,arkhip kuindzhi,0.2714096736933081,0.6971349407950607,-1,1
+Realism/ivan-shishkin_gathering-storm-1884.jpg,ivan shishkin,0.16638413593560059,0.4273694197273638,-1,1
+Realism/klavdy-lebedev_tzar-ivan-the-terrible-asks-abbot-cornelius-to-mow-him-to-the-monks.jpg,klavdy lebedev,0.1769398231591152,0.4544824488522261,-1,1
+Realism/jules-joseph-lefebvre_girl-with-a-mandolin-1870.jpg,jules joseph lefebvre,0.19400217590803334,0.4983083085261983,-1,1
+Realism/vasily-perov_naushnitsa-before-the-storm.jpg,vasily perov,0.07423062074180466,0.19066659891605225,-1,1
+Realism/vincent-van-gogh_orphan-man-with-umbrella-seen-from-the-back-1882.jpg,vincent van gogh,0.04446228823147503,0.1142045316663542,1,0
+Realism/giovanni-boldini_a-lady-admiiring-a-fan-1878.jpg,giovanni boldini,0.20037196310958946,0.5146695574205609,-1,1
+Realism/nicolae-vermont_nude-sitting-1902.jpg,nicolae vermont,0.2116401843763414,0.5436127806254177,-1,1
+Realism/nikolai-ge_portrait-of-the-artist-s-wife-anna-ge.jpg,nikolai ge,0.14444952684261236,0.37102882507088025,-1,1
+Realism/gustave-courbet_shelter-of-deers-at-plaisir-fontaine-creek-1866.jpg,gustave courbet,0.19773126326208013,0.5078867331136749,-1,1
+Realism/mary-cassatt_portrait-of-madame-x-dressed-for-the-matinee-1878.jpg,mary cassatt,0.12790073244200745,0.3285220763330596,-1,1
+Realism/william-adolphe-bouguereau_spring-breeze-1895.jpg,william adolphe bouguereau,0.21693995303900787,0.5572256112316342,-1,1
+Realism/george-catlin_kei-a-gis-gis-a-woman-of-the-plains-ojibwa-1832.jpg,george catlin,0.07447455137721395,0.1912931520037153,-1,1
+Realism/charles-hermans_la-belle-voisine.jpg,charles hermans,0.216222673516948,0.5553832280536869,-1,1
+Realism/nikolai-ge_not_detected_252977.jpg,nikolai ge,0.19972461710937914,0.5130068034391368,-1,1
+Realism/odilon-redon_vase-of-flowers-1900.jpg,odilon redon,0.08712312578861042,0.22378190987825897,-1,1
+Realism/jean-francois-millet_a-stonemason.jpg,jean francois millet,0.062039752729655895,0.15935349229667212,-1,1
+Realism/valentin-serov_portrait-of-l-n-andreev-1907-1.jpg,valentin serov,0.0,0.0,1,0
+Realism/ilya-repin_portrait-of-the-artist-r-s-levitsky-1878.jpg,ilya repin,0.1223171235534076,0.31418018203353887,-1,1
+Realism/vincent-van-gogh_head-of-a-girl-bareheaded-and-head-of-a-man-with-beard-and-cap(1).jpg,vincent van gogh,0.05001186684599479,0.12845901680030158,-1,1
+Realism/pyotr-konchalovsky_the-roses-by-the-window-1953.jpg,pyotr konchalovsky,0.08712312578861042,0.22378190987825897,-1,1
+Realism/klavdy-lebedev_assembly-of-peter-i.jpg,klavdy lebedev,0.08157053315258524,0.2095196830169253,-1,1
+Realism/vincent-van-gogh_peasant-woman-stooping-seen-from-the-back-1885.jpg,vincent van gogh,0.15974853948465798,0.4103254209780965,-1,1
+Realism/nikolay-bogdanov-belsky_checks-game.jpg,nikolay bogdanov belsky,0.1981969663534657,0.5090829244381154,-1,1
+Realism/camille-pissarro_farmyard.jpg,camille pissarro,0.2322396347014929,0.5965239255651618,-1,1
+Realism/gustave-courbet_marc-trapadoux-is-examining-the-book-of-prints-1848.jpg,gustave courbet,0.11412321705173425,0.2931335537163067,-1,1
+Realism/aleksey-savrasov_volga-near-gorodets-1870.jpg,aleksey savrasov,0.1498793565252032,0.3849757266046024,-1,1
+Realism/nikolay-bogdanov-belsky_easter-table.jpg,nikolay bogdanov belsky,0.18736430101076745,0.4812584574264194,-1,1
+Realism/isaac-levitan_at-volga-1888.jpg,isaac levitan,0.16531504338303313,0.4246233799005714,-1,1
+Realism/james-tissot_caricature-of-john-pender.jpg,james tissot,0.1167389564808682,0.2998522654234111,-1,1
+Realism/boris-kustodiev_women-drinking-tea-1918.jpg,boris kustodiev,0.11802284465766628,0.3031500230012453,-1,1
+Realism/alexey-venetsianov_portrait-of-the-merchant-s-wife-obraztsova.jpg,alexey venetsianov,0.16556361854542967,0.4252618627842591,-1,1
+Realism/edouard-manet_the-bullfight-1864.jpg,edouard manet,0.16440649442775385,0.4222897076569514,-1,1
+Realism/william-merritt-chase_still-life-with-watermelon.jpg,william merritt chase,0.16199469811315398,0.4160948382622509,-1,1
+Realism/winslow-homer_solitude.jpg,winslow homer,0.21404700547818467,0.5497948708343091,-1,1
+Realism/john-singer-sargent_the-countess-of-rocksavage-later-marchioness-of-cholmondeley-1922.jpg,john singer sargent,0.07450396299601832,0.19136869782658467,-1,1
+Realism/boris-kustodiev_finland-bouquet-1917.jpg,boris kustodiev,0.09509707709556685,0.24426356772277386,-1,1
+Realism/john-singer-sargent_male-nudes-wrestling.jpg,john singer sargent,0.11285495580488321,0.2898759350131678,-1,1
+Realism/boris-kustodiev_portrait-of-evdokimova-1925.jpg,boris kustodiev,0.01230295324513343,0.03160100546689528,1,0
+Realism/vasily-surikov_the-head-of-nun.jpg,vasily surikov,0.06691992726190084,0.17188856570547975,-1,1
+Realism/ivan-shishkin_holy-creek-near-yelabuga-1886.jpg,ivan shishkin,0.15349107058133302,0.39425266957581684,-1,1
+Realism/ivan-shishkin_spring-in-the-forest-1892.jpg,ivan shishkin,0.21509432508704546,0.5524849853154226,-1,1
+Realism/ivan-shishkin_landscape.jpg,ivan shishkin,0.11052600715495439,0.28389386570410724,-1,1
+Realism/vladimir-makovsky_summer-1896.jpg,vladimir makovsky,0.17204620463737708,0.44191284360565514,-1,1
+Realism/alekos-kontopoulos_hand-1956.jpg,alekos kontopoulos,0.1844590653851319,0.4737961542656199,-1,1
+Realism/david-burliuk_japanese-village-1921.jpg,david burliuk,0.1280384842706333,0.3288759016466039,-1,1
+Realism/thomas-eakins_lincoln-and-grant-1894.jpg,thomas eakins,0.30691966592931236,0.7883448670965574,-1,1
+Realism/anders-zorn_home-tunes-1920.jpg,anders zorn,0.06710066002498284,0.17235279058875813,-1,1
+Realism/ilya-repin_boots-of-the-prince-1883.jpg,ilya repin,0.15073291815708206,0.387168160019401,-1,1
+Realism/vasily-vereshchagin_inn-near-tashkent-1867.jpg,vasily vereshchagin,0.05532866153909454,0.14211557996975568,-1,1
+Realism/giovanni-boldini_the-gardeners-of-the-veil-picard.jpg,giovanni boldini,0.15922919352765993,0.4089914441597422,-1,1
+Realism/ivan-vladimirov_cartomancy-1928.jpg,ivan vladimirov,0.09969761320075074,0.25608037005582934,-1,1
+Realism/valentin-serov_the-wolf-and-the-shepherds-1898.jpg,valentin serov,0.15864763296404316,0.40749766472451154,-1,1
+Realism/mykola-pymonenko_kiev-flower-girl-1.jpg,mykola pymonenko,0.22452822111936294,0.5767166144333591,-1,1
+Realism/ivan-kramskoy_portrait-of-theodora-saltykova-the-painter-s-mother-in-law-1875.jpg,ivan kramskoy,0.14153978633293374,0.36355495079683364,-1,1
+Realism/vincent-van-gogh_snowy-landscape-with-the-old-tower-1883.jpg,vincent van gogh,0.011573532232635788,0.029727436012120335,1,0
+Realism/adolf-hitler_shelter-in-fournes.jpg,adolf hitler,0.13568325663775196,0.3485120401048271,-1,1
+Realism/boris-kustodiev_winter-1919.jpg,boris kustodiev,0.29316858448073085,0.7530242419284306,-1,1
+Realism/alexey-venetsianov_portrait-of-the-state-chancellor-of-the-internal-affairs-prince-victor-pavlovich-kochubey-in-1834.jpg,alexey venetsianov,0.15581753777607463,0.40022836509174214,-1,1
+Realism/giovanni-boldini_duke-marlborough-singer-sargent-and-family.jpg,giovanni boldini,0.18614345069757943,0.47812261705926395,-1,1
+Realism/vasily-surikov_portrait-of-e-k-deryagina-1879.jpg,vasily surikov,0.25911139410932055,0.6655459399573368,-1,1
+Realism/thomas-eakins_portrait-of-mary-adeline-williams-1899.jpg,thomas eakins,0.0,0.0,0,0
+Realism/boris-kustodiev_agitator-man-with-arm-raised-1906.jpg,boris kustodiev,0.0,0.0,1,0
+Realism/ilya-repin_barge-haulers-on-the-volga-1-1870.jpg,ilya repin,0.12439361650884218,0.3195138010377901,-1,1
+Realism/theodore-rousseau_lowland-landscape.jpg,theodore rousseau,0.24973743209340585,0.6414682555990251,-1,1
+Realism/thomas-eakins_standing-female-nude-1908.jpg,thomas eakins,0.14422830302002082,0.3704605960377505,-1,1
+Realism/martiros-saryan_weaving-the-carpet-1936.jpg,martiros saryan,0.12006765885212853,0.3084022728676379,-1,1
+Realism/henri-matisse_the-dinner-table-1897.jpg,henri matisse,0.17656144741401128,0.4535105639924426,-1,1
+Realism/nikolaos-gyzis_portrait-of-a-girl-1880.jpg,nikolaos gyzis,0.11451652186521528,0.2941437849439908,-1,1
+Realism/fyodor-vasilyev_tide.jpg,fyodor vasilyev,0.21798195153846756,0.5599020580669456,-1,1
+Realism/camille-corot_temple-of-minerva-medica-1826.jpg,camille corot,0.203947129171828,0.5238526242848155,-1,1
+Realism/isaac-levitan_trail.jpg,isaac levitan,0.11052600715495439,0.28389386570410724,-1,1
+Realism/nikolay-bogdanov-belsky_portrait-of-maxim-gorky.jpg,nikolay bogdanov belsky,0.1471281996268305,0.37790918555112385,-1,1
+Realism/william-merritt-chase_a-fishmarket-in-venice-aka-venetian-fish-market-the-yield-of-the-waters.jpg,william merritt chase,0.1853606436849427,0.4761119218877089,-1,1
+Realism/ivan-shishkin_coniferous-forest-sunny-day-1895.jpg,ivan shishkin,0.14727201842623183,0.3782785943081572,-1,1
+Realism/winslow-homer_girl-with-hay-rake.jpg,winslow homer,0.23347726532519664,0.5997028673465694,-1,1
+Realism/vincent-van-gogh_study-of-a-tree-1882.jpg,vincent van gogh,0.23692590140040778,0.6085609329910265,-1,1
+Realism/aleksey-savrasov_courtyard-spring-1853.jpg,aleksey savrasov,0.142539557201927,0.3661229329769818,-1,1
+Realism/ivan-shishkin_deciduous-forest.jpg,ivan shishkin,0.11970938600575254,0.30748202372490085,-1,1
+Realism/ilya-repin_the-reply-of-the-zaporozhian-cossacks-to-sultan-mahmoud-iv-1891.jpg,ilya repin,0.08157053315258524,0.2095196830169253,-1,1
+Realism/camille-corot_the-rhone-three-women-on-the-riverbank-seated-on-a-tree-trunk.jpg,camille corot,0.12070090276714163,0.3100288046459426,-1,1
+Realism/vincent-van-gogh_view-from-the-window-of-vincent-s-studio-in-winter-1883.jpg,vincent van gogh,0.18481859777286494,0.4747196386294064,-1,1
+Realism/vincent-van-gogh_beer-tankards-1885(1).jpg,vincent van gogh,0.17782215393955692,0.45674877785964374,-1,1
+Realism/grigoriy-myasoyedov_time-of-harvesting-mowers-1887.jpg,grigoriy myasoyedov,0.19593273967745953,0.5032670980961708,-1,1
+Realism/ilya-repin_ukrainian-peasant-house-1880.jpg,ilya repin,0.11052600715495439,0.28389386570410724,-1,1
+Realism/ilya-repin_portrait-of-of-julia-bogdanovna-repman-born-krause-wife-of-dr-a-h-repman-1881.jpg,ilya repin,0.16912872241593263,0.4344190841974493,-1,1
+Realism/ilya-repin_the-village-of-mokhnachi-1877.jpg,ilya repin,0.0,0.0,1,0
+Realism/james-tissot_caricature-of-mr-lionel-lawson.jpg,james tissot,0.14978395508904285,0.38473068126909765,-1,1
+Realism/vincent-van-gogh_farmhouse-1883(1).jpg,vincent van gogh,0.01457745097068352,0.03744321372595542,1,0
+Realism/vincent-van-gogh_peasant-woman-lifting-potatoes-5-1885.jpg,vincent van gogh,0.2002883199449507,0.5144547140369966,-1,1
+Realism/pyotr-konchalovsky_crimea-blooming-peach-tree-1952.jpg,pyotr konchalovsky,0.14753231154189625,0.37894717558349933,-1,1
+Realism/vincent-van-gogh_man-with-bowler-1885.jpg,vincent van gogh,0.1670372570809589,0.4290470075775149,-1,1
+Realism/camille-corot_peasant-woman-watering-her-cow.jpg,camille corot,0.19750375103873172,0.5073023518784896,-1,1
+Realism/pavel-fedotov_get-married-gentlemen-that-would-come-in-very-handy.jpg,pavel fedotov,0.21543649983881613,0.5533638853637192,-1,1
+Realism/anders-zorn_the-waltz-1891.jpg,anders zorn,0.23202723966696961,0.5959783738985515,-1,1
+Realism/arkhip-kuindzhi_cloud-1895.jpg,arkhip kuindzhi,0.30453791565614213,0.7822271730841052,-1,1
+Realism/ilya-repin_poet-futurist-portrait-of-vladimir-vladimirovich-mayakovsky-1916.jpg,ilya repin,0.20725488035711057,0.5323488171262043,-1,1
+Realism/salvador-dali_the-prince-of-sleep-el-principe-de-ensueno-1979.jpg,salvador dali,0.1045933120057848,0.2686553186571622,-1,1
+Realism/ivan-shishkin_polesye-1883.jpg,ivan shishkin,0.2004901643708283,0.5149731657191684,-1,1
+Realism/vasily-vereshchagin_the-apotheosis-of-war-1871.jpg,vasily vereshchagin,0.2547403671059905,0.6543186479831259,-1,1
+Realism/charles-francois-daubigny_washerwoman-near-valdomdois.jpg,charles francois daubigny,0.13116991772022013,0.3369192099147838,-1,1
+Realism/nikolay-bogdanov-belsky_girl-1.jpg,nikolay bogdanov belsky,0.09867743364383653,0.25345996671746723,-1,1
+Realism/boris-kustodiev_school-in-moscow-russia-1907.jpg,boris kustodiev,0.10485071139914985,0.2693164672021363,-1,1
+Art_Nouveau_Modern/nicholas-roerich_morning-of-kiev-bogatyrs-1896.jpg,nicholas roerich,0.0,0.0,1,0
+Realism/klavdy-lebedev_martha-the-mayoress-destruction-of-novgorod-by-ivan-iii-1889.jpg,klavdy lebedev,0.11921649114803695,0.3062159884256579,-1,1
+Realism/gustave-courbet_still-life-with-apples-and-pomegranates-1871.jpg,gustave courbet,0.16055880669326647,0.41240664960497203,-1,1
+Realism/john-singer-sargent_mrs-william-playfair-1887.jpg,john singer sargent,0.07639846820658966,0.1962348684381009,-1,1
+Realism/boris-kustodiev_fortune-with-cornucopia-outro-1922.jpg,boris kustodiev,0.14126040285128225,0.3628373345663955,-1,1
+Realism/vincent-van-gogh_peasant-woman-digging-1885.jpg,vincent van gogh,0.19381775769535445,0.4978346173049977,-1,1
+Realism/vladimir-makovsky_in-the-hut-of-forester.jpg,vladimir makovsky,0.12934184442615465,0.3322236743788343,-1,1
+Realism/robert-brackman_girl-from-village-1960.jpg,robert brackman,0.14175652615665038,0.36411166236174775,-1,1
+Realism/james-tissot_waiting-for-the-ferry-1.jpg,james tissot,0.1891705776541156,0.48589800672355654,-1,1
+Realism/basuki-abdullah_ploughing-the-sawah.jpg,basuki abdullah,0.22518910512897874,0.5784141417493402,-1,1
+Realism/konstantin-bogaevsky_landscape-1940.jpg,konstantin bogaevsky,0.17872281374175983,0.45906218625567136,-1,1
+Realism/ivan-kramskoy_portrait-of-singer-elizabeth-andreevny-lavrovsky-on-stage-at-the-assembly-of-nobility-1879.jpg,ivan kramskoy,0.2034479978073713,0.5225705700769663,-1,1
+Realism/camille-corot_papigno-steep-and-wooded-banks.jpg,camille corot,0.1589411257569826,0.408251521718794,-1,1
+Realism/boris-kustodiev_portrait-of-a-writer-alexandra-vasilevny-schwartz-1906.jpg,boris kustodiev,0.11748820168762018,0.3017767547230823,-1,1
+Realism/vincent-van-gogh_two-hands-3.jpg,vincent van gogh,0.1546777825095015,0.3973008230868055,-1,1
+Realism/vincent-van-gogh_digger-in-a-potato-field-february-1885(1).jpg,vincent van gogh,0.24913491301277124,0.6399206427306616,-1,1
+Realism/emile-claus_the-old-gardener-1885.jpg,emile claus,0.16265260677047907,0.4177847231754584,-1,1
+Realism/ivan-vladimirov_a-russian-cavalry-officer-recto-and-other-sketches-of-various-characters-verso.jpg,ivan vladimirov,0.11734693664217027,0.301413905463673,-1,1
+Realism/vasily-perov_evening-on-holy-saturday-1873.jpg,vasily perov,0.15190077752934505,0.390167889407306,-1,1
+Realism/ivan-shishkin_evening-1892.jpg,ivan shishkin,0.27801617745369595,0.7141042129112221,-1,1
+Realism/camille-corot_old-bridge-at-limay-on-the-seine.jpg,camille corot,0.11052600715495439,0.28389386570410724,-1,1
+Realism/theodore-gericault_the-woman-with-gambling-mania-1822.jpg,theodore gericault,0.06391931244177965,0.1641812743384899,-1,1
+Realism/edouard-manet_the-port-of-bordeaux-1871-1.jpg,edouard manet,0.1663133743340657,0.4271876635496075,-1,1
+Realism/vincent-van-gogh_interior-with-peasant-woman-sewing-1885-1.jpg,vincent van gogh,0.0,0.0,1,0
+Realism/boris-kustodiev_country-fair-1921.jpg,boris kustodiev,0.21419675915401626,0.5501795237411641,-1,1
+Realism/johan-hendrik-weissenbruch_summer-landscape.jpg,johan hendrik weissenbruch,0.20072586631464093,0.5155785828305377,-1,1
+Realism/vladimir-makovsky_midday-sun-1881.jpg,vladimir makovsky,0.28320357289290243,0.7274284049460211,-1,1
+Realism/john-singer-sargent_a-street-in-venice.jpg,john singer sargent,0.22769954294020486,0.5848623788039871,-1,1
+Realism/martiros-saryan_still-life-with-matryoshka-dolls-1965.jpg,martiros saryan,0.16352795789618593,0.4200331244460929,-1,1
+Realism/ilya-repin_religious-procession-1877.jpg,ilya repin,0.14916271370909104,0.3831349788509092,-1,1
+Realism/ivan-shishkin_anthill-1892.jpg,ivan shishkin,0.2799523738841629,0.7190774703694158,-1,1
+Realism/vasily-polenov_dunkey-driver-in-cairo-1882.jpg,vasily polenov,0.19204611792412676,0.49328403526339876,-1,1
+Realism/john-singer-sargent_head-of-a-capri-girl-1878.jpg,john singer sargent,0.0,0.0,0,0
+Realism/vincent-van-gogh_sien-nursing-baby-1882-1.jpg,vincent van gogh,0.0,0.0,1,0
+Realism/john-singer-sargent_katherine-lewis-1906.jpg,john singer sargent,0.11651875172675753,0.2992866539397423,-1,1
+Realism/ivan-shishkin_after-the-rain-etude-of-the-forest-1881.jpg,ivan shishkin,0.16122276655320456,0.41411207746002804,-1,1
+Realism/ilya-repin_portrait-of-n-d-ermakov-1914.jpg,ilya repin,0.13249143744058536,0.3403136267735482,-1,1
+Realism/horia-bernea_springtime-1987.jpg,horia bernea,0.18994021798189847,0.4878748823339252,-1,1
+Realism/winslow-homer_shark-fishing-1885.jpg,winslow homer,0.2666364524395893,0.684874584445813,-1,1
+Realism/jean-francois-millet_study-for-a-woman-feeding-chickens-1859.jpg,jean francois millet,0.08171498644935093,0.20989072152531024,-1,1
+Realism/nicholas-roerich_river-landscape-1892.jpg,nicholas roerich,0.18178166444263869,0.4669190606007905,-1,1
+Realism/vasily-surikov_holy-face-1872.jpg,vasily surikov,0.15117596970761957,0.38830616925927114,-1,1
+Realism/isaac-levitan_autumn.jpg,isaac levitan,0.23416215805141663,0.601462062749029,-1,1
+Realism/ilya-repin_cavalcade-in-abramtzevo-1879.jpg,ilya repin,0.17376812984168916,0.4463357302663498,-1,1
+Realism/boris-kustodiev_tatar-who-sells-watermelons-1924.jpg,boris kustodiev,0.11116217375071524,0.28552790459460264,-1,1
+Realism/vasily-surikov_whacky-seated-on-the-snow-study-to-boyarynya-morozova-1885.jpg,vasily surikov,0.15069973225828087,0.3870829196914452,-1,1
+Realism/boris-kustodiev_self-portrait-1914.jpg,boris kustodiev,0.14537903094781734,0.3734163220990188,-1,1
+Realism/james-tissot_men-or-women-of-the-day-no-300-caricature-of-don-manuel-rances-y-villanueva.jpg,james tissot,0.20753230094730313,0.5330613915311158,-1,1
+Realism/alexey-venetsianov_the-lamentation.jpg,alexey venetsianov,0.21755594707591572,0.5588078354781255,-1,1
+Realism/mihaly-munkacsy_pluckmakers-1871.jpg,mihaly munkacsy,0.299163029657609,0.7684213982884665,-1,1
+Realism/pavel-fedotov_portrait-of-a-p-zhdanovich-1847.jpg,pavel fedotov,0.12322606254075408,0.3165148561021063,-1,1
+Realism/vasily-surikov_stepan-razin-1910.jpg,vasily surikov,0.1245064559350735,0.31980363708399534,-1,1
+Realism/vincent-van-gogh_woman-with-a-broom-1882.jpg,vincent van gogh,0.1628295790303163,0.41823928894021223,-1,1
+Realism/james-tissot_an-armenian-1889.jpg,james tissot,0.12249860186797186,0.3146463219185244,-1,1
+Realism/vincent-van-gogh_sower-1881-2.jpg,vincent van gogh,0.0,0.0,1,0
+Realism/thomas-eakins_portrait-of-robert-c-ogden-1904.jpg,thomas eakins,0.26294563942632937,0.6753944702093836,-1,1
+Realism/ivan-shishkin_coast-of-oak-grove-of-peter-the-great-in-sestroretsk-1885.jpg,ivan shishkin,0.11052600715495439,0.28389386570410724,-1,1
+Realism/andrei-ryabushkin_waiting-for-newlyweds-from-the-wedding-in-the-novgorod-province.jpg,andrei ryabushkin,0.1838679946959126,0.4722779474002293,-1,1
+Realism/martiros-saryan_under-the-apricot-tree-1954.jpg,martiros saryan,0.16774862108751692,0.43087419633555435,-1,1
+Realism/nikolay-bogdanov-belsky_farewell-of-a-new-soldier.jpg,nikolay bogdanov belsky,0.21409112588402576,0.549908197216878,-1,1
+Realism/vincent-van-gogh_blacksmith-shop(1).jpg,vincent van gogh,0.11457653425193934,0.2942979310033281,-1,1
+Realism/fyodor-vasilyev_near-a-church-valaam.jpg,fyodor vasilyev,0.23532675528757507,0.6044534131096534,-1,1
+Realism/vincent-van-gogh_skull-with-burning-cigarette-1885.jpg,vincent van gogh,0.17801724430280053,0.4572498812542973,-1,1
+Realism/pyotr-konchalovsky_bouquet-of-flowers-1932.jpg,pyotr konchalovsky,0.10137828522381155,0.26039729500308223,-1,1
+Realism/boris-kustodiev_portrait-of-y-e-proshinskaya-1901.jpg,boris kustodiev,0.11302840263011837,0.2903214454498298,-1,1
+Realism/viktor-vasnetsov_game-preference-sketch.jpg,viktor vasnetsov,0.0,0.0,1,0
+Realism/john-singer-sargent_jacques-barenton-1883.jpg,john singer sargent,0.047627837818276085,0.12233546964563963,-1,1
+Realism/thomas-eakins_portrait-of-an-old-man-in-the-nude.jpg,thomas eakins,0.23992590524569204,0.61626665502594,-1,1
+Realism/jean-francois-millet_the-sleeping-seamstress.jpg,jean francois millet,0.1677336247048356,0.43083567706610304,-1,1
+Realism/vasily-surikov_siberian-landscape-torgoshyno-1873.jpg,vasily surikov,0.11052600715495439,0.28389386570410724,-1,1
+Realism/henri-fantin-latour_flowers-and-fruit-on-a-table-1865.jpg,henri fantin latour,0.1306384092435268,0.3355539928044667,-1,1
+Realism/william-adolphe-bouguereau_love-s-scerets-1896.jpg,william adolphe bouguereau,0.18176604053463258,0.46687892948816434,-1,1
+Realism/camille-corot_breton-women-at-the-well-near-batz.jpg,camille corot,0.22485566796373968,0.5775576848099665,-1,1
+Realism/vincent-van-gogh_four-people-on-a-bench-1882(1).jpg,vincent van gogh,0.24782671096234551,0.6365604332489537,-1,1
+Realism/ilya-repin_d-v-karakozov-1866.jpg,ilya repin,0.0,0.0,1,0
+Realism/james-tissot_portrait-of-miss-l.jpg,james tissot,0.25085595015767526,0.6443412483479637,-1,1
+Realism/horia-bernea_garden-at-v-ratec-1987.jpg,horia bernea,0.15677883917138838,0.4026975357082086,-1,1
+Realism/isaac-levitan_autumn-1891.jpg,isaac levitan,0.11052600715495439,0.28389386570410724,-1,1
+Realism/nikolaos-gyzis_portrait-of-artemis-gyzi-1890-1.jpg,nikolaos gyzis,0.11034024846505779,0.28341673137237533,-1,1
+Realism/isaac-levitan_footbridge-savvinskaya-village-1884.jpg,isaac levitan,0.17748702278765277,0.45588796979572305,-1,1
+Realism/odilon-redon_bouquet-of-flowers.jpg,odilon redon,0.08712312578861042,0.22378190987825897,-1,1
+Realism/john-singer-sargent_portrait-of-lady-michaelis-1925.jpg,john singer sargent,0.0681927923467034,0.17515800969197762,-1,1
+Realism/james-mcneill-whistler_arrangement-in-grey-and-black-no-1-portrait-of-the-artist-s-mother-1871.jpg,james mcneill whistler,0.1607086209965119,0.41279145823762703,-1,1
+Realism/vincent-van-gogh_sien-under-umbrella-with-girl-1882.jpg,vincent van gogh,0.0,0.0,1,0
+Realism/fyodor-bronnikov_portrait-of-an-old-man.jpg,fyodor bronnikov,0.16592350029292208,0.42618624450329406,-1,1
+Realism/john-singer-sargent_princess-demidoff-sophie-ilarinovna.jpg,john singer sargent,0.18816958365590766,0.4833268828495216,-1,1
+Realism/vincent-van-gogh_baby-1(1).jpg,vincent van gogh,0.0,0.0,1,0
+Realism/vasily-surikov_portrait-of-a-s-matveev-in-childhood-1881.jpg,vasily surikov,0.10149072148786269,0.2606860954987163,-1,1
+Realism/ivan-kramskoy_grand-duke-mikhail-pavlovich.jpg,ivan kramskoy,0.16669514463284665,0.4281682675605711,-1,1
+Realism/jean-francois-millet_the-rock-of-castel-vendon-1848.jpg,jean francois millet,0.2112354962259591,0.5425733104918806,-1,1
+Realism/vasily-surikov_portrait-of-a-a-dobrinskaya-1911.jpg,vasily surikov,0.060910359075286115,0.15645256482544614,-1,1
+Realism/alekos-kontopoulos_drawing.jpg,alekos kontopoulos,0.08984916077361965,0.23078392352065824,-1,1
+Realism/henri-fantin-latour_a-large-bouquet-of-roses-1886.jpg,henri fantin latour,0.22668429858185185,0.5822546518721434,-1,1
+Realism/charles-francois-daubigny_fisherman-on-river-with-ducks.jpg,charles francois daubigny,0.27716956215526206,0.711929621645117,-1,1
+Realism/john-everett-millais_sweet-emma-morland.jpg,john everett millais,0.09005791515072611,0.23132012390122858,-1,1
+Impressionism/theodor-aman_landscape-with-river-and-trees.jpg,theodor aman,0.11052600715495439,0.28389386570410724,-1,1
+Realism/julius-leblanc-stewart_spanish-girl-1875(1).jpg,julius leblanc stewart,0.12062787423787728,0.3098412257039976,-1,1
+Realism/aleksey-savrasov_view-of-the-kremlin-from-the-krimsky-bridge-in-inclement-weather-1851.jpg,aleksey savrasov,0.19945069087482806,0.5123032045338091,-1,1
+Realism/henri-matisse_studio-under-the-eaves.jpg,henri matisse,0.18237749287110763,0.46844948805590797,-1,1
+Realism/vincent-van-gogh_seated-woman-2-1885.jpg,vincent van gogh,0.07441868368212078,0.19114965187794178,-1,1
+Realism/anders-zorn_spetssom-1894.jpg,anders zorn,0.1906398807702614,0.489672015685528,-1,1
+Realism/isaac-levitan_birch-grove-1889.jpg,isaac levitan,0.14727201842623183,0.3782785943081572,-1,1
+Realism/ilya-repin_head-of-a-man-1885.jpg,ilya repin,0.08628076064799481,0.2216182354430785,-1,1
+Realism/adolf-hitler_the-castle-on-the-donau.jpg,adolf hitler,0.17950320113117446,0.4610666664538663,-1,1
+Realism/vasily-perov_portrait-of-an-unknown-1875.jpg,vasily perov,0.0,0.0,0,0
+Realism/gustave-courbet_seascape-1874.jpg,gustave courbet,0.24029152844111468,0.6172057840600153,-1,1
+Realism/isaac-levitan_view-in-plyos-1888.jpg,isaac levitan,0.14711490941721195,0.3778750487078437,-1,1
+Realism/vincent-van-gogh_head-of-a-woman-5(1).jpg,vincent van gogh,0.1380651257644038,0.354630039400852,-1,1
+Realism/john-singer-sargent_mrs-charles-huntington-1898.jpg,john singer sargent,0.04701667948512712,0.12076566624623074,-1,1
+Realism/vincent-van-gogh_sketches-of-a-hen-and-a-cock-1890.jpg,vincent van gogh,0.008675991867362976,0.02228489867176626,1,0
+Realism/ivan-shishkin_the-boy-in-the-field.jpg,ivan shishkin,0.12447367615754211,0.3197194399072416,-1,1
+Realism/nikolay-bogdanov-belsky_spring-portrait-of-lady-i-baumane.jpg,nikolay bogdanov belsky,0.2501261624916556,0.642466737117688,-1,1
+Realism/ilya-repin_the-model.jpg,ilya repin,0.2323144676398763,0.5967161392595357,-1,1
+Realism/ilya-mashkov_still-life-fruits-1939.jpg,ilya mashkov,0.12072490816227195,0.31009046420098063,-1,1
+Realism/ivan-kramskoy_portrait-of-yuri-stepanovich-nechaev-maltsev-1885.jpg,ivan kramskoy,0.08416866854557405,0.21619317751224498,-1,1
+Realism/vincent-van-gogh_orphan-man-standing-1882.jpg,vincent van gogh,0.0,0.0,1,0
+Realism/vincent-van-gogh_peasant-woman-gleaning-1885-1.jpg,vincent van gogh,0.10428592350217197,0.2678657695473196,-1,1
+Realism/ivan-shishkin_at-the-top-of-the-ai-petri-1879.jpg,ivan shishkin,0.1754414409434169,0.45063374816659924,-1,1
+Realism/vasily-polenov_erechtheion-the-portico-of-caryatids-1882-1.jpg,vasily polenov,0.267555983228188,0.687236464304942,-1,1
+Realism/ivan-shishkin_forest-landscape-1874.jpg,ivan shishkin,0.14727201842623183,0.3782785943081572,-1,1
+Realism/julius-leblanc-stewart_at-home-1897(1).jpg,julius leblanc stewart,0.13029682487832125,0.3346766092058144,-1,1
+Realism/william-merritt-chase_the-apprentice-aka-boy-smoking.jpg,william merritt chase,0.0,0.0,0,0
+Realism/constant-troyon_cows-in-a-landscape.jpg,constant troyon,0.16306812551622027,0.4188520124591073,-1,1
+Realism/martiros-saryan_cliff-in-the-slope-of-aragats-1958.jpg,martiros saryan,0.2623623520755757,0.6738962553992746,-1,1
+Realism/vincent-van-gogh_seated-man-with-a-beard-1886.jpg,vincent van gogh,0.14618153263127176,0.37547760442536326,-1,1
+Realism/vasily-tropinin_ustim-karmaluk.jpg,vasily tropinin,0.16835256749309807,0.4324254753889825,-1,1
+Realism/camille-corot_the-artist-s-studio.jpg,camille corot,0.13947079967348844,0.35824061224467124,-1,1
+Realism/peder-severin-kroyer_hip-hip-hurrah-1888.jpg,peder severin kroyer,0.22392436127983864,0.5751655577309699,-1,1
+Realism/isaac-levitan_coleus-1894.jpg,isaac levitan,0.0977036063608075,0.2509586224725815,-1,1
+Realism/pavel-fedotov_portrait-of-ye-p-zhdanovich-1847.jpg,pavel fedotov,0.0,0.0,0,0
+Realism/ivan-shishkin_forest-landscape-with-herons-1870.jpg,ivan shishkin,0.14727201842623183,0.3782785943081572,-1,1
+Realism/anders-zorn_motherhood.jpg,anders zorn,0.18775733635031358,0.4822679964912446,-1,1
+Realism/vincent-van-gogh_scheveningen-woman-with-wheeelbarrow-1883.jpg,vincent van gogh,0.0,0.0,1,0
+Realism/ivan-shishkin_edge-of-the-forest-1866.jpg,ivan shishkin,0.17388467989512504,0.4466350973209431,-1,1
+Realism/aleksey-savrasov_tomb-of-the-volga-1871.jpg,aleksey savrasov,0.13401900111878232,0.34423728210929677,-1,1
+Realism/ivan-kramskoy_portrait-of-a-woman-1.jpg,ivan kramskoy,0.0883783684781467,0.22700608949627119,-1,1
+Realism/william-merritt-chase_still-life-with-pepper-and-carrot.jpg,william merritt chase,0.054692068833934876,0.14048044658713524,-1,1
+Realism/robert-brackman_r-verie-1957.jpg,robert brackman,0.19728430037884898,0.5067386773391743,-1,1
+Realism/vasily-vereshchagin_turkestan-officer-when-there-will-no-campaign-1873.jpg,vasily vereshchagin,0.16068490174854635,0.4127305336718179,-1,1
+Realism/william-merritt-chase_portrait-of-james-whitcomb-riley.jpg,william merritt chase,0.049406122038655645,0.1269031184247762,-1,1
+Realism/nicholas-roerich_hunting-the-bears.jpg,nicholas roerich,0.09649257502381361,0.24784800284017228,-1,1
+Realism/m.c.-escher_not_detected_204717.jpg,m.c. escher,0.17239558135178076,0.44281024240429273,-1,1
+Realism/john-singer-sargent_the-archbishop-of-canterbury-randall-thomas-davidson-1910.jpg,john singer sargent,0.2276075003581005,0.5846259609226612,-1,1
+Realism/vasily-perov_last-journey-1865.jpg,vasily perov,0.14154717553300125,0.36357393047976644,-1,1
+Realism/mary-cassatt_the-sailor-boy-gardener-cassatt-1892.jpg,mary cassatt,0.0,0.0,0,0
+Realism/ivan-vladimirov_three-horses-1919.jpg,ivan vladimirov,0.1858970565958938,0.47748973638425546,-1,1
+Realism/giovanni-boldini_portrait-of-gladys-deacon-1908.jpg,giovanni boldini,0.21968588842352335,0.5642787404575085,-1,1
+Realism/vasily-vereshchagin_eaters-of-opium-1868.jpg,vasily vereshchagin,0.10842649712164248,0.2785011257075755,-1,1
+Realism/mary-cassatt_the-flirtation-a-balcony-in-seville-1872.jpg,mary cassatt,0.1366690192049417,0.35104404097113506,-1,1
+Realism/vasily-polenov_at-the-foot-of-the-mountain.jpg,vasily polenov,0.2408831392922859,0.6187253783695792,-1,1
+Realism/vincent-van-gogh_a-digger-1881(1).jpg,vincent van gogh,0.19207244483604058,0.49335165779847134,-1,1
+Realism/yiannis-moralis_nude-standing.jpg,yiannis moralis,0.19089965814393084,0.49033927224108315,-1,1
+Realism/martiros-saryan_lilac-1940.jpg,martiros saryan,0.18712871297943323,0.48065333290730666,-1,1
+Realism/constantin-artachino_almond-bargainer.jpg,constantin artachino,0.07640748478488356,0.19625802815709525,-1,1
+Realism/mikhail-nesterov_portrait-of-ivan-pavlov-1930.jpg,mikhail nesterov,0.10964693891068883,0.2816359167515825,-1,1
+Realism/james-tissot_remembrance-ball-on-board-1.jpg,james tissot,0.12570479072281734,0.32288164473176423,-1,1
+Realism/vasily-vereshchagin_soldiers-in-the-snow-1878.jpg,vasily vereshchagin,0.18345462665165876,0.4712161823454468,-1,1
+Realism/john-singer-sargent_mrs-william-russell-cooke-1895.jpg,john singer sargent,0.06352590787647482,0.16317078689119205,-1,1
+Realism/edouard-manet_the-dead-christ-with-angels-1864.jpg,edouard manet,0.20057417453284584,0.515188951761454,-1,1
+Realism/ilya-repin_chopper-litvin-zdravnevo-1897.jpg,ilya repin,0.209310352247742,0.5376284420389127,-1,1
+Realism/isaac-levitan_landscape-with-moon.jpg,isaac levitan,0.1484401344201804,0.3812789828470097,-1,1
+Realism/nikolai-ge_conscience-judas.jpg,nikolai ge,0.24980968457660943,0.6416538412117817,-1,1
+Realism/andrei-ryabushkin_sagittarius.jpg,andrei ryabushkin,0.17278561914884458,0.44381208206926787,-1,1
+Realism/mikhail-nesterov_portrait-of-otto-shmidt-1937.jpg,mikhail nesterov,0.056400324159270245,0.14486822119695336,-1,1
+Realism/ilya-repin_head-of-a-man.jpg,ilya repin,0.0,0.0,0,0
+Realism/vasily-polenov_portrait-n-v-yakunchikova-1879.jpg,vasily polenov,0.0,0.0,1,0
+Realism/henri-fantin-latour_chrysanthemums-1879.jpg,henri fantin latour,0.08712312578861042,0.22378190987825897,-1,1
+Realism/winslow-homer_prisoners-from-the-front-1866.jpg,winslow homer,0.190035300215887,0.48811910777607775,-1,1
+Realism/ivan-shishkin_fir-forest-1891.jpg,ivan shishkin,0.14727201842623183,0.3782785943081572,-1,1
+Realism/aleksey-savrasov_spring-landscape-1890.jpg,aleksey savrasov,0.3008826961493298,0.7728384832861357,-1,1
+Realism/vasily-surikov_female-portrait-1885.jpg,vasily surikov,0.2182535488693393,0.5605996750184745,-1,1
+Realism/vincent-van-gogh_idol-3.jpg,vincent van gogh,0.05589627387734331,0.14357353240171927,-1,1
+Realism/ilya-repin_portrait-of-the-chello-player-alexander-verzhbilovich-1895.jpg,ilya repin,0.0,0.0,0,0
+Realism/john-collier_sir-george-biddell-airy-1801-1892-1883.jpg,john collier,0.0691393960530076,0.1775894282548121,-1,1
+Realism/valentin-serov_trishka-s-coat.jpg,valentin serov,0.008675991867362976,0.02228489867176626,1,0
+Realism/vincent-van-gogh_orphan-man-in-sunday-clothes-with-eye-bandage-1882.jpg,vincent van gogh,0.13110605854237908,0.33675518310041996,-1,1
+Realism/vasily-polenov_the-temple-of-isis-on-philae-island-1882.jpg,vasily polenov,0.198521279471607,0.509915945617272,-1,1
+Realism/vasily-polenov_montenegrin-1876.jpg,vasily polenov,0.1722432446190937,0.4424189547332324,-1,1
+Realism/james-mcneill-whistler_the-unsafe-tenement.jpg,james mcneill whistler,0.06011217667599084,0.1544023768859214,-1,1
+Realism/vincent-van-gogh_lower-part-of-the-windmill-de-laakmolen-1882.jpg,vincent van gogh,0.0829991675383625,0.21318923146887933,-1,1
+Realism/isaac-levitan_small-hut-in-a-meadow.jpg,isaac levitan,0.11052600715495439,0.28389386570410724,-1,1
+Realism/vincent-van-gogh_sien-s-mother-s-house-seen-from-the-backyard-1882.jpg,vincent van gogh,0.1745933568427895,0.4484553841781874,-1,1
+Realism/ivan-shishkin_wind-fallen-trees-1880.jpg,ivan shishkin,0.2786424305345443,0.7157127882375874,-1,1
+Realism/pyotr-konchalovsky_two-standing-models-1934.jpg,pyotr konchalovsky,0.14289254510174967,0.3670296073607487,-1,1
+Realism/mikhail-nesterov_snowballs-1879.jpg,mikhail nesterov,0.17707748081042837,0.45483603226468267,-1,1
+Realism/jean-francois-millet_the-infant-the-sick-child-1858.jpg,jean francois millet,0.2185692660470018,0.561410616916612,-1,1
+Realism/vincent-van-gogh_lane-with-poplars.jpg,vincent van gogh,0.18550999934478157,0.47649555246233916,-1,1
+Realism/ilya-repin_on-the-terrace-1908.jpg,ilya repin,0.2545731002673854,0.6538890112791677,-1,1
+Realism/nikolai-ge_self-portrait.jpg,nikolai ge,0.22190235292812982,0.5699718862845036,-1,1
+Realism/mikhail-vrubel_salieri-pours-poison-into-a-mozart-s-glass-1884.jpg,mikhail vrubel,0.0,0.0,1,0
+Realism/vincent-van-gogh_man-winding-yarn-1884.jpg,vincent van gogh,0.05510958443957474,0.14155286494665054,-1,1
+Realism/vincent-van-gogh_sketches-of-heads-1884.jpg,vincent van gogh,0.0,0.0,1,0
+Realism/jean-francois-millet_shepherdess-with-the-distaff-in-auvergne.jpg,jean francois millet,0.08335214738908941,0.2140958851779745,-1,1
+Realism/konstantinos-volanakis_the-burning-of-a-turkish-frigate-1.jpg,konstantinos volanakis,0.3081050689659225,0.7913896586270144,-1,1
+Realism/vasily-vereshchagin_indian-motif-1875.jpg,vasily vereshchagin,0.09528702176414064,0.2447514540367678,-1,1
+Realism/viktor-vasnetsov_portrait-of-mikhail-nesterov-1926-1.jpg,viktor vasnetsov,0.0,0.0,0,0
+Realism/nikolai-ge_marble-quarry-at-carrara.jpg,nikolai ge,0.22101539222183733,0.567693664985113,-1,1
+Realism/gustave-courbet_sleeping-nude.jpg,gustave courbet,0.1378202264646968,0.35400099823043707,-1,1
+Realism/konstantinos-volanakis_mending-the-nets(1).jpg,konstantinos volanakis,0.2418005119199966,0.6210817148398436,-1,1
+Realism/winslow-homer_after-the-hunt.jpg,winslow homer,0.146249570783101,0.37565236522995005,-1,1
+Realism/william-merritt-chase_a-study-in-curves.jpg,william merritt chase,0.17140710832321793,0.44027127952626594,-1,1
+Realism/charles-francois-daubigny_french-river-scene-1871.jpg,charles francois daubigny,0.14270046537692202,0.3665362370037769,-1,1
+Realism/vasily-surikov_venice-saint-mark-s-basilica-1900.jpg,vasily surikov,0.18495274272363865,0.4750641994221115,-1,1
+Realism/vincent-van-gogh_woman-at-the-window-knitting-1882.jpg,vincent van gogh,0.12699096945173372,0.32618528575470057,-1,1
+Realism/arkhip-kuindzhi_night-1.jpg,arkhip kuindzhi,0.21246486379241708,0.5457310280263945,-1,1
+Realism/ivan-shishkin_before-sunset.jpg,ivan shishkin,0.12224880571366584,0.3140047028307694,-1,1
+Realism/konstantin-makovsky_genre-scene-1.jpg,konstantin makovsky,0.1440582004870551,0.3700236756522886,-1,1
+Realism/thomas-eakins_grouse.jpg,thomas eakins,0.28304950180432087,0.7270326624591932,-1,1
+Realism/camille-corot_alexina-ledoux.jpg,camille corot,0.17554458209919355,0.4508986735192863,-1,1
+Realism/vasily-polenov_the-ghosts-of-hellas.jpg,vasily polenov,0.21410221751714864,0.5499366868609471,-1,1
+Realism/boris-kustodiev_ride-1915.jpg,boris kustodiev,0.19406491375968216,0.4984694551349379,-1,1
+Realism/ilya-repin_two-ukrainian-peasants-1880.jpg,ilya repin,0.11037707204325534,0.283511315337115,-1,1
+Realism/ilya-repin_portrait-of-the-artist-viktor-vasnetsov-1882.jpg,ilya repin,0.14723886850581497,0.3781934463932259,-1,1
+Realism/vasily-polenov_manor-of-v-d-polenov-1910.jpg,vasily polenov,0.20172088153815768,0.5181343497989633,-1,1
+Realism/ivan-shishkin_cliff-1878.jpg,ivan shishkin,0.13937307748246697,0.35798960588618345,-1,1
+Realism/james-tissot_caricature-of-william-bathurst-5th-earl-bathurst.jpg,james tissot,0.15141386235792445,0.3889172133551912,-1,1
+Realism/henri-fantin-latour_roses-1881.jpg,henri fantin latour,0.09585092905254827,0.24619988978619572,-1,1
+Realism/isaac-levitan_about-nightfall-grove.jpg,isaac levitan,0.14727201842623183,0.3782785943081572,-1,1
+Realism/john-singer-sargent_portrait-of-carolus-duran-1879.jpg,john singer sargent,0.1455590639441496,0.37387874958191347,-1,1
+Realism/arkhip-kuindzhi_ploughing-on-oxen.jpg,arkhip kuindzhi,0.06886947459095875,0.1768961158908712,-1,1
+Realism/winslow-homer_nach-dem-tornado.jpg,winslow homer,0.20468579079884808,0.5257499289114815,-1,1
+Realism/giovanni-boldini_still-life-with-rose.jpg,giovanni boldini,0.16293046571374686,0.4184984235212436,-1,1
+Realism/ivan-kramskoy_portrait-of-princess-catherine-alekseevny-vasilchikova-1867.jpg,ivan kramskoy,0.1857712288134653,0.47716653882662974,-1,1
+Realism/martiros-saryan_cover-of-armenian-folk-tales.jpg,martiros saryan,0.17814032305579303,0.45756601773540706,-1,1
+Realism/vasily-perov_paris-sharmanschitsa-sketch-1863.jpg,vasily perov,0.03383359614174842,0.0869039843797702,1,0
+Realism/vincent-van-gogh_peasant-burning-weeds-1883.jpg,vincent van gogh,0.17741235643997535,0.4556961840013586,-1,1
+Realism/ilya-repin_christ-1884.jpg,ilya repin,0.0,0.0,0,0
+Realism/boris-kustodiev_portrait-of-a-woman-portrait-of-the-lord-laputin-s-bride-1922.jpg,boris kustodiev,0.09711249265047965,0.24944030510443124,-1,1
+Realism/konstantin-makovsky_children-in-a-field.jpg,konstantin makovsky,0.2488509337651229,0.6391912219502511,-1,1
+Realism/john-everett-millais_view-near-hampstead.jpg,john everett millais,0.11052600715495439,0.28389386570410724,-1,1
+Realism/johan-hendrik-weissenbruch_forest-view-near-barbizon-1900.jpg,johan hendrik weissenbruch,0.25762809145192933,0.6617359721836381,-1,1
+Realism/thomas-eakins_maud-cook-1895.jpg,thomas eakins,0.04973934653615662,0.127759029112025,-1,1
+Realism/aleksey-savrasov_early-spring.jpg,aleksey savrasov,0.1930034800360386,0.49574308755186386,-1,1
+Realism/camille-corot_the-little-nest-harriers.jpg,camille corot,0.11052600715495439,0.28389386570410724,-1,1
+Realism/ilya-repin_portrait-of-poet-grand-prince-konstantin-konstantinovich-romanov-1891.jpg,ilya repin,0.0,0.0,0,0
+Realism/klavdy-lebedev_sostrunka-b-r-im-wald-bers-m-google-sprachtools-1907.jpg,klavdy lebedev,0.24719453131138616,0.634936635108135,-1,1
+Realism/ivan-shishkin_hovel-1861.jpg,ivan shishkin,0.19875094270866148,0.5105058518832797,-1,1
+Realism/james-mcneill-whistler_blue-and-silver-the-blue-wave-biarritz.jpg,james mcneill whistler,0.1949879121002939,0.5008402416466353,-1,1
+Realism/boris-kustodiev_portrait-of-v-zamirailo-1922-1.jpg,boris kustodiev,0.16539821468960714,0.4248370112833269,-1,1
+Realism/george-catlin_sioux-war-council.jpg,george catlin,0.18224196358932238,0.4681013715111008,-1,1
+Realism/vincent-van-gogh_barn-with-moss-covered-roof-1881(1).jpg,vincent van gogh,0.12902477218196998,0.3314092518965052,-1,1
+Realism/giovanni-boldini_in-the-studio.jpg,giovanni boldini,0.17288750271221312,0.4440737772069186,-1,1
+Realism/aleksey-savrasov_winter-1873.jpg,aleksey savrasov,0.26228999952124127,0.6737104127467415,-1,1
+Realism/salvador-dali_geodesic-portrait-of-gala.jpg,salvador dali,0.08226907565679695,0.21131393883946,-1,1
+Realism/anders-zorn_bed-on-the-loft.jpg,anders zorn,0.12537591560094455,0.32203690572340143,-1,1
+Realism/anders-zorn_cabin-1917.jpg,anders zorn,0.12690960278024951,0.32597628970479586,-1,1
+Realism/pyotr-konchalovsky_carcase-of-calf-1946.jpg,pyotr konchalovsky,0.204827736218612,0.5261145257604319,-1,1
+Realism/vincent-van-gogh_the-schenkweg-1882.jpg,vincent van gogh,0.04941009665842964,0.1269133275167482,-1,1
+Realism/gustave-courbet_landscape-bald-rock-in-the-valley-of-ornans-1864.jpg,gustave courbet,0.12717586837094152,0.3266602117046159,-1,1
+Realism/camille-corot_two-figures-working-in-the-fields.jpg,camille corot,0.13301325699282907,0.34165395719622205,-1,1
+Realism/ivan-shishkin_pine-forest.jpg,ivan shishkin,0.14727201842623183,0.3782785943081572,-1,1
+Realism/pyotr-konchalovsky_still-life-two-rabbits-1931.jpg,pyotr konchalovsky,0.18270420392198197,0.4692886684948696,-1,1
+Realism/theodore-rousseau_not_detected_198939.jpg,theodore rousseau,0.1278883458306964,0.3284902604459341,-1,1
+Realism/vasily-polenov_saviour-jacob-monastery-in-rostov-1860.jpg,vasily polenov,0.016498240151675822,0.04237689657428301,1,0
+Impressionism/octav-bancila_portret.jpg,octav bancila,0.07595791097479633,0.19510326603232175,-1,1
+Realism/ilya-repin_birch-trees-sunny-day.jpg,ilya repin,0.25342298555378456,0.650934860301927,-1,1
+Realism/camille-corot_saint-nicholas-les-arras-willows-on-the-banks-of-the-scarpe-1872.jpg,camille corot,0.16141583846790825,0.41460799632686346,-1,1
+Realism/ivan-vladimirov_in-the-queue-for-bread-first-world-war.jpg,ivan vladimirov,0.12710059615042954,0.3264668696830289,-1,1
+Realism/alexey-bogolyubov_battle-of-sinop.jpg,alexey bogolyubov,0.18493407011245963,0.47501623749978333,-1,1
+Realism/david-burliuk_great-peconick-bay-l-i-n-y.jpg,david burliuk,0.2146646461386711,0.5513813245499102,-1,1
+Realism/ilya-repin_sketches-of-leo-tolstoy-1891.jpg,ilya repin,0.13903149681104515,0.35711223177527585,-1,1
+Realism/maxime-lalanne_ruins-of-the-gallien-palace.jpg,maxime lalanne,0.19655778557486203,0.5048725726864842,-1,1
+Realism/vasily-perov_wayfarer-1873.jpg,vasily perov,0.0,0.0,1,0
+Realism/gustave-courbet_still-life-of-flowers-1863.jpg,gustave courbet,0.08712312578861042,0.22378190987825897,-1,1
+Realism/winslow-homer_sunset-fires.jpg,winslow homer,0.18950473213263516,0.4867563061328192,-1,1
+Realism/john-singer-sargent_mrs-robertson-1880.jpg,john singer sargent,0.11140061329938031,0.2861403534376371,-1,1
+Realism/pyotr-konchalovsky_a-girl-with-a-bird-1954.jpg,pyotr konchalovsky,0.17888425029936977,0.4594768474705798,-1,1
+Realism/henri-fantin-latour_roses-in-a-vase-1888.jpg,henri fantin latour,0.08712312578861042,0.22378190987825897,-1,1
+Realism/alexey-bogolyubov_alley-in-the-park-liechtenstein-1889.jpg,alexey bogolyubov,0.1801014922067975,0.46260341939235583,-1,1
+Realism/isaac-levitan_seashore-with-sea-view.jpg,isaac levitan,0.1858829460494943,0.4774534924479397,-1,1
+Realism/pierre-auguste-renoir_the-fairies-pond-1866.jpg,pierre auguste renoir,0.23223786124483917,0.596519370316329,-1,1
+Realism/ivan-shishkin_on-a-stream-1895.jpg,ivan shishkin,0.25883196799833513,0.6648282142304398,-1,1
+Realism/james-tissot_emigrants.jpg,james tissot,0.18934925086806473,0.4863569415092372,-1,1
+Realism/aleksey-savrasov_to-matins-1890.jpg,aleksey savrasov,0.211559215735635,0.5434048069457141,-1,1
+Realism/johan-hendrik-weissenbruch_fisherman-in-polder-landscape.jpg,johan hendrik weissenbruch,0.20532641423064815,0.5273954155005282,-1,1
+Realism/ilya-repin_reading-portrait-of-natalia-b-nordman-1901.jpg,ilya repin,0.0931774597055233,0.2393328947023664,-1,1
+Realism/nicholas-roerich_priest-from-gryzovo-1893.jpg,nicholas roerich,0.15489444261946622,0.39785732990131045,-1,1
+Realism/pyotr-konchalovsky_willows-1947.jpg,pyotr konchalovsky,0.11130173362162035,0.2858863739926048,-1,1
+Realism/homer-watson_horse-and-cart-with-cottage-under-stormy-sky.jpg,homer watson,0.11052600715495439,0.28389386570410724,-1,1
+Realism/anders-zorn_out-1888.jpg,anders zorn,0.2860396573466892,0.7347130884316015,-1,1
+Realism/ivan-shishkin_wind-fallen-trees-1890.jpg,ivan shishkin,0.15256223683056286,0.39186689440045114,-1,1
+Realism/camille-corot_the-raging-one.jpg,camille corot,0.21143699573262628,0.543090876224668,-1,1
+Realism/ivan-kramskoy_portrait-of-the-poet-yakov-polonsky-1875.jpg,ivan kramskoy,0.0,0.0,0,0
+Realism/henri-fantin-latour_self-portrait-1861.jpg,henri fantin latour,0.10019090373735837,0.25734742168428865,-1,1
+Realism/vincent-van-gogh_basket-of-potatoes-1885-1(1).jpg,vincent van gogh,0.1769177418297381,0.45442573139614395,-1,1
+Impressionism/frederic-remington_self-portrait-on-a-horse-1890.jpg,frederic remington,0.18456326770788387,0.47406380530072806,-1,1
+Realism/eugene-boudin_a-horse-drinking.jpg,eugene boudin,0.20483377395190805,0.5261300341053874,-1,1
+Realism/ferdinand-hodler_the-angry-one.jpg,ferdinand hodler,0.04800661504157701,0.12330838573056442,-1,1
+Realism/nicholas-roerich_mikhail-ivanovich-1893.jpg,nicholas roerich,0.178707225530696,0.4590221468331659,-1,1
+Realism/john-everett-millais_my-second-sermon-1864.jpg,john everett millais,0.056086253823298404,0.1440615093281619,-1,1
+Realism/pyotr-konchalovsky_apples-against-the-blue-sky-1930.jpg,pyotr konchalovsky,0.19027719745609267,0.48874043794435995,-1,1
+Realism/nicholas-roerich_izvara-1897.jpg,nicholas roerich,0.13270274709740398,0.34085639057076694,-1,1
+Realism/homer-watson_horse-and-rider-in-a-landscape-1887.jpg,homer watson,0.13971663768310152,0.35887206455786497,-1,1
+Realism/grigoriy-myasoyedov_enbarkement-in-yalta-1890.jpg,grigoriy myasoyedov,0.22952229688435272,0.5895442512134922,-1,1
+Realism/martiros-saryan_may-flowers-1947.jpg,martiros saryan,0.2059049022786749,0.5288813029621795,-1,1
+Realism/constantin-stahi_still-life-with-fruit-1902.jpg,constantin stahi,0.1337844309517845,0.3436347720467148,-1,1
+Realism/ferdinand-hodler_autumn-evening-1892.jpg,ferdinand hodler,0.19163558971141684,0.49222956451676786,-1,1
+Realism/ivan-kramskoy_portrait-of-feodor-petrushevsky-1882.jpg,ivan kramskoy,0.0,0.0,0,0
+Realism/boris-kustodiev_portrait-of-i-b-kustodieva-1906.jpg,boris kustodiev,0.08416782529757066,0.21619101157011436,-1,1
+Realism/salvador-dali_the-chemist-of-ampurden-in-search-of-absolutely-nothing-1936-oil-on-panel-1936.jpg,salvador dali,0.19614527184373567,0.5038130019953861,-1,1
+Realism/john-singer-sargent_captain-john-spicer.jpg,john singer sargent,0.06899870082752402,0.17722804261828362,-1,1
+Realism/vasily-surikov_cossack-dmitry-sokol-1893.jpg,vasily surikov,0.2390342512825512,0.6139763787644303,-1,1
+Realism/eugene-boudin_fine-weather-on-the-estuary.jpg,eugene boudin,0.25381485522705977,0.6519414052705003,-1,1
+Realism/thomas-eakins_studies-for-william-rush-1876.jpg,thomas eakins,0.0,0.0,1,0
+Realism/camille-corot_watercourse-leading-to-the-square-tower-1870.jpg,camille corot,0.17741235643997535,0.4556961840013586,-1,1
+Realism/vincent-van-gogh_autumn-landscape-with-four-trees-1885(1).jpg,vincent van gogh,0.17809992868475943,0.4574622619367439,-1,1
+Realism/camille-pissarro_laundress-on-the-banks-of-the-river.jpg,camille pissarro,0.11052600715495439,0.28389386570410724,-1,1
+Realism/octav-bancila_copiii-pictorului-1914.jpg,octav bancila,0.08186464468642375,0.21027512929096395,-1,1
+Realism/alexey-venetsianov_haymaking-1.jpg,alexey venetsianov,0.19168103988087765,0.49234630649123406,-1,1
+Realism/ilya-repin_self-portrait.jpg,ilya repin,0.06010353469616442,0.1543801793495821,-1,1
+Realism/paul-mathiopoulos_male-nude-1897.jpg,paul mathiopoulos,0.23995729381464953,0.6163472787850863,-1,1
+Realism/vasily-sadovnikov_school-for-peasants-children-in-verkiai-1848.jpg,vasily sadovnikov,0.22695741550124782,0.5829561719942611,-1,1
+Realism/fyodor-bronnikov_the-garden-arbor-1880.jpg,fyodor bronnikov,0.15737883070494305,0.40423865639315076,-1,1
+Realism/ivan-shishkin_kama-near-yelabuga-1895.jpg,ivan shishkin,0.1850111922474967,0.4752143311576528,-1,1
+Realism/vasily-surikov_moscow-yard-1880.jpg,vasily surikov,0.19845981836550294,0.5097580784197547,-1,1
+Realism/yiannis-moralis_still-life-1939.jpg,yiannis moralis,0.04163709370411639,0.1069478197269328,1,0
+Realism/fyodor-vasilyev_barns.jpg,fyodor vasilyev,0.1271103757789078,0.3264919893503842,-1,1
+Realism/aleksey-savrasov_do-icons.jpg,aleksey savrasov,0.23334245822172905,0.5993566057678431,-1,1
+Realism/thomas-eakins_portrait-of-elizabeth-r-coffin.jpg,thomas eakins,0.2781196672635697,0.7143700338066141,-1,1
+Realism/john-singer-sargent_moorish-courtyard-1913.jpg,john singer sargent,0.20731517536071906,0.5325036891069957,-1,1
+Realism/vincent-van-gogh_sowers-1882.jpg,vincent van gogh,0.13293878723033337,0.34146267634479915,-1,1
+Realism/vincent-van-gogh_still-life-with-two-sacks-and-a-bottle-1884.jpg,vincent van gogh,0.13140420351331142,0.3375209895428761,-1,1
+Realism/winslow-homer_perils-of-the-sea.jpg,winslow homer,0.1747535526045188,0.4488668583211281,-1,1
+Realism/pyotr-konchalovsky_birch-trees-by-the-fence-1938.jpg,pyotr konchalovsky,0.23825642648304235,0.6119784807596331,-1,1
+Realism/anders-zorn_nymph-and-faun-1895.jpg,anders zorn,0.2841717707705822,0.7299152896651594,-1,1
+Realism/pyotr-konchalovsky_self-portrait-sharpening-a-razor-1931.jpg,pyotr konchalovsky,0.1032411178974956,0.26518211246374246,-1,1
+Realism/vincent-van-gogh_bowl-with-peonies-and-roses-1886(1).jpg,vincent van gogh,0.09636873555640206,0.2475299124102799,-1,1
+Realism/theodore-rousseau_alley-chestnut-from-the-castle-shoes.jpg,theodore rousseau,0.1732279744754861,0.44494830300882465,-1,1
+Realism/camille-corot_at-civita-castellana-wooded-rocks.jpg,camille corot,0.28233026750744794,0.7251852583038982,-1,1
+Realism/ivan-shishkin_last-rays-1865.jpg,ivan shishkin,0.2492402662470844,0.6401912499635065,-1,1
+Realism/vincent-van-gogh_head-of-a-peasant-woman-with-white-cap-1885-6.jpg,vincent van gogh,0.08173990515464077,0.20995472698208165,-1,1
+Realism/thomas-eakins_ships-and-sailboats-on-the-delaware-1874.jpg,thomas eakins,0.18011838696086171,0.46264681476295566,-1,1
+Realism/camille-corot_roman-countryside.jpg,camille corot,0.11052600715495439,0.28389386570410724,-1,1
+Realism/camille-corot_roses-in-a-glass-1874.jpg,camille corot,0.1336006214834497,0.343162644428412,-1,1
+Realism/vincent-van-gogh_sower-1881-1.jpg,vincent van gogh,0.0,0.0,1,0
+Realism/aleksey-savrasov_volga-1870-1.jpg,aleksey savrasov,0.16853711685241482,0.43289950346959705,-1,1
+Realism/camille-corot_fountainebleau-with-georges-d-apremont.jpg,camille corot,0.11992849839689936,0.3080448293970458,-1,1
+Realism/vasily-polenov_s-i-mamontov-p-a-spiro-at-the-piano-1882.jpg,vasily polenov,0.05516847365216968,0.14170412605380706,-1,1
+Realism/james-tissot_type-of-jew-1889-4.jpg,james tissot,0.12118889317721404,0.3112822425245748,-1,1
+Realism/vladimir-makovsky_old-man-with-a-pipe-1881.jpg,vladimir makovsky,0.11851229199503473,0.30440720310067026,-1,1
+Realism/james-tissot_the-hammock.jpg,james tissot,0.1333602159234137,0.3425451457461363,-1,1
+Realism/william-adolphe-bouguereau_the-younger-brother-1900.jpg,william adolphe bouguereau,0.20504427386835175,0.5266707180271888,-1,1
+Realism/constantin-stahi_still-life-1916.jpg,constantin stahi,0.14239160403173218,0.36574290479618543,-1,1
+Realism/isaac-levitan_autumn-1896-1.jpg,isaac levitan,0.1327996024972224,0.34110517051475076,-1,1
+Realism/pyotr-konchalovsky_still-life-lilacs-pyotr-konchalovsky-1933.jpg,pyotr konchalovsky,0.0881729438165351,0.22647844172542467,-1,1
+Realism/ilya-repin_italian-models-1870.jpg,ilya repin,0.18546066802632838,0.4763688414822137,-1,1
+Realism/homer-watson_the-flood-gate-1901.jpg,homer watson,0.22176885501321994,0.5696289874491728,-1,1
+Realism/theodore-rousseau_landscape-7.jpg,theodore rousseau,0.1691712952375381,0.4345284355004649,-1,1
+Realism/vasily-surikov_portrait-of-princess-p-i-shcherbatova-1910.jpg,vasily surikov,0.14733129358547767,0.3784308467465804,-1,1
+Realism/vincent-van-gogh_plaster-torso-of-a-woman-1886.jpg,vincent van gogh,0.006338740474540184,0.01628150318041807,1,0
+Realism/henri-fantin-latour_queens-daisies-1872.jpg,henri fantin latour,0.1080768491922816,0.27760303027414024,-1,1
+Realism/gustave-courbet_bouquet-of-flowers.jpg,gustave courbet,0.08992306455179723,0.230973750601334,-1,1
+Realism/isaac-levitan_felling-1898.jpg,isaac levitan,0.19134236850085803,0.49147640510103624,-1,1
+Impressionism/james-mcneill-whistler_green-and-violet-portrait-of-mrs-walter-sickert-1886.jpg,james mcneill whistler,0.11412613037127427,0.29314103678357334,-1,1
+Realism/konstantin-bogaevsky_landscape-1928.jpg,konstantin bogaevsky,0.24640278025563517,0.6329029665293241,-1,1
+Realism/george-catlin_see-non-ty-a-an-iowa-medicine-man-1845.jpg,george catlin,0.0900717864755362,0.23135575337997424,-1,1
+Realism/winslow-homer_the-carnival.jpg,winslow homer,0.09959520843083479,0.2558173361623022,-1,1
+Realism/john-singer-sargent_henry-g-marquand.jpg,john singer sargent,0.0,0.0,0,0
+Realism/theodore-rousseau_road-in-the-forest-of-fontainebleau.jpg,theodore rousseau,0.2378947726199171,0.6110495472362724,-1,1
+Realism/isaac-levitan_seashore-in-crimea-1886.jpg,isaac levitan,0.1759765250451076,0.4520081495225879,-1,1
+Realism/pyotr-konchalovsky_the-moon-through-the-trees-1923.jpg,pyotr konchalovsky,0.24577125243153664,0.6312808426518943,-1,1
+Realism/ilya-repin_portrait-of-the-actor-pavel-samoylov-1915.jpg,ilya repin,0.10755186633900585,0.276254574689059,-1,1
+Realism/camille-corot_windmill-on-the-cote-de-picardie-near-versailles.jpg,camille corot,0.11052600715495439,0.28389386570410724,-1,1
+Realism/vincent-van-gogh_peasant-woman-at-the-washtub-1885.jpg,vincent van gogh,0.0,0.0,1,0
+Realism/mihaly-munkacsy_churning-woman-1873.jpg,mihaly munkacsy,0.14404546200366036,0.36999095595683207,-1,1
+Realism/vincent-van-gogh_old-street-the-paddemoes-1882.jpg,vincent van gogh,0.12113127167555951,0.3111342376226204,-1,1
+Realism/john-singer-sargent_the-earl-of-wemyss-and-march-1909.jpg,john singer sargent,0.10019090373735837,0.25734742168428865,-1,1
+Realism/ilya-repin_portrait-of-l-n-yakovleva-1888.jpg,ilya repin,0.13457184954169332,0.3456573123806209,-1,1
+Realism/ivan-kramskoy_portrait-of-dmitry-vasilyevich-grigorovich-1876.jpg,ivan kramskoy,0.0,0.0,0,0
+Realism/vasily-perov_journey-of-the-quarterly-family-on-a-pilgrimage-sketch-1868.jpg,vasily perov,0.14512258490145752,0.3727576222932477,-1,1
+Realism/vincent-van-gogh_women-working-in-the-peat-1883.jpg,vincent van gogh,0.0,0.0,1,0
+Realism/boris-kustodiev_merchant.jpg,boris kustodiev,0.16109379941282623,0.4137808162394949,-1,1
+Realism/william-merritt-chase_mrs-meigs-at-the-piano-organ.jpg,william merritt chase,0.1450695208466494,0.37262132351581795,-1,1
+Realism/camille-corot_the-tower-in-the-trees-1865.jpg,camille corot,0.15401193575006417,0.3955905485969453,-1,1
+Realism/ilya-repin_the-courtyard-of-petrovsky-palace-1885.jpg,ilya repin,0.09322862955162838,0.2394643280707852,-1,1
+Realism/maxime-lalanne_entr-e-de-bar-ge.jpg,maxime lalanne,0.38932157579675153,1.0,-1,1
+Realism/henrique-pousao_a-casa-de-persianas-azuis-1882.jpg,henrique pousao,0.19923318300645043,0.5117445201918677,-1,1
+Realism/vladimir-makovsky_literary-reading-1866.jpg,vladimir makovsky,0.14343855516669107,0.3684320728260237,-1,1
+Realism/pyotr-konchalovsky_still-life-lilac-against-the-green-shutters-1947.jpg,pyotr konchalovsky,0.20270461597784192,0.5206611412763456,-1,1
+Realism/ivan-shishkin_backwoods-1870.jpg,ivan shishkin,0.2453295801515734,0.6301463761660353,-1,1
+Realism/pyotr-konchalovsky_apple-tree-in-bloom-1937.jpg,pyotr konchalovsky,0.12911351306253646,0.331637189123937,-1,1
+Realism/mykola-yaroshenko_sat-mount-mount-elbrus-1884.jpg,mykola yaroshenko,0.22445798617459317,0.5765362110107488,-1,1
+Realism/eugene-boudin_view-from-the-camaret-heights-1873.jpg,eugene boudin,0.1507795921753293,0.38728804553602497,-1,1
+Realism/vasily-surikov_portrait-of-m-velichkina-nee-baroness-von-klodt-yurgensburg-1914.jpg,vasily surikov,0.14788623445597796,0.37985625161751413,-1,1
+Realism/felix-vallotton_alfred-athis-pseudonym-of-alfred-natanson-1906.jpg,felix vallotton,0.0,0.0,0,0
+Realism/isaac-levitan_autumn-leaves-1879.jpg,isaac levitan,0.22648573703503397,0.5817446324969996,-1,1
+Realism/camille-corot_wooded-plateau-fountainebleau-1840.jpg,camille corot,0.11052600715495439,0.28389386570410724,-1,1
+Realism/vasily-polenov_cathedral-of-the-annunciation-the-aisle-of-the-blessed-virgin-mary-chapel-1877.jpg,vasily polenov,0.10960259338914886,0.28152201214342093,-1,1
+Realism/gustave-courbet_the-beach-at-trouville-at-low-tide-1865-1.jpg,gustave courbet,0.2965140127512085,0.7616172110276416,-1,1
+Realism/isaac-levitan_overgrown-pond.jpg,isaac levitan,0.12724689977409098,0.32684266088689945,-1,1
+Realism/james-tissot_at-the-louvre-1.jpg,james tissot,0.3164751538602622,0.8128888136050302,-1,1
+Realism/gustave-courbet_head-of-a-woman-with-flowers-1871.jpg,gustave courbet,0.252161993718238,0.6476959135958116,-1,1
+Realism/thomas-eakins_weda-cook-1891.jpg,thomas eakins,0.0,0.0,0,0
+Realism/isaac-levitan_village-by-the-ravine.jpg,isaac levitan,0.11644667803116839,0.2991015275556172,-1,1
+Realism/pyotr-konchalovsky_airedale-1935.jpg,pyotr konchalovsky,0.20507190541757134,0.5267416916154444,-1,1
+Realism/antã³nio-de-carvalho-da-silva-porto_guardando-o-rebanho.jpg,antã³nio de carvalho da silva porto,0.21075268702681582,0.5413331809199318,-1,1
+Realism/ivan-shishkin_thicket-1879.jpg,ivan shishkin,0.1995684786171811,0.5126057506799147,-1,1
+Realism/ion-andreescu_self-portrait.jpg,ion andreescu,0.0,0.0,0,0
+Realism/vincent-van-gogh_man-standing-with-arms-folded-1882.jpg,vincent van gogh,0.0,0.0,1,0
+Realism/ioannis-altamouras_evening-in-the-harbour.jpg,ioannis altamouras,0.17693790112674715,0.45447751197616393,-1,1
+Realism/ilya-repin_stone-guest-don-juan-and-donna-anna-1885.jpg,ilya repin,0.10774956268044208,0.2767623717229934,-1,1
+Realism/boris-kustodiev_portrait-of-n-a-kuznetsova-1919.jpg,boris kustodiev,0.1851980827012008,0.4756943725047619,-1,1
+Realism/david-burliuk_portrait-of-marussia-burliuk-1956.jpg,david burliuk,0.1358909476025756,0.3490455090357452,-1,1
+Realism/vasily-polenov_paracin-september-28-1876-1876.jpg,vasily polenov,0.022816662315709484,0.0586062107372675,1,0
+Realism/thomas-eakins_portrait-of-william-b-kurtz-1903.jpg,thomas eakins,0.06901780722150046,0.17727711874240373,-1,1
+Realism/vincent-van-gogh_head-of-a-man-2(1).jpg,vincent van gogh,0.06576364429053566,0.16891857112195627,-1,1
+Realism/mykola-yaroshenko_lake-teberdinsky-caucasus-1894.jpg,mykola yaroshenko,0.26005467105454866,0.667968813499081,-1,1
+Realism/charles-francois-daubigny_the-pond-1870.jpg,charles francois daubigny,0.1939051030675455,0.4980589700704777,-1,1
+Realism/mikhail-vrubel_pencils-1905.jpg,mikhail vrubel,0.1194285911632428,0.3067607823142878,-1,1
+Realism/ferdinand-hodler_battle-scenes.jpg,ferdinand hodler,0.026445416761127948,0.067926923153455,1,0
+Realism/charles-francois-daubigny_the-barges-1865.jpg,charles francois daubigny,0.24119184254703624,0.6195183045106968,-1,1
+Realism/jean-francois-millet_manor-farm-cousin-in-greville-1854.jpg,jean francois millet,0.15546494194348284,0.39932269776038454,-1,1
+Realism/valentin-serov_portrait-of-the-composer-alexander-serov-1889.jpg,valentin serov,0.08720718500182915,0.2239978219120236,-1,1
+Realism/vasily-perov_naushnitsa-before-the-storm-1874.jpg,vasily perov,0.07231236886087415,0.18573943330236958,-1,1
+Realism/ivan-shishkin_from-the-banks-of-the-kama-river-near-yelabuga-1885.jpg,ivan shishkin,0.23922001989903266,0.6144535385932975,-1,1
+Realism/vincent-van-gogh_sien-peeling-potatoes-1883.jpg,vincent van gogh,0.0,0.0,1,0
+Realism/edouard-manet_jesus-mocked-by-the-soldiers-1865.jpg,edouard manet,0.15848291582158217,0.4070745770954124,-1,1
+Realism/boris-kustodiev_portrait-of-a-a-polovtsev-1903.jpg,boris kustodiev,0.078911216576697,0.20268904032663537,-1,1
+Realism/volodymyr-orlovsky_in-the-meadow-thickets-podolsk-province-1890.jpg,volodymyr orlovsky,0.2124796071426315,0.5457688973640603,-1,1
+Realism/theodore-rousseau_clumps-of-trees-along-a-river.jpg,theodore rousseau,0.12660388619032148,0.32519103502348934,-1,1
+Realism/james-mcneill-whistler_arrangement-in-grey-and-black-no-2-portrait-of-thomas-carlyle-1873.jpg,james mcneill whistler,0.18247971856402334,0.4687120619774958,-1,1
+Realism/volodymyr-orlovsky_landscape-1882.jpg,volodymyr orlovsky,0.15275883046865976,0.3923718590628759,-1,1
+Realism/fyodor-vasilyev_wet-meadow-1-study.jpg,fyodor vasilyev,0.16242775453177005,0.41720717429893167,-1,1
+Realism/boris-kustodiev_mercahnt-s-wife-with-purchases-1923.jpg,boris kustodiev,0.10521711316275584,0.27025759604365024,-1,1
+Realism/mikhail-vrubel_lady-in-furs.jpg,mikhail vrubel,0.11126806326324648,0.2857998892959759,-1,1
+Realism/john-singer-sargent_flora-priestley-1889.jpg,john singer sargent,0.05739902188160255,0.14743344692401064,-1,1
+Realism/vasily-polenov_view-of-oka-from-the-western-riverbank.jpg,vasily polenov,0.11052600715495439,0.28389386570410724,-1,1
+Realism/johan-hendrik-weissenbruch_a-farmhouse-in-a-polder.jpg,johan hendrik weissenbruch,0.14931892661116078,0.3835362227371491,-1,1
+Realism/aleksey-savrasov_moonlit-night-marsh-1870.jpg,aleksey savrasov,0.23432108510711963,0.6018702781308192,-1,1
+Realism/vasily-surikov_on-boat-study-to-the-conquest-of-siberia-by-yermak.jpg,vasily surikov,0.2531009664785579,0.65010773153423,-1,1
+Realism/william-adolphe-bouguereau_cupid-with-butterfly-1888.jpg,william adolphe bouguereau,0.2116401843763414,0.5436127806254177,-1,1
+Realism/gustave-courbet_the-young-shepherdess.jpg,gustave courbet,0.19085240353128183,0.49021789542667904,-1,1
+Realism/constantin-guys_woman-standing-in-a-doorway.jpg,constantin guys,0.2279265149430884,0.5854453724447044,-1,1
+Realism/john-singer-sargent_the-spanish-dancer-study-for-el-jaleo-1882.jpg,john singer sargent,0.15804313229345865,0.40594496200222496,-1,1
+Realism/arkhip-kuindzhi_chumaks-path-in-mariupol-1875.jpg,arkhip kuindzhi,0.1946894756823722,0.500073686601976,-1,1
+Realism/odilon-redon_vase-of-flowers-1.jpg,odilon redon,0.13412487503853943,0.34450922675952694,-1,1
+Realism/vasily-polenov_constantinople-istanbul-eski-sarayskiy-garden-1882.jpg,vasily polenov,0.11052600715495439,0.28389386570410724,-1,1
+Realism/charles-francois-daubigny_the-isles-vierges-a-bezons-1855.jpg,charles francois daubigny,0.2392367256209195,0.6144964484213815,-1,1
+Realism/vincent-van-gogh_peasant-walking-with-a-wheelbarrow-1885.jpg,vincent van gogh,0.0,0.0,1,0
+Realism/gustave-courbet_hollyhocks-in-a-copper-bowl-1872.jpg,gustave courbet,0.17478746706962037,0.44895397002315013,-1,1
+Realism/giovanni-boldini_portrait-of-edgar-germain-hilaire-degas.jpg,giovanni boldini,0.0,0.0,0,0
+Realism/ivan-vladimirov_at-the-workers-outskirts-of-the-days-of-the-overthrow-of-the-autocracy-february-1917.jpg,ivan vladimirov,0.0874367280386927,0.22458741943534036,-1,1
+Realism/isaac-levitan_a-birch-grove.jpg,isaac levitan,0.19248346331755986,0.49440738783521054,-1,1
+Realism/john-singer-sargent_mrs-abbott-lawrence-rotch-1903.jpg,john singer sargent,0.11326842825523863,0.29093796824240564,-1,1
+Realism/vasily-perov_lent-monday-1866.jpg,vasily perov,0.1347650285236813,0.3461535062573477,-1,1
+Realism/ilya-repin_zaporozhtsy-1878.jpg,ilya repin,0.1823744896336054,0.4684417740279965,-1,1
+Realism/boris-kustodiev_akaky-akakiyevich-in-the-new-coat-1905.jpg,boris kustodiev,0.10459749255453832,0.2686660566922813,-1,1
+Realism/ivan-shishkin_view-in-the-vicinity-of-st-petersburg-1856.jpg,ivan shishkin,0.18335323252910463,0.4709557443711408,-1,1
+Realism/camille-corot_the-walk-around-the-pond-1870.jpg,camille corot,0.11052600715495439,0.28389386570410724,-1,1
+Realism/ferdinand-hodler_the-convalescent.jpg,ferdinand hodler,0.08574617119691667,0.22024510463216956,-1,1
+Realism/giovanni-boldini_the-summer-stroll.jpg,giovanni boldini,0.2486619819724216,0.6387058859081511,-1,1
+Realism/ivan-vladimirov_i-v-dzhugashvili-stalin-in-custody-1935.jpg,ivan vladimirov,0.19196346083083787,0.4930717246738309,-1,1
+Realism/nicholas-roerich_duck-s-head.jpg,nicholas roerich,0.2248783940268773,0.5776160583103076,-1,1
+Realism/anton-azbe_study-of-a-man-1886.jpg,anton azbe,0.22875049679631485,0.5875618281061717,-1,1
+Realism/ivan-shishkin_fir-forest-1890.jpg,ivan shishkin,0.14727201842623183,0.3782785943081572,-1,1
+Realism/ioannis-altamouras_view-of-the-sea.jpg,ioannis altamouras,0.1880946479561289,0.4831344052052364,-1,1
+Realism/camille-corot_woman-with-daisies-1870.jpg,camille corot,0.0938507558452733,0.24106230345237492,-1,1
+Realism/john-singer-sargent_olga-baroness-de-meyer-1907.jpg,john singer sargent,0.2555944465269245,0.6565124113757302,-1,1
+Realism/boris-kustodiev_a-soldier-with-a-rifle-1917.jpg,boris kustodiev,0.10484473471115806,0.26930111565636194,-1,1
+Realism/vincent-van-gogh_peasant-woman-with-shawl-over-her-head-seen-from-the-side-1885.jpg,vincent van gogh,0.031210562278401712,0.0801665364025328,1,0
+Realism/ilya-repin_behold-a-man-1867.jpg,ilya repin,0.3034300106450745,0.7793814407128635,-1,1
+Realism/konstantin-makovsky_child-on-the-snow.jpg,konstantin makovsky,0.16924211951082346,0.43471035265504443,-1,1
+Realism/pyotr-konchalovsky_portrait-of-boris-nikolayevich-yakovlev-1953.jpg,pyotr konchalovsky,0.15594294658739577,0.40055048649244923,-1,1
+Realism/isaac-levitan_crimea-in-the-mountains-1886.jpg,isaac levitan,0.2193715070774917,0.563471229737384,-1,1
+Realism/isaac-levitan_in-alps-1897.jpg,isaac levitan,0.17080395331386175,0.43872203323000863,-1,1
+Realism/pyotr-konchalovsky_roses-in-a-jug-1936.jpg,pyotr konchalovsky,0.13746287010772518,0.35308310315554864,-1,1
+Realism/julius-leblanc-stewart_an-idle-afternoon-1884(1).jpg,julius leblanc stewart,0.21198238032569824,0.5444917351212134,-1,1
+Realism/vincent-van-gogh_sketch-of-a-left-hand-1886.jpg,vincent van gogh,0.0,0.0,1,0
+Realism/ivan-kramskoy_portrait-a-i-kuindzhi-1872.jpg,ivan kramskoy,0.0,0.0,0,0
+Realism/gustave-courbet_the-source-of-the-loue-river-1864.jpg,gustave courbet,0.235742990370403,0.6055225423557684,-1,1
+Realism/john-singer-sargent_madame-francois-buloz-1879.jpg,john singer sargent,0.0,0.0,0,0
+Realism/nicholas-roerich_elders-gathering.jpg,nicholas roerich,0.1719830791550564,0.44175070134012184,-1,1
+Realism/martiros-saryan_portrait-of-catholicos-of-all-armenians-vazgen-i-1959.jpg,martiros saryan,0.19791268667505296,0.5083527319800403,-1,1
+Realism/aleksey-savrasov_trees-by-the-river-1861.jpg,aleksey savrasov,0.21043766639732758,0.5405240281550393,-1,1
+Realism/vasily-polenov_the-uspensky-cathedral-south-gates-1877.jpg,vasily polenov,0.16103998176546694,0.4136425818063039,-1,1
+Realism/vasily-surikov_stepan-razin.jpg,vasily surikov,0.20223748692124333,0.5194612872594121,-1,1
+Realism/vincent-van-gogh_portrait-possibly-of-willemien-van-gogh-1881.jpg,vincent van gogh,0.14364118192353587,0.3689525339806107,-1,1
+Realism/john-singer-sargent_fiield-marshall-h-r-h-the-duke-of-connaught-and-strathearn-1908.jpg,john singer sargent,0.0,0.0,0,0
+Realism/ivan-shishkin_lake-in-the-forest.jpg,ivan shishkin,0.11351057671768312,0.2915599436927745,-1,1
+Realism/camille-corot_the-artist-s-studio-1.jpg,camille corot,0.0610587946130176,0.15683383200137319,-1,1
+Realism/boris-kustodiev_portrait-of-dr-s-y-lyubimov-with-dog-1905.jpg,boris kustodiev,0.2047976205635087,0.5260371715705398,-1,1
+Realism/vincent-van-gogh_peasant-woman-head-1885-1.jpg,vincent van gogh,0.11445565800360594,0.29398745181119484,-1,1
+Realism/aleksey-savrasov_the-road-in-the-woods-1871.jpg,aleksey savrasov,0.14727201842623183,0.3782785943081572,-1,1
+Realism/pyotr-konchalovsky_still-life-basket-of-apples-on-the-floor-1932.jpg,pyotr konchalovsky,0.23107583679654264,0.5935346283432739,-1,1
+Realism/john-singer-sargent_leon-delafosse.jpg,john singer sargent,0.0,0.0,0,0
+Realism/gustave-courbet_woods-in-the-snow.jpg,gustave courbet,0.16764104888842074,0.43059788953474054,-1,1
+Realism/gustave-courbet_landscape-1868.jpg,gustave courbet,0.18039153545602032,0.4633484159896527,-1,1
+Realism/leon-bonnat_an-egyptian-peasant-woman-and-her-child-1870.jpg,leon bonnat,0.20204852581791016,0.5189759273022958,-1,1
+Realism/vincent-van-gogh_man-with-winnow-1881.jpg,vincent van gogh,0.0,0.0,1,0
+Realism/boris-kustodiev_venice-quay-grand-canal-with-views-of-the-island-of-san-giorgio.jpg,boris kustodiev,0.1384099611529263,0.3555157734828042,-1,1
+Realism/constantin-guys_the-chasseurs-d-afrique-during-the-crimean-war-of-1854.jpg,constantin guys,0.30265692218656387,0.7773957083348711,-1,1
+Realism/john-everett-millais_portrait-of-lord-alfred-tennyson.jpg,john everett millais,0.17577055225147883,0.4514790938358918,-1,1
+Realism/alexey-bogolyubov_battle-of-krasnaya-gorka-1866.jpg,alexey bogolyubov,0.24703087011600863,0.6345162597537957,-1,1
+Realism/john-singer-sargent_the-candelabrum-also-known-as-lady-with-cancelabra-or-the-cigarette-1885.jpg,john singer sargent,0.1536275027800934,0.3946031053267284,-1,1
+Realism/pyotr-konchalovsky_okorokovo-pond-1946.jpg,pyotr konchalovsky,0.11052600715495439,0.28389386570410724,-1,1
+Realism/henri-fantin-latour_self-portrait.jpg,henri fantin latour,0.052108535975621526,0.13384445973481113,-1,1
+Realism/ivan-shishkin_taiga-1880.jpg,ivan shishkin,0.20651972957183912,0.5304605303448541,-1,1
+Realism/ivan-shishkin_autumn-landscape-path-in-the-forest-1894.jpg,ivan shishkin,0.16681052571503938,0.4284646320298574,-1,1
+Realism/salvador-dali_armchair-with-landscape-painted-for-gala-s-chateau-at-pubol.jpg,salvador dali,0.17744134526466826,0.4557706438476529,-1,1
+Realism/arkhip-kuindzhi_elbrus-in-the-evening.jpg,arkhip kuindzhi,0.25224851180287194,0.647918141414696,-1,1
+Realism/camille-corot_ariccia-palazzo-chigi-1826.jpg,camille corot,0.20595209165829617,0.5290025122209387,-1,1
+Realism/frederic-remington_charge-of-the-rough-riders-at-san-juan-hill-1898.jpg,frederic remington,0.24081035033825726,0.6185384147935696,-1,1
+Realism/ivan-shishkin_coltsfoot-1878.jpg,ivan shishkin,0.21616746416533572,0.5552414189297017,-1,1
+Realism/boris-kustodiev_frost-governor.jpg,boris kustodiev,0.28916664490536287,0.7427449771145606,-1,1
+Realism/vincent-van-gogh_ploughman-and-three-women-1883.jpg,vincent van gogh,0.0,0.0,1,0
+Realism/pablo-picasso_portrait-of-casagemas.jpg,pablo picasso,0.16761477184830775,0.43053039509891533,-1,1
+Realism/vasily-polenov_the-cart-with-the-wounded-1876.jpg,vasily polenov,0.0018082830558025405,0.004644702909418432,1,0
+Realism/jean-francois-millet_the-blacksmith-and-his-bride-1848.jpg,jean francois millet,0.10814771154971493,0.27778504525054715,-1,1
+Realism/eugene-boudin_entrance-to-port-of-havre-1864.jpg,eugene boudin,0.1858313879053982,0.4773210617086708,-1,1
+Realism/gustave-courbet_portrait-of-a-spanish-lady-1855.jpg,gustave courbet,0.0,0.0,0,0
+Realism/nikolai-ge_gorge-in-the-mountains-of-carrara.jpg,nikolai ge,0.3033095660598415,0.7790720702779306,-1,1
+Realism/franz-marc_cottages-on-the-dachau-marsh-1902.jpg,franz marc,0.167677830952929,0.4306923668686335,-1,1
+Realism/john-singer-sargent_la-carmencita-1890.jpg,john singer sargent,0.11681245424902073,0.30004104963862477,-1,1
+Realism/ilya-repin_haulers-on-the-volga-1873.jpg,ilya repin,0.22202994375931126,0.5702996123575329,-1,1
+Realism/vincent-van-gogh_woman-peeling-potatoes-near-a-window-1881.jpg,vincent van gogh,0.0,0.0,1,0
+Realism/salvador-dali_mystical-carnation-1951.jpg,salvador dali,0.19656835454532198,0.5048997198345413,-1,1
+Realism/vladimir-makovsky_without-a-master-1911.jpg,vladimir makovsky,0.13851541100328443,0.3557866288807932,-1,1
+Realism/ivan-kramskoy_prayer-of-moses-after-the-israelites-go-through-the-black-sea-1861.jpg,ivan kramskoy,0.13793526692004118,0.3542964877755745,-1,1
+Realism/john-singer-sargent_madame-paul-poirson-1885.jpg,john singer sargent,0.09199147925644119,0.23628662004714088,-1,1
+Realism/william-merritt-chase_study-of-girl-in-japanese-dress-1895.jpg,william merritt chase,0.12611838696667543,0.32394399593336837,-1,1
+Realism/ilya-repin_portrait-of-vera-repina-1874.jpg,ilya repin,0.13360135323225494,0.34316452397696706,-1,1
+Impressionism/peder-severin-kroyer_portrait-of-the-artist-s-wife-marie-1889.jpg,peder severin kroyer,0.16432249632786042,0.4220739525970847,-1,1
+Realism/pyotr-konchalovsky_still-life-lilac-crystal-vase-and-a-basket-1954.jpg,pyotr konchalovsky,0.08712312578861042,0.22378190987825897,-1,1
+Realism/isaac-levitan_lake-autumn.jpg,isaac levitan,0.1598653240817023,0.4106253904745348,-1,1
+Realism/gustave-courbet_the-hallali-1869.jpg,gustave courbet,0.22249051432841252,0.5714826204355176,-1,1
+Realism/alexey-venetsianov_the-spinner.jpg,alexey venetsianov,0.06893257103244399,0.1770581835629649,-1,1
+Realism/odilon-redon_white-vase-with-flowers-1916.jpg,odilon redon,0.12685882695215045,0.3258458683994902,-1,1
+Realism/vasily-polenov_christ-and-the-sinner-1873.jpg,vasily polenov,0.2911218253596385,0.7477669963804446,-1,1
+Realism/winslow-homer_the-country-school.jpg,winslow homer,0.10341935348335124,0.2656399231707162,-1,1
+Realism/vladimir-makovsky_on-deck-1920.jpg,vladimir makovsky,0.10079132273105976,0.25888964033084744,-1,1
+Realism/fyodor-vasilyev_on-the-bank-of-the-volga.jpg,fyodor vasilyev,0.11052600715495439,0.28389386570410724,-1,1
+Realism/theodore-rousseau_exit-drill-fontainebleau-sunset-1849.jpg,theodore rousseau,0.26583339158933655,0.6828118658600032,-1,1
+Realism/george-catlin_attacking-the-grizzly-bear-1844.jpg,george catlin,0.08591990888883372,0.22069136218047392,-1,1
+Realism/konstantin-makovsky_piper.jpg,konstantin makovsky,0.13585324109052713,0.34894865719296897,-1,1
+Realism/konstantin-somov_portrait-of-anna-ostroumova-lebedeva-1901.jpg,konstantin somov,0.06381969538321698,0.16392540087871876,-1,1
+Realism/ivan-kramskoy_self-portrait-1874.jpg,ivan kramskoy,0.0,0.0,0,0
+Realism/julius-leblanc-stewart_flower-girl-1890(1).jpg,julius leblanc stewart,0.18075164071478902,0.4642733718132074,-1,1
+Realism/thomas-eakins_sailing.jpg,thomas eakins,0.17645905800625647,0.4532475695577127,-1,1
+Realism/arthur-segal_still-life-with-banjo-and-clarinette.jpg,arthur segal,0.06172476017852857,0.15854441165303532,-1,1
+Realism/vincent-van-gogh_head-of-a-peasant-woman(1).jpg,vincent van gogh,0.26220284189844323,0.6734865422288548,-1,1
+Realism/vincent-van-gogh_three-woodcutters-walking-1884.jpg,vincent van gogh,0.019443928087073143,0.049943104353466404,1,0
+Realism/john-singer-sargent_pomegranates-1908-1.jpg,john singer sargent,0.24482772206796174,0.6288573181872048,-1,1
+Realism/boris-kustodiev_scetch-for-ostrovsky-s-wolves-and-sheep-1915.jpg,boris kustodiev,0.22479748306241656,0.5774082327761201,-1,1
+Realism/vincent-van-gogh_torso-of-venus-1887.jpg,vincent van gogh,0.13088603268020696,0.33619003111334644,-1,1
+Realism/aleksey-savrasov_landscape-with-road-1855.jpg,aleksey savrasov,0.123170980024949,0.3163733727648616,-1,1
+Realism/camille-corot_the-church-at-lormes.jpg,camille corot,0.13634300254567633,0.350206644126128,-1,1
+Realism/thomas-eakins_photograph-1910-15.jpg,thomas eakins,0.050834110146852615,0.1305710068670609,-1,1
+Realism/pyotr-konchalovsky_rainy-day-1923.jpg,pyotr konchalovsky,0.11052600715495439,0.28389386570410724,-1,1
+Realism/james-tissot_victorian-book-illustration.jpg,james tissot,0.1718904263634862,0.44151271609262926,-1,1
+Realism/thomas-eakins_portrait-of-sarah-ward-brinton-1878.jpg,thomas eakins,0.0,0.0,0,0
+Realism/julius-leblanc-stewart_an-english-lady-1896(1).jpg,julius leblanc stewart,0.16376113794699051,0.4206320638969245,-1,1
+Realism/vincent-van-gogh_peasant-with-a-chopping-knife-1881.jpg,vincent van gogh,0.0,0.0,1,0
+Realism/henri-fantin-latour_a-basket-of-roses-1890.jpg,henri fantin latour,0.19093650334009643,0.4904339117331025,-1,1
+Realism/camille-corot_mountains-of-auvergne.jpg,camille corot,0.2098227813715713,0.5389446524821192,-1,1
+Realism/volodymyr-orlovsky_in-italy-1876.jpg,volodymyr orlovsky,0.1384099611529263,0.3555157734828042,-1,1
+Realism/ivan-kramskoy_outraged-jewish-boy-1874.jpg,ivan kramskoy,0.1564288019262478,0.401798440289661,-1,1
+Realism/vincent-van-gogh_peasant-woman-with-shawl-over-her-head-seen-from-the-back-1885.jpg,vincent van gogh,0.14957770711967106,0.3842009187740453,-1,1
+Realism/pyotr-konchalovsky_the-girl-in-the-caucasus-dress-with-a-cat-margot-1948.jpg,pyotr konchalovsky,0.11825505897576906,0.3037464818993363,-1,1
+Realism/ivan-shishkin_cut-down-oak-in-the-bialowiezka-forest-1892.jpg,ivan shishkin,0.18239190572032177,0.46848650847838175,-1,1
+Realism/aleksey-savrasov_evening-1880.jpg,aleksey savrasov,0.15782332371763177,0.4053803681304956,-1,1
+Realism/mary-cassatt_the-young-bride-1875.jpg,mary cassatt,0.18618632428733017,0.47823274090653084,-1,1
+Realism/vincent-van-gogh_sower-with-hand-in-sack-1881.jpg,vincent van gogh,0.019879947564641752,0.05106305121661235,1,0
+Realism/ilya-repin_portrait-of-maria-klopushina-1925.jpg,ilya repin,0.11899744542398089,0.3056533539926502,-1,1
+Realism/henri-fantin-latour_sweet-peas-in-a-vase.jpg,henri fantin latour,0.1429749565876808,0.36724128709044895,-1,1
+Realism/eugene-boudin_pheasant-duck-and-fruit-1879.jpg,eugene boudin,0.23795639361234872,0.611207825113129,-1,1
+Realism/edouard-manet_the-execution-of-the-emperor-maximilian-of-mexico-1868.jpg,edouard manet,0.17707748081042837,0.45483603226468267,-1,1
+Realism/isaac-levitan_evening-1877.jpg,isaac levitan,0.19078618733243652,0.49004781443717876,-1,1
+Realism/james-tissot_jew-and-armenian-1889.jpg,james tissot,0.2197121923288492,0.5643463038985328,-1,1
+Realism/ivan-shishkin_on-the-shore-of-the-gulf-of-finland-udrias-near-narva-1888-1.jpg,ivan shishkin,0.14188710661767948,0.3644470675104654,-1,1
+Realism/vasily-surikov_the-apostle-paul-explains-the-tenets-of-faith-in-the-presence-of-king-agrippa-his-sister-1875.jpg,vasily surikov,0.07926906001520963,0.20360818650490792,-1,1
+Realism/vladimir-makovsky_evening-company.jpg,vladimir makovsky,0.23499426225251538,0.6035993812354136,-1,1
+Realism/william-adolphe-bouguereau_the-first-mourning-1888.jpg,william adolphe bouguereau,0.20057417453284584,0.515188951761454,-1,1
+Realism/fyodor-bronnikov_portrait-of-the-artist-s-father-1871.jpg,fyodor bronnikov,0.19764901838401078,0.5076754813280501,-1,1
+Realism/ivan-shishkin_landscape-1896.jpg,ivan shishkin,0.13033204531877374,0.334767075397883,-1,1
+Realism/ivan-kramskoy_dmitry-grigorovich-a-russian-writer-1876.jpg,ivan kramskoy,0.0,0.0,0,0
+Realism/konstantin-makovsky_landscape-2.jpg,konstantin makovsky,0.16163645952422212,0.41517467711218176,-1,1
+Realism/henri-fantin-latour_bouquet-of-roses-1902.jpg,henri fantin latour,0.08712312578861042,0.22378190987825897,-1,1
+Realism/isaac-levitan_at-volga.jpg,isaac levitan,0.06583080896047673,0.16909108832654124,-1,1
+Realism/horia-bernea_iconostasis-1988.jpg,horia bernea,0.14096986532571595,0.3620910683853556,-1,1
+Impressionism/wilhelm-leibl_m-dchen-am-fenster-1899.jpg,wilhelm leibl,0.10359620515668551,0.26609417920050943,-1,1
+Realism/theodore-rousseau_the-campaign-at-sunrise.jpg,theodore rousseau,0.24688892143012872,0.6341516545155953,-1,1
+Realism/nikolai-ge_old-park.jpg,nikolai ge,0.15269547496983193,0.3922091259836774,-1,1
+Realism/arthur-segal_stilleben-mit-gl-sern-1943.jpg,arthur segal,0.10520947885070192,0.27023798677324623,-1,1
+Realism/vasily-perov_the-funeral-of-a-poor-quarter-of-paris-1863.jpg,vasily perov,0.0,0.0,1,0
+Realism/vincent-van-gogh_people-strolling-on-the-beach-1882.jpg,vincent van gogh,0.19897076428131089,0.5110704791382669,-1,1
+Realism/vincent-van-gogh_man-and-woman-seen-from-the-back-1882.jpg,vincent van gogh,0.14589199760734825,0.3747339132406891,-1,1
+Realism/vasily-perov_wanderer-1870.jpg,vasily perov,0.11384610243428175,0.2924217652240163,-1,1
+Realism/ivan-shishkin_the-road-in-forest-1869.jpg,ivan shishkin,0.2095946135498877,0.5383585872962465,-1,1
+Realism/isaac-levitan_at-the-seashore.jpg,isaac levitan,0.10498243896193842,0.2696548187628454,-1,1
+Realism/ilya-repin_portrait-of-l-i-shestakova-sister-of-composer-mikhail-glinka-1899.jpg,ilya repin,0.15001932677238264,0.38533525008308667,-1,1
+Realism/mihaly-munkacsy_biboulous-husband-1873.jpg,mihaly munkacsy,0.04824443488518012,0.12391924281732208,-1,1
+Realism/salvador-dali_portrait-of-mrs-reeves.jpg,salvador dali,0.2669432658638363,0.6856626564236352,-1,1
+Realism/john-singer-sargent_seated-model-with-drapery.jpg,john singer sargent,0.16234136950344952,0.4169852882445979,-1,1
+Realism/nikolay-bogdanov-belsky_new-owners-tea-drinking.jpg,nikolay bogdanov belsky,0.12980715242289395,0.33341885087473505,-1,1
+Realism/vasily-vereshchagin_chinese-house-1870.jpg,vasily vereshchagin,0.1296064888433298,0.332903432279828,-1,1
+Realism/martiros-saryan_flowers-1941-1.jpg,martiros saryan,0.2157057814260178,0.5540555541638635,-1,1
+Realism/vincent-van-gogh_vase-with-asters-salvia-and-other-flowers-1886.jpg,vincent van gogh,0.11851706656157107,0.30441946691247307,-1,1
+Realism/vasily-polenov_terem-palace-the-yield-of-the-chambers-of-the-gold-porch-1877.jpg,vasily polenov,0.11134203924317439,0.28598990183195344,-1,1
+Realism/isaac-levitan_summer-evening-river.jpg,isaac levitan,0.13940680612082448,0.35807624027907187,-1,1
+Realism/ilya-repin_david-and-goliath-1915.jpg,ilya repin,0.16720827497885934,0.42948627914254556,-1,1
+Realism/constantin-guys_portrait-of-a-lady.jpg,constantin guys,0.15951040971707314,0.40971376782967417,-1,1
+Realism/winslow-homer_the-woodcutter.jpg,winslow homer,0.32201279094965507,0.8271126260871924,-1,1
+Realism/isaac-levitan_three-pines-1886.jpg,isaac levitan,0.17400857917428128,0.44695334138153153,-1,1
+Realism/winslow-homer_taking-on-wet-provisions.jpg,winslow homer,0.15484108750935302,0.39772028352774635,-1,1
+Realism/vasily-vereshchagin_chinese-1873.jpg,vasily vereshchagin,0.21151908369337374,0.5433017249570545,-1,1
+Realism/ivan-shishkin_forest-path-1863.jpg,ivan shishkin,0.2458361021842663,0.6314474138279124,-1,1
+Realism/ivan-shishkin_swamp-1884.jpg,ivan shishkin,0.16696155857787756,0.4288525706190021,-1,1
+Realism/julius-leblanc-stewart_yachting-in-the-mediterranean-1896(1).jpg,julius leblanc stewart,0.1951848297501128,0.5013460385560821,-1,1
+Realism/valentin-serov_colts-at-watering-place-domotcanovo-1904.jpg,valentin serov,0.18914184121197872,0.48582419513970565,-1,1
+Realism/vincent-van-gogh_head-of-a-woman-13.jpg,vincent van gogh,0.17977067144741757,0.46175368287646174,-1,1
+Impressionism/constantin-artachino_white-headscarf.jpg,constantin artachino,0.12113415580233677,0.31114164570621133,-1,1
+Realism/giovanni-boldini_in-garden.jpg,giovanni boldini,0.2344333857507993,0.6021587302759381,-1,1
+Realism/ilya-repin_self-portrait-1887.jpg,ilya repin,0.04679030728372481,0.12018421323803556,-1,1
+Realism/nicholas-roerich_demosthenes-1893.jpg,nicholas roerich,0.1092416744252011,0.2805949662605691,-1,1
+Realism/n.c.-wyeth_painting-of-native-american-2.jpg,n.c. wyeth,0.2291561812744891,0.5886038573781022,-1,1
+Realism/pierre-auguste-renoir_pierre-henri-renoir-1870.jpg,pierre auguste renoir,0.0,0.0,0,0
+Realism/vincent-van-gogh_portrait-of-a-woman-1885.jpg,vincent van gogh,0.1294996312020379,0.33262896087126753,-1,1
+Realism/arkhip-kuindzhi_portrait-of-n-a-jaroshenko.jpg,arkhip kuindzhi,0.0,0.0,1,0
+Realism/ivan-vladimirov_in-the-last-journey.jpg,ivan vladimirov,0.24166760873314172,0.6207403436055808,-1,1
+Realism/ilya-repin_portrait-of-countess-sophia-vladimirovna-panina-1909.jpg,ilya repin,0.1132214025802703,0.2908171794706247,-1,1
+Realism/vasily-vereshchagin_the-icon-of-st-nicholas-with-headwater-pinega-1894.jpg,vasily vereshchagin,0.18143116711267976,0.4660187834218501,-1,1
+Realism/aleksey-savrasov_moonlit-night-on-the-river-1885.jpg,aleksey savrasov,0.2526395206889464,0.6489224753904698,-1,1
+Realism/isaac-levitan_spring-cranes-flying.jpg,isaac levitan,0.2671947987725767,0.686308736487977,-1,1
+Realism/martiros-saryan_portrait-of-academician-stepan-malkhasyan-1943.jpg,martiros saryan,0.18359253929527622,0.4715704207236698,-1,1
+Impressionism/william-merritt-chase_still-life-with-fruit.jpg,william merritt chase,0.08712312578861042,0.22378190987825897,-1,1
+Realism/vincent-van-gogh_study-of-two-peasants-1885-1.jpg,vincent van gogh,0.0,0.0,1,0
+Realism/henri-fantin-latour_white-rockets-and-fruit-1869.jpg,henri fantin latour,0.08712312578861042,0.22378190987825897,-1,1
+Realism/james-tissot_the-garden-bench.jpg,james tissot,0.29993337460189845,0.7704000837561622,-1,1
+Realism/thomas-eakins_portrait-of-walt-whitman-1887.jpg,thomas eakins,0.05444367702865468,0.1398424346691678,-1,1
+Realism/vincent-van-gogh_peasant-woman-pitching-wheat-or-hay-1885.jpg,vincent van gogh,0.020678643408427785,0.053114557974622084,1,0
+Realism/grigoriy-myasoyedov_autumn-morning-1893.jpg,grigoriy myasoyedov,0.24064727249807322,0.6181195378282992,-1,1
+Realism/yiannis-moralis_still-life(1).jpg,yiannis moralis,0.05350945556364682,0.1374428207687669,-1,1
+Realism/henri-fantin-latour_flowers-1882.jpg,henri fantin latour,0.08712312578861042,0.22378190987825897,-1,1
+Realism/ivan-kramskoy_kramsky-who-writes-a-portrait-of-his-daughter-sofia-ivanovna-archaeology-from-marriage-juncker-1884.jpg,ivan kramskoy,0.07580634586572328,0.1947139603310827,-1,1
+Realism/vasily-tropinin_portrait-of-vladimir-artemyevitch-rajewski-1846.jpg,vasily tropinin,0.0,0.0,0,0
+Realism/isaac-levitan_autumn-1885.jpg,isaac levitan,0.20970495954937363,0.5386420187995227,-1,1
+Realism/thomas-eakins_general-george-cadwalader-1880.jpg,thomas eakins,0.0,0.0,0,0
+Realism/henri-fantin-latour_large-bouquet-of-chrysanthemums-1882.jpg,henri fantin latour,0.09522409834714958,0.24458983079032354,-1,1
+Realism/henri-fantin-latour_still-life-with-grapes-and-a-peach-1895.jpg,henri fantin latour,0.14668599233848129,0.37677334485839,-1,1
+Realism/pyotr-konchalovsky_still-life-the-dutch-bouquet-1935-1.jpg,pyotr konchalovsky,0.19011643146272442,0.48832749912112816,-1,1
+Realism/camille-corot_the-monk-1874.jpg,camille corot,0.11699066860273521,0.3004988058093424,-1,1
+Realism/vincent-van-gogh_peasant-woman-stooping-and-gleaning-1885-1.jpg,vincent van gogh,0.0,0.0,1,0
+Realism/vincent-van-gogh_corinthian-capital-1863(1).jpg,vincent van gogh,0.18154644391394703,0.46631488003820476,-1,1
+Realism/giovanni-boldini_door-in-montmartre.jpg,giovanni boldini,0.270676533290987,0.6952518178244914,-1,1
+Realism/nikolai-ge_portrait-of-leo-tolstoy.jpg,nikolai ge,0.15594294658739577,0.40055048649244923,-1,1
+Realism/thomas-eakins_the-agnew-clinic-1889.jpg,thomas eakins,0.21638706074084202,0.5558054682636151,-1,1
+Realism/isaac-levitan_barges.jpg,isaac levitan,0.008675991867362976,0.02228489867176626,1,0
+Realism/arkhip-kuindzhi_the-north-1879.jpg,arkhip kuindzhi,0.1416080184288897,0.36373020976062553,-1,1
+Realism/vasily-polenov_view-of-feodosia-from-quarantine-to-the-ruins-of-the-genoese-fortress-1912.jpg,vasily polenov,0.1365398945862031,0.3507123752562968,-1,1
+Realism/william-merritt-chase_mrs-chase-in-prospect-park.jpg,william merritt chase,0.25852381680796443,0.664036706105723,-1,1
+Realism/john-singer-sargent_recumbent-draped-figure.jpg,john singer sargent,0.12452083520879347,0.31984057126543786,-1,1
+Realism/theodore-rousseau_landscape-at-vigerie-valley-santoire-auvergne-1830.jpg,theodore rousseau,0.23306769940174304,0.5986508683079458,-1,1
+Realism/nikolay-bogdanov-belsky_young-host.jpg,nikolay bogdanov belsky,0.24145011793781843,0.6201817031169868,-1,1
+Realism/ivan-shishkin_forest-landscape-1.jpg,ivan shishkin,0.16761340898063162,0.4305268944769081,-1,1
+Realism/johan-hendrik-weissenbruch_dune.jpg,johan hendrik weissenbruch,0.11052600715495439,0.28389386570410724,-1,1
+Realism/nicholas-roerich_approach-to-gryzovo-village-1893.jpg,nicholas roerich,0.1901695686530351,0.48846398575226835,-1,1
+Realism/viktor-vasnetsov_in-a-suit-buffoon-1882.jpg,viktor vasnetsov,0.13015834516020122,0.3343209142566284,-1,1
+Realism/george-catlin_osage-warrior-of-the-wha-sha-she-band-a-subdivision-of-hunkah-1834.jpg,george catlin,0.09146203926046036,0.23492671597581546,-1,1
+Realism/ivan-kramskoy_inconsolable-grief-1884.jpg,ivan kramskoy,0.1466382158762187,0.37665062763634855,-1,1
+Realism/camille-corot_stormy-weather-pas-de-calais.jpg,camille corot,0.11509207707563941,0.2956221392048515,-1,1
+Realism/john-singer-sargent_portrait-of-a-man-probably-nicola-d-inverno.jpg,john singer sargent,0.0,0.0,0,0
+Realism/james-tissot_the-two-sisters-portrait.jpg,james tissot,0.2005280637094604,0.5150705128506613,-1,1
+Realism/boris-kustodiev_officers-near-the-carriage-1905.jpg,boris kustodiev,0.13752776754250357,0.3532497968062809,-1,1
+Realism/john-singer-sargent_la-carmencita-1890-1.jpg,john singer sargent,0.14976555628218935,0.3846834226325429,-1,1
+Realism/boris-kustodiev_portrait-of-a-k-kashparova-1911.jpg,boris kustodiev,0.17985749402355408,0.4619766928033039,-1,1
+Realism/boris-kustodiev_portrait-of-a-governor-general-of-finland-n-i-bobrikov-1903.jpg,boris kustodiev,0.0,0.0,0,0
+Realism/ivan-shishkin_beach-mary-howe-1889.jpg,ivan shishkin,0.23188641835159987,0.5956166643912334,-1,1
+Realism/theodor-severin-kittelsen_dra-en-lort-sa-jeg(2).jpg,theodor severin kittelsen,0.21775667862468423,0.5593234286567407,-1,1
+Realism/vasily-vereshchagin_before-the-attack-at-plevna-1881.jpg,vasily vereshchagin,0.2581384114919574,0.6630467652959481,-1,1
+Impressionism/theo-van-rysselberghe_moroccan-butcher-shop-1882.jpg,theo van rysselberghe,0.17647852011901244,0.4532975593706743,-1,1
+Realism/ilya-repin_portrait-of-the-poet-afanasy-fet-1882.jpg,ilya repin,0.1036037302906716,0.2661135080393252,-1,1
+Realism/isaac-levitan_at-moscow-river-1877.jpg,isaac levitan,0.20841374929425685,0.5353254539457144,-1,1
+Realism/edouard-manet_roses-in-a-champagne-glass.jpg,edouard manet,0.1461456390960497,0.37538540934177816,-1,1
+Realism/johan-hendrik-weissenbruch_landscape-with-a-farm-pond.jpg,johan hendrik weissenbruch,0.11052600715495439,0.28389386570410724,-1,1
+Realism/ilya-repin_nativity-1890.jpg,ilya repin,0.11422225999836655,0.2933879525289839,-1,1
+Realism/andrei-ryabushkin_mikhailovsky-street-in-novgorod.jpg,andrei ryabushkin,0.14631610528287495,0.3758232637978956,-1,1
+Realism/isaac-levitan_sunset-forest-edge-1900.jpg,isaac levitan,0.24479030058453327,0.6287611984605961,-1,1
+Realism/john-everett-millais_portrait-of-john-everett-millais.jpg,john everett millais,0.10776371284624754,0.27679871742455514,-1,1
+Realism/nikolai-ge_not_detected_252984.jpg,nikolai ge,0.29280408851498924,0.7520880082635081,-1,1
+Realism/vladimir-makovsky_making-jam-1876.jpg,vladimir makovsky,0.300574587683262,0.7720470849018124,-1,1
+Realism/wilhelm-leibl_die-junge-pariserin-die-kokotte-1869.jpg,wilhelm leibl,0.11719752568887701,0.3010301328638948,-1,1
+Realism/vasily-surikov_view-of-kremlin-1913.jpg,vasily surikov,0.1194479341210117,0.3068104660692385,-1,1
+Realism/gustave-courbet_the-mountain-hut.jpg,gustave courbet,0.22685417165196287,0.5826909828660355,-1,1
+Realism/ivan-shishkin_part-of-the-trunk-of-a-pine-mary-howe-1890.jpg,ivan shishkin,0.20916958004838848,0.5372668586895558,-1,1
+Realism/konstantin-bogaevsky_evening-at-the-sea-1941.jpg,konstantin bogaevsky,0.14183010070787713,0.3643006437997176,-1,1
+Realism/theodor-severin-kittelsen_oppe-paa-flya(1).jpg,theodor severin kittelsen,0.09202771792902421,0.2363797016404455,-1,1
+Realism/vasily-perov_arriving-at-an-the-consequence-1857.jpg,vasily perov,0.0,0.0,0,0
+Realism/vincent-van-gogh_interior-with-peasant-woman-sitting-near-the-fireplace-1885.jpg,vincent van gogh,0.1530010901872822,0.3929941202826058,-1,1
+Realism/thomas-eakins_the-pair-oared-shell-1872.jpg,thomas eakins,0.22372627629532096,0.5746567624397962,-1,1
+Realism/gustave-courbet_seascape-at-saint-aubin.jpg,gustave courbet,0.16853711685241482,0.43289950346959705,-1,1
+Realism/camille-pissarro_landscape-at-le-varenne-saint-hilaire.jpg,camille pissarro,0.17706171924732841,0.454795547575213,-1,1
+Impressionism/james-mcneill-whistler_arrangement-in-black-no-2-portrait-of-mrs-louis-huth-1873.jpg,james mcneill whistler,0.1266648388142552,0.3253475961485926,-1,1
+Realism/gustave-courbet_boats-on-a-beach-etretat.jpg,gustave courbet,0.25395941335267114,0.6523127130391887,-1,1
+Realism/alexey-venetsianov_portrait-of-a-peasant-girl.jpg,alexey venetsianov,0.12070886421595008,0.31004925419023555,-1,1
+Realism/boris-kustodiev_portrait-of-the-artist-igor-grabar-1915.jpg,boris kustodiev,0.0755878849953959,0.1941528281362376,-1,1
+Realism/william-merritt-chase_nude-recumbent.jpg,william merritt chase,0.19609668534205033,0.5036882041298019,-1,1
+Realism/james-tissot_caricature-of-mr-washington-hibbert.jpg,james tissot,0.18345462665165876,0.4712161823454468,-1,1
+Realism/vasily-perov_on-the-railroad-1868.jpg,vasily perov,0.16842349879602406,0.43260766745676305,-1,1
+Realism/james-tissot_barrabbas-illustration-from-the-life-of-our-lord-jesus-christ-1894.jpg,james tissot,0.20994969669267002,0.5392706434597294,-1,1
+Realism/edvard-munch_landscape-maridalen-by-oslo-1881.jpg,edvard munch,0.11052600715495439,0.28389386570410724,-1,1
+Realism/camille-corot_roman-countryside-rocky-valley-with-a-herd-of-pigs-1828.jpg,camille corot,0.1797082919681833,0.46159345677261276,-1,1
+Realism/vincent-van-gogh_still-life-with-beer-mug-and-fruit-1881.jpg,vincent van gogh,0.20704419067382987,0.5318076457748618,-1,1
+Realism/isaac-levitan_evening-at-volga-1888.jpg,isaac levitan,0.11052600715495439,0.28389386570410724,-1,1
+Realism/gustave-courbet_seascape.jpg,gustave courbet,0.2394088908586603,0.6149386670099313,-1,1
+Realism/fyodor-bronnikov_the-old-beggar-1869.jpg,fyodor bronnikov,0.10470328722732407,0.2689377977910612,-1,1
+Realism/johan-hendrik-weissenbruch_landscape-at-noorden.jpg,johan hendrik weissenbruch,0.14473874722519503,0.37177170807701926,-1,1
+Realism/henri-fantin-latour_dahlias-1878.jpg,henri fantin latour,0.08712312578861042,0.22378190987825897,-1,1
+Realism/efim-volkov_summer-landscape-with-fisherman.jpg,efim volkov,0.19807203636292972,0.5087620329224569,-1,1
+Realism/nikolaos-gyzis_the-barber-1880(1).jpg,nikolaos gyzis,0.12730221341227718,0.3269847378783249,-1,1
+Realism/james-tissot_ramsgate.jpg,james tissot,0.1718904263634862,0.44151271609262926,-1,1
+Realism/salvador-dali_portrait-of-sefiora-abadal-de-argemi.jpg,salvador dali,0.0,0.0,1,0
+Realism/william-adolphe-bouguereau_the-virgin-with-angels.jpg,william adolphe bouguereau,0.27843581290399777,0.7151820762416656,-1,1
+Realism/isaac-levitan_a-river-1.jpg,isaac levitan,0.2188162631617742,0.5620450464733786,-1,1
+Realism/anders-zorn_a-girl-from-mora.jpg,anders zorn,0.13305488281183533,0.34176087605609023,-1,1
+Realism/pyotr-konchalovsky_volodya-by-the-river-1938.jpg,pyotr konchalovsky,0.29055827726991373,0.7463194832582359,-1,1
+Realism/william-merritt-chase_still-life-fruit.jpg,william merritt chase,0.10617948826108868,0.2727295245422528,-1,1
+Realism/konstantinos-volanakis_the-fisherman-s-home-on-the-beach(2).jpg,konstantinos volanakis,0.15484108750935302,0.39772028352774635,-1,1
+Realism/ilya-repin_jesus-christ-in-the-garden-of-gethsemane.jpg,ilya repin,0.2888503688835246,0.7419325997856365,-1,1
+Realism/vasily-vereshchagin_an-uzbek.jpg,vasily vereshchagin,0.1394070849984992,0.3580769565961014,-1,1
+Realism/thomas-eakins_the-biglin-brothers-turning-the-stake-boat-1873.jpg,thomas eakins,0.21636084878756445,0.5557381410079296,-1,1
+Realism/konstantinos-volanakis_octoberfest-1876.jpg,konstantinos volanakis,0.13333454804964437,0.3424792159971446,-1,1
+Realism/ilya-mashkov_apples-and-pomegranates-1939.jpg,ilya mashkov,0.08712312578861042,0.22378190987825897,-1,1
+Art_Nouveau_Modern/nicholas-roerich_vilno-ruins-of-castle-1903.jpg,nicholas roerich,0.18128847434212172,0.4656522669495328,-1,1
+Realism/james-tissot_gleaners-as-in-deuteronomy.jpg,james tissot,0.22524691230678723,0.578562623573627,-1,1
+Realism/vasily-vereshchagin_mullah-tajik.jpg,vasily vereshchagin,0.15456935928257048,0.39702233036081375,-1,1
+Realism/vasily-polenov_the-burnt-forest-1881.jpg,vasily polenov,0.21049222714541047,0.5406641712949904,-1,1
+Realism/ivan-vladimirov_photographer-in-the-countryside-1921.jpg,ivan vladimirov,0.2468136759868519,0.6339583812732305,-1,1
+Realism/vasily-vereshchagin_sukhum-kale.jpg,vasily vereshchagin,0.2211997901616452,0.5681673041340106,-1,1
+Realism/fyodor-vasilyev_bank-of-the-volga-after-the-storm.jpg,fyodor vasilyev,0.12447367615754211,0.3197194399072416,-1,1
+Realism/vladimir-makovsky_a-deacon-1871.jpg,vladimir makovsky,0.06697317720069161,0.17202534193906452,-1,1
+Realism/johan-hendrik-weissenbruch_on-the-tow-path-along-the-river-amstel.jpg,johan hendrik weissenbruch,0.23549926437617735,0.6048965149034577,-1,1
+Realism/ivan-shishkin_pine-forest-in-vyatka-province-1872.jpg,ivan shishkin,0.19945800575770783,0.5123219933277895,-1,1
+Realism/ilya-repin_a-woman-in-a-cap.jpg,ilya repin,0.1331364368853523,0.341970353461369,-1,1
+Realism/john-everett-millais_north-west-passage.jpg,john everett millais,0.1259621261415109,0.32354262895327035,-1,1
+Realism/valentin-serov_portrait-of-a-p-nurok-1899.jpg,valentin serov,0.03660828383800174,0.0940309659516877,1,0
+Realism/nicolae-grigorescu_guardian-of-chailly.jpg,nicolae grigorescu,0.08580332634950956,0.22039191168357922,-1,1
+Realism/jean-francois-millet_not_detected_189995.jpg,jean francois millet,0.18322927295664548,0.47063734544293995,-1,1
+Realism/john-singer-sargent_a-dinner-table-at-night-1884.jpg,john singer sargent,0.2723865097828473,0.6996440133722485,-1,1
+Realism/mikhail-lebedev_in-a-park.jpg,mikhail lebedev,0.18280915977928341,0.46955825503675763,-1,1
+Realism/ferdinand-hodler_at-the-foot-of-the-petit-saleve-1890.jpg,ferdinand hodler,0.20899826486400216,0.5368268235231622,-1,1
+Realism/konstantin-somov_portrait-of-mikhail-kuzmin-1909.jpg,konstantin somov,0.0,0.0,0,0
+Realism/julius-leblanc-stewart_young-woman-in-blue-1877(1).jpg,julius leblanc stewart,0.08625953744487888,0.22156372214498424,-1,1
+Realism/camille-corot_canal-in-picardi.jpg,camille corot,0.17348796356481544,0.44561610337102464,-1,1
+Realism/boris-kustodiev_portrait-of-konstantin-somov-1914.jpg,boris kustodiev,0.11904732495704289,0.30578147310076775,-1,1
+Realism/boris-kustodiev_portrait-b-a-gorin-goryainov-1926-1.jpg,boris kustodiev,0.0,0.0,1,0
+Realism/isaac-levitan_quartered-in-the-village.jpg,isaac levitan,0.1280218619723199,0.3288332060978679,-1,1
+Realism/georgios-jakobides_nikolaos-politis-student-in-munich-1880.jpg,georgios jakobides,0.06606582913351551,0.16969475426146355,-1,1
+Realism/camille-corot_the-forest-of-fontainebleau.jpg,camille corot,0.20272638443347393,0.5207170550940873,-1,1
+Realism/edouard-manet_the-absinthe-drinker-1859.jpg,edouard manet,0.16644771864450894,0.4275327364117223,-1,1
+Realism/theodor-severin-kittelsen_skomvaer-fyr.jpg,theodor severin kittelsen,0.15543387247012957,0.3992428936208639,-1,1
+Realism/thomas-eakins_painting-cowboys-in-the-bad-lands-1888.jpg,thomas eakins,0.17561574783917228,0.45108146775521607,-1,1
+Realism/theodore-rousseau_marshland-in-les-landes.jpg,theodore rousseau,0.15109485889286575,0.38809783039547247,-1,1
+Realism/isaac-levitan_forest-lake.jpg,isaac levitan,0.13231916200970437,0.3398711251461251,-1,1
+Realism/vincent-van-gogh_digger-1882-2(1).jpg,vincent van gogh,0.0,0.0,1,0
+Realism/volodymyr-orlovsky_ukrainian-landscape.jpg,volodymyr orlovsky,0.1627577391543341,0.41805476313828316,-1,1
+Realism/boris-kustodiev_lying-nude-1915.jpg,boris kustodiev,0.21322220296984518,0.5476763072621476,-1,1
+Realism/efim-volkov_warm-evening.jpg,efim volkov,0.16397988932904148,0.4211939422916764,-1,1
+Realism/aleksey-savrasov_sea-of-mud-1894.jpg,aleksey savrasov,0.2717002945062027,0.6978814209054934,-1,1
+Realism/vladimir-makovsky_on-the-grand-staircase-1919.jpg,vladimir makovsky,0.20414092448424148,0.5243504012498267,-1,1
+Realism/pyotr-konchalovsky_early-spring.jpg,pyotr konchalovsky,0.18123813570955033,0.4655229686118582,-1,1
+Realism/camille-corot_on-the-banks-of-the-tiber-1826.jpg,camille corot,0.1262744082639724,0.32434474766919924,-1,1
+Realism/constant-troyon_cows-at-the-watering-1855.jpg,constant troyon,0.21456085971413788,0.5511147417787888,-1,1
+Realism/william-adolphe-bouguereau_yvonne-1896-1.jpg,william adolphe bouguereau,0.18176604053463258,0.46687892948816434,-1,1
+Realism/john-singer-sargent_lord-dalhousie-1900.jpg,john singer sargent,0.19673178445478676,0.5053195011146574,-1,1
+Realism/ivan-shishkin_clouds-over-the-grove-1878.jpg,ivan shishkin,0.2752545742687624,0.7070108398319574,-1,1
+Realism/ilya-repin_barge-haulers-by-campfire-1870.jpg,ilya repin,0.16694949342390358,0.4288215804177802,-1,1
+Realism/vasily-polenov_left-hand-with-the-index-finger.jpg,vasily polenov,0.1816742680300977,0.4666432053201753,-1,1
+Realism/wilhelm-leibl_der-spargroschen-1877.jpg,wilhelm leibl,0.15451113730956448,0.39687278310572816,-1,1
+Realism/frederic-remington_prospecting-for-cattle-range-1889.jpg,frederic remington,0.2339556916832162,0.6009317392811403,-1,1
+Realism/camille-corot_rocks-in-amalfi-1828.jpg,camille corot,0.17281602300023446,0.4438901765117032,-1,1
+Realism/john-singer-sargent_the-wyndham-sisters-1899.jpg,john singer sargent,0.22391978114969888,0.575153793342802,-1,1
+Realism/fyodor-vasilyev_return-of-the-herd.jpg,fyodor vasilyev,0.1845540237746278,0.47404006160443496,-1,1
+Realism/nikolay-bogdanov-belsky_still-life-1.jpg,nikolay bogdanov belsky,0.182432831416545,0.4685916290233695,-1,1
+Realism/vincent-van-gogh_woman-with-hat-head-1882.jpg,vincent van gogh,0.12563485235020172,0.32270200307570523,-1,1
+Realism/georgios-jakobides_plan-for-the-short-story-the-ugly-sister-of-d-vikelas-1901(1).jpg,georgios jakobides,0.14225557183409313,0.36539349647644187,-1,1
+Realism/pyotr-konchalovsky_sunrise-1923.jpg,pyotr konchalovsky,0.11624257524493732,0.29857727511516774,-1,1
+Impressionism/konstantin-makovsky_children-playing-in-the-workshop.jpg,konstantin makovsky,0.19077611311619758,0.49002193810032707,-1,1
+Realism/pyotr-konchalovsky_blue-vase-1949.jpg,pyotr konchalovsky,0.08712312578861042,0.22378190987825897,-1,1
+Realism/ivan-kramskoy_portrait-of-v-voyeykova-1867.jpg,ivan kramskoy,0.09068797871474558,0.23293848672309386,-1,1
+Realism/mikhail-lebedev_arricia-near-rome-1835.jpg,mikhail lebedev,0.24254586764435826,0.6229962137289337,-1,1
+Realism/boris-kustodiev_playing-the-whist-1905.jpg,boris kustodiev,0.18518779440653318,0.47566794629232667,-1,1
+Realism/vasily-perov_portrait-of-the-artist-illarion-prianishnikov-1862.jpg,vasily perov,0.07501370670828418,0.19267801060027995,-1,1
+Realism/johan-hendrik-weissenbruch_ships-in-harbour.jpg,johan hendrik weissenbruch,0.178934248997119,0.4596052726616237,-1,1
+Realism/isaac-levitan_twilight-moon-1899-1.jpg,isaac levitan,0.14443550441221212,0.3709928074667401,-1,1
+Realism/gustave-courbet_the-beach-at-trouville-at-low-tide-1865.jpg,gustave courbet,0.22541610425908656,0.5789972050682515,-1,1
+Realism/camille-corot_fishing-with-nets-1850.jpg,camille corot,0.14727201842623183,0.3782785943081572,-1,1
+Realism/viktor-vasnetsov_self-portrait-1868.jpg,viktor vasnetsov,0.0,0.0,1,0
+Realism/thomas-eakins_seventy-years-ago-1877.jpg,thomas eakins,0.10572260727156728,0.2715559934103437,-1,1
+Realism/ivan-shishkin_covert-1894.jpg,ivan shishkin,0.14727201842623183,0.3782785943081572,-1,1
+Realism/mykola-pymonenko_young-woman.jpg,mykola pymonenko,0.22295275932305103,0.5726699293939088,-1,1
+Realism/camille-corot_papigno-buildings-overlooking-the-valley-1826.jpg,camille corot,0.1545611616746114,0.3970012742250414,-1,1
+Realism/camille-corot_landscape-at-mornex-haute-savoie-1842.jpg,camille corot,0.1394371796252717,0.35815425677323875,-1,1
+Realism/winslow-homer_homosassa-jungle-florida.jpg,winslow homer,0.212671433848518,0.5462616178239884,-1,1
+Realism/camille-corot_italian-monk-reading.jpg,camille corot,0.14891711703826402,0.3825041464334548,-1,1
+Realism/aleksey-savrasov_spring-village-view-1867.jpg,aleksey savrasov,0.1622916288832597,0.4168575259440164,-1,1
+Realism/vasily-tropinin_obolenskaya-na-1833.jpg,vasily tropinin,0.07047150397133807,0.18101104164884066,-1,1
+Realism/thomas-eakins_painting.jpg,thomas eakins,0.24541346040073878,0.6303618285179726,-1,1
+Realism/vincent-van-gogh_study-sheet-with-seven-hands-1885.jpg,vincent van gogh,0.12452083520879347,0.31984057126543786,-1,1
+Realism/boris-kustodiev_drawing-hand-to-the-picture-merchant-s-wife-1915.jpg,boris kustodiev,0.0425145457828667,0.10920161744403749,1,0
+Realism/boris-kustodiev_abbess-1908.jpg,boris kustodiev,0.2764956350884288,0.7101985923142764,-1,1
+Realism/camille-corot_clump-of-trees-at-civita-castellana-1826.jpg,camille corot,0.2664438435645119,0.6843798549290037,-1,1
+Realism/ivan-kramskoy_portrait-of-the-artist-i-k-aivazovsky.jpg,ivan kramskoy,0.23463151825213316,0.6026676476174144,-1,1
+Realism/vincent-van-gogh_woman-by-a-hearth-1885-1.jpg,vincent van gogh,0.004265587429982759,0.010956462973451138,1,0
+Realism/henri-fantin-latour_carnations-1899.jpg,henri fantin latour,0.08712312578861042,0.22378190987825897,-1,1
+Realism/gustave-courbet_the-cliffs-at-etretat-1869.jpg,gustave courbet,0.20827577513631432,0.5349710575635972,-1,1
+Realism/camille-corot_voisinlieu-house-by-the-water.jpg,camille corot,0.25241177579686225,0.6483374965291825,-1,1
+Realism/pyotr-konchalovsky_still-life-hens-1930.jpg,pyotr konchalovsky,0.13835890920268795,0.3553846429382566,-1,1
+Realism/vincent-van-gogh_vase-with-asters-and-phlox-1886.jpg,vincent van gogh,0.15693089228468407,0.40308809488280484,-1,1
+Realism/ivan-shishkin_the-bridge-over-the-river.jpg,ivan shishkin,0.10460667194500664,0.2686896346058596,-1,1
+Realism/camille-corot_richmond-near-london-1862.jpg,camille corot,0.11052600715495439,0.28389386570410724,-1,1
+Realism/theodore-rousseau_view-of-the-belfry-of-orleans.jpg,theodore rousseau,0.11052600715495439,0.28389386570410724,-1,1
+Realism/vincent-van-gogh_two-rats-1884.jpg,vincent van gogh,0.22294409211156963,0.5726476670482794,-1,1
+Realism/claude-monet_the-chapel-notre-dame-de-grace-at-honfleur.jpg,claude monet,0.25251598761039545,0.6486051719420335,-1,1
+Realism/ivan-shishkin_dresden-bridge-of-august-1862.jpg,ivan shishkin,0.11052600715495439,0.28389386570410724,-1,1
+Realism/arkhip-kuindzhi_view-of-moscow.jpg,arkhip kuindzhi,0.03659430269173725,0.09399505438876987,1,0
+Realism/maxime-lalanne_betharam-de-lourdes-pau-1860.jpg,maxime lalanne,0.20382947512360852,0.5235504215415467,-1,1
+Realism/theodore-rousseau_not_detected_198916-1867.jpg,theodore rousseau,0.17165902530699084,0.44091834611449027,-1,1
+Realism/john-singer-sargent_mrs-frederick-mead-mary-eliza-scribner.jpg,john singer sargent,0.052108535975621526,0.13384445973481113,-1,1
+Realism/john-everett-millais_annie-miller.jpg,john everett millais,0.0,0.0,0,0
+Realism/arkhip-kuindzhi_dnieper-in-the-morning-1881.jpg,arkhip kuindzhi,0.22614704500523655,0.580874678066387,-1,1
+Realism/eugene-boudin_the-port-portrieux-at-low-tide-unloading-fish-1873.jpg,eugene boudin,0.20951545224565865,0.5381552558880988,-1,1
+Realism/ion-andreescu_in-the-forest.jpg,ion andreescu,0.14727201842623183,0.3782785943081572,-1,1
+Realism/m.c.-escher_not_detected_204701.jpg,m.c. escher,0.22074976911302716,0.5670113932454424,-1,1
+Realism/thomas-eakins_delaware-river-scene-1881.jpg,thomas eakins,0.27361163763271173,0.702790840894862,-1,1
+Realism/james-tissot_caricature-of-henry-william-eaton-m-p.jpg,james tissot,0.15493935930027372,0.3979727015724427,-1,1
+Realism/vincent-van-gogh_head-of-a-peasant-woman-with-dark-cap-1885(1).jpg,vincent van gogh,0.160879358656466,0.41323000999167425,-1,1
+Realism/gustave-courbet_valley-of-the-loue-1836.jpg,gustave courbet,0.1316545818054389,0.33816410389279383,-1,1
+Impressionism/octav-bancila_b-utorii-de-vin.jpg,octav bancila,0.28233026750744794,0.7251852583038982,-1,1
+Realism/ivan-kramskoy_portrait-of-the-astronomer-otto-struve-vasilyevich-1886.jpg,ivan kramskoy,0.051249166451887575,0.13163710833905237,-1,1
+Realism/vincent-van-gogh_girl-with-pinafore-half-figure-1883(1).jpg,vincent van gogh,0.004908645853080025,0.012608204009845638,1,0
+Realism/ilya-repin_head-of-a-man-1882.jpg,ilya repin,0.07674830530979589,0.19713344977793618,-1,1
+Realism/thomas-eakins_delaware-riverscape-from-gloucester.jpg,thomas eakins,0.244213953167268,0.6272808093604395,-1,1
+Realism/pyotr-konchalovsky_winter-window-1954.jpg,pyotr konchalovsky,0.16667807654172132,0.42812442696147146,-1,1
+Realism/ivan-shishkin_mountain-river-1886.jpg,ivan shishkin,0.239500203115712,0.6151732089997114,-1,1
+Realism/vincent-van-gogh_hand-with-a-pot-the-knob-of-a-chair-and-a-hunk-of-bread-1885(1).jpg,vincent van gogh,0.06810422912523842,0.17493052879451199,-1,1
+Realism/henrique-pousao_auto-retrato-1876.jpg,henrique pousao,0.07335904823578186,0.18842790329729772,-1,1
+Realism/ivan-vladimirov_the-shooting-of-peasants-by-white-cossacks.jpg,ivan vladimirov,0.08591990888883372,0.22069136218047392,-1,1
+Realism/m.c.-escher_not_detected_204722.jpg,m.c. escher,0.176063263703256,0.452230943900143,-1,1
+Realism/claude-monet_a-farmyard-in-normandy(1).jpg,claude monet,0.11052600715495439,0.28389386570410724,-1,1
+Realism/charles-francois-daubigny_washerwomen-at-the-oise-river-near-valmondois-1865.jpg,charles francois daubigny,0.1552001987236921,0.3986426860778854,-1,1
+Realism/volodymyr-orlovsky_the-sunny-day.jpg,volodymyr orlovsky,0.25488495035679987,0.6546900202876622,-1,1
+Realism/ferdinand-hodler_the-pastor-1879.jpg,ferdinand hodler,0.07560918447932118,0.19420753736698518,-1,1
+Realism/vasily-surikov_the-fight-of-good-spirits-against-evil-spirits-1875.jpg,vasily surikov,0.2617323511614314,0.6722780534980443,-1,1
+Realism/boris-kustodiev_group-portrait-of-painters-of-the-world-of-art-1910.jpg,boris kustodiev,0.1177110489563428,0.3023491536924088,-1,1
+Realism/anton-azbe_the-village-choir-1900.jpg,anton azbe,0.19014679273423846,0.48840548419414115,-1,1
+Realism/boris-kustodiev_chief-procurator-of-the-synod-k-pobedonostsev-1906.jpg,boris kustodiev,0.05559396722937479,0.14279703639748462,-1,1
+Realism/john-singer-sargent_venetian-canal-scene.jpg,john singer sargent,0.23411624727225078,0.6013441376659614,-1,1
+Realism/nicolae-grigorescu_peasant-woman-with-pitcher.jpg,nicolae grigorescu,0.15854033155289554,0.4072220534616936,-1,1
+Realism/theodor-severin-kittelsen_asbjoern-sigurdssons-drap-paa-tore-sel-01.jpg,theodor severin kittelsen,0.028947760324212108,0.07435436955932932,1,0
+Realism/camille-corot_olevano-la-serpentara-1827.jpg,camille corot,0.11052600715495439,0.28389386570410724,-1,1
+Realism/aleksey-savrasov_thunderstorm-1856.jpg,aleksey savrasov,0.20522244863682962,0.5271283725204268,-1,1
+Realism/giovanni-boldini_outskirts-of-paris.jpg,giovanni boldini,0.21042870016155238,0.5405009977443643,-1,1
+Realism/ilya-repin_portrait-of-v-d-ratov-s-m-muratov-1910.jpg,ilya repin,0.18715073212328198,0.48070989063546155,-1,1
+Realism/henri-fantin-latour_roses.jpg,henri fantin latour,0.08712312578861042,0.22378190987825897,-1,1
+Realism/ivan-shishkin_forest-1869.jpg,ivan shishkin,0.22274192874693916,0.5721283961493657,-1,1
+Realism/vincent-van-gogh_head-of-a-young-man(2).jpg,vincent van gogh,0.04163709370411639,0.1069478197269328,1,0
+Realism/edouard-manet_victorine-meurent-in-the-costume-of-an-espada-1862.jpg,edouard manet,0.07304759777405632,0.18762792076078366,-1,1
+Realism/ilya-repin_moonlight-1896.jpg,ilya repin,0.247622391236753,0.6360356235844126,-1,1
+Realism/james-tissot_caricature-of-william-henry-gregory.jpg,james tissot,0.12160536206510185,0.31235197231552075,-1,1
+Realism/john-singer-sargent_drawing-1.jpg,john singer sargent,0.008675991867362976,0.02228489867176626,1,0
+Realism/thomas-eakins_landscape-1884.jpg,thomas eakins,0.13477736258586595,0.34618518716832575,-1,1
+Realism/john-singer-sargent_nude-egyptian-girl-1891.jpg,john singer sargent,0.16454526915899126,0.4226461603681925,-1,1
+Realism/camille-pissarro_the-road.jpg,camille pissarro,0.14681094485776347,0.3770942942407264,-1,1
+Realism/john-singer-sargent_crescenzo-fusciardi.jpg,john singer sargent,0.055651529868261794,0.14294489010625788,-1,1
+Realism/vincent-van-gogh_peasant-woman-portrait-of-gordina-de-groot-1885-1.jpg,vincent van gogh,0.055988243209865764,0.14380976213631397,-1,1
+Realism/james-tissot_statesmen-no-930-caricature-of-the-duke-of-rutland.jpg,james tissot,0.13633478732916748,0.35018554276155034,-1,1
+Realism/ivan-kramskoy_self-portrait.jpg,ivan kramskoy,0.2584338721421258,0.6638056768706888,-1,1
+Realism/thomas-eakins_man-in-turban.jpg,thomas eakins,0.07558514812218924,0.19414579828385642,-1,1
+Realism/aleksey-savrasov_fern-leaves-and-burdock-1854.jpg,aleksey savrasov,0.1611496550937646,0.4139242855060622,-1,1
+Realism/johan-hendrik-weissenbruch_shelf-carts.jpg,johan hendrik weissenbruch,0.19949917136651565,0.5124277301052172,-1,1
+Realism/valentin-serov_peasant-woman-in-a-cart-1896.jpg,valentin serov,0.21755689648944912,0.558810274113928,-1,1
+Realism/jean-francois-millet_the-young-shepherdess-1873.jpg,jean francois millet,0.26046651820125066,0.6690266720209448,-1,1
+Realism/ivan-shishkin_landscape-with-herd-of-sheep.jpg,ivan shishkin,0.167415891923893,0.43001955794839847,-1,1
+Realism/vasily-perov_court-pugacheva-2.jpg,vasily perov,0.08068426608983591,0.20724324339002928,-1,1
+Impressionism/augustus-john_a-canadian-soldier-1918.jpg,augustus john,0.2985469978648415,0.7668390770633796,-1,1
+Realism/camille-pissarro_the-harvest.jpg,camille pissarro,0.13409311289227938,0.3444276434406599,-1,1
+Realism/vincent-van-gogh_girl-kneeling-1881(1).jpg,vincent van gogh,0.0,0.0,1,0
+Realism/ilya-repin_portrait-of-emperor-nicholas-ii-on-the-porch-1896.jpg,ilya repin,0.2188251899476475,0.5620679755541905,-1,1
+Realism/edgar-degas_portrait-of-rene-de-gas-1855.jpg,edgar degas,0.0,0.0,0,0
+Romanticism/konstantin-makovsky_portrait-of-e-gilechenko.jpg,konstantin makovsky,0.14798290350874457,0.3801045529159171,-1,1
+Realism/theodore-rousseau_the-plain-of-barbizon.jpg,theodore rousseau,0.2512577715495673,0.6453733550095833,-1,1
+Realism/john-singer-sargent_portrait-of-two-children-1887.jpg,john singer sargent,0.08164690818988564,0.20971585770142384,-1,1
+Realism/gustave-courbet_portrait-of-paul-ansout.jpg,gustave courbet,0.06461377243095712,0.16596504393244638,-1,1
+Realism/ivan-vladimirov_the-defeat-of-the-strikers.jpg,ivan vladimirov,0.1470327533105699,0.3776640249379077,-1,1
+Realism/odilon-redon_small-bouquet-in-a-pitcher.jpg,odilon redon,0.2248562107982854,0.577559079118886,-1,1
+Realism/alexey-venetsianov_peasant-boy.jpg,alexey venetsianov,0.0,0.0,0,0
+Realism/viktor-vasnetsov_portrait-of-appolinary-vasnetsov-1872.jpg,viktor vasnetsov,0.036514053869122105,0.09378892961273885,1,0
+Realism/nikolay-bogdanov-belsky_snow-in-the-morning.jpg,nikolay bogdanov belsky,0.2637633952664529,0.6774949339158967,-1,1
+Realism/odilon-redon_pitcher-of-flowers.jpg,odilon redon,0.2112327283139107,0.5425662009140394,-1,1
+Realism/pyotr-konchalovsky_portrait-of-professor-n-p-remizov-1955.jpg,pyotr konchalovsky,0.13892787491686953,0.3568460716120135,-1,1
+Realism/martiros-saryan_armenia-1934.jpg,martiros saryan,0.15638476417282826,0.4016853262056819,-1,1
+Realism/john-singer-sargent_madame-gautreau-drinking-a-toast-1883.jpg,john singer sargent,0.23943731299060705,0.615011671265831,-1,1
+Realism/james-tissot_caricature-of-alexander-baillie-cochrane-m-p.jpg,james tissot,0.17920043887289613,0.46028900018233043,-1,1
+Realism/mary-cassatt_during-carnival-1872.jpg,mary cassatt,0.0,0.0,0,0
+Realism/isaac-levitan_springtime-in-italy-1890.jpg,isaac levitan,0.19361394860014847,0.4973111192307158,-1,1
+Realism/ivan-shishkin_in-the-fir-forest-1.jpg,ivan shishkin,0.22355324343206434,0.5742123152937512,-1,1
+Realism/ivan-shishkin_pine-forest-in-viatka-province-1872.jpg,ivan shishkin,0.17332186369148375,0.4451894640998983,-1,1
+Realism/ilya-repin_sketch-for-the-painting-krestny-khod-religious-procession-in-kursk-gubernia.jpg,ilya repin,0.15548765406320694,0.39938103544608206,-1,1
+Realism/ilya-repin_the-piano-1905.jpg,ilya repin,0.14912810277017705,0.38304607820664577,-1,1
+Realism/giovanni-boldini_place-clichy-1874.jpg,giovanni boldini,0.20172088153815768,0.5181343497989633,-1,1
+Realism/isaac-levitan_village-at-the-riverbank-1883.jpg,isaac levitan,0.12909690129409734,0.3315945206219278,-1,1
+Realism/ivan-shishkin_forest-landscape-2.jpg,ivan shishkin,0.22679985082754767,0.582551455986992,-1,1
+Realism/robert-brackman_rochelle.jpg,robert brackman,0.2286253650623208,0.5872404183981741,-1,1
+Realism/isaac-levitan_at-the-lake-tver-region-1893.jpg,isaac levitan,0.12338649705050081,0.31692694348621386,-1,1
+Realism/vasily-vereshchagin_kyrgyz-girl.jpg,vasily vereshchagin,0.15309029988747908,0.39322326170641286,-1,1
+Realism/efim-volkov_farm.jpg,efim volkov,0.17434238597751528,0.44781074776223584,-1,1
+Realism/john-singer-sargent_glacier-streams.jpg,john singer sargent,0.25271302365172454,0.6491112729484466,-1,1
+Realism/pablo-picasso_plaster-male-torso-1893.jpg,pablo picasso,0.18558802739467523,0.47669597302658345,-1,1
+Realism/james-tissot_joseph-reveals-his-dream-to-his-brethren.jpg,james tissot,0.20203692066385467,0.5189461186433953,-1,1
+Realism/john-singer-sargent_alberto-falchetti.jpg,john singer sargent,0.2233711695306423,0.5737446456018019,-1,1
+Realism/thomas-eakins_study-of-a-woman-s-head-1881.jpg,thomas eakins,0.23086211858719807,0.592985678008561,-1,1
+Realism/john-singer-sargent_helen-brice-1907.jpg,john singer sargent,0.11185893466030794,0.28731758426536524,-1,1
+Realism/henri-fantin-latour_bouquet-of-roses.jpg,henri fantin latour,0.08712312578861042,0.22378190987825897,-1,1
+Realism/volodymyr-orlovsky_a-road-1881.jpg,volodymyr orlovsky,0.1280478543801029,0.3288999694354246,-1,1
+Realism/pyotr-konchalovsky_the-evening-landscape-with-a-lake-1939.jpg,pyotr konchalovsky,0.11052600715495439,0.28389386570410724,-1,1
+Realism/isaac-levitan_forest.jpg,isaac levitan,0.15335904611111886,0.39391355538738804,-1,1
+Realism/antã³nio-de-carvalho-da-silva-porto_charneca-de-belas-ao-p-r-do-sol-1879.jpg,antã³nio de carvalho da silva porto,0.21579319091078855,0.5542800716070386,-1,1
+Realism/ilya-repin_raising-of-jairus-daughter3-1871.jpg,ilya repin,0.14065502227384072,0.36128237174112027,-1,1
+Realism/ioannis-altamouras_sea-battle.jpg,ioannis altamouras,0.24580046222045937,0.6313558700604394,-1,1
+Realism/fyodor-vasilyev_village.jpg,fyodor vasilyev,0.12832068586666887,0.3296007564031327,-1,1
+Realism/william-adolphe-bouguereau_assault-1898.jpg,william adolphe bouguereau,0.23156063573049507,0.5947798686897927,-1,1
+Realism/isaac-levitan_above-the-eternal-tranquility-1894.jpg,isaac levitan,0.2795172935031299,0.717959935642134,-1,1
+Realism/vincent-van-gogh_the-parsonage-garden-at-nuenen-in-the-snow-1885.jpg,vincent van gogh,0.22309601206900578,0.5730378842026337,-1,1
+Realism/gustave-courbet_the-reflection-1864.jpg,gustave courbet,0.20809980931619892,0.5345190769104436,-1,1
+Realism/isaac-levitan_volga-1889.jpg,isaac levitan,0.15484108750935302,0.39772028352774635,-1,1
+Realism/thomas-eakins_will-schuster-and-a-black-1876.jpg,thomas eakins,0.2858531963893567,0.7342341502762967,-1,1
+Realism/vasily-polenov_normandy-beach-1874.jpg,vasily polenov,0.1949879121002939,0.5008402416466353,-1,1
+Realism/frederic-remington_the-right-of-the-road-1900.jpg,frederic remington,0.09030961306535354,0.23196662779486027,-1,1
+Realism/aleksey-savrasov_after-the-storm.jpg,aleksey savrasov,0.11538337031183989,0.29637034648209865,-1,1
+Realism/theodore-gericault_heads-of-torture-victims-study-for-the-raft-of-the-medusa.jpg,theodore gericault,0.17415702236057162,0.44733462820332287,-1,1
+Realism/johan-hendrik-weissenbruch_horseman-on-a-tow-path.jpg,johan hendrik weissenbruch,0.17820577149869646,0.4577341266894754,-1,1
+Realism/pyotr-konchalovsky_still-life-every-victuals-1944.jpg,pyotr konchalovsky,0.17219583923715506,0.4422971906572455,-1,1
+Realism/henri-fantin-latour_summer-flowers-1880.jpg,henri fantin latour,0.08712312578861042,0.22378190987825897,-1,1
+Realism/valentin-serov_portrait-of-izabella-grunberg-1910-1.jpg,valentin serov,0.01426067377585213,0.03662954909875591,1,0
+Realism/boris-kustodiev_portrait-of-d-kardovsky-1921.jpg,boris kustodiev,0.15384968863511944,0.3951738054082004,-1,1
+Realism/henri-fantin-latour_white-peonies-and-roses-narcissus-1879.jpg,henri fantin latour,0.08712312578861042,0.22378190987825897,-1,1
+Realism/pyotr-konchalovsky_still-life-lilacs-in-the-tub-1946.jpg,pyotr konchalovsky,0.12937566042118,0.3323105331535019,-1,1
+Realism/james-tissot_the-traveller-1885.jpg,james tissot,0.2075461863751729,0.5330970572345676,-1,1
+Realism/james-tissot_waiting.jpg,james tissot,0.15368297767132258,0.39474559650799834,-1,1
+Realism/henri-fantin-latour_the-embroiderers-no-3-1895.jpg,henri fantin latour,0.28896799921933564,0.7422347416219072,-1,1
+Realism/vasily-vereshchagin_the-interior-of-the-yurt-of-rich-kirghiz-1870.jpg,vasily vereshchagin,0.14035107105117414,0.3605016515304704,-1,1
+Realism/constantin-artachino_acareturi.jpg,constantin artachino,0.12615353091367618,0.3240342656465966,-1,1
+Realism/georgios-jakobides_grandma-s-favourite-1893.jpg,georgios jakobides,0.10207790494283608,0.26219431772804364,-1,1
+Realism/edouard-manet_the-boy-with-a-sword-1862.jpg,edouard manet,0.01954453598301457,0.05020152284911626,1,0
+Realism/theodor-severin-kittelsen_tirilil-tove-cover-1900-1.jpg,theodor severin kittelsen,0.09984733528804153,0.25646494182528334,-1,1
+Realism/pavel-fedotov_fashionable-wife-lioness.jpg,pavel fedotov,0.18648506084014338,0.4790000668688843,-1,1
+Realism/ivan-shishkin_forest-landscape-1878.jpg,ivan shishkin,0.14771837421291728,0.3794250907122467,-1,1
+Realism/isaac-levitan_little-village.jpg,isaac levitan,0.009271035627242945,0.0238133106501217,1,0
+Realism/thomas-eakins_nude-woman-standing.jpg,thomas eakins,0.19832345298988957,0.509407814308822,-1,1
+Realism/john-singer-sargent_asher-wertheime-1898.jpg,john singer sargent,0.04863512992727506,0.12492277066263963,-1,1
+Realism/vincent-van-gogh_head-of-a-fisherman-with-a-sou-wester-1883(1).jpg,vincent van gogh,0.13494092453092235,0.3466053075911964,-1,1
+Realism/theodore-rousseau_not_detected_198947.jpg,theodore rousseau,0.12088990118263632,0.3105142604419845,-1,1
+Realism/isaac-levitan_lake-gray-day-1895.jpg,isaac levitan,0.14177859702809734,0.3641683529558968,-1,1
+Realism/henri-fantin-latour_roses-4.jpg,henri fantin latour,0.17212904467363227,0.44212562409716955,-1,1
+Realism/pyotr-konchalovsky_airedale-on-the-balcony-1935.jpg,pyotr konchalovsky,0.23209220705433592,0.5961452472274528,-1,1
+Realism/james-tissot_caricature-of-sir-charles-wentworth-dilke-2nd-baronet-pc.jpg,james tissot,0.12160536206510185,0.31235197231552075,-1,1
+Realism/anders-zorn_emma-zorn-reading.jpg,anders zorn,0.12449755421415228,0.3197807723842853,-1,1
+Realism/vincent-van-gogh_head-of-a-young-man-2.jpg,vincent van gogh,0.13361126389291775,0.3431899802097549,-1,1
+Art_Nouveau_Modern/koloman-moser_reproduction-template-for-the-middle-part-of-the-leaf-love-for-gerlach-s-allegories-new-series.jpg,koloman moser,0.17298100552455226,0.44431394579286915,-1,1
+Realism/vasily-polenov_john-and-james-1.jpg,vasily polenov,0.173649157365484,0.44603014104756156,-1,1
+Realism/john-singer-sargent_judith-gautier-also-known-as-by-the-river-or-resting-by-a-spring-1885.jpg,john singer sargent,0.2500629581522461,0.6423043923021453,-1,1
+Realism/alexey-bogolyubov_wreck-of-livadia-fragment-1878.jpg,alexey bogolyubov,0.16495416983627256,0.42369645067497674,-1,1
+Realism/christoffer-wilhelm-eckersberg_seated-nude-model.jpg,christoffer wilhelm eckersberg,0.22189907454881874,0.5699634655353983,-1,1
+Realism/gustave-courbet_the-chateau-d-ornans.jpg,gustave courbet,0.11052600715495439,0.28389386570410724,-1,1
+Realism/ivan-vladimirov_parade-of-the-navy-imperial-yacht-standart-1902.jpg,ivan vladimirov,0.15484108750935302,0.39772028352774635,-1,1
+Realism/vasily-perov_the-old-man-on-the-bench.jpg,vasily perov,0.08940324565620655,0.22963855900675856,-1,1
+Realism/ivan-shishkin_the-forest-horizons-1884.jpg,ivan shishkin,0.24556745923349907,0.6307573854106138,-1,1
+Realism/vasily-vereshchagin_cape-fiolent-near-sevastopol-1897.jpg,vasily vereshchagin,0.2264683093570618,0.581699868273654,-1,1
+Realism/vincent-van-gogh_peasant-woman-with-a-child-in-her-lap-1885.jpg,vincent van gogh,0.21926279571143242,0.5631919969056642,-1,1
+Realism/john-henry-twachtman_twachtman-s-home-avondale-ohio.jpg,john henry twachtman,0.18061771462545237,0.4639293731815811,-1,1
+Realism/gustave-courbet_two-roe-deers-in-the-forest.jpg,gustave courbet,0.15670933203446455,0.40251900171152066,-1,1
+Realism/martiros-saryan_village-at-the-foot-of-the-mountain-1937.jpg,martiros saryan,0.23253860153099196,0.5972918430094679,-1,1
+Realism/giovanni-boldini_portrait-of-the-contessa-g-tempestini.jpg,giovanni boldini,0.13515190363953464,0.347147222351971,-1,1
+Realism/volodymyr-orlovsky_nizhny-novgorod.jpg,volodymyr orlovsky,0.1476783754941322,0.37932235117436414,-1,1
+Realism/camille-corot_the-boatman-left-the-bank-with-a-woman-and-a-child-sitting-in-his-boat-sunset.jpg,camille corot,0.19029034502412523,0.48877420840263897,-1,1
+Realism/giovanni-boldini_self-portrait-1911.jpg,giovanni boldini,0.13135148592459203,0.3373855806880971,-1,1
+Realism/vincent-van-gogh_sketch-of-a-hen-1890.jpg,vincent van gogh,0.0,0.0,1,0
+Realism/viktor-vasnetsov_a-game-of-preference-1879.jpg,viktor vasnetsov,0.14235865175998935,0.36565826455585093,-1,1
+Realism/giovanni-boldini_the-head-of-a-horse.jpg,giovanni boldini,0.23337554718405382,0.5994415971076039,-1,1
+Realism/ilya-repin_deserter-1917.jpg,ilya repin,0.14312322877807146,0.3676221346971792,-1,1
+Realism/konstantin-bogaevsky_mill-near-the-forest-creek-1884.jpg,konstantin bogaevsky,0.04583573183551642,0.1177323186923638,-1,1
+Realism/boris-kustodiev_may-day-demonstration-in-putilov-1906.jpg,boris kustodiev,0.22096235329438094,0.5675574307490632,-1,1
+Realism/konstantinos-volanakis_the-burning-of-a-turkish-frigate(3).jpg,konstantinos volanakis,0.159351467907682,0.4093055145519927,-1,1
+Realism/vincent-van-gogh_view-of-het-steen-1885.jpg,vincent van gogh,0.1587372448858511,0.4077278392829714,-1,1
+Realism/boris-kustodiev_the-attack-on-the-wedding-carriage-1919.jpg,boris kustodiev,0.17519281264938621,0.4499951288105518,-1,1
+Realism/thomas-eakins_kathrin-1872.jpg,thomas eakins,0.08738826102388789,0.22446292848025878,-1,1
+Realism/martiros-saryan_portrait-of-a-winner-1956.jpg,martiros saryan,0.12713976116279055,0.3265674677870021,-1,1
+Realism/winslow-homer_fishergirl-baiting-lines.jpg,winslow homer,0.17613076190484084,0.4524043178043421,-1,1
+Realism/nikolay-bogdanov-belsky_nude-model.jpg,nikolay bogdanov belsky,0.2169572127163605,0.5572699439335075,-1,1
+Realism/alexey-venetsianov_portret-of-v-s-putyatina.jpg,alexey venetsianov,0.15779973638873163,0.40531978240813515,-1,1
+Realism/thomas-eakins_homespun-1881.jpg,thomas eakins,0.09224734975497721,0.2369438415176242,-1,1
+Realism/salvador-dali_sheep.jpg,salvador dali,0.25597827094583586,0.6574982915395149,-1,1
+Realism/valentin-serov_portrait-of-attorney-oscar-osipovich-grusenberg-with-his-wife-rosa-grigoryevna-1910.jpg,valentin serov,0.0,0.0,1,0
+Realism/ivan-shishkin_rocks-on-the-island-of-valaam-kukko-1859.jpg,ivan shishkin,0.03769845247931184,0.09683114120290272,1,0
+Realism/vasily-perov_students-talk-with-the-monk-1871.jpg,vasily perov,0.18437959465480452,0.47359202807465617,-1,1
+Realism/ferdinand-hodler_the-mill-of-sous-terre-in-geneva-1878.jpg,ferdinand hodler,0.1397708901817464,0.3590114159373354,-1,1
+Realism/vasily-perov_melting-snow-maiden.jpg,vasily perov,0.26918880487015806,0.6914304821644158,-1,1
+Realism/boris-kustodiev_a-merchant-1918.jpg,boris kustodiev,0.18860069335285146,0.4844342185939162,-1,1
+Realism/odilon-redon_vase-de-fleurs.jpg,odilon redon,0.17947627805990918,0.4609975126413395,-1,1
+Realism/david-burliuk_artist-s-house-in-hampton-bays.jpg,david burliuk,0.23757242686470723,0.6102215793679358,-1,1
+Realism/boris-kustodiev_portrait-of-i-zolotarevsky-1922.jpg,boris kustodiev,0.17393426509260576,0.4467624604073049,-1,1
+Realism/john-singer-sargent_mrs-richard-h-derby-1888.jpg,john singer sargent,0.1709787907748344,0.4391711156129073,-1,1
+Realism/camille-corot_the-bridge-at-grez-sur-loing.jpg,camille corot,0.11052600715495439,0.28389386570410724,-1,1
+Realism/ilya-repin_haulers-cross-wade-1872.jpg,ilya repin,0.2644660758192509,0.6792998186088652,-1,1
+Realism/camille-corot_old-man-seated-on-corot-s-trunk-1826.jpg,camille corot,0.15757959211594005,0.4047543262750117,-1,1
+Realism/pyotr-konchalovsky_katya-with-grains-1933.jpg,pyotr konchalovsky,0.12335970480138181,0.31685812569962146,-1,1
+Realism/aleksey-savrasov_volga-1870.jpg,aleksey savrasov,0.17821719362123853,0.4577634652189897,-1,1
+Realism/jacek-malczewski_our-lady.jpg,jacek malczewski,0.08969018318331422,0.23037557833716799,-1,1
+Realism/gustave-courbet_pierre-joseph-proudhon-and-his-children-in-1853-1865.jpg,gustave courbet,0.1655713840198103,0.425281808954375,-1,1
+Realism/pyotr-konchalovsky_autumn-birches-1933.jpg,pyotr konchalovsky,0.11052600715495439,0.28389386570410724,-1,1
+Realism/vincent-van-gogh_weaver-seen-from-the-front-1884.jpg,vincent van gogh,0.0902311533583713,0.23176509848885746,-1,1
+Realism/alexey-venetsianov_old-nurse-in-shlychkov.jpg,alexey venetsianov,0.1133813024897321,0.29122789369609386,-1,1
+Realism/julius-leblanc-stewart_nude-in-the-forest(1).jpg,julius leblanc stewart,0.20681655929275522,0.5312229584746299,-1,1
+Realism/james-tissot_croquet.jpg,james tissot,0.24471967128923966,0.628579782120777,-1,1
+Realism/ivan-kramskoy_portrait-of-sofia-nikolaevna-and-sophia-ivanovna-archaeology-wife-and-daughter-of-the-artist-1875.jpg,ivan kramskoy,0.3226047112816145,0.8286330153200471,-1,1
+Realism/edouard-manet_the-barque-of-dante-copy-after-delacroix-1854.jpg,edouard manet,0.14903954779007364,0.38281861847770016,-1,1
+Realism/john-singer-sargent_cecily-homer-1910.jpg,john singer sargent,0.07721767407910637,0.19833905665536114,-1,1
+Realism/vincent-van-gogh_farmhouses-among-trees-1883(1).jpg,vincent van gogh,0.16337457309260792,0.41963914473083025,-1,1
+Realism/johan-hendrik-weissenbruch_farm-interior.jpg,johan hendrik weissenbruch,0.22613969982846882,0.5808558114604131,-1,1
+Realism/ivan-shishkin_mushroom-pickers.jpg,ivan shishkin,0.20884362173773846,0.5364296117170936,-1,1
+Realism/ivan-shishkin_gathering-mushrooms-1870.jpg,ivan shishkin,0.13465174121377604,0.34586251979025195,-1,1
+Realism/maxime-lalanne_innenansicht-der-b-rse-handelsbeurs-von-antwerpen.jpg,maxime lalanne,0.18074598417634932,0.4642588425941983,-1,1
+Realism/eugene-boudin_study-of-cows.jpg,eugene boudin,0.26102399377241886,0.6704585874497964,-1,1
+Realism/taras-shevchenko_in-cherkasy-1859.jpg,taras shevchenko,0.15217658439374562,0.39087631884339913,-1,1
+Realism/georgios-jakobides_drawing-for-the-short-story-the-ugly-sister-by-d-vikelas.jpg,georgios jakobides,0.21342287823453887,0.5481917558711362,-1,1
+Realism/vasily-polenov_burdocks.jpg,vasily polenov,0.20441296062522987,0.5250491453161725,-1,1
+Realism/edouard-manet_portrait-of-irma-brunner.jpg,edouard manet,0.14351760980019437,0.3686351302428687,-1,1
+Realism/john-singer-sargent_a-backwater-at-calcot-near-reading-1888.jpg,john singer sargent,0.14598070842106972,0.37496177323930313,-1,1
+Impressionism/vasily-surikov_seville-1910.jpg,vasily surikov,0.09930587529873867,0.25507416355106427,-1,1
+Realism/ivan-shishkin_edge-of-the-forest-2.jpg,ivan shishkin,0.21113237369745788,0.5423084329846678,-1,1
+Realism/john-everett-millais_vanessa.jpg,john everett millais,0.2227558794029646,0.5721642293959482,-1,1
+Realism/vincent-van-gogh_peasant-woman-bending-over-1885.jpg,vincent van gogh,0.1130741646157985,0.29043898834630677,-1,1
+Realism/vasily-surikov_yermak-s-conquest-of-siberia-study-1.jpg,vasily surikov,0.24045750396744725,0.6176321039370806,-1,1
+Realism/vasily-polenov_voria-1882.jpg,vasily polenov,0.11443378239806153,0.2939312627713256,-1,1
+Realism/ilya-repin_speech-of-his-imperial-majesty-on-may-18-1896-1897.jpg,ilya repin,0.23252020667321074,0.5972445945163846,-1,1
+Realism/boris-kustodiev_portrait-of-countess-grabowska-1917.jpg,boris kustodiev,0.1896146183383362,0.4870385566232426,-1,1
+Realism/john-singer-sargent_lady-margaret-spicer.jpg,john singer sargent,0.10229716943726903,0.2627575140882356,-1,1
+Realism/vasily-vereshchagin_glacier-on-the-way-from-kashmir-to-ladakh-1875.jpg,vasily vereshchagin,0.32919669021138914,0.845564979381592,-1,1
+Realism/ivan-shishkin_forest-edges.jpg,ivan shishkin,0.1615423777282601,0.41493302136585053,-1,1
+Realism/octav-bancila_autoportret.jpg,octav bancila,0.29495206612245584,0.7576052406518511,-1,1
+Realism/vincent-van-gogh_scheveningen-woman-knitting-1881.jpg,vincent van gogh,0.17973928423931337,0.46167306261276336,-1,1
+Realism/theodore-rousseau_long-rock-in-the-forest-of-fontainebleau.jpg,theodore rousseau,0.29412566393578327,0.7554825681927629,-1,1
+Realism/vasily-surikov_russian-troops-under-suvorov-crossing-the-alps-study-1898.jpg,vasily surikov,0.20904590740298176,0.5369491967537804,-1,1
+Realism/william-adolphe-bouguereau_far-niente-1904.jpg,william adolphe bouguereau,0.24553841351877073,0.6306827794382401,-1,1
+Realism/eugene-boudin_douarnenez-fishing-boats-at-dockside-1855.jpg,eugene boudin,0.21286902234297198,0.5467691378453219,-1,1
+Realism/nikolai-ge_portrait-of-barbara-kochubey.jpg,nikolai ge,0.06052042479296978,0.1554509910454204,-1,1
+Realism/corneliu-baba_still-life-1979.jpg,corneliu baba,0.08647516412536514,0.22211757452279038,-1,1
+Realism/pericles-pantazis_still-life-with-cakes-and-a-silver-teapot.jpg,pericles pantazis,0.08125785883509071,0.2087165569203183,-1,1
+Realism/konstantin-somov_portrait-of-n-vysotskaya.jpg,konstantin somov,0.0,0.0,1,0
+Realism/john-singer-sargent_kneeling-model.jpg,john singer sargent,0.12334482628517435,0.31681990917854375,-1,1
+Realism/james-tissot_sovereigns-no-30-caricature-of-leopold-ii-of-the-belgians.jpg,james tissot,0.1752580136226039,0.45016260212123144,-1,1
+Realism/ivan-kramskoy_portrait-of-a-poet-and-artist-taras-shevchenko-1871.jpg,ivan kramskoy,0.19272040290700782,0.4950159839269197,-1,1
+Realism/konstantin-makovsky_two-breton-women-1904.jpg,konstantin makovsky,0.19909751246997504,0.5113960408243994,-1,1
+Realism/edouard-manet_a-corner-of-the-garden-in-rueil-1882.jpg,edouard manet,0.23318951283536732,0.5989637547267758,-1,1
+Realism/ivan-shishkin_flowers-in-the-forest-1877.jpg,ivan shishkin,0.1478484460847014,0.37975918951352156,-1,1
+Realism/isaac-levitan_the-vladimir-s-road-1892.jpg,isaac levitan,0.1816794257700757,0.46665645334006073,-1,1
+Realism/vincent-van-gogh_farmhouse-at-night-1883(1).jpg,vincent van gogh,0.07253756202518852,0.18631785787042365,-1,1
+Realism/arkhip-kuindzhi_portrait-of-ivan-kramskoi.jpg,arkhip kuindzhi,0.021529157678110988,0.05529916402411373,1,0
+Realism/isaac-levitan_monastery-gate-and-wall-1885-1.jpg,isaac levitan,0.21493643319406874,0.552079428822301,-1,1
+Realism/vasily-vereshchagin_temple-in-tokyo-1873.jpg,vasily vereshchagin,0.15723733947175056,0.4038752261545288,-1,1
+Realism/gustave-courbet_pomegranates-1871.jpg,gustave courbet,0.18883175588098988,0.48502771903802994,-1,1
+Realism/henri-fantin-latour_roses-5.jpg,henri fantin latour,0.1666238722574183,0.42798519942394775,-1,1
+Realism/vincent-van-gogh_woman-sewing-1885.jpg,vincent van gogh,0.2540425654685341,0.6525262951292458,-1,1
+Realism/james-tissot_gentleman-in-a-railway-carriage.jpg,james tissot,0.08721426788534335,0.2240160147992267,-1,1
+Realism/david-burliuk_mount-fuji-1922.jpg,david burliuk,0.23293761801357213,0.5983167450631585,-1,1
+Realism/vasily-surikov_tsarevna-1911.jpg,vasily surikov,0.13364050389776558,0.34326508523004046,-1,1
+Realism/vasily-perov_scouts-at-sevastopol-1874-1.jpg,vasily perov,0.27433940194496387,0.7046601549978956,-1,1
+Realism/vincent-van-gogh_the-old-cemetery-tower-at-nuenen-in-the-snow-1885.jpg,vincent van gogh,0.19523326584438216,0.5014704500895817,-1,1
+Realism/ilya-repin_barge-haulers-pulling-on-the-strap-1870.jpg,ilya repin,0.0,0.0,1,0
+Realism/jean-francois-millet_landscape-vichy-1866.jpg,jean francois millet,0.29117513539954454,0.7479039269879942,-1,1
+Cubism/salvador-dali_venus-and-sailor-homage-to-salvat-papasseit-1925.jpg,salvador dali,0.04163709370411639,0.1069478197269328,1,0
+Cubism/willi-baumeister_depiction-of-apollo-1921.jpg,willi baumeister,0.04163709370411639,0.1069478197269328,1,0
+Cubism/marc-chagall_marketplace-in-vitebsk-1917.jpg,marc chagall,0.1337542976465255,0.3435573725211495,-1,1
+Cubism/man-ray_still-life-with-red-tea-kettle.jpg,man ray,0.0466397591051195,0.11979751959461954,-1,1
+Cubism/pablo-picasso_girl-in-chair-1952.jpg,pablo picasso,0.04163709370411639,0.1069478197269328,1,0
+Cubism/amedee-ozenfant_still-life-1921.jpg,amedee ozenfant,0.04163709370411639,0.1069478197269328,1,0
+Cubism/andre-masson_removal.jpg,andre masson,0.04163709370411639,0.1069478197269328,1,0
+Cubism/fernand-leger_still-life-1922.jpg,fernand leger,0.04163709370411639,0.1069478197269328,1,0
+Cubism/nikos-hadjikyriakos-ghikas_stage-design-for-don-juan-by-andr-obey-1939.jpg,nikos hadjikyriakos ghikas,0.1593715486264802,0.4093570932983211,-1,1
+Cubism/david-bomberg_in-the-hold-1914.jpg,david bomberg,0.04163709370411639,0.1069478197269328,1,0
+Cubism/roger-de-la-fresnaye_standing-nude-from-the-front.jpg,roger de la fresnaye,0.12537591560094455,0.32203690572340143,-1,1
+Cubism/louis-marcoussis_still-life.jpg,louis marcoussis,0.04163709370411639,0.1069478197269328,1,0
+Cubism/otto-dix_warrior-with-a-pipe.jpg,otto dix,0.04163709370411639,0.1069478197269328,1,0
+Cubism/roger-de-la-fresnaye_castor-and-pollux-1922.jpg,roger de la fresnaye,0.04163709370411639,0.1069478197269328,1,0
+Cubism/fernand-leger_chimneys-on-rooftops-1911.jpg,fernand leger,0.15492814241725017,0.3979438902151461,-1,1
+Cubism/georges-braque_a-house-at-estaque-1908.jpg,georges braque,0.13366829419705228,0.3433364665790701,-1,1
+Cubism/conrad-marca-relli_la-citt-1951.jpg,conrad marca relli,0.04163709370411639,0.1069478197269328,1,0
+Cubism/georges-braque_big-nude-1908.jpg,georges braque,0.12948525284675072,0.33259202904888463,-1,1
+Cubism/ernst-ludwig-kirchner_two-seated-woman-and-a-striding-man.jpg,ernst ludwig kirchner,0.04163709370411639,0.1069478197269328,1,0
+Cubism/jean-david_houses-in-flames.jpg,jean david,0.2188512052351571,0.5621347976599431,-1,1
+Cubism/rene-magritte_landscape-1920(1).jpg,rene magritte,0.04163709370411639,0.1069478197269328,1,0
+Cubism/amadeo-de-souza-cardoso_cash-register-1917.jpg,amadeo de souza cardoso,0.04163709370411639,0.1069478197269328,1,0
+Cubism/pablo-picasso_child-with-flower-1945.jpg,pablo picasso,0.04163709370411639,0.1069478197269328,1,0
+Cubism/auguste-herbin_head-1918.jpg,auguste herbin,0.04163709370411639,0.1069478197269328,1,0
+Cubism/pablo-picasso_artist-s-studio-1916.jpg,pablo picasso,0.03637703014613142,0.09343697449000961,1,0
+Expressionism/amedeo-modigliani_the-zouave-1918.jpg,amedeo modigliani,0.14174294151500924,0.36407676924899557,-1,1
+Expressionism/jean-david_untitled.jpg,jean david,0.04163709370411639,0.1069478197269328,1,0
+Expressionism/jean-helion_la-citrouille-et-son-reflet-1958.jpg,jean helion,0.15685758741780942,0.4028998061481653,-1,1
+Expressionism/pyotr-konchalovsky_gurzuf-cypresses-1929.jpg,pyotr konchalovsky,0.16371023615659314,0.42050131904854765,-1,1
+Expressionism/paul-klee_in-the-style-of-kairouan-1914.jpg,paul klee,0.04163709370411639,0.1069478197269328,1,0
+Expressionism/egon-schiele_double-self-portrait-1915.jpg,egon schiele,0.1816742680300977,0.4666432053201753,-1,1
+Expressionism/zinaida-serebriakova_marrakech-the-walls-and-towers-of-the-city-1928.jpg,zinaida serebriakova,0.13031982156207608,0.33473567781434904,-1,1
+Expressionism/otto-dix_totentanz-anno-17-hohe-toter-mann.jpg,otto dix,0.05696402052121936,0.14631611516685603,-1,1
+Expressionism/m.c.-escher_not_detected_204723.jpg,m.c. escher,0.04163709370411639,0.1069478197269328,1,0
+Expressionism/ernst-ludwig-kirchner_english-dancers.jpg,ernst ludwig kirchner,0.09667438117149156,0.24831498478769437,-1,1
+Expressionism/frantisek-kupka_prometheus-in-chains-1905-5.jpg,frantisek kupka,0.10785144860941906,0.2770240729368767,-1,1
+Expressionism/egon-schiele_church-in-stein-on-the-danube-1913.jpg,egon schiele,0.09528702176414064,0.2447514540367678,-1,1
+Expressionism/lovis-corinth_armor-in-the-studio-1918.jpg,lovis corinth,0.217701418437175,0.5591814889571591,-1,1
+Expressionism/saul-steinberg_i-do-i-have-i-am-1971.jpg,saul steinberg,0.09528702176414064,0.2447514540367678,-1,1
+Expressionism/balthus_the-cherry-tree.jpg,balthus,0.22607548938507946,0.5806908823956471,-1,1
+Expressionism/august-macke_self-portrait.jpg,august macke,0.0,0.0,0,0
+Expressionism/ernst-ludwig-kirchner_female-nude-kneeling-before-a-red-screen.jpg,ernst ludwig kirchner,0.07341784684605834,0.18857893168599196,-1,1
+Expressionism/edvard-munch_awakening-men-1916.jpg,edvard munch,0.17962370059332275,0.46137617784403695,-1,1
+Expressionism/arturo-souto_pair-1951.jpg,arturo souto,0.10318742621549978,0.2650442015814957,-1,1
+Expressionism/zinaida-serebriakova_dancer-1924.jpg,zinaida serebriakova,0.19033947372920215,0.48890039895597875,-1,1
+Expressionism/jack-bush_nude-1954.jpg,jack bush,0.04163709370411639,0.1069478197269328,1,0
+Expressionism/horia-bernea_the-column(1).jpg,horia bernea,0.10186712318999348,0.26165290988952034,-1,1
+Expressionism/salvador-dali_velazquez-dying-behind-the-window-on-the-left-side-out-of-which-a-spoon-projects.jpg,salvador dali,0.14218672194527815,0.3652166506680017,-1,1
+Expressionism/amedeo-modigliani_portrait-of-juan-gris-1915.jpg,amedeo modigliani,0.04610176586534503,0.11841564591173037,-1,1
+Expressionism/tivadar-kosztka-csontvary_sunset-over-the-bay-of-naples-1901.jpg,tivadar kosztka csontvary,0.25292154675699796,0.6496468792909584,-1,1
+Abstract_Expressionism/aaron-siskind_chicago-1951.jpg,aaron siskind,0.19201551726599234,0.4932054353089221,-1,1
+Abstract_Expressionism/john-mccracken_untitled-december-6-1973-1973.jpg,john mccracken,0.2059049022786749,0.5288813029621795,-1,1
+Abstract_Expressionism/geta-bratescu_medeic-callisthetic-moves-iv-1981.jpg,geta bratescu,0.07081682218579213,0.18189801590334317,-1,1
+Abstract_Expressionism/jackson-pollock_easter-and-the-totem(1).jpg,jackson pollock,0.04163709370411639,0.1069478197269328,1,0
+Abstract_Expressionism/richard-pousette-dart_light-gathers-to-the-question-of-no-1979.jpg,richard pousette dart,0.04163709370411639,0.1069478197269328,1,0
+Abstract_Expressionism/theodoros-stamos_high-snow-low-sun-1960.jpg,theodoros stamos,0.16465691658849266,0.42293293468649973,-1,1
+Abstract_Expressionism/paul-jenkins_phenomena-sung-mantle.jpg,paul jenkins,0.12833981170726094,0.32964988247726035,-1,1
+Abstract_Expressionism/sam-gilliam_lattice-1981.jpg,sam gilliam,0.04163709370411639,0.1069478197269328,1,0
+Abstract_Expressionism/norman-bluhm_gronk-1964.jpg,norman bluhm,0.204827736218612,0.5261145257604319,-1,1
+Abstract_Expressionism/esteban-vicente_blue-red-black-and-white-1961.jpg,esteban vicente,0.11108871165454721,0.2853392120054039,-1,1
+Abstract_Expressionism/frank-stella_the-mat-maker-1990.jpg,frank stella,0.04163709370411639,0.1069478197269328,1,0
+Abstract_Expressionism/brice-marden_han-shan-exit-1992.jpg,brice marden,0.08223293695153801,0.21122111401929694,-1,1
+Abstract_Expressionism/philip-guston_drawing-related-to-zone-drawing-no-19.jpg,philip guston,0.2696056482282358,0.6925011738085268,-1,1
+Abstract_Expressionism/basil-beattie_the-difference-between-ii-2005.jpg,basil beattie,0.10166270578254012,0.2611278493222116,-1,1
+Abstract_Expressionism/richard-pousette-dart_circle-by-the-falling-waters-1980.jpg,richard pousette dart,0.04163709370411639,0.1069478197269328,1,0
+Abstract_Expressionism/joan-mitchell_untitled-1992.jpg,joan mitchell,0.17241374223128259,0.4428568899076186,-1,1
+Abstract_Expressionism/mark-tobey_electric-night-1944.jpg,mark tobey,0.16744021295583625,0.4300820282389121,-1,1
+Abstract_Expressionism/louise-nevelson_sky-hook-maquette-1977.jpg,louise nevelson,0.04163709370411639,0.1069478197269328,1,0
+Abstract_Expressionism/sam-francis_damn-braces-1960.jpg,sam francis,0.1686705141063405,0.4332421437500713,-1,1
+Abstract_Expressionism/dan-christensen_torodoro-2004.jpg,dan christensen,0.1890088977055406,0.48548272034174195,-1,1
+Abstract_Expressionism/forrest-bess_burning-bush-1953.jpg,forrest bess,0.14424806185459543,0.37051134800168717,-1,1
+Abstract_Expressionism/kenzo-okada_the-cliff.jpg,kenzo okada,0.14096562963035347,0.36208018870227143,-1,1
+Abstract_Expressionism/sam-francis_around-the-blues-1962.jpg,sam francis,0.20093384402226483,0.5161127882806166,-1,1
+Abstract_Expressionism/terry-frost_the-spinster-at-mass-1989.jpg,terry frost,0.04163709370411639,0.1069478197269328,1,0
+Abstract_Expressionism/blinky-palermo_komposition-blau-rot-auf-weiss-1965.jpg,blinky palermo,0.04163709370411639,0.1069478197269328,1,0

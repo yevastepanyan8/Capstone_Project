@@ -1,0 +1,1574 @@
+filename,artist,gmm_neg_loglik,gmm_anomaly_score
+Romanticism/francisco-goya_farewell-1799.jpg,francisco goya,-86.96607549140771,0.24983726956338273
+Romanticism/john-singleton-copley_the-major-peirson-s-death-1784.jpg,john singleton copley,-75.22551067452919,0.4165874777010687
+Romanticism/alfred-stevens_widow.jpg,alfred stevens,-81.47441064809018,0.3278349016985186
+Romanticism/pavel-svinyin_an-indian-with-a-scalp.jpg,pavel svinyin,-90.27440330525471,0.2028493809778526
+Romanticism/maxim-vorobiev_view-from-the-terrace-of-the-elagin-palace-1823.jpg,maxim vorobiev,-67.03729711130465,0.5328839538280606
+Romanticism/gustave-dore_battle-of-lepanto-in-1571-1877.jpg,gustave dore,-78.078189435255,0.3760711324893691
+Romanticism/eugene-delacroix_the-execution-of-the-doge-marino-faliero-1826(1).jpg,eugene delacroix,-81.82007976485241,0.3229253936751903
+Romanticism/joseph-wright_study-of-the-interior-of-glass-house.jpg,joseph wright,-63.20972191850867,0.587246667208239
+Romanticism/taras-shevchenko_bathsheba-1860.jpg,taras shevchenko,-85.97892517980716,0.26385767850366887
+Romanticism/thomas-cole_a-view-near-tivoli-morning-1832.jpg,thomas cole,-92.40216128718362,0.17262902174579986
+Romanticism/albert-bierstadt_portrait-of-a-horse-1869.jpg,albert bierstadt,-81.15504027553112,0.33237089097398115
+Romanticism/john-atkinson-grimshaw_a-golden-beam.jpg,john atkinson grimshaw,-94.76233791704195,0.13910764092562097
+Romanticism/sir-lawrence-alma-tadema_a-crown.jpg,sir lawrence alma tadema,-82.2766380443857,0.3164409366387015
+Romanticism/theodore-gericault_portrait-of-alfred-and-elizabeth-dedreux-1819.jpg,theodore gericault,-71.91729029954145,0.46357384034194254
+Romanticism/gustave-dore_samson-carries-away-the-gates-of-gaza.jpg,gustave dore,-98.53678681255006,0.085499475667148
+Romanticism/orest-kiprensky_portrait-of-prince-e-g-gagarin-as-a-child-1817.jpg,orest kiprensky,-97.67584057550027,0.09772741925100523
+Romanticism/eugene-delacroix_chopin(1).jpg,eugene delacroix,-86.09150023151443,0.26225878495841876
+Romanticism/gustave-dore_don-quixote-98.jpg,gustave dore,-96.03465684493139,0.121037007242131
+Romanticism/francisco-goya_goya-attended-by-doctor-arrieta-1820.jpg,francisco goya,-76.81533213220675,0.39400738354849657
+Romanticism/fyodor-solntsev_on-the-iconographic-image-of-the-saviour-the-nereditskaya-church.jpg,fyodor solntsev,-83.06010126525518,0.30531347750995563
+Romanticism/osman-hamdi_the-musician-girl-1880.jpg,osman hamdi,-81.49482398767042,0.32754497283420236
+Romanticism/sir-lawrence-alma-tadema_death-of-the-pharaoh-firstborn-son-1872.jpg,sir lawrence alma tadema,-82.09689967368669,0.3189937448887187
+Romanticism/theodore-gericault_two-post-horses.jpg,theodore gericault,-76.33309866668574,0.40085650299043196
+Romanticism/sir-lawrence-alma-tadema_sculptors-in-ancient-rome-1877.jpg,sir lawrence alma tadema,-80.83607676307142,0.33690110165128345
+Romanticism/george-frederick-watts_rachel-and-laura-gurney.jpg,george frederick watts,-81.82892183188758,0.3227998105757841
+Romanticism/ivan-aivazovsky_calm-sea-rocky-coast-1860.jpg,ivan aivazovsky,-92.51728403222657,0.17099394353647074
+Romanticism/alfred-stevens_study-of-the-role.jpg,alfred stevens,-73.66768662361511,0.438713115503295
+Romanticism/paul-cezanne_paul-alexis-reading-a-manuscript-to-emile-zola.jpg,paul cezanne,-78.20666256845803,0.37424643989273115
+Romanticism/john-atkinson-grimshaw_under-the-harvest-moon-1872.jpg,john atkinson grimshaw,-85.70336751237495,0.26777139978666864
+Romanticism/theodore-gericault_presumed-portrait-of-pierre-paul-royer-collard.jpg,theodore gericault,-99.02790537628447,0.07852416195777175
+Romanticism/gustave-dore_bertram-de-born.jpg,gustave dore,-85.49019646050762,0.27079904946300326
+Romanticism/john-roddam-spencer-stanhope_love-and-the-maiden-1877.jpg,john roddam spencer stanhope,-77.48211524206444,0.38453712176078264
+Romanticism/john-everett-millais_the-crown-of-love.jpg,john everett millais,-77.31462458077446,0.3869159768726824
+Romanticism/john-william-waterhouse_sketch-for-a-mermaid-1892.jpg,john william waterhouse,-55.97286411024856,0.6900311213305281
+Romanticism/jan-matejko_boleslaw-the-bold-1.jpg,jan matejko,-93.7024591892962,0.15416100515544315
+Romanticism/alfred-stevens_the-japanese-mask.jpg,alfred stevens,-83.10447602223516,0.3046832267445212
+Romanticism/alexander-ivanov_via-appia-at-sunset-1845.jpg,alexander ivanov,-86.79572715417916,0.2522567119949711
+Romanticism/joseph-wright_the-lady-in-milton-s-comus.jpg,joseph wright,-65.92589805053358,0.5486690568106001
+Romanticism/viktor-vasnetsov_the-unsmiling-tsarevna-1926.jpg,viktor vasnetsov,-75.63529274236157,0.41076737907992683
+Romanticism/karl-bryullov_mountain-hunters(1).jpg,karl bryullov,-77.3814982813411,0.3859661755929014
+Romanticism/francesco-hayez_the-new-favorite-harem-scene-1866.jpg,francesco hayez,-82.85826386445899,0.3081801563382475
+Romanticism/konstantin-makovsky_dervish.jpg,konstantin makovsky,-82.8450821496865,0.30836737507228695
+Romanticism/john-hoppner_portrait-of-mrs-young.jpg,john hoppner,-75.85430199268465,0.407656809985078
+Romanticism/eugene-delacroix_bay-of-tangier-in-morocco(1).jpg,eugene delacroix,-82.28572802037812,0.3163118325102083
+Romanticism/henry-raeburn_portrait-of-mrs-anne-hart.jpg,henry raeburn,-79.04633777983939,0.36232060681316697
+Romanticism/konstantin-makovsky_head-of-the-girl.jpg,konstantin makovsky,-84.01425828658948,0.2917616693657006
+Romanticism/ferdinand-georg-waldmã¼ller_mountain-landscape-with-vineyard-1862.jpg,ferdinand georg waldmã¼ller,-100.42855005385445,0.05863092895283413
+Romanticism/orest-kiprensky_apollo-in-a-chariot-1817.jpg,orest kiprensky,-86.52781988917556,0.25606177528602536
+Romanticism/dante-gabriel-rossetti_arthur-s-tomb-1855.jpg,dante gabriel rossetti,-73.88490275976761,0.4356280138510967
+Romanticism/ivan-aivazovsky_ship-in-a-storm-1891.jpg,ivan aivazovsky,-76.15022275285459,0.40345387348924094
+Romanticism/john-everett-millais_rosalind-in-the-forest.jpg,john everett millais,-78.96987830428154,0.3634065540109577
+Romanticism/cornelis-springer_church-in-zaltbommel.jpg,cornelis springer,-89.22338969809952,0.21777683468065176
+Romanticism/gustave-dore_david-shows-saul-how-he-spared-his-life.jpg,gustave dore,-98.49505852444942,0.08609213886815585
+Romanticism/thomas-cole_mount-chocorua-new-hampshire-1827.jpg,thomas cole,-79.29090470277401,0.35884704434500414
+Romanticism/francisco-goya_consequences-of-war.jpg,francisco goya,-85.19530218509271,0.27498740688626405
+Romanticism/gustave-dore_the-return-of-the-prodigal-son.jpg,gustave dore,-97.45404192160579,0.10087760599912426
+Romanticism/orest-kiprensky_dmitry-donskoy-after-the-battle-of-kulikovo-detail-1.jpg,orest kiprensky,-72.37868786285354,0.4570206513841248
+Romanticism/jehan-georges-vibert_the-bullfighters-adoring-crowd.jpg,jehan georges vibert,-79.35645204678384,0.35791608119059115
+Romanticism/eugene-delacroix_study-sardanapalus(1).jpg,eugene delacroix,-84.7777007789959,0.28091856288014994
+Romanticism/gustave-dore_the-dell.jpg,gustave dore,-88.31750855915394,0.2306429847188526
+Romanticism/john-crome_new-mills-norfolk-men-wading-1812.jpg,john crome,-88.76108494108374,0.2243429084307493
+Rococo/joseph-wright_edwin-from-minstrel-by-dr-beattie.jpg,joseph wright,-77.36474257632408,0.3862041553956333
+Romanticism/ivan-aivazovsky_fishermen-on-the-coast-of-the-sea-1852.jpg,ivan aivazovsky,-103.60656647998961,0.013493841530840989
+Romanticism/ivan-aivazovsky_mountain-village-gunib-in-daghestan-view-from-the-east-1869.jpg,ivan aivazovsky,-92.88038989145394,0.1658367829955117
+Romanticism/mykola-pymonenko_meeting-at-the-well.jpg,mykola pymonenko,-77.396444084694,0.3857539016641124
+Romanticism/john-atkinson-grimshaw_moonlight-1882.jpg,john atkinson grimshaw,-72.02511752306953,0.4620423797821945
+Romanticism/george-frederick-watts_charles-booth(1).jpg,george frederick watts,-85.09215782782124,0.27645235710897564
+Romanticism/konstantin-makovsky_head.jpg,konstantin makovsky,-89.36348195074741,0.2157871167537996
+Romanticism/ivan-aivazovsky_night-tragedy-in-the-sea-of-marmara-1897.jpg,ivan aivazovsky,-79.30999752084277,0.358575870731421
+Romanticism/gustave-dore_the-war-cry-of-the-crusaders.jpg,gustave dore,-93.67568847378689,0.15454122727020508
+Romanticism/ivan-aivazovsky_tempest-on-the-sea-at-nidht-1849.jpg,ivan aivazovsky,-96.46240481139587,0.11496174054492045
+Romanticism/orest-kiprensky_portrait-of-portrait-of-k-i-albrekht-1827.jpg,orest kiprensky,-59.23832357403405,0.6436520881456342
+Romanticism/gustave-dore_perched-upon-a-bust-of-pallas.jpg,gustave dore,-65.43372111682638,0.5556594024554924
+Romanticism/cornelis-springer_cityview-wiith-marketstall.jpg,cornelis springer,-87.3111007242788,0.24493690656625522
+Romanticism/paul-cezanne_women-dressing.jpg,paul cezanne,-81.19586278700008,0.3317910924387041
+Romanticism/john-constable_the-white-horse-1819.jpg,john constable,-89.10457196953055,0.21946439241559476
+Romanticism/ivan-aivazovsky_night-constantinople-1886.jpg,ivan aivazovsky,-69.7822797168911,0.4938972076233271
+Romanticism/theodore-gericault_horses-going-to-a-fair.jpg,theodore gericault,-81.38022294156934,0.3291726413994044
+Romanticism/gustave-dore_the-inferno-canto-32-2.jpg,gustave dore,-82.52651864033456,0.3128919045406769
+Romanticism/william-turner_cathedral-church-at-lincoln.jpg,william turner,-84.61210972496393,0.28327043803745694
+Romanticism/jan-matejko_stanislaw-leszczynski.jpg,jan matejko,-95.63226003945712,0.12675221363239852
+Romanticism/thomas-cole_view-of-monte-video-seat-of-daniel-wadsworth-1828.jpg,thomas cole,-99.7456613584917,0.06832993695310566
+Romanticism/alphonse-mucha_the-red-cape-1902.jpg,alphonse mucha,-79.56374902529461,0.3549718604608278
+Romanticism/john-collier_the-water-nymph-1923.jpg,john collier,-61.20762478300218,0.6156822765051292
+Romanticism/eugene-delacroix_medea-1838(1).jpg,eugene delacroix,-78.77602397919509,0.3661598499179898
+Romanticism/eugene-delacroix_faust-11(1).jpg,eugene delacroix,-93.10507826870224,0.1626455537610877
+Romanticism/louis-janmot_po-me-de-l-me-15-un-soir.jpg,louis janmot,-66.50932325372024,0.5403827200302531
+Romanticism/william-shayer_the-road-side-inn-somerset.jpg,william shayer,-82.19388749052884,0.3176162354675367
+Romanticism/caspar-david-friedrich_man-and-woman.jpg,caspar david friedrich,-74.18683595809665,0.43133968322558336
+Romanticism/dante-gabriel-rossetti_writing-on-the-sand-1859.jpg,dante gabriel rossetti,-69.69441472248361,0.49514514640088925
+Romanticism/adolphe-joseph-thomas-monticelli_elegant-gathering.jpg,adolphe joseph thomas monticelli,-79.53685115436308,0.3553538885528533
+Romanticism/francisco-goya_self-portrait-1815.jpg,francisco goya,-93.7368197416134,0.15367298525691314
+Romanticism/franz-richard-unterberger_genoa.jpg,franz richard unterberger,-90.43093900866948,0.2006261181678839
+Romanticism/john-collier_a-glass-of-wine-with-caesar-borgia-1893.jpg,john collier,-85.86554357853402,0.26546802740137276
+Romanticism/jan-matejko_battle-of-grunwald-1878.jpg,jan matejko,-68.95086275462283,0.5057057495180173
+Romanticism/ivan-aivazovsky_view-of-feodosiya-1845.jpg,ivan aivazovsky,-94.52681223455592,0.14245279145192738
+Romanticism/konstantin-makovsky_young-nun.jpg,konstantin makovsky,-75.3557233348569,0.4147380787538738
+Romanticism/ivan-aivazovsky_self-portrait-1892.jpg,ivan aivazovsky,-77.93529119835601,0.3781007035634249
+Romanticism/paul-cezanne_portrait-of-gustave-boyer.jpg,paul cezanne,-89.08830927524701,0.21969537003029702
+Romanticism/gustave-dore_beatrice.jpg,gustave dore,-91.65200179956132,0.18328347088419622
+Romanticism/miklos-barabas_quay-of-the-danube-with-greek-church-in-1843-1843.jpg,miklos barabas,-91.22276202199428,0.189379925643117
+Romanticism/theodore-chasseriau_the-two-sisters-1843.jpg,theodore chasseriau,-84.91254394091447,0.2790033973266544
+Romanticism/joseph-wright_virgil-s-tomb.jpg,joseph wright,-78.20639546676385,0.3742502335145707
+Romanticism/ford-madox-brown_the-romans-building-a-fort-at-mancenion.jpg,ford madox brown,-82.89144891629576,0.30770883196951826
+Romanticism/dante-gabriel-rossetti_belcolore-1880.jpg,dante gabriel rossetti,-96.09843015084151,0.12013124059461397
+Romanticism/orest-kiprensky_portrait-of-adam-mickiewicz-1824.jpg,orest kiprensky,-96.31827570371294,0.1170087935683215
+Romanticism/gustave-dore_don-quixote-53.jpg,gustave dore,-88.07465829155127,0.23409216568251626
+Romanticism/caspar-david-friedrich_cross-in-the-forrest.jpg,caspar david friedrich,-84.0415732884256,0.29137371680017277
+Romanticism/caspar-david-friedrich_two-men-by-the-sea.jpg,caspar david friedrich,-69.1352118563679,0.5030874554610062
+Romanticism/francisco-goya_the-fight-at-the-venta-nueva-1777.jpg,francisco goya,-81.14471151933694,0.3325175893885845
+Romanticism/orest-kiprensky_self-portrait-1828-1.jpg,orest kiprensky,-86.35708265525824,0.25848674118303544
+Romanticism/gustave-dore_fulk-nerra-assailed-by-the-phantoms-of-his-victims.jpg,gustave dore,-88.20752105432439,0.23220512756367598
+Romanticism/jan-matejko_gamrat-and-stanczyk-1878.jpg,jan matejko,-77.18410967181514,0.38876966863057394
+Romanticism/sir-lawrence-alma-tadema_dame-ellen-terry-as-imogen-shakespeare-heroine-in-cymbeline.jpg,sir lawrence alma tadema,-77.7380445437094,0.38090218042844753
+Romanticism/ivan-aivazovsky_the-wedding-of-the-poet-in-ancient-greece-1886.jpg,ivan aivazovsky,-89.20273403327475,0.21807020526907536
+Romanticism/jean-leon-gerome_a-bashi-bazouk.jpg,jean leon gerome,-73.85002787249002,0.4361233388037733
+Romanticism/gheorghe-tattarescu_flor-reas.jpg,gheorghe tattarescu,-75.2814982520791,0.4157922910677858
+Romanticism/gustave-dore_the-whore-and-the-giant.jpg,gustave dore,-91.21154004038212,0.18953931045966824
+Romanticism/konstantin-makovsky_portrait-of-the-girl-zhenia.jpg,konstantin makovsky,-100.10043326559972,0.0632911428001516
+Romanticism/ivan-aivazovsky_seascape-with-moon-1849.jpg,ivan aivazovsky,-89.38039584466132,0.21554689020809645
+Romanticism/orest-kiprensky_neapolitan-girl-with-the-fruits-1831.jpg,orest kiprensky,-64.92478668104417,0.562887753426573
+Romanticism/vasily-tropinin_guitarist-1823.jpg,vasily tropinin,-92.87322145555936,0.16593859565921976
+Romanticism/edwin-henry-landseer_the-champion.jpg,edwin henry landseer,-82.09766152770352,0.31898292434321185
+Romanticism/gustave-dore_the-agony-in-the-garden.jpg,gustave dore,-92.1123950932769,0.17674454547901464
+Romanticism/francisco-goya_attack-on-a-coach-1793.jpg,francisco goya,-78.98564912463168,0.3631825624384137
+Romanticism/thomas-cole_mount-aetna-from-taormina-1842.jpg,thomas cole,-78.10281722056163,0.37572134622355435
+Romanticism/edward-burne-jones_the-damsel-of-the-sanct-grail.jpg,edward burne jones,-74.747368689902,0.42337848620019364
+Romanticism/lev-lagorio_sevastopol-aqueduct-in-the-gully-ushakovskaya-1850.jpg,lev lagorio,-79.01092452895263,0.3628235780967725
+Romanticism/ivan-aivazovsky_little-russian-ox-cart-in-winter-1866.jpg,ivan aivazovsky,-79.41659746430477,0.3570618411223685
+Romanticism/jan-matejko_coronation.jpg,jan matejko,-83.95685410660732,0.2925769758785727
+Romanticism/konstantin-makovsky_girl-in-burnous.jpg,konstantin makovsky,-91.00379379100804,0.19248991214393732
+Romanticism/john-atkinson-grimshaw_roundhay-lake-from-castle-1893.jpg,john atkinson grimshaw,-86.23656960051022,0.26019837748639707
+Romanticism/alexander-orlowski_portrait-of-k-i-seidel-1820.jpg,alexander orlowski,-97.6923392454484,0.09749309009472061
+Romanticism/johann-koler_girl-at-the-spring-1862.jpg,johann koler,-71.16351826502684,0.47427959816570425
+Romanticism/rudolf-von-alt_the-pantheon-and-the-piazza-della-rotonda-in-rome-1835.jpg,rudolf von alt,-90.0617080935822,0.20587027233780592
+Romanticism/miklos-barabas_the-family-d-genfeld-1854.jpg,miklos barabas,-82.51829546639787,0.31300869755590927
+Romanticism/francisco-goya_mariana-waldstein-ninth-marquesa-de-santa-cruz.jpg,francisco goya,-78.88101423412685,0.36466868257337176
+Romanticism/francisco-goya_self-portrait-1795.jpg,francisco goya,-81.78096649208632,0.32348091604369805
+Romanticism/francisco-goya_are-you-well-as-i-was-telling-you-eh-be-careful-or-1799.jpg,francisco goya,-87.37708561340467,0.24399972899709235
+Romanticism/alexander-shilov_singer-e-obraztsova-1987.jpg,alexander shilov,-78.85512029784108,0.365036451870037
+Romanticism/gustave-dore_red-riding-hood-meets-old-father-wolf.jpg,gustave dore,-59.499489005413814,0.6399427785238061
+Romanticism/thomas-cole_the-voyage-of-life-childhood-1842.jpg,thomas cole,-87.80661390070935,0.23789917655977602
+Romanticism/albert-bierstadt_mormon-boy-salt-lake-city-1863.jpg,albert bierstadt,-76.93456343186133,0.3923139518998466
+Romanticism/thomas-cole_landscape-with-tower-from-mcguire-scrapbook.jpg,thomas cole,-69.76634736613016,0.49412349339807016
+Romanticism/francisco-goya_the-duke-of-wellington.jpg,francisco goya,-79.63764068327362,0.35392238374996937
+Romanticism/karl-bodmer_tombs-of-assiniboin-indians-on-trees-plate-30-from-volume-1-of-travels-in-the-interior-of-north-1832.jpg,karl bodmer,-66.49032712341528,0.540652520396042
+Romanticism/francesco-hayez_portrait-of-ferdinand-i-of-austria-1840.jpg,francesco hayez,-79.7618111336558,0.35215880177851155
+Romanticism/ivan-aivazovsky_bracing-the-waves-1890.jpg,ivan aivazovsky,-90.25289716023867,0.2031548308615334
+Romanticism/akseli-gallen-kallela_d-masqu-e-1888.jpg,akseli gallen kallela,-78.2838459729079,0.37315021079664135
+Romanticism/richard-parkes-bonington_francis-i-and-the-duchess-of-etampes.jpg,richard parkes bonington,-83.3798494166326,0.3007721226752059
+Romanticism/ivan-aivazovsky_view-of-yalta-1867.jpg,ivan aivazovsky,-95.09672404529941,0.13435838419436671
+Romanticism/sir-lawrence-alma-tadema_this-is-our-corner-1872.jpg,sir lawrence alma tadema,-82.18114218604481,0.3177972559046825
+Romanticism/william-turner_childe-harold.jpg,william turner,-84.85604990701842,0.2798057771148195
+Romanticism/francisco-goya_still-life-plucked-turkey-and-pan-with-fish-1812.jpg,francisco goya,-62.151840251946986,0.6022716673539393
+Romanticism/alfred-stevens_reverie-1854.jpg,alfred stevens,-72.97784507446143,0.4485108742736421
+Romanticism/john-atkinson-grimshaw_in-the-winter.jpg,john atkinson grimshaw,-76.22232114127131,0.40242986642804773
+Romanticism/jan-matejko_our-lady.jpg,jan matejko,-76.730008860876,0.39521922245704183
+Romanticism/pierre-paul-prud'hon_jean-baptiste-landel.jpg,pierre paul prud'hon,-95.44451151558023,0.12941878938257087
+Romanticism/gustave-dore_the-eagle-ii.jpg,gustave dore,-83.47858538861404,0.29936978436053535
+Romanticism/christen-kobke_view-from-a-window-in-toldbodvej-looking-towards-the-citadel-in-copenhagen-1833.jpg,christen kobke,-70.61489774999698,0.4820716070253049
+Romanticism/karl-bodmer_indians-hunting-the-bison-right-1832.jpg,karl bodmer,-81.04397209352742,0.3339483825815371
+Romanticism/paul-cezanne_landscape-1867.jpg,paul cezanne,-90.86457442777832,0.19446723249925588
+Romanticism/jan-matejko_wladyslaw-of-varna-1.jpg,jan matejko,-81.24927254543483,0.331032518343293
+Romanticism/francisco-goya_incantation.jpg,francisco goya,-61.41578128088911,0.6127258480973615
+Romanticism/john-roddam-spencer-stanhope_charon-and-psyche-1883.jpg,john roddam spencer stanhope,-77.78412240881777,0.38024774056825333
+Romanticism/francesco-hayez_penitent-mary-magdalene-1825.jpg,francesco hayez,-73.5550139156318,0.4403133960520334
+Romanticism/vasily-polenov_prodigal-son-1874.jpg,vasily polenov,-82.29847926777884,0.31613072766634
+Romanticism/konstantin-makovsky_sunday-evening-in-the-village.jpg,konstantin makovsky,-75.99506749127279,0.4056575300054272
+Romanticism/william-turner_fishermen-at-sea.jpg,william turner,-73.28274745770098,0.444180372576332
+Romanticism/karl-bryullov_portrait-of-the-architect-a-bolotov.jpg,karl bryullov,-97.12354569158042,0.10557161484835986
+Romanticism/ivan-aivazovsky_the-shipwreck-on-northern-sea-1865.jpg,ivan aivazovsky,-89.67816866041971,0.21131764912984155
+Romanticism/gustave-dore_to-whom-the-winged-hierarch-replied-o-adam-one-almighty-is-from-whom-all-things-proceed.jpg,gustave dore,-88.44225262850334,0.2288712556877202
+Romanticism/thomas-cole_dimensions-and-material-of-painting-1828.jpg,thomas cole,-93.20797847452273,0.16118407119993272
+Romanticism/camille-corot_the-eldest-daughter-of-m-edouard-delalain-mme-de-graet.jpg,camille corot,-87.43621619508775,0.24315990255290112
+Romanticism/konstantin-makovsky_christ-among-the-teachers.jpg,konstantin makovsky,-77.38766950626676,0.3858785262287635
+Romanticism/ivan-aivazovsky_sunset-at-sea-1898.jpg,ivan aivazovsky,-80.91476398655176,0.33578351394594064
+Romanticism/ivan-aivazovsky_seascape-2.jpg,ivan aivazovsky,-96.46096868711115,0.1149821376916612
+Romanticism/konstantin-makovsky_portrait-9.jpg,konstantin makovsky,-79.68504309813777,0.35324913142624276
+Romanticism/konstantin-makovsky_portrait-of-an-unknown-in-red-dress.jpg,konstantin makovsky,-96.13199029256465,0.1196545888572615
+Romanticism/franz-xaver-winterhalter_albert-edward-prince-of-wales-1846.jpg,franz xaver winterhalter,-65.65476050864741,0.5525199994397365
+Romanticism/konstantin-makovsky_portrait-19.jpg,konstantin makovsky,-86.75512507597301,0.2528333797360294
+Romanticism/ivan-aivazovsky_windmill.jpg,ivan aivazovsky,-97.35822182198504,0.10223853043544813
+Romanticism/thomas-cole_tree-in-the-catskills-1844.jpg,thomas cole,-89.49234524838774,0.21395688268601945
+Romanticism/alfred-stevens_lovelorn.jpg,alfred stevens,-79.8411917397254,0.35103136602131757
+Romanticism/john-singleton-copley_the-victory-of-lord-duncan-1799.jpg,john singleton copley,-82.17639122247341,0.3178647334218839
+Romanticism/theodore-chasseriau_sc-ne-de-bataille-guerrier-gaulois-cheval.jpg,theodore chasseriau,-81.46526425922701,0.3279648070540471
+Romanticism/john-william-waterhouse_sketch-for-flora-and-the-zephyrs.jpg,john william waterhouse,-71.82942099667532,0.46482184031216334
+Romanticism/ford-madox-brown_jacob-and-joseph-s-coat-1871(1).jpg,ford madox brown,-74.77009539477001,0.42305570081242627
+Romanticism/miklos-barabas_portrait-of-poet-mih-ly-v-r-smarty-1836.jpg,miklos barabas,-99.36523858233288,0.07373304814019298
+Romanticism/karl-bryullov_the-judas-kiss-1847.jpg,karl bryullov,-67.16581229470232,0.5310586639962115
+Romanticism/john-everett-millais_the-order-of-release-1853.jpg,john everett millais,-68.03655695006844,0.5186915543399248
+Romanticism/eugene-delacroix_apollo-slays-python-1851(1).jpg,eugene delacroix,-79.48835630913781,0.3560426565687917
+Romanticism/gustave-dore_the-battle-of-dorylaeum.jpg,gustave dore,-90.48050868677002,0.19992208439527528
+Romanticism/edward-burne-jones_the-fall-of-lucifer-1894.jpg,edward burne jones,-82.86949953021237,0.30802057716704384
+Romanticism/cornelis-springer_figures-on-a-market-square-in-a-dutch-town-1843.jpg,cornelis springer,-89.23839397126254,0.21756373031029894
+Romanticism/eugene-delacroix_woman-from-algiers-with-windhund-1854(1).jpg,eugene delacroix,-88.41923391699933,0.22919818842002254
+Romanticism/konstantin-makovsky_celebration-in-ukraine.jpg,konstantin makovsky,-74.32081807476001,0.429436747022018
+Romanticism/david-wilkie_queen-victoria-detail-1840.jpg,david wilkie,-79.83239848028734,0.35115625591072036
+Romanticism/francisco-goya_the-esquilache-riots.jpg,francisco goya,-74.71377144198193,0.4238556649535932
+Romanticism/alexey-venetsianov_portret-of-i-v-bugaevskiy-blagodarniy.jpg,alexey venetsianov,-88.13186546899371,0.2332796571793664
+Romanticism/caspar-david-friedrich_wans-among-the-reeds-at-the-first-morgenro.jpg,caspar david friedrich,-73.72131121174553,0.4379514902006358
+Romanticism/william-turner_the-battle-of-trafalgar-as-seen-from-the-mizen-starboard-shrouds-of-the-victory-1808.jpg,william turner,-64.20749562154155,0.5730753751750097
+Romanticism/william-turner_ploughing-up-turnips-near-slough.jpg,william turner,-89.2403536919628,0.21753589656977995
+Romanticism/ivan-aivazovsky_near-crimean-coast-1890.jpg,ivan aivazovsky,-78.62401115516256,0.36831887467040886
+Romanticism/jan-matejko_bona-ossowiecka.jpg,jan matejko,-89.15577575953766,0.2187371494954885
+Romanticism/maxim-vorobiev_sphinxes-lining-a-quay-in-front-of-st-petersburg-academy-of-arts-1835.jpg,maxim vorobiev,-99.46701234712685,0.07228756432173532
+Romanticism/gustave-dore_the-inferno-canto-30-1.jpg,gustave dore,-66.92151136120196,0.5345284486398644
+Romanticism/ferdinand-georg-waldmã¼ller_view-to-m-dling(1).jpg,ferdinand georg waldmã¼ller,-90.55738547695049,0.1988302101146512
+Romanticism/vasily-tropinin_portrait-of-the-artist-n-i-utkin-with-a-pencil-1841.jpg,vasily tropinin,-96.64110144236015,0.11242372803261273
+Romanticism/david-wilkie_distraining-for-rent-1815(1).jpg,david wilkie,-81.11788440622134,0.3328986125135817
+Romanticism/ivan-aivazovsky_view-of-odessa-from-the-sea-1865.jpg,ivan aivazovsky,-100.14339240436834,0.06268099793550376
+Romanticism/ivan-aivazovsky_the-betrayal-of-judas-1834.jpg,ivan aivazovsky,-74.9618212640561,0.42033263517568004
+Romanticism/gustave-dore_the-veteran.jpg,gustave dore,-88.15306730010182,0.23297852943931974
+Romanticism/gustave-dore_don-quixote-23.jpg,gustave dore,-84.92684717368977,0.27880024977118995
+Romanticism/eugene-delacroix_the-liberty-leading-the-people-1830.jpg,eugene delacroix,-83.27836053962788,0.30221356025748186
+Romanticism/eugene-delacroix_the-natchez-1825(1).jpg,eugene delacroix,-68.75690530628425,0.5084605100755176
+Romanticism/orest-kiprensky_ivan-krylov-and-anna-fuhrman-in-the-living-room-1816.jpg,orest kiprensky,-91.41825664579251,0.1866033327179378
+Romanticism/konstantin-makovsky_female-portrait-9.jpg,konstantin makovsky,-72.15211451556642,0.4602386526820064
+Romanticism/ford-madox-brown_dalton-collecting-marsh-fire-gas-1893.jpg,ford madox brown,-75.80063599157874,0.4084190234725809
+Romanticism/konstantin-makovsky_portrait-of-count-sergei-grigoriyevich-stroganov.jpg,konstantin makovsky,-79.90043203200366,0.35018998136720486
+Romanticism/ivan-aivazovsky_lisbon-sunrise-1860.jpg,ivan aivazovsky,-102.80479454482442,0.024881337716335144
+Romanticism/sir-lawrence-alma-tadema_maria-magdalena-1854.jpg,sir lawrence alma tadema,-93.76832860637634,0.1532254676255766
+Romanticism/franz-richard-unterberger_capri.jpg,franz richard unterberger,-92.1749159708143,0.17585656696137775
+Romanticism/orest-kiprensky_portrait-of-an-officer-1813.jpg,orest kiprensky,-94.5914822625836,0.14153428873914628
+Romanticism/eugene-delacroix_study-of-the-sky-at-sunset-1849(1).jpg,eugene delacroix,-83.27765188863681,0.3022236251650993
+Romanticism/dante-gabriel-rossetti_a-sea-spell-1877.jpg,dante gabriel rossetti,-81.48487595032114,0.3276862639325802
+Romanticism/john-atkinson-grimshaw_whitby-from-scotch-head-1879.jpg,john atkinson grimshaw,-93.00410304529186,0.16407969596659938
+Romanticism/gustave-dore_edward-i-of-england-kills-his-would-be-assassin-in-june-1272-1877.jpg,gustave dore,-52.84089723422256,0.7345141710477671
+Romanticism/francisco-goya_woman-battered-with-a-cane.jpg,francisco goya,-85.06085236203023,0.27689698588262657
+Romanticism/alexey-bogolyubov_mosque-in-istanbul.jpg,alexey bogolyubov,-67.61885720258152,0.5246241070679136
+Romanticism/gustave-dore_don-quixote-52.jpg,gustave dore,-87.46157750974209,0.2427996980343608
+Romanticism/cornelis-springer_city-view.jpg,cornelis springer,-90.61601508848052,0.19799749890542467
+Romanticism/taras-shevchenko_landscape-with-kurgan-stelae-1845.jpg,taras shevchenko,-94.1834712265736,0.14732923355128424
+Romanticism/ivan-aivazovsky_flock-of-sheep-with-herdsmen-unset-1870.jpg,ivan aivazovsky,-81.93711314186791,0.3212631789282187
+Romanticism/william-turner_undine-giving-the-ring-to-massaniello-fisherman-of-naples.jpg,william turner,-86.97013589344544,0.24977960003082822
+Romanticism/gustave-dore_don-quixote-141.jpg,gustave dore,-85.43861174764803,0.2715317025968366
+Romanticism/karl-bodmer_landscape-with-buffalo-on-the-upper-missouri-1833.jpg,karl bodmer,-89.19889646498444,0.21812470991353947
+Romanticism/eugene-delacroix_adam-and-eve(1).jpg,eugene delacroix,-74.91243020279009,0.42103413206911805
+Romanticism/alexander-ivanov_torre-del-greco-near-pompea-and-naples-1846.jpg,alexander ivanov,-86.57334737968101,0.25541515234784645
+Romanticism/john-william-waterhouse_phyllis-waterlow-1895.jpg,john william waterhouse,-81.23661838845238,0.33121224422050094
+Romanticism/george-frederick-watts_dorothy-tennant-later-lady-stanley(1).jpg,george frederick watts,-78.53247176597472,0.3696190005534435
+Romanticism/ivan-aivazovsky_sea-at-night.jpg,ivan aivazovsky,-90.70856617477585,0.19668300397746954
+Romanticism/fyodor-solntsev_royal-clothing-of-the-xvii-century-the-image-of-tsar-fedor-alekseevich.jpg,fyodor solntsev,-82.1640903962878,0.3180394409729011
+Romanticism/konstantin-makovsky_widow.jpg,konstantin makovsky,-83.43613936198217,0.2999726415386931
+Romanticism/dante-gabriel-rossetti_the-roseleaf.jpg,dante gabriel rossetti,-87.07238872399735,0.24832731208360057
+Romanticism/ivan-aivazovsky_tempest-on-the-black-sea-1875.jpg,ivan aivazovsky,-91.17742938103449,0.1900237811503589
+Romanticism/william-turner_morning-amongst-the-coniston-fells-cumberland.jpg,william turner,-85.16706773173232,0.27538841834081784
+Romanticism/george-stubbs_a-grey-horse.jpg,george stubbs,-82.07928413982695,0.31924393676478113
+Romanticism/gustave-dore_the-buyers-and-sellers-driven-out-of-temple.jpg,gustave dore,-92.482297482673,0.17149085441861922
+Romanticism/karl-bodmer_assiniboin-indians.jpg,karl bodmer,-74.18487254647323,0.431367569387959
+Romanticism/carl-larsson_clair-obscur-1877(1).jpg,carl larsson,-48.93337265103877,0.7900123985787196
+Romanticism/gustave-dore_jesus-falling-beneath-the-cross.jpg,gustave dore,-88.97899146567708,0.2212480012523261
+Romanticism/karl-bodmer_remarkable-hills-on-the-upper-missouri-plate-34-from-volume-2-of-travels-in-the-interior-of-1843.jpg,karl bodmer,-68.4860121032703,0.5123079823811704
+Romanticism/edward-burne-jones_the-virgin.jpg,edward burne jones,-79.16193988685683,0.3606787202679302
+Romanticism/gustave-dore_the-panther(1).jpg,gustave dore,-91.24178929007354,0.18910968303026193
+Romanticism/jan-matejko_john-albert.jpg,jan matejko,-88.98472711833071,0.22116653828280844
+Romanticism/jehan-georges-vibert_an-afternoon-libation.jpg,jehan georges vibert,-80.81475238391133,0.33720396993051993
+Romanticism/ivan-aivazovsky_sea-rocks-1889.jpg,ivan aivazovsky,-88.87282227895675,0.22275591286131222
+Romanticism/edward-burne-jones_green-summer-1868.jpg,edward burne jones,-76.32799078703744,0.4009290497552412
+Romanticism/konstantin-makovsky_portrait-16.jpg,konstantin makovsky,-77.27597569711565,0.38746490356359686
+Romanticism/caspar-david-friedrich_not-detected-6.jpg,caspar david friedrich,-94.41968495906137,0.1439743107113976
+Romanticism/sir-lawrence-alma-tadema_silver-favourites-1903.jpg,sir lawrence alma tadema,-79.6636572201014,0.353552873168603
+Romanticism/gustave-dore_the-ammonite-and-moabite-armies-are-destroyed.jpg,gustave dore,-89.7306608244559,0.2105721075468636
+Romanticism/karl-bodmer_sih-chida-and-mahchsi-karehde-mandan-indians-plate-20-from-volume-2-of-travels-in-the-interior-1844.jpg,karl bodmer,-75.10138236346084,0.4183504611715632
+Romanticism/caspar-david-friedrich_two-men-contemplating-the-moon.jpg,caspar david friedrich,-81.89917123116048,0.3218020645445657
+Romanticism/dante-gabriel-rossetti_the-daydream-1878.jpg,dante gabriel rossetti,-69.84689249065654,0.4929795180877903
+Romanticism/sir-lawrence-alma-tadema_a-prize-for-the-artists-corp.jpg,sir lawrence alma tadema,-73.29471368320463,0.44401041732933333
+Romanticism/vasily-tropinin_portrait-of-yuri-fyodorovich-samarin-1844.jpg,vasily tropinin,-82.16078468693962,0.3180863916716494
+Romanticism/arthur-hughes_home-from-the-sea-1862.jpg,arthur hughes,-69.80927849710561,0.4935137463256422
+Romanticism/christen-kobke_self-portrait-1833.jpg,christen kobke,-94.2821146660092,0.1459282094682131
+Romanticism/caspar-david-friedrich_mountainous-river-landscape.jpg,caspar david friedrich,-75.11156121704478,0.41820589181053175
+Romanticism/viktor-vasnetsov_spring-1882.jpg,viktor vasnetsov,-72.98334790034728,0.44843271812220276
+Romanticism/caspar-david-friedrich_day(4).jpg,caspar david friedrich,-89.87801379349197,0.20847926630457958
+Romanticism/gustave-dore_the-mountain-s-foot.jpg,gustave dore,-87.6053613719243,0.24075754850240158
+Romanticism/lev-lagorio_crimean-landscape-1891.jpg,lev lagorio,-85.57875718755285,0.2695412292560582
+Romanticism/konstantin-makovsky_girl-with-a-yoke.jpg,konstantin makovsky,-74.73652381966038,0.42353251493716015
+Romanticism/joseph-wright_study-of-a-young-girl-with-feathers-in-her-hair.jpg,joseph wright,-84.97832330839812,0.2780691387632765
+Romanticism/dante-gabriel-rossetti_the-beloved-1866.jpg,dante gabriel rossetti,-75.96896001310513,0.40602833221863494
+Romanticism/thomas-cole_roman-campagna-1843.jpg,thomas cole,-84.60659908545985,0.28334870516502786
+Romanticism/alexander-shilov_nude-1991(3).jpg,alexander shilov,-77.43884213360116,0.38515172590935337
+Romanticism/paul-cezanne_woman-with-parrot.jpg,paul cezanne,-63.95055892679915,0.5767246244227897
+Romanticism/gustave-dore_the-finding-of-moses.jpg,gustave dore,-91.39712622613663,0.18690344620741733
+Romanticism/caspar-david-friedrich_not-detected-1(1).jpg,caspar david friedrich,-71.30685605297533,0.4722437841868022
+Romanticism/orest-kiprensky_portrait-of-pyotr-olenin-1813.jpg,orest kiprensky,-89.28771255318313,0.21686326283462087
+Romanticism/ivan-aivazovsky_the-sunrize-in-feodosiya-1855.jpg,ivan aivazovsky,-96.83152236651792,0.10971919641660147
+Romanticism/edward-burne-jones_perseus-and-the-sea-nymphs-1877.jpg,edward burne jones,-74.49497720307801,0.42696318026019126
+Romanticism/john-constable_old-sarum-1829.jpg,john constable,-87.38011644653747,0.24395668234102366
+Romanticism/n.c.-wyeth_robinson-crusoe-illustration.jpg,n.c. wyeth,-52.24973150968002,0.742910445771247
+Romanticism/ivan-aivazovsky_rescue-at-sea-1872.jpg,ivan aivazovsky,-92.0790410869446,0.1772182694935647
+Romanticism/ford-madox-brown_the-young-mother.jpg,ford madox brown,-92.91272170614536,0.16537757707881573
+Romanticism/gheorghe-tattarescu_michael-the-brave-and-his-troops.jpg,gheorghe tattarescu,-73.81783213699607,0.4365806119996116
+Romanticism/orest-kiprensky_dmitry-donskoy-after-the-battle-of-kulikovo-1805.jpg,orest kiprensky,-79.5853729728813,0.35466473743761046
+Romanticism/fyodor-solntsev_royal-and-nobleman-clothing-of-the-xvii-century.jpg,fyodor solntsev,-75.11286955491657,0.4181873096029601
+Romanticism/william-turner_chichester-canal.jpg,william turner,-87.49326304071027,0.24234967122846957
+Romanticism/henry-raeburn_henry-mackenzie.jpg,henry raeburn,-88.30435916566218,0.23082974439658827
+Romanticism/alexander-shilov_violet-with-the-cat-1980(4).jpg,alexander shilov,-79.16424055471877,0.3606460440848999
+Romanticism/gustave-dore_pantagruel.jpg,gustave dore,-75.05992558697781,0.41893926811697735
+Romanticism/francisco-goya_portrait-of-the-countess-of-chincon-1800.jpg,francisco goya,-73.34557881534211,0.44328798433712485
+Romanticism/christen-kobke_boat-dragged-on-shore-1840.jpg,christen kobke,-82.22315083281569,0.3172006107941716
+Romanticism/gustave-dore_the-death-of-eleazar.jpg,gustave dore,-97.44185800733788,0.10105065306047047
+Romanticism/gustave-dore_don-quixote-6.jpg,gustave dore,-97.20744066858659,0.10438006187832104
+Romanticism/richard-parkes-bonington_abbey-of-st-berlin-near-st-omer-1823.jpg,richard parkes bonington,-79.54561805873229,0.35522937298217244
+Romanticism/francesco-hayez_ruth-1835.jpg,francesco hayez,-74.89855902941568,0.42123114312296206
+Romanticism/david-wilkie_the-first-council-of-queen-victoria-1838.jpg,david wilkie,-79.55635920711364,0.3550768173976529
+Romanticism/jean-leon-gerome_the-picador.jpg,jean leon gerome,-71.46648206765725,0.4699766299580607
+Romanticism/caspar-david-friedrich_wc-city-at-moonrise-by-caspar-david-friedrich.jpg,caspar david friedrich,-83.11926079928494,0.3044732398581342
+Romanticism/gustave-dore_the-oceanides-1869.jpg,gustave dore,-80.70591011346568,0.33874984711224615
+Romanticism/thomas-cole_study-for-two-youths-enter-upon-a-polgrimage-1848.jpg,thomas cole,-92.75965237515537,0.1675516073065083
+Romanticism/alexander-shilov_natasha-1995(4).jpg,alexander shilov,-82.46487029759888,0.3137674905233665
+Romanticism/constantin-daniel-rosenthal_convalescence.jpg,constantin daniel rosenthal,-80.02356252342611,0.3484411698412661
+Romanticism/osman-hamdi_the-tortoise-trainer-1906.jpg,osman hamdi,-73.53956082529383,0.44053287493319615
+Romanticism/jan-matejko_view-of-bebek-near-constantinople-1872.jpg,jan matejko,-86.34303261010533,0.2586862927369968
+Romanticism/thomas-cole_the-gardens-of-the-van-rensselaer-manor-house-1840.jpg,thomas cole,-99.80236011012329,0.06752464957697177
+Romanticism/william-turner_london.jpg,william turner,-97.95611535162271,0.09374670128869975
+Romanticism/david-wilkie_sheepwashing-1817.jpg,david wilkie,-88.87768587122046,0.22268683568871267
+Romanticism/william-turner_wolverhampton-staffordshire.jpg,william turner,-82.33134933448441,0.31566387700368925
+Romanticism/john-william-waterhouse_the-soul-of-the-rose-1908.jpg,john william waterhouse,-72.31356038061244,0.4579456512788124
+Romanticism/karl-bryullov_portrait-of-m-a-beck-and-her-daughter-m-i-beck.jpg,karl bryullov,-87.38754485373791,0.24385117732775347
+Romanticism/jan-matejko_wladyslaw-the-short-1.jpg,jan matejko,-71.91591842307227,0.46359332498261724
+Romanticism/anton-melbye_sea-at-night-1865.jpg,anton melbye,-98.97807344955,0.07923192042463263
+Romanticism/william-turner_st-erasmus-in-bishop-islips-chapel-westminster-abbey.jpg,william turner,-80.04788299236198,0.34809574836280094
+Romanticism/francisco-goya_juan-martin-diaz-determined-to.jpg,francisco goya,-84.28797370279311,0.28787411341465874
+Romanticism/karl-bryullov_portrait-of-count-v-a-perovsky(1).jpg,karl bryullov,-76.25001271840252,0.40203656539676763
+Romanticism/john-crome_river-wensum.jpg,john crome,-89.57370126042231,0.2128013904118731
+Romanticism/taras-shevchenko_askold-s-grave-1846.jpg,taras shevchenko,-82.2876891756631,0.3162839783944087
+Romanticism/vasily-tropinin_portrait-of-an-unknown-in-a-black-coat-1838.jpg,vasily tropinin,-91.48989956753955,0.18558579460974248
+Romanticism/gustave-dore_don-quixote-28.jpg,gustave dore,-93.31808264579932,0.15962027135183648
+Romanticism/alfred-stevens_portrait-of-a-woman-in-blue.jpg,alfred stevens,-81.84760224177863,0.32253449435922943
+Romanticism/ivan-aivazovsky_moonlit-night-on-the-bosphorus-1894.jpg,ivan aivazovsky,-94.48098648987445,0.1431036504679019
+Romanticism/gustave-dore_idylls-of-the-king-15.jpg,gustave dore,-92.56911843139922,0.17025774412992217
+Romanticism/eugene-delacroix_hamlet-and-horatio-in-the-cemetery-1839-1(1).jpg,eugene delacroix,-75.04894543966626,0.41909521818225465
+Romanticism/theodore-gericault_brown-horse-in-the-stalls.jpg,theodore gericault,-83.9003218682314,0.29337989828160066
+Romanticism/jan-matejko_the-interior-of-the-tomb.jpg,jan matejko,-76.0603523070961,0.40473029551572737
+Romanticism/george-stubbs_a-saddled-bay-hunter.jpg,george stubbs,-85.64310997526265,0.26862723227957364
+Romanticism/gustave-dore_the-tomb-of-anastasius.jpg,gustave dore,-92.20988989667988,0.17535983537235791
+Romanticism/jan-matejko_boleslaw-the-brave.jpg,jan matejko,-77.23082631264013,0.3881061562951314
+Romanticism/francisco-goya_rise-and-fall-1799.jpg,francisco goya,-82.82285021322862,0.30868313330789815
+Romanticism/ivan-aivazovsky_surf-near-coast-of-crimea-1892.jpg,ivan aivazovsky,-100.30712926578825,0.06035545771257265
+Romanticism/konstantin-makovsky_eastern-woman-gipsy.jpg,konstantin makovsky,-79.17867963721672,0.36044096706778844
+Romanticism/arthur-hughes_the-beautiful-lady-without-pity-1863.jpg,arthur hughes,-77.90712387992137,0.3785007615065406
+Romanticism/richard-parkes-bonington_landscape-with-harvesters-at-sunset-1826.jpg,richard parkes bonington,-88.25629642758491,0.231512375232758
+Romanticism/fyodor-bronnikov_bellagio-1875.jpg,fyodor bronnikov,-72.20254614810818,0.4595223766463789
+Romanticism/gheorghe-tattarescu_pe-tera-d-mbovicioara.jpg,gheorghe tattarescu,-86.03434168745136,0.2630706027259645
+Romanticism/john-william-waterhouse_st-joan.jpg,john william waterhouse,-84.54930655752082,0.28416242589376417
+Romanticism/thomas-cole_autumn-landscape-mount-chocorua-1828.jpg,thomas cole,-95.04554234817242,0.13508531333124235
+Romanticism/john-constable_east-bergholt-church-1811-1.jpg,john constable,-74.0783173558701,0.4328809633760982
+Romanticism/john-william-waterhouse_portrait-of-mrs-charles-schreiber-1912.jpg,john william waterhouse,-103.31527389453692,0.01763104446875856
+Romanticism/orest-kiprensky_pagan-priests-killing-the-first-kiev-christians-in-the-temple-of-perun-1803-1.jpg,orest kiprensky,-77.3003867686269,0.3871181952647328
+Romanticism/akseli-gallen-kallela_ilmarinen-ploughing-the-viper-field-and-the-defense-of-the-sampo-1928.jpg,akseli gallen kallela,-79.9968288045112,0.3488208664966559
+Romanticism/john-william-waterhouse_a-tale-from-the-decameron-1916.jpg,john william waterhouse,-79.62589977013464,0.3540891389052952
+Romanticism/alexander-ivanov_a-bridegroom-buying-a-ring-for-his-fiancee-1839.jpg,alexander ivanov,-68.00615774575799,0.5191233115615792
+Romanticism/theodore-gericault_two-post-horses-at-the-stable.jpg,theodore gericault,-72.17930744471266,0.4598524339041424
+Romanticism/karl-bryullov_a-dream-of-a-girl-before-a-sunrise-1833(1).jpg,karl bryullov,-84.91497769843453,0.2789688308829309
+Romanticism/albert-bierstadt_fishing-station-watch-hill.jpg,albert bierstadt,-86.76620862789663,0.25267596102415346
+Romanticism/konstantin-makovsky_boyar-with-the-cup.jpg,konstantin makovsky,-80.90998643731893,0.33585136905695
+Romanticism/konstantin-makovsky_portrait-of-prince-p-vyazemsky.jpg,konstantin makovsky,-81.44815645708667,0.32820778766121345
+Romanticism/jan-matejko_vows-john-kaz.jpg,jan matejko,-84.43766214747323,0.2857481016174807
+Romanticism/karl-bryullov_portrait-of-s-a-sobolevsky-1.jpg,karl bryullov,-85.67924715361434,0.2681139791179378
+Romanticism/ivan-aivazovsky_approximation-of-the-storm-1877.jpg,ivan aivazovsky,-97.6986711784973,0.09740315820726132
+Romanticism/gustave-dore_orlando-furioso-6.jpg,gustave dore,-79.9092770176626,0.3500643568148424
+Romanticism/alexander-shilov_galya-1988(4).jpg,alexander shilov,-78.24082215553294,0.3737612742858389
+Symbolism/viktor-vasnetsov_temptation.jpg,viktor vasnetsov,-87.67165370023471,0.23981600440157597
+Romanticism/lev-lagorio_southern-landscape-1866.jpg,lev lagorio,-90.34151653909753,0.20189617762804488
+Romanticism/jan-matejko_boleslaus-i.jpg,jan matejko,-79.73795882962187,0.3524975739521043
+Romanticism/alexey-venetsianov_french-activities-in-the-store.jpg,alexey venetsianov,-78.37016060651207,0.37192429165703295
+Romanticism/sir-lawrence-alma-tadema_a-foregone-conclusion-1885.jpg,sir lawrence alma tadema,-72.47322143080652,0.4556779994437773
+Romanticism/nikolai-ge_the-transportation-of-marble-at-carrara.jpg,nikolai ge,-78.78405762557095,0.3660457487460126
+Romanticism/edward-burne-jones_saint-george-and-the-dragon-the-princess-tied-to-the-tree-1866.jpg,edward burne jones,-72.57356010839946,0.45425289804245206
+Romanticism/ivan-aivazovsky_the-tempest-1886-1.jpg,ivan aivazovsky,-92.99117409607136,0.16426332469376417
+Romanticism/ivan-aivazovsky_the-shipwreck-near-mountain-of-aphon-1856.jpg,ivan aivazovsky,-91.52532509554418,0.18508264895531315
+Romanticism/eugene-delacroix_yound-woman-leaning-over-a-woman-stretched-out-on-the-ground-1840(1).jpg,eugene delacroix,-81.88635887780308,0.32198403727095526
+Romanticism/thomas-cole_l-allegro-italian-sunset-1845.jpg,thomas cole,-91.56841010716839,0.1844707163295826
+Romanticism/francisco-goya_neither-more-nor-less-1799.jpg,francisco goya,-89.59476626558131,0.21250220599873182
+Romanticism/richard-parkes-bonington_beach-in-normandy.jpg,richard parkes bonington,-91.93466562392378,0.1792688214801341
+Romanticism/joseph-wright_the-earthstopper-on-the-banks-of-the-derwent-1773.jpg,joseph wright,-75.39139966764819,0.4142313709411472
+Romanticism/francisco-goya_they-say-yes-and-give-their-hand-to-the-first-comer-1799.jpg,francisco goya,-85.00193236213036,0.2777338214522962
+Romanticism/sir-lawrence-alma-tadema_the-epps-family-screen-1871.jpg,sir lawrence alma tadema,-82.37896652701436,0.31498757421169027
+Romanticism/francisco-goya_you-will-not-escape-1799.jpg,francisco goya,-91.50101477295188,0.18542792632615415
+Romanticism/john-william-waterhouse_ophelia-1889.jpg,john william waterhouse,-74.90095490973543,0.42119711464577864
+Romanticism/ivan-aivazovsky_ships-in-the-stormy-sea-1866.jpg,ivan aivazovsky,-92.90317340228579,0.1655131907976427
+Romanticism/theodore-gericault_portrait-of-rifleman.jpg,theodore gericault,-93.69886148221886,0.1542121030722234
+Romanticism/ivan-aivazovsky_golden-horn-1895.jpg,ivan aivazovsky,-93.01911080438599,0.1638665420858739
+Romanticism/orest-kiprensky_portrait-of-countess-sophia-alexandrovna-golenischev-kutuzova-1829.jpg,orest kiprensky,-90.59407172331937,0.19830915858832193
+Romanticism/francisco-goya_self-portrait-1783.jpg,francisco goya,-76.7634269930699,0.3947445876685268
+Romanticism/gustave-dore_seeing-thetowers-the-king-s-son-asked-what-they-were.jpg,gustave dore,-63.6852394625844,0.5804929334071398
+Romanticism/ivan-aivazovsky_black-sea-fleet-squadron-before-going-on-the-raid-sevastopol-1895.jpg,ivan aivazovsky,-94.91973838159834,0.13687209598931488
+Symbolism/jacek-malczewski_melancholia-1894.jpg,jacek malczewski,-71.54319380587673,0.468887099895903
+Romanticism/fyodor-solntsev_chernigov-region-from-kaliatinskiy-farm.jpg,fyodor solntsev,-73.73154209352595,0.43780618188771175
+Romanticism/francisco-goya_what-value-1814.jpg,francisco goya,-80.77163701638786,0.3378163336984143
+Romanticism/john-trumbull_the-death-of-general-warren-at-the-battle-of-bunker-s-hill-june-17-1775-1786.jpg,john trumbull,-78.00949543993879,0.37704678725517043
+Romanticism/dante-gabriel-rossetti_sketch-for-dante-at-verona-with-a-preliminary-study-for-the-principal-figure.jpg,dante gabriel rossetti,-80.40916547779536,0.34296448503925897
+Romanticism/caspar-david-friedrich_view-of-a-harbour.jpg,caspar david friedrich,-103.84307790126104,0.010134690643376576
+Romanticism/gustave-dore_the-childhood-of-pantagruel.jpg,gustave dore,-63.53709765052868,0.5825969785173608
+Romanticism/karl-bodmer_m-ndeh-p-hchu-a-young-mandan-indian-plate-24-from-volume-1-of-travels-in-the-interior-of-north-1843.jpg,karl bodmer,-71.507679055359,0.46939151276982827
+Romanticism/william-shayer_the-young-anglers.jpg,william shayer,-83.11249090971131,0.3045693920035446
+Romanticism/william-holman-hunt_the-birthday-a-portrait-of-the-artist-s-wife-edith.jpg,william holman hunt,-82.97452764463841,0.3065288721073627
+Romanticism/fyodor-bronnikov_dog-grooming-in-children-portraits.jpg,fyodor bronnikov,-81.26804080894713,0.33076595434949263
+Romanticism/eugene-delacroix_seated-nude-mademoiselle-rose-1824(1).jpg,eugene delacroix,-72.87644527461674,0.449951046700859
+Romanticism/karl-bodmer_pehriska-ruhpa-minatarre-or-big-bellied-indian-1834.jpg,karl bodmer,-80.06248826240726,0.3478883109985903
+Romanticism/karl-bryullov_child-in-a-swimming-pool-portrait-of-prince-a-g-gagarin-in-childhood(1).jpg,karl bryullov,-79.78179786398051,0.35187493200788117
+Romanticism/john-william-waterhouse_windflowers-1902.jpg,john william waterhouse,-80.43253037202132,0.34263263550424394
+Romanticism/gustave-dore_the-childhood-of-gargantua.jpg,gustave dore,-78.65802612124325,0.36783576310276117
+Romanticism/ivan-aivazovsky_after-the-storm.jpg,ivan aivazovsky,-94.89071912398902,0.1372842539495008
+Romanticism/pierre-paul-prud'hon_young-naiad-tickled-by-the-cupids.jpg,pierre paul prud'hon,-76.80778103900865,0.39411463106018707
+Romanticism/orest-kiprensky_equestrian-portrait-of-alexander-i-1820.jpg,orest kiprensky,-78.4966568028382,0.3701276773207547
+Romanticism/gustave-courbet_the-vagabond-1845.jpg,gustave courbet,-60.90766005462713,0.6199426491252433
+Romanticism/john-everett-millais_the-black-brunswicker-1860.jpg,john everett millais,-76.37904026970114,0.400203998448744
+Romanticism/george-frederick-watts_sir-galahad-1862.jpg,george frederick watts,-79.79661449298584,0.3516644927309748
+Romanticism/adolphe-joseph-thomas-monticelli_rendezvous-under-the-flowered-bower.jpg,adolphe joseph thomas monticelli,-74.82542853800008,0.42226980905215405
+Romanticism/viktor-vasnetsov_seraphim-1896-1.jpg,viktor vasnetsov,-86.53141260608345,0.25601074824418246
+Romanticism/viktor-vasnetsov_a-knight-1883.jpg,viktor vasnetsov,-83.16940583784094,0.303761034291647
+Romanticism/john-constable_coast-scene-with-breaking-cloud-sun.jpg,john constable,-89.61477986226026,0.21221795464763832
+Romanticism/ivan-aivazovsky_surf-1893.jpg,ivan aivazovsky,-93.47145737688894,0.1574419035534247
+Romanticism/viktor-vasnetsov_calling-of-vikings.jpg,viktor vasnetsov,-73.73298122148283,0.43778574208007975
+Romanticism/john-william-waterhouse_narcissus-1912.jpg,john william waterhouse,-67.10595676911458,0.531908786754837
+Romanticism/richard-parkes-bonington_venice-grand-canal-sunset.jpg,richard parkes bonington,-89.63340090534824,0.2119534816125594
+Romanticism/jan-matejko_son-george.jpg,jan matejko,-78.84091873255322,0.36523815545113114
+Romanticism/william-turner_kenilworth-castle.jpg,william turner,-93.98212880833555,0.15018888218589457
+Romanticism/konstantin-makovsky_boyar-s-wife-at-the-window-1885.jpg,konstantin makovsky,-83.74643008245073,0.2955656097622541
+Romanticism/karl-bryullov_portrait-of-archbishop-giuseppe-capecalatro-1835(1).jpg,karl bryullov,-101.12928819902011,0.04867840678895955
+Romanticism/richard-parkes-bonington_a-venetian-scene-1828.jpg,richard parkes bonington,-80.52644727788268,0.34129874196127613
+Romanticism/gustave-dore_don-quixote-62.jpg,gustave dore,-71.51863738551872,0.4692358725716373
+Romanticism/sir-lawrence-alma-tadema_in-the-tepidarium-1881.jpg,sir lawrence alma tadema,-77.0696261656397,0.39039566778656354
+Baroque/joseph-wright_self-portrait.jpg,joseph wright,-87.96839334457046,0.23560143736604863
+Romanticism/john-william-waterhouse_fair-rosamund.jpg,john william waterhouse,-77.83350496913157,0.37954636441309086
+Romanticism/gustave-dore_venus-charles-martel.jpg,gustave dore,-89.30543782946215,0.216611512296642
+Romanticism/konstantin-makovsky_boyaryshnya.jpg,konstantin makovsky,-76.23305320865863,0.4022774398200867
+Romanticism/joseph-wright_a-conversation-between-girls-or-two-girls-with-their-black-servant-1770.jpg,joseph wright,-75.10799573608433,0.4182565320226117
+Romanticism/orest-kiprensky_putto-with-a-globe.jpg,orest kiprensky,-82.75341645318788,0.30966929488693307
+Romanticism/william-holman-hunt_the-finding-of-the-saviour-in-the-temple-1862.jpg,william holman hunt,-84.99592936018664,0.2778190815602365
+Romanticism/francisco-goya_little-goblins-1799.jpg,francisco goya,-87.10093030700851,0.24792193849366492
+Romanticism/john-hoppner_jane-elizabeth-countess-of-oxford-1797.jpg,john hoppner,-83.67362261837587,0.2965996877625736
+Romanticism/orest-kiprensky_portrait-of-v-s-khvostov-1814.jpg,orest kiprensky,-97.26113511922337,0.10361744432463654
+Romanticism/william-shayer_fisherfolk-sorting-the-catch-1837.jpg,william shayer,-77.24841175820947,0.3878563917604077
+Romanticism/ivan-aivazovsky_fishing-boats-in-a-harbor-1854.jpg,ivan aivazovsky,-102.71484293321446,0.02615891253426195
+Romanticism/john-everett-millais_the-tribe-of-benjamin-seizing-the-daughter-of-shiloh.jpg,john everett millais,-79.6725687255398,0.35342630384167095
+Romanticism/vasily-polenov_ressurection-of-jairus-daughter-1871.jpg,vasily polenov,-79.79426079702343,0.35169792206744593
+Romanticism/john-constable_ladies-from-the-family-of-mr-william-mason-of-colchester.jpg,john constable,-73.2967870928842,0.4439809688742534
+Romanticism/francesco-hayez_portrait-of-antoniet-tarsis-basilico-1851.jpg,francesco hayez,-89.23480072171904,0.2176147649171185
+Romanticism/gustave-dore_the-people-mourning-over-the-ruins-of-jerusalem-lamentations-1-1-2-1866.jpg,gustave dore,-100.57680125822404,0.0565253301532132
+Romanticism/gustave-dore_farinata.jpg,gustave dore,-89.79088661005218,0.2097167260179444
+Romanticism/gustave-dore_don-quixote-97.jpg,gustave dore,-85.17145104654658,0.2753261625065363
+Romanticism/vasily-polenov_the-ressurection-of-jair-s-daughter-1871.jpg,vasily polenov,-80.54002655015552,0.34110587675307097
+Romanticism/vasily-tropinin_spinner.jpg,vasily tropinin,-91.01345900430341,0.1923526379706895
+Romanticism/viktor-vasnetsov_draft-facade-tretyakov-gallery-1900.jpg,viktor vasnetsov,-83.04031777728446,0.3055944606473312
+Romanticism/gustave-dore_don-quixote-39.jpg,gustave dore,-82.64083773114619,0.3112682405616198
+Romanticism/caspar-david-friedrich_ship-in-the-arctic-ocean.jpg,caspar david friedrich,-92.16278246524938,0.17602889807235472
+Romanticism/alfred-stevens_woman-wearing-a-bracelet.jpg,alfred stevens,-82.95942513891066,0.30674337166618143
+Romanticism/ferdinand-hodler_self-portrait-with-stand-1879.jpg,ferdinand hodler,-99.92759499472048,0.0657459495400997
+Romanticism/william-holman-hunt_the-dead-sea-from-siloam-1855.jpg,william holman hunt,-75.63429473001703,0.4107815537613644
+Romanticism/orest-kiprensky_blind-musician-1809.jpg,orest kiprensky,-82.2666285594317,0.3165831004719979
+Romanticism/thomas-cole_portage-falls-on-the-genesee-1839.jpg,thomas cole,-90.11354131244705,0.20513408969506494
+Romanticism/william-turner_arundel-castle-with-rainbow.jpg,william turner,-81.77741012862833,0.3235314267606936
+Romanticism/gustave-dore_the-departure.jpg,gustave dore,-95.63180268992258,0.12675870932756023
+Romanticism/konstantin-makovsky_the-transfer-of-the-sacred-carpet-from-mecca-to-cairo.jpg,konstantin makovsky,-80.13419788760933,0.3468698255070975
+Romanticism/theodore-gericault_portrait-of-lord-byron.jpg,theodore gericault,-95.83905089002567,0.12381518139322528
+Romanticism/orest-kiprensky_self-portrait-1828.jpg,orest kiprensky,-87.99223316585308,0.23526284248387333
+Romanticism/sir-lawrence-alma-tadema_egyptian-chess-players-1865.jpg,sir lawrence alma tadema,-84.10226022540265,0.29051178557880486
+Romanticism/david-wilkie_william-iv-of-the-united-kingdom-1832.jpg,david wilkie,-76.16116605040544,0.40329844679786964
+Romanticism/gustave-dore_the-savoury-pulp-they-chew-and-in-the-rind-still-as-they-thirsted-scoop-the-brimming.jpg,gustave dore,-67.70096430829523,0.5234579470763893
+Romanticism/gustave-dore_don-quixote-153.jpg,gustave dore,-79.93625462429857,0.3496811962436289
+Romanticism/johan-christian-dahl_bjerk-i-storm-1848.jpg,johan christian dahl,-89.15280078773911,0.21877940275794644
+Romanticism/jan-matejko_armenian-cathedral.jpg,jan matejko,-63.03997673097606,0.5896575431578136
+Romanticism/alfred-stevens_quai-aux-fleurs.jpg,alfred stevens,-75.40120353225713,0.41409212751550345
+Romanticism/konstantin-makovsky_portrait-13.jpg,konstantin makovsky,-80.22002404780491,0.34565084411229297
+Romanticism/orest-kiprensky_portrait-of-great-prince-nikolay-pavlovich-1814.jpg,orest kiprensky,-86.99903910784037,0.2493690902221967
+Romanticism/ivan-aivazovsky_sea-1895.jpg,ivan aivazovsky,-90.69246594552402,0.1969116741156343
+Romanticism/cornelis-springer_figures-on-the-bank-in-deventer-1888.jpg,cornelis springer,-79.31382850819935,0.3585214595553791
+Romanticism/alfred-stevens_afternoon-in-the-park.jpg,alfred stevens,-73.87899504431341,0.43571192061341785
+Romanticism/fyodor-bronnikov_self-portrait-of-the-artist-in-youth-1853.jpg,fyodor bronnikov,-87.45500915664513,0.2428929877749416
+Romanticism/eugene-delacroix_horse-attacked-by-lioness-1842(1).jpg,eugene delacroix,-84.29356778986151,0.28779466108868074
+Romanticism/ivan-aivazovsky_view-on-crimea.jpg,ivan aivazovsky,-94.95671998868605,0.1363468494807077
+Romanticism/john-william-waterhouse_thisbe-1909.jpg,john william waterhouse,-83.91227989861609,0.2932100594291549
+Romanticism/konstantin-makovsky_in-the-outskirts.jpg,konstantin makovsky,-76.57386969329987,0.39743685330341594
+Romanticism/francesco-hayez_sexual-intercourse.jpg,francesco hayez,-85.02168877949785,0.27745322279631435
+Romanticism/konstantin-makovsky_the-choice-of-a-bride-by-alexis-of-russia.jpg,konstantin makovsky,-76.95898342094549,0.3919671169454798
+Romanticism/pierre-paul-prud'hon_portrait-of-the-empress-josephine-1805.jpg,pierre paul prud'hon,-79.66111709300851,0.3535889503700018
+Romanticism/ferdinand-georg-waldmã¼ller_after-confiscation-1859.jpg,ferdinand georg waldmã¼ller,-80.06555557337306,0.34784474625107187
+Romanticism/gustave-dore_don-quixote-90.jpg,gustave dore,-97.88029591149447,0.09482355811964978
+Romanticism/sir-lawrence-alma-tadema_sappho-and-alcaeus-1881.jpg,sir lawrence alma tadema,-78.5723944879406,0.36905198164923686
+Romanticism/gustave-dore_the-israelites-slaughter-the-syrians.jpg,gustave dore,-94.91346938416298,0.13696113400779736
+Romanticism/francisco-goya_the-second-of-may-1808-the-charge-of-the-mamelukes-1814.jpg,francisco goya,-77.84520087446425,0.3793802484996741
+Romanticism/karl-bryullov_portrait-of-m-a-kikina-1822.jpg,karl bryullov,-90.29520136699786,0.20255398793853774
+Romanticism/gustave-dore_don-quixote-130.jpg,gustave dore,-92.03436639148069,0.17785278025887177
+Romanticism/gustav-klimt_sappho-1890.jpg,gustav klimt,-79.09482476895096,0.36163195037691953
+Romanticism/francisco-goya_sleep.jpg,francisco goya,-69.06624255467531,0.504067020379026
+Romanticism/john-william-waterhouse_cleopatra.jpg,john william waterhouse,-77.04402669145739,0.3907592548639058
+Impressionism/konstantin-makovsky_presser-1.jpg,konstantin makovsky,-78.6464091659526,0.3680007576956837
+Romanticism/george-frederick-watts_portrait-of-miss-lilian-macintosh(1).jpg,george frederick watts,-76.87514143330478,0.3931579173122276
+Romanticism/rudolf-von-alt_interior-view-of-the-palm-house-of-lednice-castle-1842.jpg,rudolf von alt,-75.56741542948217,0.411731434577001
+Romanticism/domingos-sequeira_retrato-equestre-de-jo-o-v-de-portugal-1803.jpg,domingos sequeira,-72.1369561798347,0.4604539451894548
+Romanticism/ferdinand-georg-waldmã¼ller_tree-studies-from-rome-1846.jpg,ferdinand georg waldmã¼ller,-71.30766426056516,0.4722323052855803
+Romanticism/gustave-dore_the-portals-of-purgatory.jpg,gustave dore,-91.08192939836978,0.19138015899374777
+Romanticism/taras-shevchenko_in-gustynia-a-church-of-sts-peter-and-paul-1845.jpg,taras shevchenko,-77.61118795643559,0.38270391336561727
+Romanticism/william-holman-hunt_the-importunate-neighbour-1895.jpg,william holman hunt,-79.56097443139235,0.35501126777367137
+Romanticism/andrei-ryabushkin_mikula-selyaninovich-illustration-for-the-book-russian-epic-heroes.jpg,andrei ryabushkin,-67.56388580325257,0.5254048610114159
+Romanticism/dante-gabriel-rossetti_mnemosyne-1881.jpg,dante gabriel rossetti,-61.95062198307313,0.6051295527060634
+Romanticism/maxim-vorobiev_smirna-1820.jpg,maxim vorobiev,-98.67614875815063,0.08352013022697297
+Romanticism/francesco-hayez_ballerina-carlotta-chabert-as-venus-1830.jpg,francesco hayez,-82.9780824247405,0.3064783838786315
+Romanticism/ivan-aivazovsky_constantinople-1880.jpg,ivan aivazovsky,-83.99570279813852,0.29202521133404313
+Romanticism/gustave-dore_don-quixote-41.jpg,gustave dore,-96.06005426645338,0.1206762899009292
+Baroque/joseph-wright_self-portrait-at-the-age-of-about-twenty.jpg,joseph wright,-95.32917378128772,0.13105692106527797
+Romanticism/albert-bierstadt_forest-stream.jpg,albert bierstadt,-80.50409757862998,0.34161617277149103
+Romanticism/frederic-edwin-church_icebergs-and-wreck-in-sunset-1860.jpg,frederic edwin church,-86.16349310980904,0.26123627644819797
+Romanticism/francisco-goya_charles-iv-of-spain-and-his-family-1800.jpg,francisco goya,-66.02559796523755,0.5472530277023329
+Romanticism/konstantin-makovsky_self-portrait.jpg,konstantin makovsky,-95.37551810015859,0.1303986967857607
+Romanticism/alexander-orlowski_seascape-at-night-1809.jpg,alexander orlowski,-92.94332617754077,0.16494290446683108
+Romanticism/paul-cezanne_river-in-the-plain.jpg,paul cezanne,-78.49287201117968,0.3701814323833653
+Romanticism/francisco-goya_nanny-s-boy-1799.jpg,francisco goya,-88.7328945331866,0.22474329431146747
+Romanticism/francisco-goya_the-chinchillas-1799.jpg,francisco goya,-90.04751661912694,0.20607183259969325
+Romanticism/eugene-delacroix_the-expulsion-of-heliodorus-1861(1).jpg,eugene delacroix,-83.93759392066166,0.292850526603372
+Romanticism/arthur-hughes_gleaning.jpg,arthur hughes,-79.39281202889809,0.35739966356673736
+Romanticism/lev-lagorio_kozma-prutkov.jpg,lev lagorio,-83.47165426968547,0.2994682264322748
+Romanticism/eugene-delacroix_the-assassination-of-the-bishop-of-liege-1829(1).jpg,eugene delacroix,-64.52708099701665,0.5685363322320653
+Romanticism/caspar-david-friedrich_landscape-with-a-male-figure.jpg,caspar david friedrich,-84.48777163927497,0.2850364009184138
+Romanticism/john-william-waterhouse_spring-spreads-one-green-lap-of-flowers-1910.jpg,john william waterhouse,-63.465400913764164,0.58361528095551
+Romanticism/henry-raeburn_portrait-of-thomas-reid.jpg,henry raeburn,-86.33173629694467,0.2588467332779851
+Romanticism/caspar-david-friedrich_on-board-of-a-sailing-ship.jpg,caspar david friedrich,-79.47171351781601,0.35627903266825434
+Romanticism/ivan-aivazovsky_ice-in-the-dnepr-1872.jpg,ivan aivazovsky,-93.7598479776883,0.1533459172479693
+Romanticism/gustave-dore_cinderella.jpg,gustave dore,-74.35807070153275,0.42890765124469227
+Romanticism/ferdinand-georg-waldmã¼ller_dachstein-from-the-place-of-sophie-1835.jpg,ferdinand georg waldmã¼ller,-92.47336198725733,0.17161776447308563
+Romanticism/gustave-dore_elijah-ascends-to-heaven-in-a-chariot-of-fire.jpg,gustave dore,-95.86598523758194,0.12343263522691113
+Romanticism/konstantin-makovsky_portrait-22.jpg,konstantin makovsky,-88.35988295799713,0.23004114486386934
+Romanticism/ferdinand-georg-waldmã¼ller_pfamgasse-in-st-wolfgang-1835.jpg,ferdinand georg waldmã¼ller,-91.45538337242661,0.1860760250891935
+Romanticism/sir-lawrence-alma-tadema_in-the-temple-1871.jpg,sir lawrence alma tadema,-71.24950366538522,0.47305835509689126
+Romanticism/jan-matejko_diet-in-gasawa.jpg,jan matejko,-78.45594122779539,0.3707059570473888
+Romanticism/francisco-goya_what-a-tailor-can-do-1799.jpg,francisco goya,-77.65434519300864,0.382090954935299
+Romanticism/ivan-aivazovsky_tempest-1872.jpg,ivan aivazovsky,-89.16454217323923,0.21861264089371701
+Romanticism/ivan-aivazovsky_lake-maggiore-in-the-evening-1858.jpg,ivan aivazovsky,-97.33474368909258,0.10257198828927083
+Romanticism/edwin-henry-landseer_sir-francis-burdett.jpg,edwin henry landseer,-81.18425894868773,0.33195590073233905
+Romanticism/william-turner_mortlake-terrace.jpg,william turner,-98.7999243044252,0.0817621570437775
+Romanticism/karl-bodmer_a-blackfoot-indian-on-horseback-plate-19-from-volume-1-of-travels-in-the-interior-of-north-1843.jpg,karl bodmer,-69.9779136300166,0.49111863638409936
+Romanticism/ivan-aivazovsky_night-landscape-venice.jpg,ivan aivazovsky,-88.3589906519306,0.23005381820834955
+Romanticism/edward-burne-jones_morgan-le-fay-1862.jpg,edward burne jones,-84.06798508853807,0.2909985923291836
+Romanticism/gustave-dore_the-inferno-canto-8-1.jpg,gustave dore,-85.16298734160223,0.2754463717624877
+Romanticism/albert-bierstadt_fishing-from-a-canoe-1859.jpg,albert bierstadt,-83.57905888232405,0.2979427681777722
+Romanticism/john-constable_cloud-study-1821.jpg,john constable,-82.21556730336191,0.3173083189951449
+Romanticism/richard-parkes-bonington_river-scene-in-france.jpg,richard parkes bonington,-80.0991343781099,0.34736782944457956
+Romanticism/jan-matejko_henryk-krajewski.jpg,jan matejko,-76.00648028558233,0.40549543509293956
+Romanticism/lev-lagorio_farmhouse-on-the-island-1895.jpg,lev lagorio,-87.22251383004958,0.24619509842340997
+Romanticism/paul-cezanne_head-of-an-old-man.jpg,paul cezanne,-70.61179568974575,0.482115665313864
+Romanticism/gustave-dore_twilight.jpg,gustave dore,-92.69844452800466,0.16842093696919777
+Romanticism/akseli-gallen-kallela_view-from-north-quay-1891.jpg,akseli gallen kallela,-70.0069217509296,0.4907066365974304
+Romanticism/caspar-david-friedrich_wc-cdfcarolinesponholz.jpg,caspar david friedrich,-94.31035614758966,0.14552709819246878
+Romanticism/francisco-goya_tantalus-1799.jpg,francisco goya,-92.67994474110219,0.16868368781335258
+Romanticism/karl-bodmer_fort-pierre-and-the-adjacent-prairie-1839.jpg,karl bodmer,-80.45934951308831,0.342251725605551
+Romanticism/orest-kiprensky_fortune-teller-with-a-candle-1830.jpg,orest kiprensky,-83.61012385829292,0.29750155505988585
+Romanticism/pavel-svinyin_fishmen.jpg,pavel svinyin,-71.06198578926546,0.47572165497728147
+Romanticism/ivan-aivazovsky_view-of-constantinople-1870.jpg,ivan aivazovsky,-91.88426700503612,0.17998462862573977
+Romanticism/henry-raeburn_portrait-of-mrs-e-bethune.jpg,henry raeburn,-77.15626025008527,0.38916521151478795
+Romanticism/gustave-dore_jacob-goeth-into-egypt-1866.jpg,gustave dore,-90.49266709885906,0.1997493995391297
+Romanticism/eugene-delacroix_the-italian-theatre-1821(1).jpg,eugene delacroix,-90.52803576672441,0.1992470614642509
+Romanticism/lev-lagorio_happyness-of-meeting-1903.jpg,lev lagorio,-92.92886780129132,0.16514825551139606
+Romanticism/ferdinand-georg-waldmã¼ller_der-wolfgangsee-1835.jpg,ferdinand georg waldmã¼ller,-93.84317483965475,0.15216243316580735
+Romanticism/karl-bryullov_portrait-of-princess-a-a-bagration-1.jpg,karl bryullov,-97.17925666986446,0.10478035673009092
+Romanticism/ivan-aivazovsky_moonrise-in-feodosia-1892.jpg,ivan aivazovsky,-94.79326586395325,0.13866837401937152
+Romanticism/sir-lawrence-alma-tadema_the-parting-kiss-1882.jpg,sir lawrence alma tadema,-74.1453404288843,0.43192904057259923
+Romanticism/caspar-david-friedrich_wolves-in-the-forrest-in-front-of-a-cave.jpg,caspar david friedrich,-86.30178280107702,0.25927216014187837
+Romanticism/gustave-dore_paramours-and-flatterers.jpg,gustave dore,-87.27746452900278,0.24541463848552134
+Romanticism/ferdinand-georg-waldmã¼ller_the-roman-ruins-in-schoenbrunn-1832.jpg,ferdinand georg waldmã¼ller,-70.59098509082837,0.4824112364175603
+Romanticism/paul-cezanne_landscape-with-mill-1860.jpg,paul cezanne,-91.09966550371192,0.19112825465153915
+Romanticism/george-stubbs_colonel-pocklington-with-his-sisters.jpg,george stubbs,-83.21470043612487,0.3031177191011802
+Romanticism/cornelis-springer_the-smithy-of-culemborg-in-the-winter-1860.jpg,cornelis springer,-75.10095644854012,0.4183565104036732
+Romanticism/henry-raeburn_portrait-of-professor-george-joseph-bell.jpg,henry raeburn,-97.6380737553992,0.09826381807088978
+Romanticism/gustave-dore_sermon-on-the-mount.jpg,gustave dore,-81.8433583785585,0.32259476957480054
+Romanticism/konstantin-makovsky_the-muse-of-poesie.jpg,konstantin makovsky,-66.65063474537044,0.5383756853592259
+Romanticism/arthur-hughes_the-lady-of-shalott-1873.jpg,arthur hughes,-75.26557317398981,0.41601847354941407
+Romanticism/ivan-aivazovsky_self-portrait-1880.jpg,ivan aivazovsky,-86.0692933609507,0.2625741871853428
+Romanticism/thomas-cole_view-of-the-arno-1838.jpg,thomas cole,-92.25595742207328,0.1747055423662247
+Romanticism/john-atkinson-grimshaw_a-dead-linnet-1862.jpg,john atkinson grimshaw,-72.9413862510838,0.44902869573125503
+Baroque/joseph-wright_two-boys-fighting-over-a-bladder-1770.jpg,joseph wright,-82.4892278837176,0.31342154187282206
+Romanticism/sir-lawrence-alma-tadema_a-roman-scribe-writing-dispatches.jpg,sir lawrence alma tadema,-79.6629681901208,0.3535626594007367
+Romanticism/johann-koler_portrait-of-the-artist-s-father-1864.jpg,johann koler,-86.57898659420259,0.2553350590806252
+Romanticism/francisco-goya_dona-teresa-sureda.jpg,francisco goya,-82.81477861640019,0.3087977734868109
+Romanticism/edward-burne-jones_the-hand-refrains.jpg,edward burne jones,-68.46076209626074,0.5126666060070345
+Romanticism/john-constable_salisbury-cathedral-from-the-meadows-1831.jpg,john constable,-87.11260000635578,0.24775619478155123
+Romanticism/gustave-dore_don-quixote-8.jpg,gustave dore,-86.45663707722969,0.25707277849523524
+Romanticism/paul-cezanne_portrait-of-uncle-dominique-1866-1.jpg,paul cezanne,-73.16726441553561,0.4458205680539605
+Romanticism/ivan-aivazovsky_morning-at-sea-1849.jpg,ivan aivazovsky,-95.13647579979603,0.13379379352606938
+Romanticism/fyodor-solntsev_royal-clothing-of-the-xvii-century.jpg,fyodor solntsev,-72.05476418367608,0.46162131087249225
+Romanticism/alexander-ivanov_seven-boys-in-colourful-clothes.jpg,alexander ivanov,-67.77795752992006,0.5223644191302146
+Romanticism/henryk-siemiradzki_a-gypsy.jpg,henryk siemiradzki,-88.25026811923584,0.23159799476534482
+Romanticism/eugene-delacroix_the-bride-of-lammermoor-1826(1).jpg,eugene delacroix,-84.5123991515315,0.2846866185307057
+Romanticism/ivan-aivazovsky_seascape-1871.jpg,ivan aivazovsky,-99.0299367709959,0.07849531023758406
+Romanticism/gustave-dore_perrault.jpg,gustave dore,-82.11708796858002,0.31870701231427145
+Romanticism/francisco-goya_the-greasy-pole-1787.jpg,francisco goya,-70.29215378602292,0.4866555111225325
+Romanticism/dante-gabriel-rossetti_the-beautiful-hand-1875.jpg,dante gabriel rossetti,-78.94635366647913,0.36374067236992086
+Romanticism/dante-gabriel-rossetti_image-of-artist-and-his-exotic-pet-1871.jpg,dante gabriel rossetti,-87.85556672194014,0.23720390395096377
+Romanticism/francisco-goya_the-repentant-saint-peter.jpg,francisco goya,-69.85174640628802,0.4929105783515463
+Romanticism/john-atkinson-grimshaw_saint-cecilia-1862.jpg,john atkinson grimshaw,-78.3755845805755,0.37184725543108316
+Romanticism/francisco-goya_two-monks-1823.jpg,francisco goya,-80.94923636565038,0.3352939057814824
+Romanticism/dante-gabriel-rossetti_the-loving-cup.jpg,dante gabriel rossetti,-80.24913825563611,0.3452373375824677
+Romanticism/gustave-dore_don-quixote-143.jpg,gustave dore,-93.03854568990438,0.16359051011842843
+Romanticism/orest-kiprensky_alexander-i-1825.jpg,orest kiprensky,-79.91189028784113,0.3500272407686396
+Romanticism/thomas-moran_shoshone-falls-snake-river-idaho-1875.jpg,thomas moran,-92.11209296083899,0.17674883663942234
+Romanticism/francisco-goya_swallow-it-dog-1799.jpg,francisco goya,-86.67456897959612,0.2539775108785359
+Romanticism/gustave-dore_the-way-to-the-upper-world.jpg,gustave dore,-91.2741116714617,0.18865061109394146
+Romanticism/george-stubbs_portrait-of-a-huntsman.jpg,george stubbs,-82.519719606414,0.31298847062067997
+Romanticism/viktor-vasnetsov_ivan-tsarevich-and-the-swan.jpg,viktor vasnetsov,-70.78625315703039,0.47963786126996777
+Romanticism/george-stubbs_horse-devoured-by-a-lion.jpg,george stubbs,-81.99266892480286,0.3204741250358254
+Romanticism/vasily-tropinin_portrait-of-nikolai-i-utkin-1824.jpg,vasily tropinin,-68.23955294294704,0.5158084201303202
+Romanticism/thomas-cole_the-voyage-of-life-childhood-1840.jpg,thomas cole,-92.66468706068203,0.16890039130466186
+Romanticism/viktor-vasnetsov_alyonushka-study-1881.jpg,viktor vasnetsov,-79.97004190815177,0.34920131842660695
+Romanticism/camille-corot_saint-sebastian-1851.jpg,camille corot,-74.54207232437207,0.4262942923999782
+Romanticism/john-crome_lane-near-norwich.jpg,john crome,-96.09941805995115,0.12011720940853196
+Romanticism/william-turner_kilchern-castle-with-the-cruchan-ben-mountains-scotland-noon.jpg,william turner,-86.32558740106415,0.25893406550466114
+Romanticism/alexey-venetsianov_portrait-of-the-commander-of-the-dragoon-regiment-p-a-chicherin.jpg,alexey venetsianov,-67.80643597048321,0.5219599423469073
+Romanticism/francisco-goya_the-strolling-players-1793.jpg,francisco goya,-71.75916319514373,0.4658197056799221
+Romanticism/gustave-dore_paradise-lost-8.jpg,gustave dore,-82.93928379469729,0.30702943740425603
+Romanticism/gustave-dore_the-forest.jpg,gustave dore,-97.87233388653283,0.09493664205898825
+Romanticism/ivan-aivazovsky_american-shipping-off-the-rock-of-gibraltar-1873.jpg,ivan aivazovsky,-98.93604199252697,0.07982888950714596
+Romanticism/caspar-david-friedrich_basel.jpg,caspar david friedrich,-86.26049980599282,0.25985849888538937
+Romanticism/francesco-hayez_portrait-of-antoniet-vitali-sola-1823.jpg,francesco hayez,-89.37428706709716,0.2156336526378585
+Romanticism/gustave-dore_second-assault-of-jerusalem-by-the-crusaders-repulsed-1877.jpg,gustave dore,-87.04602694284607,0.24870172613968897
+Romanticism/john-everett-millais_ophelia.jpg,john everett millais,-62.57962243861752,0.5961959146301559
+Romanticism/gheorghe-tattarescu_portrait-of-nicolae-b-lcescu-1851.jpg,gheorghe tattarescu,-93.39860767094716,0.15847658151125998
+Romanticism/sir-lawrence-alma-tadema_her-eyes-are-with-her-thoughts-and-they-are-far-away-1897.jpg,sir lawrence alma tadema,-63.40701957860427,0.5844444659173162
+Romanticism/gustave-dore_queen-vashti-refuses-to-obey-ahasuerus-command.jpg,gustave dore,-97.2429291322849,0.10387602235377677
+Romanticism/victor-meirelles_a-passagem-de-humait-1886.jpg,victor meirelles,-85.81132092131506,0.2662381470266263
+Romanticism/john-constable_study-for-the-leaping-horse-view-on-the-stour.jpg,john constable,-80.83233844537045,0.3369541966483678
+Romanticism/taras-shevchenko_pochayiv-lavra-from-the-west-1846.jpg,taras shevchenko,-79.35358860078979,0.35795675046186953
+Romanticism/ford-madox-brown_the-spirit-of-justice-study-for-the-head-of-a-counsellor.jpg,ford madox brown,-81.8573667071607,0.32239581051733524
+Romanticism/ivan-aivazovsky_sea-view.jpg,ivan aivazovsky,-76.7087002195932,0.39552186721259314
+Romanticism/sir-lawrence-alma-tadema_portrait-of-mme-bonnefoy-and-m-puttemans-1867.jpg,sir lawrence alma tadema,-85.4001191437795,0.2720784096596527
+Romanticism/karl-bodmer_noapeh-an-assiniboin-indian-and-psihdja-sahpa-a-yanktonan-indian-plate-12-from-volume-2-of-1844.jpg,karl bodmer,-66.53389475853525,0.5400337331113044
+Romanticism/gustave-dore_don-quixote-83.jpg,gustave dore,-92.43183195822878,0.17220761181795263
+Romanticism/osman-hamdi_two-young-girls-visiting-a-shrine-1890.jpg,osman hamdi,-76.1860055824017,0.40294565311247005
+Romanticism/edward-burne-jones_design-for-the-sirens.jpg,edward burne jones,-71.33829133188941,0.47179731168879663
+Romanticism/gustave-dore_don-quixote-140.jpg,gustave dore,-91.02427643768293,0.19219899891705927
+Romanticism/domingos-sequeira_retrato-equestre-de-carlota-joaquina-of-spain-1830.jpg,domingos sequeira,-78.35829965334567,0.3720927517302967
+Romanticism/fyodor-bronnikov_fees-for-the-crown-1856.jpg,fyodor bronnikov,-75.45898167207385,0.4132715096840346
+Romanticism/caspar-david-friedrich_landscape-with-rainbow.jpg,caspar david friedrich,-88.87078795485712,0.22278480618734237
+Romanticism/gustave-dore_don-quixote-17.jpg,gustave dore,-97.42753086731813,0.10125414016842271
+Romanticism/gustave-dore_the-heaven-of-the-fixed-stars-ii.jpg,gustave dore,-92.36392115370398,0.17317214299391687
+Romanticism/jan-matejko_battle-of-grunwald-the-death-of-the-grand-master-ulrich-von-jungingen-detail.jpg,jan matejko,-79.21210437755336,0.35996623842440406
+Romanticism/cornelis-springer_lombard-voorburgwal-amsterdam.jpg,cornelis springer,-81.84317785719715,0.32259733350379793
+Romanticism/joseph-wright_vesuvius-in-eruption-with-a-view-over-the-islands-in-the-bay-of-naples.jpg,joseph wright,-86.25392796267327,0.25995183819729434
+Romanticism/konstantin-makovsky_female-portrait-8.jpg,konstantin makovsky,-75.59351328709009,0.411360769003756
+Romanticism/eugene-delacroix_the-abduction-of-rebecca-1846(1).jpg,eugene delacroix,-83.65073185678013,0.2969248032335971
+Romanticism/francesco-hayez_family-portrait-1807.jpg,francesco hayez,-77.76110006185533,0.38057472493465155
+Romanticism/vasily-tropinin_girl-with-a-doll-1841.jpg,vasily tropinin,-72.4848036759593,0.45551349783588607
+Romanticism/gustave-dore_the-dishonorable-truce.jpg,gustave dore,-69.66536759531235,0.4955577001900091
+Romanticism/ivan-aivazovsky_tower-shipwreck-1847.jpg,ivan aivazovsky,-78.75255742134634,0.366493143372486
+Romanticism/william-turner_death-on-a-pale-horse-1830.jpg,william turner,-72.76286428308761,0.45156422752080894
+Romanticism/john-atkinson-grimshaw_an-extensive-meadow-landscape-with-geese-by-a-stream-1892.jpg,john atkinson grimshaw,-99.84110011970083,0.06697442863265882
+Romanticism/gustave-dore_and-now-on-earth-the-seventh-evening-arose-in-eden.jpg,gustave dore,-85.00954447365403,0.2776257073027014
+Romanticism/jan-matejko_poisoning-of-queen-bona.jpg,jan matejko,-78.1032085858504,0.37571578769682445
+Romanticism/john-atkinson-grimshaw_landscape-in-the-lake-district.jpg,john atkinson grimshaw,-84.96387599775046,0.27827433264407364
+Romanticism/ivan-aivazovsky_ship-at-sea-1895.jpg,ivan aivazovsky,-91.68741079182892,0.18278056008538351
+Romanticism/jan-matejko_portrait-of-a-daughter-beata.jpg,jan matejko,-83.51629962376539,0.29883413240006057
+Romanticism/henry-raeburn_portrait-of-mrs-andrew.jpg,henry raeburn,-73.41298589159767,0.4423306075694068
+Romanticism/francesco-hayez_self-portrait-1878.jpg,francesco hayez,-99.88874661879917,0.06629770960204968
+Romanticism/john-trumbull_jonathan-trumbull-jr-with-mrs-trumbull-and-faith-trumbull-1777.jpg,john trumbull,-74.87867499003474,0.4215135543831616
+Romanticism/constantin-daniel-rosenthal_vanitas-1848.jpg,constantin daniel rosenthal,-78.70019070584453,0.3672369032209781
+Romanticism/dante-gabriel-rossetti_faust-margaret-in-the-church-1848.jpg,dante gabriel rossetti,-80.36804574210042,0.34354850502404194
+Romanticism/gustave-dore_don-quixote-109.jpg,gustave dore,-90.36849987576032,0.201512935673765
+Romanticism/orest-kiprensky_alexander-pushkin.jpg,orest kiprensky,-90.8373550444939,0.19485382700291476
+Romanticism/gustave-dore_don-quixote-104.jpg,gustave dore,-84.40087692916028,0.28627055883361546
+Romanticism/john-hoppner_william-boteler.jpg,john hoppner,-95.08520896937922,0.13452193180356284
+Romanticism/caspar-david-friedrich_woman-with-a-candlestick.jpg,caspar david friedrich,-61.77535513284702,0.6076188523445973
+Romanticism/francisco-goya_a-woman-and-two-children-by-a-fountain-1786.jpg,francisco goya,-68.91928153601332,0.5061542947846648
+Romanticism/paul-cezanne_bathers-1870.jpg,paul cezanne,-75.69269663975442,0.40995207658064586
+Romanticism/arthur-hughes_little-one-who-straight-has-come-down-the-heavenly-stairs-1888.jpg,arthur hughes,-77.32140271656174,0.38681970760702594
+Romanticism/william-turner_rye-sussex.jpg,william turner,-92.13371255463883,0.17644177545265619
+Romanticism/johann-koler_the-portrait-of-nikolai-petrovitsch-semjonovs-daughter-1865.jpg,johann koler,-83.26751383329281,0.3023676150723219
+Romanticism/paul-cezanne_the-rum-punch-1867.jpg,paul cezanne,-82.07486877844234,0.3193066477536792
+Romanticism/eugene-delacroix_the-coast-of-spain-at-salabrena-1832(1).jpg,eugene delacroix,-84.95843102981102,0.27835166704419545
+Romanticism/dante-gabriel-rossetti_self-portrait-1847.jpg,dante gabriel rossetti,-84.952851543392,0.27843091199843617
+Romanticism/edwin-henry-landseer_queen-victoria-at-osborne-house.jpg,edwin henry landseer,-69.22536376337838,0.5018070358651453
+Symbolism/viktor-vasnetsov_gamaun-the-prophetic-bird-1897.jpg,viktor vasnetsov,-75.83479393047034,0.40793388127469116
+Romanticism/arthur-hughes_lucy-hill.jpg,arthur hughes,-82.18665718578669,0.3177189268490382
+Romanticism/nikolai-ge_livorno-road-to-the-sea-at-antiniano-near-livorno.jpg,nikolai ge,-92.49606002480435,0.17129538624475366
+Romanticism/dante-gabriel-rossetti_aspecta-medusa-1877.jpg,dante gabriel rossetti,-85.56325024395369,0.269761473010347
+Romanticism/karl-bryullov_portrait-of-ye-i-ton-1840.jpg,karl bryullov,-101.63138837813004,0.041547122163522715
+Romanticism/william-turner_norham-castle-on-the-tweed.jpg,william turner,-80.34121375633805,0.3439295973548121
+Romanticism/orest-kiprensky_portrait-of-grand-duke-michael-pavlovich-of-russia-1819.jpg,orest kiprensky,-84.57087681009304,0.28385606549610864
+Romanticism/orest-kiprensky_family-portrait-1815.jpg,orest kiprensky,-82.60492274864305,0.3117783378951868
+Romanticism/sir-lawrence-alma-tadema_proclaiming-claudius-emperor-1867.jpg,sir lawrence alma tadema,-82.73148429849432,0.30998079534854645
+Romanticism/domingos-sequeira_manuel-in-cio-martins-pamplona-corte-real-count-of-subserra.jpg,domingos sequeira,-92.95561401564918,0.16476838138433053
+Romanticism/lev-lagorio_seascape-with-sailboats-1891.jpg,lev lagorio,-100.77012335252978,0.05377959347308756
+Romanticism/john-atkinson-grimshaw_the-lighthouse-at-scarborough.jpg,john atkinson grimshaw,-97.10543861917724,0.10582878800306654
+Romanticism/john-trumbull_the-surrender-of-general-burgoyne-1821.jpg,john trumbull,-72.28910807028385,0.4582929452889677
+Romanticism/theodore-gericault_study-for-the-race-of-the-barbarian-horses-1817.jpg,theodore gericault,-85.80325926728818,0.26635264598880426
+Romanticism/david-wilkie_reading-a-tract.jpg,david wilkie,-88.62553770900865,0.22626807383067227
+Romanticism/konstantin-makovsky_portrait-21.jpg,konstantin makovsky,-77.63979193001289,0.38229765364796525
+Symbolism/louis-janmot_po-me-de-l-me-5-souvenir-du-ciel.jpg,louis janmot,-78.11638557242541,0.37552863611695725
+Romanticism/akseli-gallen-kallela_the-girl-and-the-rooster-1886.jpg,akseli gallen kallela,-72.78144900751131,0.4513002703165202
+Romanticism/gustave-dore_the-midianites-are-routed.jpg,gustave dore,-93.54334666192226,0.15642086636917082
+Romanticism/gustave-moreau_male-nude-and-other-studies-1858.jpg,gustave moreau,-87.59535815096835,0.2408996233686852
+Romanticism/fyodor-solntsev_mobleman-clothing-of-the-xvii-century-morning-silk-kaftan.jpg,fyodor solntsev,-65.6283028566685,0.5528957751407468
+Romanticism/ivan-aivazovsky_ships-in-the-stillness-of-the-night-1888.jpg,ivan aivazovsky,-98.79448749306218,0.08183937559676283
+Romanticism/thomas-cole_a-view-of-the-two-lakes-and-mountain-house-catskill-mountains-morning-1844.jpg,thomas cole,-89.78985010369172,0.20973144742650005
+Romanticism/john-trumbull_self-portrait-1777.jpg,john trumbull,-98.26377952569621,0.08937697411939781
+Romanticism/gustave-dore_gideon-chooses-300-soldiers.jpg,gustave dore,-83.72065286355067,0.2959317213321691
+Romanticism/john-william-waterhouse_consulting-the-oracle.jpg,john william waterhouse,-74.35891150219165,0.4288957094269808
+Romanticism/pavel-svinyin_indian-s-entertainment.jpg,pavel svinyin,-90.88459390724466,0.19418289759545113
+Romanticism/alexey-venetsianov_portrait-of-natalia-pavlovna-stroganova.jpg,alexey venetsianov,-78.26237652136592,0.37345513952614157
+Romanticism/gustave-dore_don-quixote-66.jpg,gustave dore,-96.96852910845476,0.10777330172664659
+Romanticism/ivan-aivazovsky_sea-at-night-2.jpg,ivan aivazovsky,-83.65505795155248,0.2968633600905316
+Romanticism/gustave-dore_don-quixote-132.jpg,gustave dore,-95.47450174518258,0.1289928407926786
+Romanticism/adolphe-joseph-thomas-monticelli_the-terrace-of-the-chateau-de-st-germain.jpg,adolphe joseph thomas monticelli,-77.52961507625858,0.38386248579889165
+Romanticism/william-turner_the-decline-of-the-carthaginian-empire-1.jpg,william turner,-66.91195643644066,0.5346641563947755
+Romanticism/ferdinand-georg-waldmã¼ller_prater-landscape-1830.jpg,ferdinand georg waldmã¼ller,-90.06980417869265,0.20575528435398016
+Romanticism/orest-kiprensky_portrait-of-prince-aleksey-ivanovich-gorchakov.jpg,orest kiprensky,-83.12357164453137,0.30441201330274253
+Romanticism/ivan-aivazovsky_wedding-in-ukraine-1892.jpg,ivan aivazovsky,-68.08546735845135,0.5179968841170558
+Romanticism/franz-xaver-winterhalter_the-first-of-may-1851.jpg,franz xaver winterhalter,-77.8408579198001,0.37944193110229807
+Romanticism/francisco-goya_picnic-on-the-banks-of-the-manzanares-1776.jpg,francisco goya,-78.23757988221617,0.3738073240082197
+Romanticism/ivan-aivazovsky_view-of-amalfi-1865.jpg,ivan aivazovsky,-87.57134779607881,0.24124064032466117
+Romanticism/ivan-aivazovsky_first-train-in-feodosia-1892.jpg,ivan aivazovsky,-91.05776830161786,0.1917233169231198
+Romanticism/john-constable_mrs-james-pulham-sr-1818.jpg,john constable,-92.81732800096418,0.16673244547246566
+Romanticism/sir-lawrence-alma-tadema_a-roman-emperor-claudius-1871.jpg,sir lawrence alma tadema,-77.81213983115165,0.37984981158625575
+Romanticism/thomas-moran_winter-in-the-rockies-1867.jpg,thomas moran,-84.8361452014137,0.2800884818955754
+Romanticism/thomas-cole_italian-coast-scene-with-ruined-tower-1838.jpg,thomas cole,-80.86052400653143,0.3365538796054165
+Romanticism/ivan-aivazovsky_ship-at-sea-1870.jpg,ivan aivazovsky,-97.52198230686271,0.09991265469062685
+Romanticism/francisco-goya_francisca-sabasa-y-garcia-1808.jpg,francisco goya,-89.08030353024475,0.21980907492152216
+Romanticism/eugene-delacroix_milton-dictated-to-his-daughters-the-paradise-lost(1).jpg,eugene delacroix,-76.14235018413015,0.4035656868895205
+Romanticism/sir-lawrence-alma-tadema_a-reading-from-homer-1885.jpg,sir lawrence alma tadema,-81.92273266525945,0.3214674235710432
+Romanticism/francisco-goya_asmodea-1823.jpg,francisco goya,-73.35318332930285,0.4431799780950472
+Romanticism/john-atkinson-grimshaw_in-the-golden-gloaming-1881.jpg,john atkinson grimshaw,-71.15949865031472,0.4743366883994651
+Romanticism/richard-parkes-bonington_the-rialto-venice-1826.jpg,richard parkes bonington,-94.51985288672701,0.14255163445625244
+Romanticism/orest-kiprensky_portrait-of-ivan-vasilievich-kusov-1808.jpg,orest kiprensky,-80.96463120376781,0.3350752542514779
+Romanticism/konstantin-makovsky_portrait-of-s-hudenkov.jpg,konstantin makovsky,-72.87885402268023,0.44991683546424455
+Romanticism/gustave-dore_constantine-palaeologus-haranguing-the-defenders-of-constantinople.jpg,gustave dore,-81.4659481861449,0.32795509330026373
+Romanticism/gustave-dore_portrait-of-dante-alighieri-1860.jpg,gustave dore,-78.50983312982576,0.3699405351089501
+Romanticism/karl-bryullov_portrait-of-antonio-tittoni-1852(1).jpg,karl bryullov,-73.85139155204685,0.4361039705831228
+Romanticism/konstantin-makovsky_portrait-of-children-stasovy.jpg,konstantin makovsky,-76.90311616484041,0.39276059466387797
+Romanticism/francisco-goya_what-more-can-one-do-1815.jpg,francisco goya,-79.8908803119754,0.35032564360557494
+Romanticism/gustave-dore_don-quixote-134.jpg,gustave dore,-101.46193516483723,0.043953851228682686
+Romanticism/francisco-goya_accuse-the-time-1812.jpg,francisco goya,-86.83894231134484,0.25164293092357665
+Romanticism/gustave-dore_destruction-at-damascus-of-the-army-of-conrad-iii-of-germany.jpg,gustave dore,-79.81375923655817,0.3514209874479033
+Romanticism/john-atkinson-grimshaw_an-autumn-lane.jpg,john atkinson grimshaw,-96.92211585742784,0.10843250504350568
+Romanticism/jan-matejko_devil.jpg,jan matejko,-72.11914782322455,0.46070687571006
+Romanticism/rudolf-von-alt_the-imperial-palace-livadia-in-the-crimea-1863.jpg,rudolf von alt,-96.01283097489292,0.12134699815214826
+Romanticism/jan-matejko_the-death-of-leszek-the-white-1880.jpg,jan matejko,-71.28286017446162,0.4725845955360872
+Romanticism/alfred-stevens_girl-with-duck-1893.jpg,alfred stevens,-77.21683767293598,0.3883048357129118
+Romanticism/francisco-goya_the-count-of-tajo.jpg,francisco goya,-99.62712428560563,0.07001350856010093
+Romanticism/ivan-aivazovsky_shipwreck-of-lefort-1858.jpg,ivan aivazovsky,-79.28401595637183,0.35894488460348306
+Romanticism/edward-burne-jones_the-hand-refrains-the-pygmalion-series-1870.jpg,edward burne jones,-75.68345202266721,0.41008337706298964
+Romanticism/dante-gabriel-rossetti_head-of-a-youth.jpg,dante gabriel rossetti,-94.0665175557195,0.14899031623866493
+Romanticism/ivan-aivazovsky_view-of-vico-near-naples-1855.jpg,ivan aivazovsky,-96.59054564823437,0.11314176752428363
+Romanticism/john-hoppner_lady-romney-frances-wyndham.jpg,john hoppner,-76.2450101741559,0.4021076160921433
+Romanticism/konstantin-makovsky_portrait-of-the-count-g-bobrinsky.jpg,konstantin makovsky,-72.64105953977464,0.45329420956310346
+Romanticism/john-atkinson-grimshaw_golden-autumn.jpg,john atkinson grimshaw,-96.3626834850213,0.11637807376125953
+Romanticism/george-stubbs_diomed.jpg,george stubbs,-75.06071607838192,0.41892804083718105
+Romanticism/gustave-dore_inferno-canto-5-1.jpg,gustave dore,-84.53038081878125,0.28443122649434904
+Romanticism/john-constable_hampstead-stormy-sky-1814-1.jpg,john constable,-96.04265714743954,0.12092337965017044
+Romanticism/pavel-svinyin_st-paul-s-cathedral-in-new-york.jpg,pavel svinyin,-90.5026916672768,0.19960702147672618
+Romanticism/ivan-aivazovsky_ships-at-anchor-1851.jpg,ivan aivazovsky,-95.7037777326489,0.1257364541343451
+Romanticism/eduard-von-gebhardt_study-of-a-head.jpg,eduard von gebhardt,-84.08887661443421,0.2907018718267349
+Romanticism/ferdinand-georg-waldmã¼ller_ruins-of-the-temple-of-juno-at-girgenti-lancinia-1845.jpg,ferdinand georg waldmã¼ller,-89.08389967950147,0.21975799913033106
+Romanticism/orest-kiprensky_portrait-of-sergei-nikiforovich-marin-1812.jpg,orest kiprensky,-95.85899873809716,0.12353186386381336
+Romanticism/anton-melbye_lighthouse-at-stora-b-lt-1846.jpg,anton melbye,-83.95536859082087,0.29259807452846276
+Romanticism/cornelis-springer_men-in-boat-at-choppy-sea.jpg,cornelis springer,-80.35647918203202,0.3437127838580611
+Romanticism/francisco-goya_the-devout-profession-1799.jpg,francisco goya,-90.13869363617606,0.20477685345623187
+Romanticism/ivan-aivazovsky_harbor-1850.jpg,ivan aivazovsky,-97.10826242478551,0.10578868174069635
+Romanticism/karl-bodmer_confluence-of-the-fox-river-and-the-wabash-in-indiana-1832.jpg,karl bodmer,-78.31690011161811,0.37268074577551935
+Romanticism/ivan-aivazovsky_evening-at-sea.jpg,ivan aivazovsky,-98.65910548606875,0.08376219431940186
+Romanticism/sir-lawrence-alma-tadema_the-discourse.jpg,sir lawrence alma tadema,-80.74952588465113,0.3381303761552097
+Romanticism/william-shayer_the-ploughman-s-rest.jpg,william shayer,-81.15996437570293,0.3323009544128918
+Romanticism/john-william-waterhouse_mariamne-leaving-the-judgement-seat-of-herod-1887.jpg,john william waterhouse,-73.37164026880394,0.4429178358087607
+Romanticism/polychronis-lembesis_childs-with-rabbits-1879.jpg,polychronis lembesis,-71.09166038211131,0.47530018934844454
+Romanticism/gustave-dore_the-courage-of-a-mother.jpg,gustave dore,-74.61528054213143,0.4252545225303709
+Romanticism/caspar-david-friedrich_bohemian-landscape-with-mount-milleschauer-1808.jpg,caspar david friedrich,-95.19884580339259,0.13290795785772724
+Romanticism/rudolf-von-alt_view-of-bad-gastein-1888.jpg,rudolf von alt,-90.85710534931503,0.19457331516289053
+Romanticism/david-wilkie_the-preaching-of-john-knox-before-the-lords-of-congregation-10-june-1559.jpg,david wilkie,-71.14652206834712,0.474520993650342
+Romanticism/johann-koler_self-portrait-1859.jpg,johann koler,-88.25063263808539,0.2315928175362267
+Rococo/joseph-wright_nicholas-heath.jpg,joseph wright,-84.79178810411756,0.28071848184207554
+Romanticism/gustave-dore_don-quixote-142.jpg,gustave dore,-90.0545901137456,0.20597136837856583
+Romanticism/gustave-dore_esther-accuses-haman.jpg,gustave dore,-90.31297099742747,0.20230160744246417
+Romanticism/konstantin-makovsky_male-portrait.jpg,konstantin makovsky,-102.14200391966622,0.03429489459546834
+Romanticism/john-everett-millais_a-flood.jpg,john everett millais,-78.8217158194956,0.36551089273414544
+Romanticism/sir-lawrence-alma-tadema_depiction-of-joseph-reading-to-the-pharaoh-1878.jpg,sir lawrence alma tadema,-74.57737881225982,0.42579283746184526
+Romanticism/arthur-hughes_the-long-engagement-1859.jpg,arthur hughes,-72.61975986611279,0.4535967269523242
+Romanticism/francisco-goya_the-forge.jpg,francisco goya,-69.0221527501059,0.504693223990468
+Romanticism/david-wilkie_the-abbotsford-family-1817.jpg,david wilkie,-73.4465125595134,0.44185443125759316
+Romanticism/ivan-aivazovsky_sea-coast-farewell-1868.jpg,ivan aivazovsky,-92.33427189929776,0.17359324874312726
+Romanticism/konstantin-makovsky_portrait-of-o-makovskaya.jpg,konstantin makovsky,-93.80081975301326,0.15276399873129062
+Romanticism/thomas-cole_summer-twilight-a-recollection-of-a-scene-in-new-england-1834.jpg,thomas cole,-99.90524587320358,0.06606337214478387
+Romanticism/pavel-svinyin_black-methodists-holding-a-prayer-meeting.jpg,pavel svinyin,-74.29471536515062,0.4298074815078126
+Romanticism/ivan-aivazovsky_view-of-the-sea-at-night-1873.jpg,ivan aivazovsky,-97.87261753037556,0.09493261349046955
+Romanticism/gustave-dore_don-quixote-89.jpg,gustave dore,-89.66909888387336,0.21144646636738132
+Romanticism/ivan-aivazovsky_view-of-the-bosporus-1864.jpg,ivan aivazovsky,-92.7758372332782,0.16732173519194185
+Romanticism/eugene-delacroix_hamlet-sees-the-ghost-of-his-father-1843(1).jpg,eugene delacroix,-82.29381050287462,0.3161970377231105
+Romanticism/gheorghe-tattarescu_old-monk.jpg,gheorghe tattarescu,-92.27369006378068,0.1744536872177153
+Romanticism/thomas-cole_cabin-in-the-woods-north-conway-new-hampshire.jpg,thomas cole,-95.58533020405716,0.12741875395161392
+Romanticism/gustave-dore_don-quixote-21.jpg,gustave dore,-89.42850045642042,0.21486366464371126
+Romanticism/orest-kiprensky_ekaterina-bakunina-1813.jpg,orest kiprensky,-87.51384303495132,0.24205737538268254
+Romanticism/ivan-aivazovsky_ship-in-a-storm-1887.jpg,ivan aivazovsky,-101.68955438257447,0.04072099552490457
+Romanticism/osman-hamdi_ladies-taking-a-walk.jpg,osman hamdi,-67.1027508427072,0.5319543202452648
+Romanticism/paul-cezanne_sorrow-1867.jpg,paul cezanne,-79.96160971742188,0.3493210800889458
+Romanticism/orest-kiprensky_portrait-of-sergey-vyazmitinov.jpg,orest kiprensky,-75.5987689096684,0.41128612385912333
+Romanticism/ivan-aivazovsky_sea-on-a-moonlit-night-1858.jpg,ivan aivazovsky,-72.22288041323135,0.4592335708696125
+Romanticism/george-frederick-watts_the-wife-of-pygmalion.jpg,george frederick watts,-81.01363901146895,0.3343792006746696
+Romanticism/jan-matejko_przemysl-ii.jpg,jan matejko,-82.96107758969418,0.30671990205322947
+Romanticism/jean-leon-gerome_the-entry-of-the-bull.jpg,jean leon gerome,-77.7959306690672,0.38008002888784875
+Romanticism/francesco-hayez_valenza-gradenigo-before-the-inquisitor.jpg,francesco hayez,-82.24169252112041,0.3169372648280907
+Romanticism/viktor-vasnetsov_after-prince-igor-s-battle-with-the-polovtsy-1880.jpg,viktor vasnetsov,-73.75321858761427,0.4374983125511593
+Romanticism/paul-cezanne_the-lion-and-the-basin-at-jas-de-bouffan-1866.jpg,paul cezanne,-69.24466518352472,0.5015328994946253
+Romanticism/cornelis-springer_marketview-with-cityhall-woerden.jpg,cornelis springer,-86.29021008932688,0.2594365263476916
+Romanticism/gustave-dore_the-firstborn-of-the-egyptians-are-slain.jpg,gustave dore,-95.42421064461702,0.12970712086502434
+Romanticism/ivan-aivazovsky_pushkin-in-gurzuf-1880.jpg,ivan aivazovsky,-92.93932492046443,0.16499973396870757
+Romanticism/gustave-dore_the-army-of-the-amorites-is-destroyed.jpg,gustave dore,-87.65104478335425,0.24010871103306347
+Romanticism/arnold-bã¶cklin_arable-land-corridors-in-the-early-spring.jpg,arnold bã¶cklin,-87.33627057631082,0.24457942137447802
+Romanticism/william-turner_rocky-bay-with-figures.jpg,william turner,-91.74020017768264,0.1820307970871066
+Romanticism/konstantin-makovsky_the-boyarynia.jpg,konstantin makovsky,-77.6888088613726,0.3816014704886378
+Romanticism/francisco-goya_the-fair-at-madrid-1779.jpg,francisco goya,-81.03368524807902,0.3340944857415089
+Romanticism/theodore-gericault_study-for-the-raft-of-the-medusa.jpg,theodore gericault,-65.45732403567212,0.5553241722777649
+Romanticism/william-turner_pendennis-castle-cornwall-scene-after-a-wreck.jpg,william turner,-86.83786997939785,0.2516581611597826
+Romanticism/karl-bryullov_the-last-day-of-pompeii.jpg,karl bryullov,-81.01405349306631,0.33437331382904445
+Romanticism/domingos-sequeira_mariana-benedita-sequeira-1822.jpg,domingos sequeira,-88.32834933232313,0.23048901417224504
+Romanticism/gustave-dore_a-famine-in-samaria.jpg,gustave dore,-92.4407077709184,0.1720815494319884
+Romanticism/albert-bierstadt_on-the-plains-sunset.jpg,albert bierstadt,-74.4373399660123,0.42778179686229634
+Romanticism/thomas-cole_the-dream-of-the-architect-1840.jpg,thomas cole,-77.50802003310311,0.38416919829501794
+Romanticism/fyodor-bronnikov_portrait-of-a-woman-in-white-1859.jpg,fyodor bronnikov,-81.24428244625116,0.33110339228253555
+Romanticism/franz-xaver-winterhalter_young-italian-girl-by-the-well.jpg,franz xaver winterhalter,-74.77038319228767,0.4230516132496285
+Romanticism/orest-kiprensky_portrait-of-alexander-pushkin-1827.jpg,orest kiprensky,-86.83534315947252,0.25169404936065265
+Romanticism/eugene-delacroix_male-academy-figure-1821(1).jpg,eugene delacroix,-77.86867370660235,0.3790468659319989
+Romanticism/jan-matejko_devil-2.jpg,jan matejko,-84.72952912949346,0.2816027405756999
+Romanticism/john-constable_view-of-salisbury-cathedral-from-the-bishop-s-grounds.jpg,john constable,-86.211190682944,0.2605588320175449
+Romanticism/ivan-aivazovsky_at-night-blue-wave-1876.jpg,ivan aivazovsky,-99.08572669672249,0.07770293083574131
+Romanticism/john-constable_study-of-the-trunk-of-an-elm-tree-1821.jpg,john constable,-73.67822708730087,0.4385634102258333
+Romanticism/edward-burne-jones_days-of-creation-the-1st-day.jpg,edward burne jones,-75.6447458769703,0.4106331170415883
+Romanticism/gustave-dore_the-sculptures.jpg,gustave dore,-95.37448913077053,0.13041331114736102
+Romanticism/ivan-aivazovsky_clash-soldiers-with-murids-on-gunib-1869.jpg,ivan aivazovsky,-88.49344227929888,0.22814421358559073
+Romanticism/sir-lawrence-alma-tadema_a-coign-of-vantage-1895.jpg,sir lawrence alma tadema,-69.22129252643471,0.5018648592849146
+Romanticism/konstantin-makovsky_street-in-cairo.jpg,konstantin makovsky,-78.61097324326555,0.3685040509848722
+Romanticism/edward-burne-jones_the-adoration-of-the-magi.jpg,edward burne jones,-66.3873707434927,0.5421148007930219
+Romanticism/camille-corot_dance-of-the-nymphs-1850.jpg,camille corot,-76.99359771636541,0.39147549315600805
+Romanticism/william-holman-hunt_fairlight-downs-sunlight-on-the-sea.jpg,william holman hunt,-87.38688435117999,0.24386055838741513
+Romanticism/edwin-henry-landseer_the-monkey-who-had-seen-the-world.jpg,edwin henry landseer,-81.08696062165923,0.3333378203023521
+Romanticism/gustave-dore_the-deluge.jpg,gustave dore,-73.92135118462767,0.4351103400827131
+Romanticism/francisco-goya_the-arrest-of-christ-1788.jpg,francisco goya,-60.10654250677427,0.6313208511053704
+Romanticism/dante-gabriel-rossetti_the-annunciation-1859.jpg,dante gabriel rossetti,-82.03372399810785,0.31989102344527215
+Romanticism/francisco-goya_the-milkmaid-of-bordeaux-1827.jpg,francisco goya,-73.3974213527235,0.4425516693443142
+Romanticism/ivan-aivazovsky_neva.jpg,ivan aivazovsky,-96.31208963698347,0.11709665372929176
+Romanticism/francisco-goya_other-laws-by-the-people-or-beast-absurdity-1823.jpg,francisco goya,-69.48627016646519,0.4981014051993502
+Romanticism/akseli-gallen-kallela_the-fratricide-1897.jpg,akseli gallen kallela,-82.51149388668522,0.3131052997935734
+Romanticism/caspar-david-friedrich_the-summer.jpg,caspar david friedrich,-94.40917137155083,0.14412363426890965
+Romanticism/eugene-delacroix_study-for-part-of-the-justice-frieze-1836(1).jpg,eugene delacroix,-82.51245192614563,0.31309169284348876
+Romanticism/gustave-dore_adam-and-eve-are-driven-out-of-eden.jpg,gustave dore,-99.13156457442217,0.07705189949557756
+Romanticism/thomas-cole_self-portrait-1836.jpg,thomas cole,-98.51523018785122,0.08580564250931821
+Romanticism/william-shayer_mouth-of-the-old-canal-1842.jpg,william shayer,-89.09625260270975,0.21958255164988882
+Romanticism/george-frederick-watts_portrait-of-mary-fraser-tytler-afterwards-mary-seton-watts-1887(1).jpg,george frederick watts,-81.2784143949344,0.3306186192212862
+Romanticism/sir-lawrence-alma-tadema_chiesa-san-clemente-1863.jpg,sir lawrence alma tadema,-85.3887916146119,0.2722392935588385
+Romanticism/ivan-aivazovsky_the-shipwreck-1843.jpg,ivan aivazovsky,-71.1359639031434,0.4746709503409044
+Romanticism/caspar-david-friedrich_clipping-floe.jpg,caspar david friedrich,-80.41805422301019,0.3428382389737779
+Romanticism/alexander-orlowski_self-portrait-in-a-suit-of-a-caucasian-warrior.jpg,alexander orlowski,-78.17436065750964,0.37470522108919846
+Romanticism/camille-corot_fontainebleau.jpg,camille corot,-96.34562736535673,0.1166203203267738
+Romanticism/gustave-dore_combat-between-soldiers-of-ish-bosheth-and-david.jpg,gustave dore,-100.4557472416631,0.05824464968956284
+Romanticism/fyodor-bronnikov_the-head-of-judas-1874.jpg,fyodor bronnikov,-64.34218784682977,0.5711623533611827
+Romanticism/francesco-hayez_the-seventh-crusade-against-jerusalem.jpg,francesco hayez,-67.86724932357585,0.5210962156485827
+Romanticism/taras-shevchenko_stone-crosses-in-subotiv-1845.jpg,taras shevchenko,-79.53793665140996,0.35533847133389285
+Romanticism/gustave-moreau_horseman.jpg,gustave moreau,-86.3313527965021,0.2588521801009971
+Romanticism/konstantin-makovsky_boyaryshnya-with-a-tray.jpg,konstantin makovsky,-85.08237065071056,0.27659136352355124
+Romanticism/orest-kiprensky_portrait-of-the-sculptor-bertel-thorvaldsen-1831.jpg,orest kiprensky,-91.8381801004907,0.1806391968722625
+Romanticism/karl-bryullov_the-last-day-of-pompeii-1-1830.jpg,karl bryullov,-85.93919017226274,0.26442203131647896
+Romanticism/david-wilkie_the-first-earring.jpg,david wilkie,-83.91698533236115,0.2931432285680673
+Romanticism/eduard-von-gebhardt_christus-und-die-j-nger-von-emmaus-1914.jpg,eduard von gebhardt,-71.5303324436067,0.46906976869156247
+Romanticism/akseli-gallen-kallela_old-woman-with-a-cat-1885.jpg,akseli gallen kallela,-63.272470190900535,0.5863554590215101
+Romanticism/thomas-moran_cresheim-glen-wissahickon-autumn-1864.jpg,thomas moran,-94.68397501777848,0.14022062228267376
+Romanticism/gheorghe-tattarescu_chickens.jpg,gheorghe tattarescu,-75.55229423002854,0.41194619964116214
+Romanticism/jan-matejko_sigmund-and-barbara-2.jpg,jan matejko,-76.24964096647862,0.4020418453566036
+Romanticism/jan-matejko_portrait-of-the-artist-s-four-children-1879.jpg,jan matejko,-71.18272059480395,0.47400686916697166
+Romanticism/john-collier_the-child-bride-1883.jpg,john collier,-59.99665641487868,0.6328815535912239
+Romanticism/john-william-waterhouse_circe-invidiosa-1892.jpg,john william waterhouse,-66.74033365324317,0.537101699670224
+Romanticism/gustave-dore_an-angel-leading-the-crusaders-to-jerusalem.jpg,gustave dore,-60.91493480117744,0.6198393265406544
+Romanticism/george-stubbs_cheetah-with-two-indian-servants-and-a-deer.jpg,george stubbs,-82.64466188693605,0.31121392641371837
+Romanticism/william-turner_hafod.jpg,william turner,-75.54909770655104,0.4119915995826048
+Romanticism/francisco-goya_the-duchess-of-alba-1797.jpg,francisco goya,-68.24967757329162,0.5156646208971821
+Romanticism/taras-shevchenko_cathedral-of-the-annunciation-in-nizhny-novgorod-1857.jpg,taras shevchenko,-84.92157644771702,0.2788751094280038
+Romanticism/gustave-dore_the-death-of-abimelech.jpg,gustave dore,-100.23063395833562,0.06144191382760937
+Romanticism/taras-shevchenko_in-kyiv-1844.jpg,taras shevchenko,-67.70999456539727,0.5233296911300367
+Romanticism/francisco-goya_the-clothed-maja-1800.jpg,francisco goya,-77.75168115298817,0.3807085008677967
+Romanticism/sir-lawrence-alma-tadema_god-speed-1893.jpg,sir lawrence alma tadema,-72.67764531838367,0.4527745849715196
+Romanticism/francisco-goya_fine-advice-1799.jpg,francisco goya,-91.99383721292753,0.1784284126125787
+Romanticism/thomas-moran_autumn-landscape-1867.jpg,thomas moran,-91.98015395797486,0.1786227546776281
+Romanticism/alexander-shilov_mira-1985(4).jpg,alexander shilov,-96.1251375276511,0.11975191807382608
+Romanticism/paul-delaroche_herodias-1843.jpg,paul delaroche,-85.3344488510852,0.2730111190434036
+Romanticism/dante-gabriel-rossetti_saint-catherine-1857.jpg,dante gabriel rossetti,-74.30553824409105,0.4296537651113603
+Romanticism/john-crome_an-egyptian-poppy-and-a-water-mole-1812.jpg,john crome,-76.59362483807362,0.39715627272197085
+Romanticism/ivan-aivazovsky_morning-1851.jpg,ivan aivazovsky,-94.63177074862806,0.1409620749199433
+Romanticism/jean-leon-gerome_a-japanese-imploring-a-divinity.jpg,jean leon gerome,-70.30170652561739,0.4865198344033535
+Romanticism/william-holman-hunt_amaryllis.jpg,william holman hunt,-64.57063511946077,0.5679177368666729
+Romanticism/orest-kiprensky_madonna-with-the-child-1809.jpg,orest kiprensky,-82.96341114499708,0.30668675877277163
+Romanticism/paul-cezanne_mont-sainte-victoire-1867.jpg,paul cezanne,-91.95975350339907,0.17891250053736102
+Romanticism/george-stubbs_red-deer-stag-and-hind.jpg,george stubbs,-83.48787453824012,0.2992378513864637
+Romanticism/francisco-goya_the-family-of-the-infante-don-luis-1784.jpg,francisco goya,-82.82212848771873,0.3086933839117549
+Romanticism/george-stubbs_brown-and-white-norfolk-or-water-spaniel.jpg,george stubbs,-83.71779281722802,0.295972342318214
+Romanticism/ivan-aivazovsky_frigate-on-a-sea-1838.jpg,ivan aivazovsky,-84.25573336557854,0.28833202008480724
+Romanticism/william-turner_welsh-bridge-at-shrewsbury.jpg,william turner,-79.00196879816728,0.36295077555241234
+Romanticism/ivan-aivazovsky_sea-4.jpg,ivan aivazovsky,-94.17237050856637,0.14748689607153384
+Romanticism/william-turner_valley-of-the-brook-kedron.jpg,william turner,-81.32113608154455,0.3300118468687334
+Romanticism/gustave-dore_cyrus-restores-the-vessels-of-the-temple.jpg,gustave dore,-79.49894264221476,0.35589229981240655
+Romanticism/gustave-dore_a-heroine-florine-of-burgundy-1877.jpg,gustave dore,-88.56098627727289,0.22718489213076376
+Romanticism/paul-cezanne_l-estaque-under-snow-1870.jpg,paul cezanne,-71.77695481447974,0.4655670128773475
+Romanticism/ivan-aivazovsky_portrait-of-gabriel-aivazian-the-artist-s-brother-1883.jpg,ivan aivazovsky,-90.43856405741211,0.20051782027210766
+Romanticism/ivan-aivazovsky_boat-at-sea-1894.jpg,ivan aivazovsky,-90.01739319773897,0.2064996729007869
+Romanticism/sir-lawrence-alma-tadema_anna-eton-college-chapel.jpg,sir lawrence alma tadema,-82.95372183122521,0.3068243752429647
+Romanticism/jean-leon-gerome_lion.jpg,jean leon gerome,-71.71655459676427,0.4664248718502937
+Romanticism/john-collier_horace-and-lydia-1890.jpg,john collier,-72.9642649250091,0.44870375194035034
+Romanticism/francisco-goya_self-portrait-1795-1.jpg,francisco goya,-81.22797817805305,0.33133496036788523
+Romanticism/karl-bryullov_portrait-of-s-a-schubert.jpg,karl bryullov,-72.09232384421779,0.46108785432158544
+Romanticism/william-shayer_view-on-the-isle-of-wight.jpg,william shayer,-88.17047523968502,0.23273128600648482
+Romanticism/john-atkinson-grimshaw_battersea-bridge-1885.jpg,john atkinson grimshaw,-79.16250264688568,0.36067072743680095
+Romanticism/gustave-courbet_the-cellist-self-portrait-1847.jpg,gustave courbet,-91.03362279132723,0.19206625347935463
+Romanticism/joseph-wright_lake-albano.jpg,joseph wright,-90.51715183534101,0.19940164498317406
+Romanticism/gustave-dore_the-prophet-amos.jpg,gustave dore,-82.33527733604053,0.315608087943515
+Romanticism/camille-corot_orpheus-leading-eurydice-from-the-underworld-1861.jpg,camille corot,-81.2227711363243,0.33140891552299007
+Romanticism/theodore-gericault_the-head-of-young-man.jpg,theodore gericault,-91.3537293856475,0.18751980771105456
+Romanticism/thomas-cole_study-for-the-cross-and-the-world-1847.jpg,thomas cole,-86.81737191286922,0.2519492933934853
+Romanticism/karl-bryullov_portrait-of-the-poet-and-playwright-alexey-tolstoy-as-a-youth.jpg,karl bryullov,-72.68637339669243,0.452650620843956
+Romanticism/arnold-bã¶cklin_villa-by-the-sea-1.jpg,arnold bã¶cklin,-76.25231655950186,0.40200384414452595
+Romanticism/konstantin-makovsky_italian-boy.jpg,konstantin makovsky,-69.77220114213763,0.4940403527329606
+Romanticism/nikolai-ge_sorrento.jpg,nikolai ge,-81.78393862590815,0.3234387030887736
+Romanticism/john-william-waterhouse_orpheus.jpg,john william waterhouse,-72.19858103016855,0.45957869286727937
+Romanticism/konstantin-makovsky_oriental-funeral-in-cairo.jpg,konstantin makovsky,-74.31437279741162,0.4295282887285809
+Romanticism/gustave-courbet_the-wounded-man-1845.jpg,gustave courbet,-90.69569155906244,0.19686586101061826
+Romanticism/fyodor-solntsev_from-svyatoslav-s-snornik.jpg,fyodor solntsev,-80.61097348120582,0.3400982237394476
+Romanticism/ivan-aivazovsky_thunderstorm-1892.jpg,ivan aivazovsky,-86.30987977986456,0.25915715946523576
+Romanticism/francisco-goya_dona-narcisa-baranana-de-goicoechea.jpg,francisco goya,-81.61739412194035,0.32580412001155173
+Romanticism/francisco-goya_the-snowstorm-winter-1787.jpg,francisco goya,-79.33755530407566,0.3581844699630958
+Romanticism/joseph-wright_view-in-matlock-dale-looking-towards-black-rock-escarpment.jpg,joseph wright,-95.14317672781864,0.13369862083549494
+Romanticism/eugene-delacroix_saint-george-fighting-the-dragon-perseus-delivering-andromeda-1847(1).jpg,eugene delacroix,-76.37436865674245,0.40027034895618124
+Romanticism/miklos-barabas_portrait-of-franz-liszt-1847.jpg,miklos barabas,-88.28039240642828,0.23117014216730655
+Romanticism/edward-burne-jones_guinevere-rescued-by-lancelot.jpg,edward burne jones,-79.83941020643572,0.3510566689817367
+Romanticism/adolphe-joseph-thomas-monticelli_stage.jpg,adolphe joseph thomas monticelli,-60.70568874061881,0.6228112299110937
+Romanticism/john-constable_the-leaping-horse-1.jpg,john constable,-81.47464639424017,0.32783155341671183
+Romanticism/taras-shevchenko_head-of-a-woman-1834.jpg,taras shevchenko,-88.18816274207789,0.23248007196768428
+Romanticism/sir-lawrence-alma-tadema_the-oleander.jpg,sir lawrence alma tadema,-72.69173411971575,0.4525744829669587
+Romanticism/francesco-hayez_meditation-on-the-history-of-italy-1850.jpg,francesco hayez,-84.66085347930385,0.28257813478728366
+Romanticism/gustave-dore_richard-i-the-lionheart-delivering-jaffa-1877.jpg,gustave dore,-91.08458324689072,0.19134246661692142
+Romanticism/orest-kiprensky_portrait-of-grand-duke-michael-pavlovich-of-russia.jpg,orest kiprensky,-78.7238150127531,0.3669013692704779
+Romanticism/francisco-goya_all-will-fall-1799.jpg,francisco goya,-98.80201231206753,0.08173250125511809
+Romanticism/william-shayer_on-the-south-coast.jpg,william shayer,-81.38782954112459,0.32906460553581174
+Romanticism/victor-meirelles_moema-1866.jpg,victor meirelles,-69.39082723534429,0.49945697274468676
+Romanticism/caspar-david-friedrich_inside-the-forest-under-the-moonlight.jpg,caspar david friedrich,-94.34542525174957,0.14502901479451666
+Romanticism/caspar-david-friedrich_winter-landscape.jpg,caspar david friedrich,-91.12938241314181,0.19070618800398573
+Romanticism/ivan-aivazovsky_sea-view-1865.jpg,ivan aivazovsky,-83.74972047560175,0.2955188765981053
+Romanticism/george-frederick-watts_edith-villiers-later-countess-of-lytton-1862(1).jpg,george frederick watts,-74.45952943837871,0.42746664174043675
+Romanticism/thomas-cole_the-arcadian-pastoral-state-1836.jpg,thomas cole,-90.85566724627094,0.1945937404137764
+Romanticism/eugene-delacroix_self-portrait-with-cap-1832.jpg,eugene delacroix,-86.66203958754716,0.25415546473038114
+Romanticism/edwin-henry-landseer_not-detected-274939.jpg,edwin henry landseer,-85.05354854809826,0.27700072130867726
+Romanticism/arthur-hughes_in-the-grass.jpg,arthur hughes,-76.80806032349463,0.39411066440722836
+Romanticism/alfred-stevens_woman-with-a-fan.jpg,alfred stevens,-66.70251386954556,0.537638850727406
+Romanticism/william-turner_dover-castle.jpg,william turner,-89.93735437838113,0.20763645720334678
+Romanticism/theodore-gericault_rifleman.jpg,theodore gericault,-93.36321130163628,0.1589793130273299
+Romanticism/arnold-bã¶cklin_autumn-thoughts.jpg,arnold bã¶cklin,-67.78085639515065,0.5223232468026389
+Romanticism/theodore-gericault_the-horse-race-1824-1.jpg,theodore gericault,-75.34336945474762,0.41491353982509677
+Romanticism/francisco-goya_sharing-the-old-woman.jpg,francisco goya,-87.43387945729508,0.24319309103398098
+Romanticism/alfred-stevens_salome-1888.jpg,alfred stevens,-61.85045349109035,0.6065522369761552
+Romanticism/francesco-hayez_self-portrait.jpg,francesco hayez,-82.78018129294068,0.30928915622502345
+Romanticism/edwin-henry-landseer_jack-in-office.jpg,edwin henry landseer,-74.12948117127135,0.43215428821179847
+Romanticism/orest-kiprensky_portrait-of-m-lansky-1813.jpg,orest kiprensky,-87.4337886093992,0.2431943813386454
+Romanticism/frederic-edwin-church_a-waterfall-in-colombia-1853.jpg,frederic edwin church,-73.80969719814493,0.4366961518196947
+Romanticism/joseph-wright_convent-of-san-cosimato-and-part-of-the-claudian-aqueduct-near-vicovaro-in-the-roman-campagna.jpg,joseph wright,-97.1047018867145,0.10583925174935302
+Romanticism/gustave-dore_the-last-judgment.jpg,gustave dore,-81.58040189109023,0.3263295174085208
+Romanticism/albert-bierstadt_elk.jpg,albert bierstadt,-79.3638440272624,0.3578110935428438
+Romanticism/karl-bodmer_assiniboin-and-cree-warriors-attack-blackfeet.jpg,karl bodmer,-75.10616024817286,0.4182826012957725
+Romanticism/arthur-hughes_enid-and-geraint.jpg,arthur hughes,-76.10719490006794,0.4040649942930354
+Romanticism/fyodor-solntsev_people-clothes-the-province-of-kiev-2.jpg,fyodor solntsev,-77.80538920596062,0.37994569012133655
+Romanticism/thomas-cole_the-voyage-of-life-childhood-1840-1.jpg,thomas cole,-90.3948004090447,0.2011393915157362
+Romanticism/fyodor-solntsev_man-in-armour-of-tsar-alex.jpg,fyodor solntsev,-57.99778358791302,0.6612713683178638
+Romanticism/francisco-goya_they-have-flown-1799.jpg,francisco goya,-91.58674956961435,0.18421024255956417
+Romanticism/pierre-paul-prud'hon_the-dream-of-happiness-1819.jpg,pierre paul prud'hon,-64.67586965449732,0.5664231000332397
+Romanticism/konstantin-makovsky_flirt.jpg,konstantin makovsky,-95.47868000352392,0.12893349735742324
+Romanticism/john-atkinson-grimshaw_sunset-from-chilworth-common-hampshire.jpg,john atkinson grimshaw,-94.06358473541889,0.14903197082710984
+Romanticism/viktor-vasnetsov_baptism-of-prince-vladimir-1890.jpg,viktor vasnetsov,-77.19418211790934,0.38862661056574827
+Romanticism/gustave-dore_crusaders-surrounded-by-saladin-s-army-1877.jpg,gustave dore,-80.40800930227813,0.34298090609830917
+Romanticism/theodor-aman_gipsy-girl-1884.jpg,theodor aman,-79.80403497669411,0.351559100254366
+Romanticism/francisco-goya_self-portrait-1815-1.jpg,francisco goya,-91.28944167488481,0.1884328804053905
+Romanticism/fyodor-bronnikov_carnival-in-rome-1860.jpg,fyodor bronnikov,-70.66179805858788,0.48140548607275835
+Romanticism/john-everett-millais_the-return-of-the-dove-to-the-ark.jpg,john everett millais,-67.8065952377175,0.5219576802884048
+Romanticism/william-shayer_scene-in-the-isle-of-wight-1823.jpg,william shayer,-80.2417185722402,0.3453427186923105
+Romanticism/theodore-gericault_the-head-of-lion.jpg,theodore gericault,-67.56667149850394,0.5253652960270887
+Romanticism/gustave-dore_david-mourns-the-death-of-absalom.jpg,gustave dore,-94.87827923336411,0.13746093662050232
+Romanticism/konstantin-makovsky_peasant-boy.jpg,konstantin makovsky,-64.8081705584848,0.5645440419452504
+Romanticism/william-shayer_landscape-with-a-ruined-castle.jpg,william shayer,-92.51729545227263,0.17099378133856222
+Romanticism/maxim-vorobiev_view-of-the-military-telegraph-near-varna-1829.jpg,maxim vorobiev,-81.72406702111053,0.32428905421900095
+Romanticism/karl-bryullov_portrait-of-baroness-i-i-klodt(1).jpg,karl bryullov,-100.3687146590795,0.05948076579529843
+Romanticism/gustave-dore_don-quixote-75.jpg,gustave dore,-82.1448008312582,0.31831340896624233
+Romanticism/john-crome_a-view-on-the-wensum-norfolk.jpg,john crome,-90.44031850915268,0.2004929019485457
+Romanticism/gustave-dore_don-quixote-57.jpg,gustave dore,-82.66542218465426,0.31091906973352396
+Romanticism/gustave-dore_ascent-to-the-fifth-circle.jpg,gustave dore,-80.63364030079269,0.33977628889705425
+Romanticism/thomas-cole_cross-at-sunset.jpg,thomas cole,-77.30894381758777,0.38699666025193513
+Romanticism/eugene-delacroix_macbeth-and-the-witches-1825(1).jpg,eugene delacroix,-92.16268026155456,0.17603034966243153
+Romanticism/konstantin-makovsky_cup-of-honey-1.jpg,konstantin makovsky,-78.73624666853323,0.3667248035582514
+Romanticism/william-turner_dinner-in-a-great-room-with-figures-in-costume.jpg,william turner,-74.98546969150728,0.41999675864323727
+Romanticism/william-turner_weymouth.jpg,william turner,-86.20157924773302,0.26069534238539593
+Romanticism/john-atkinson-grimshaw_poachers-1871.jpg,john atkinson grimshaw,-81.02873066532143,0.3341648552440797
+Romanticism/dante-gabriel-rossetti_the-return-of-tibullus-to-delia-study-for-delia.jpg,dante gabriel rossetti,-83.67929605661902,0.29651910841884893
+Romanticism/francisco-goya_and-they-still-won-t-go-1799.jpg,francisco goya,-89.90101824315857,0.20815253613189796
+Romanticism/gustave-dore_the-flight-into-egypt.jpg,gustave dore,-87.31786297743355,0.24484086288022977
+Romanticism/sir-lawrence-alma-tadema_an-earthly-paradise-1891.jpg,sir lawrence alma tadema,-82.49836376885827,0.3132917857007393
+Romanticism/andrei-ryabushkin_boyar-duma.jpg,andrei ryabushkin,-75.96820378353017,0.40603907288068924
+Romanticism/sir-lawrence-alma-tadema_the-vintage-festival-1870.jpg,sir lawrence alma tadema,-84.04175089086073,0.29137119432842756
+Romanticism/john-crome_a-castle-in-ruins-morning.jpg,john crome,-94.52023403944237,0.14254622097780312
+Romanticism/frederic-edwin-church_rainy-season-in-the-tropics-1866.jpg,frederic edwin church,-71.04630934119638,0.4759443061886288
+Romanticism/pavel-svinyin_an-osage-warrior.jpg,pavel svinyin,-83.85584811733904,0.2940115550488547
+Romanticism/edward-burne-jones_astrologia.jpg,edward burne jones,-86.49984612436597,0.2564590842040501
+Romanticism/thomas-cole_indian-at-sunset-1847.jpg,thomas cole,-93.65870220684042,0.15478248172371611
+Romanticism/gustave-dore_the-baptism-of-infidels.jpg,gustave dore,-89.34371855051576,0.21606781458678623
+Romanticism/gustave-dore_ezra-reads-the-law-to-the-people.jpg,gustave dore,-91.41742387868976,0.18661516043575885
+Romanticism/edward-burne-jones_portrait-of-katie-lewis.jpg,edward burne jones,-62.005937338058224,0.604343913590668
+Baroque/joseph-wright_romeo-and-juliet-the-tomb-scene-noise-again-then-i-ll-be-brief-1790.jpg,joseph wright,-69.84878376329526,0.4929526565090613
+Romanticism/jan-matejko_output-scholars-from-krakow.jpg,jan matejko,-72.29907284249889,0.4581514165067651
+Romanticism/francisco-goya_the-parasol-1777.jpg,francisco goya,-85.5255154822599,0.27029741650749617
+Romanticism/edwin-henry-landseer_the-challenge.jpg,edwin henry landseer,-75.71389090274235,0.40965105632994364
+Romanticism/dante-gabriel-rossetti_the-day-dream-1878.jpg,dante gabriel rossetti,-86.29468701694047,0.2593729409390654
+Baroque/joseph-wright_portrait-of-a-lady-with-her-lacework.jpg,joseph wright,-86.25088125219739,0.25999511035786865
+Romanticism/gheorghe-tattarescu_ion-gr-di-teanu.jpg,gheorghe tattarescu,-95.06402829447914,0.13482275906384997
+Romanticism/gustave-dore_don-quixote-27.jpg,gustave dore,-85.95965283787123,0.26413140187892736
+Romanticism/arthur-hughes_the-eve-of-st-agnes-1856.jpg,arthur hughes,-90.18202162572571,0.20416146983642464
+Romanticism/jan-matejko_battle-of-grunwald-jan-zizka-detail.jpg,jan matejko,-85.84455667191368,0.2657661025878473
+Romanticism/john-atkinson-grimshaw_barden-tower.jpg,john atkinson grimshaw,-99.55273554681573,0.07107004526594016
+Romanticism/pavel-svinyin_american-indians-in-the-boat.jpg,pavel svinyin,-67.83056503715976,0.521617239337875
+Romanticism/karl-bodmer_pehriska-ruhpa-minatarre-warrior-in-the-costume-of-the-dog-dance-plate-23-from-volume-2-of-1844.jpg,karl bodmer,-68.14431538088681,0.5171610708369744
+Romanticism/viktor-vasnetsov_madonna.jpg,viktor vasnetsov,-84.0751245145751,0.2908971916899276
+Romanticism/pavel-svinyin_roller.jpg,pavel svinyin,-69.37017287590052,0.49975032479289894
+Romanticism/ivan-aivazovsky_on-the-way-to-yalta-1860.jpg,ivan aivazovsky,-86.91733775611178,0.2505294873256042
+Romanticism/n.c.-wyeth_the-children-were-playing-at-marriage-by-capture.jpg,n.c. wyeth,-74.8740042442652,0.42157989257398787
+Romanticism/george-stubbs_lady-reading-in-a-wooded-park-1770.jpg,george stubbs,-80.91737892052541,0.3357463742690024
+Romanticism/arthur-hughes_the-sailing-signal-gun-1881.jpg,arthur hughes,-66.38301293841414,0.5421766943147738
+Romanticism/taras-shevchenko_cathedral-of-ascension-in-pereiaslav-1845.jpg,taras shevchenko,-79.55021161029124,0.355164131173921
+Romanticism/thomas-cole_the-past-1838.jpg,thomas cole,-90.52036362850245,0.19935602816775513
+Romanticism/karl-bryullov_village-of-san-rocco-near-the-town-of-corfu.jpg,karl bryullov,-84.11136694242778,0.2903824436788982
+Romanticism/ivan-aivazovsky_parade-of-the-black-sea-fleet.jpg,ivan aivazovsky,-81.6500272759766,0.3253406341986792
+Romanticism/pavel-svinyin_travel-by-stagecoach-near-trenton.jpg,pavel svinyin,-71.37405553825307,0.47128935581546016
+Romanticism/william-shayer_at-the-bell-inn-cadnam-new-forest.jpg,william shayer,-83.1169274336451,0.30450638044482436
+Romanticism/gustave-courbet_portrait-of-countess-therese-burnswick-1830.jpg,gustave courbet,-75.56413761379044,0.4117779891046033
+Romanticism/paul-cezanne_the-negro-scipio-1867.jpg,paul cezanne,-81.9894828031065,0.32051937724168655
+Romanticism/konstantin-makovsky_woman-head.jpg,konstantin makovsky,-73.22377231937115,0.4450179912722665
+Romanticism/henry-raeburn_portrait-of-william-blair.jpg,henry raeburn,-81.34424580512855,0.3296836214998741
+Romanticism/jan-matejko_kazimierz-i-odnowiciel.jpg,jan matejko,-95.36694638784736,0.1305204400608319
+Romanticism/john-everett-millais_waiting-1854.jpg,john everett millais,-65.34469247254995,0.556923868449664
+Romanticism/sir-lawrence-alma-tadema_a-kiss-1891.jpg,sir lawrence alma tadema,-46.65993124282825,0.8223018866843465
+Romanticism/theodore-gericault_head-of-an-oriental-or-portrait-presumed-to-be-mustapha-1821.jpg,theodore gericault,-92.89465965350773,0.16563411082175705
+Romanticism/alexey-venetsianov_portrait-of-k-i-golovachevsky-and-the-younger-pupils-of-the-academy.jpg,alexey venetsianov,-75.06546593436292,0.4188605790509885
+Romanticism/karl-bryullov_self-portrait.jpg,karl bryullov,-93.10441124948532,0.1626550273762832
+Romanticism/konstantin-makovsky_date.jpg,konstantin makovsky,-72.89934839511723,0.44962575569739993
+Romanticism/karl-bryullov_self-portrait-1816.jpg,karl bryullov,-87.78503466268963,0.23820566457695122
+Romanticism/ivan-aivazovsky_the-sunset-on-sea-1848.jpg,ivan aivazovsky,-99.26783870072413,0.07511641008096573
+Romanticism/ford-madox-brown_the-opening-of-the-bridgewater-canal.jpg,ford madox brown,-80.72406204913263,0.3384920367685552
+Romanticism/caspar-david-friedrich_morning-in-riesengebirge.jpg,caspar david friedrich,-94.11417881713197,0.14831338754020837
+Romanticism/ivan-aivazovsky_kronshtadt-fort-the-emperor-alexander-1844.jpg,ivan aivazovsky,-98.38758805217937,0.08761853252120425
+Romanticism/jean-leon-gerome_sarah-bernhardt.jpg,jean leon gerome,-71.25689727838657,0.4729533442625664
+Romanticism/francisco-goya_the-marquesa-de-pontejos.jpg,francisco goya,-72.03437715750346,0.4619108660097977
+Romanticism/konstantin-makovsky_tamara-and-demon.jpg,konstantin makovsky,-79.66078801410008,0.35359362424875734
+Romanticism/gustave-dore_don-quixote-34.jpg,gustave dore,-92.46687993238235,0.17170982852761976
+Romanticism/gustave-dore_don-quixote-99.jpg,gustave dore,-87.04419617485581,0.2487277283762243
+Romanticism/rudolf-von-alt_holy-trinity-greek-church-vienna.jpg,rudolf von alt,-89.82843730560987,0.2091833967959161
+Romanticism/ivan-aivazovsky_sailing-in-the-sea-1884.jpg,ivan aivazovsky,-86.63055454927529,0.2546026439561633
+Romanticism/orest-kiprensky_portrait-of-jean-francois-duval-1816.jpg,orest kiprensky,-88.95228519788118,0.22162730802189015
+Romanticism/dante-gabriel-rossetti_elizabeth-siddal-seated-at-an-easel-1852.jpg,dante gabriel rossetti,-73.52390618898217,0.4407552163540737
+Romanticism/francisco-goya_portrait-of-leandro-fernandez-de-moratin.jpg,francisco goya,-100.27398004629656,0.06082627315766048
+Romanticism/jean-leon-gerome_nominor-leo.jpg,jean leon gerome,-63.21628748747058,0.5871534170104831
+Romanticism/rudolf-von-alt_the-morning-room-of-the-palais-lanckoronski-vienna-1881.jpg,rudolf von alt,-80.30042775362803,0.3445088773594012
+Romanticism/john-william-waterhouse_the-household-gods-1880.jpg,john william waterhouse,-80.88572047765658,0.33619601634500396
+Romanticism/paul-cezanne_the-kiss-of-the-muse.jpg,paul cezanne,-72.84095220488119,0.4504551516445445
+Romanticism/gustave-dore_jabesh-gileadites-recover-the-bodies-of-saul-and-his-sons.jpg,gustave dore,-101.76458408335655,0.039655355292338074
+Romanticism/francisco-goya_old-swinging.jpg,francisco goya,-74.54898501776286,0.42619611202452906
+Romanticism/pavel-svinyin_centre-square-and-the-marble-water-works.jpg,pavel svinyin,-64.26893417957668,0.572202768745947
+Romanticism/jan-matejko_mieszko-iii-stary.jpg,jan matejko,-92.29507813000819,0.17414991439666894
+Romanticism/william-turner_st-peter-s-from-the-south.jpg,william turner,-90.33428023852954,0.2019989541677326
+Romanticism/paul-cezanne_the-black-marble-clock.jpg,paul cezanne,-76.46967521685984,0.3989167182761977
+Romanticism/john-william-waterhouse_hylas-and-the-nymphs-1896-1.jpg,john william waterhouse,-78.55027510475779,0.36936614130059436
+Romanticism/francesco-hayez_caterina-cornaro-deposed-from-the-throne-of-cyprus-1842.jpg,francesco hayez,-75.28384715304871,0.4157589298341752
+Romanticism/franz-richard-unterberger_fishermen-on-the-terrace.jpg,franz richard unterberger,-78.06531102264856,0.37625404344945507
+Romanticism/konstantin-makovsky_still-life.jpg,konstantin makovsky,-63.45762384361625,0.5837257379979175
+Romanticism/edwin-henry-landseer_alexander-and-diogenes.jpg,edwin henry landseer,-73.30283787896694,0.4438950300923949
+Romanticism/konstantin-makovsky_female-portrait.jpg,konstantin makovsky,-88.32418567224668,0.23054815026962966
+Romanticism/ivan-aivazovsky_darial-gorge-1862.jpg,ivan aivazovsky,-90.01296640509364,0.2065625462468742
+Romanticism/john-atkinson-grimshaw_the-heron-s-haunt.jpg,john atkinson grimshaw,-90.66064220221473,0.19736366393923419
+Romanticism/orest-kiprensky_portrait-of-an-unknown-woman-with-a-kerchief-on-her-neck-1829.jpg,orest kiprensky,-84.89278890211364,0.27928397640297553
+Romanticism/thomas-cole_the-old-mill-at-sunset-1844.jpg,thomas cole,-52.0379335307601,0.7459185938134318
+Romanticism/thomas-cole_the-voyage-of-life-youth-1842-1.jpg,thomas cole,-83.05941706122404,0.30532319519955414
+Romanticism/gustave-dore_ugolino-and-gaddo(1).jpg,gustave dore,-94.92239509363382,0.13683436294224352
+Romanticism/william-holman-hunt_morning-hunt.jpg,william holman hunt,-85.97174486567745,0.2639596598729044
+Romanticism/john-everett-millais_the-bridesmaid.jpg,john everett millais,-80.91399283789004,0.3357944665024704
+Romanticism/fyodor-bronnikov_backstage-of-the-circus-1859.jpg,fyodor bronnikov,-86.40542486943761,0.25780014097240006
+Romanticism/marcus-larson_night-at-sea-1858.jpg,marcus larson,-84.26122835850101,0.2882539751842569
+Romanticism/richard-parkes-bonington_landscape-near-quilleboeuf.jpg,richard parkes bonington,-88.81397910683994,0.22359165725274502
+Romanticism/john-hoppner_william-lock.jpg,john hoppner,-81.03650260712745,0.33405447103906055
+Romanticism/john-crome_the-lime-kiln-1806.jpg,john crome,-96.2231181383006,0.11836030808963065
+Romanticism/alphonse-mucha_jaroslava-and-jiri-the-artist-s-children-1919.jpg,alphonse mucha,-84.35826135507165,0.28687582407937007
+Romanticism/jan-matejko_maurizio-parys.jpg,jan matejko,-94.87648561244997,0.13748641126038708
+Romanticism/alfred-stevens_pleasant-letter.jpg,alfred stevens,-72.20725828665125,0.45945545055763565
+Romanticism/jan-matejko_sigismund-iii-vasa-1.jpg,jan matejko,-67.20370478389786,0.5305204803092455
+Romanticism/joseph-wright_a-cottage-on-fire.jpg,joseph wright,-87.94123642348143,0.23598714472464727
+Romanticism/theodore-gericault_portrait-of-eugene-delacroix-1819.jpg,theodore gericault,-88.52322578773831,0.22772120103816995
+Romanticism/john-constable_flatford-mill-from-a-lock-on-the-stour-1811.jpg,john constable,-87.06092946552128,0.2484900669225535
+Romanticism/karl-bodmer_a-mandan-village-plate-16-from-volume-1-of-travels-in-the-interior-of-north-america-1843.jpg,karl bodmer,-75.24970492803259,0.4162438488492755
+Romanticism/ivan-aivazovsky_seascape-3.jpg,ivan aivazovsky,-97.02728130587646,0.1069388494407966
+Romanticism/gustave-dore_don-quixote-10.jpg,gustave dore,-94.77593996689397,0.13891445220946452
+Romanticism/gustave-dore_hop-o-my-thumb.jpg,gustave dore,-70.64363339704113,0.4816634771609994
+Romanticism/francisco-goya_sleep-overcomes-them-1799.jpg,francisco goya,-84.36765582942913,0.28674239518741407
+Romanticism/richard-parkes-bonington_on-the-coast-of-picardy-1826.jpg,richard parkes bonington,-75.68135299233688,0.410113189405916
+Romanticism/karl-bodmer_offering-of-the-mandan-indians-plate-14-from-volume-1-of-travels-in-the-interior-of-north-1843.jpg,karl bodmer,-74.99465315785412,0.4198663266794735
+Romanticism/ivan-aivazovsky_sea-1864.jpg,ivan aivazovsky,-88.75554472138055,0.22442159568328315
+Romanticism/gustave-dore_abraham-god-and-two-angels-png-1852.jpg,gustave dore,-92.43728611518343,0.17213014690705716
+Romanticism/camille-corot_repose-1860.jpg,camille corot,-70.83055232209452,0.4790086841298569
+Romanticism/domingos-sequeira_junot-protegendo-a-cidade-de-lisboa-1808.jpg,domingos sequeira,-75.00689530908852,0.4196924524836209
+Romanticism/anton-melbye_seascape-with-sailing-ship-in-rough-sea-1844.jpg,anton melbye,-83.27014249997002,0.30233028035100434
+Romanticism/gustave-dore_don-quixote-150.jpg,gustave dore,-92.48807277031504,0.17140882851685166
+Romanticism/gustave-dore_st-paulpreachingtothethessalonians.jpg,gustave dore,-93.89570396046315,0.15141636668904823
+Romanticism/alexey-bogolyubov_revel-fight-may-2-1790-1860.jpg,alexey bogolyubov,-90.98139917027709,0.1928079809699517
+Romanticism/pierre-paul-prud'hon_monsieur-lavallee-1809.jpg,pierre paul prud'hon,-102.28980174311778,0.03219573512509831
+Romanticism/ivan-aivazovsky_chains-of-the-caucasus-mountains-1869.jpg,ivan aivazovsky,-85.9189498009447,0.2647095035278001
+Romanticism/paul-cezanne_fortune-mation.jpg,paul cezanne,-69.29310565425247,0.5008449037548864
+Romanticism/konstantin-makovsky_lady-in-black.jpg,konstantin makovsky,-101.72478028642192,0.0402206851147993
+Romanticism/christen-kobke_portrait-of-frederik-hansen-s-dring-1832.jpg,christen kobke,-77.61864835883372,0.38259795392737184
+Romanticism/sir-lawrence-alma-tadema_miss-alice-lewis-1884.jpg,sir lawrence alma tadema,-76.570380574295,0.39748640895336584
+Romanticism/sir-lawrence-alma-tadema_a-man-dressed-in-white-robes-and-a-thick-belt-leaning-against-a-pillar-1878.jpg,sir lawrence alma tadema,-72.88407327795586,0.4498427068412089
+Romanticism/orest-kiprensky_portrait-of-a-p-bakunin-1813.jpg,orest kiprensky,-84.46030090204624,0.2854265653800077
+Romanticism/jan-matejko_the-young-man.jpg,jan matejko,-84.66429165909065,0.282529302622562
+Romanticism/marcus-larson_kustlandskap-med-fartyg-vid-horisonten-1859.jpg,marcus larson,-78.36252412943293,0.37203275186846635
+Romanticism/john-william-waterhouse_the-slave-1872.jpg,john william waterhouse,-82.31282393472645,0.315926991624975
+Romanticism/dante-gabriel-rossetti_self-portrait.jpg,dante gabriel rossetti,-82.7824405366929,0.3092570683849755
+Romanticism/theodore-gericault_gray-horse-rack.jpg,theodore gericault,-72.84046750769286,0.4504620357560245
+Romanticism/francesco-hayez_portrait-of-conte-baglioni.jpg,francesco hayez,-80.49845969916971,0.341696247076954
+Romanticism/eugene-delacroix_hamlet-and-horatio-in-the-cemetery-1839(1).jpg,eugene delacroix,-87.25322000789676,0.24575898128364776
+Romanticism/william-turner_painter-at-the-easel.jpg,william turner,-77.55848847048773,0.3834523995234485
+Romanticism/henryk-siemiradzki_prince-alexander-nevsky-in-gold-horde.jpg,henryk siemiradzki,-61.43922647437752,0.6123928580789937
+Romanticism/william-turner_self-portrait-1.jpg,william turner,-87.05842446720398,0.24852564519304648
+Romanticism/gustave-dore_christ-and-the-tribute-money.jpg,gustave dore,-90.67859986545164,0.19710861282975803
+Romanticism/alfred-stevens_love-and-marriage.jpg,alfred stevens,-68.7967221594312,0.5078949948168228
+Romanticism/theodore-chasseriau_andromeda-chained-to-the-rock-by-the-nereids-1840.jpg,theodore chasseriau,-80.73329440544026,0.33836091042498384
+Romanticism/caspar-david-friedrich_grave-by-the-sea-1807.jpg,caspar david friedrich,-68.88903839911849,0.5065838353945593
+Romanticism/francisco-goya_what-a-golden-beak-1799.jpg,francisco goya,-97.18876915362698,0.10464525176094784
+Romanticism/thomas-cole_peace-at-sunset-evening-in-the-white-mountains.jpg,thomas cole,-83.25767172417261,0.302507401681391
+Romanticism/edwin-henry-landseer_victoria-princess-royal-with-eos.jpg,edwin henry landseer,-64.06117080947888,0.5751536135943471
+Romanticism/christen-kobke_the-garden-steps-leading-to-the-artist-s-studio-on-blegdammen-1845.jpg,christen kobke,-75.49397590628497,0.41277448965737157
+Romanticism/gustave-moreau_the-chimera-1856.jpg,gustave moreau,-81.73397434307495,0.32414834139764853
+Romanticism/john-hoppner_portrait-of-dorothy-jordan-as-hypolita-c-1791.jpg,john hoppner,-74.55956995726864,0.4260457750609125
+Symbolism/viktor-vasnetsov_bogomater.jpg,viktor vasnetsov,-78.60399508886226,0.3686031610973169
+Romanticism/francisco-goya_hush-1799.jpg,francisco goya,-91.80861502344467,0.1810591070578393
+Romanticism/william-turner_crossing-the-brook.jpg,william turner,-94.01982238451382,0.14965352364299514
+Romanticism/theodore-chasseriau_cossack-girl-at-mazeppa-s-body-1851.jpg,theodore chasseriau,-84.78321648926128,0.2808402237330028
+Romanticism/fyodor-solntsev_clothing-of-queens-with-portraits-of-queens-evdokia-lukianovny-and-natalia-kirilovna.jpg,fyodor solntsev,-82.24676606569108,0.31686520572136545
+Romanticism/ivan-aivazovsky_the-black-sea.jpg,ivan aivazovsky,-82.94531893847791,0.3069437207886369
+Romanticism/rudolf-von-alt_mountain-landscape-with-the-grundlsee.jpg,rudolf von alt,-92.74742909362885,0.16772521349756156
+Romanticism/paul-cezanne_the-temptation-of-st-anthony.jpg,paul cezanne,-79.08043140202886,0.36183637809973324
+Romanticism/konstantin-makovsky_model.jpg,konstantin makovsky,-82.58231965665121,0.31209936762016016
+Romanticism/camille-corot_dante-and-virgil-1859.jpg,camille corot,-82.5619708792809,0.31238837951309456
+Romanticism/fyodor-solntsev_patriarchal-ognennik-clothes-of-archer.jpg,fyodor solntsev,-76.51133992393599,0.39832495811088126
+Romanticism/arthur-hughes_the-king-s-orchard.jpg,arthur hughes,-73.84550952761964,0.43618751245805015
+Romanticism/orest-kiprensky_alexander-semyonovich-shishkov-1825.jpg,orest kiprensky,-87.84844645248636,0.23730503251095497
+Romanticism/william-turner_the-grand-canal-venice-engraved-by-william-miller.jpg,william turner,-99.89395096068918,0.06622379279251674
+Romanticism/gustave-dore_purgatorio-canto-30.jpg,gustave dore,-82.3112330720517,0.3159495865074419
+Romanticism/william-turner_bridge-of-sighs-ducal-palace-and-custom-house-venice-canaletti-painting.jpg,william turner,-94.85464763947965,0.1377965740672795
+Romanticism/konstantin-makovsky_boyaryshnya-4.jpg,konstantin makovsky,-71.1940514133898,0.4738459385484682
+Romanticism/john-constable_landscape-with-cottages-1810.jpg,john constable,-84.015325349166,0.2917465139698992
+Romanticism/gustave-dore_don-quixote-30.jpg,gustave dore,-93.27276250258988,0.16026394935463062
+Romanticism/david-wilkie_the-penny-wedding(1).jpg,david wilkie,-77.0172996647134,0.39113885647098123
+Romanticism/gustave-moreau_shepherds-viewing-passing-soldiers.jpg,gustave moreau,-82.02101146487539,0.320071578435218
+Romanticism/george-frederick-watts_may-prinsep-1867(1).jpg,george frederick watts,-82.08763212276017,0.3191253710983626
+Romanticism/john-constable_the-hay-wain-1821.jpg,john constable,-86.47025958057596,0.2568792992799013
+Romanticism/john-constable_golding-constable-s-kitchen-garden-1815.jpg,john constable,-94.86655835070897,0.13762740728463022
+Romanticism/karl-bryullov_confession-of-an-italian-woman-1830(1).jpg,karl bryullov,-74.3983279545117,0.42833588102596815
+Romanticism/ivan-aivazovsky_burning-ship-the-episode-of-the-russian-turkish-war.jpg,ivan aivazovsky,-77.16182193497202,0.3890862193941423
+Romanticism/theodore-chasseriau_macbeth-suivi-de-banco-rencontre-les-trois-sorci-res-sur-la-lande-1855.jpg,theodore chasseriau,-87.49258248924967,0.2423593370409304
+Romanticism/alphonse-mucha_portrait-of-milada-cerny.jpg,alphonse mucha,-87.24945518807056,0.24581245268808288
+Romanticism/william-turner_sun-rising-through-vagour-fishermen-cleaning-and-sellilng-fish.jpg,william turner,-89.66937929785816,0.21144248367225046
+Romanticism/ivan-aivazovsky_sailing-ship-1870.jpg,ivan aivazovsky,-104.55664218238822,0.0
+Romanticism/sir-lawrence-alma-tadema_venantius-fortunatus-reading-his-poems-to-radegonda-vi-1862.jpg,sir lawrence alma tadema,-71.49386522321903,0.4695877094111694
+Romanticism/jan-matejko_peter-the-hermit.jpg,jan matejko,-66.18347210384637,0.5450107552151752
+Romanticism/francisco-goya_they-sing-for-the-composer.jpg,francisco goya,-91.67633255062172,0.18293790336962182
+Romanticism/dante-gabriel-rossetti_desdemona-s-death-song.jpg,dante gabriel rossetti,-69.66506463879051,0.49556200305480824
+Rococo/joseph-wright_thomas-day.jpg,joseph wright,-78.87013146463535,0.36482324959004664
+Romanticism/karl-bodmer_mahsette-kuiuab-chief-of-the-cree-indians-plate-22-from-volume-1-of-travels-in-the-interior-of-1843.jpg,karl bodmer,-81.31217810883301,0.3301390761662536
+Romanticism/sir-lawrence-alma-tadema_bacchanale-1871.jpg,sir lawrence alma tadema,-77.15092007428419,0.3892410575613974
+Romanticism/thomas-moran_on-the-wissahickon-near-chestnut-hill-1870.jpg,thomas moran,-101.78151461849224,0.03941489239282754
+Romanticism/osman-hamdi_the-carpet-merchant.jpg,osman hamdi,-79.02487441783644,0.3626254490534807
+Romanticism/maxim-vorobiev_the-nevka-by-the-elagin-island-1829.jpg,maxim vorobiev,-83.55816179050936,0.29823956773247184
+Romanticism/ivan-aivazovsky_dejection-of-noah-from-mountain-ararat-1889.jpg,ivan aivazovsky,-87.09164314797799,0.24805384319548307
+Romanticism/richard-parkes-bonington_corso-sant-anastasia-verona-with-the-palace-of-prince-maffei-1826.jpg,richard parkes bonington,-86.72514789519063,0.25325914299468083
+Romanticism/ivan-aivazovsky_night-at-the-rodos-island-1850.jpg,ivan aivazovsky,-90.59801906087779,0.19825309490060997
+Romanticism/gustave-dore_the-inferno-canto-24.jpg,gustave dore,-85.63849754592925,0.2686927422071929
+Romanticism/william-turner_two-figures-on-a-beach-with-a-boat-1845.jpg,william turner,-78.69828639479388,0.3672639499831235
+Romanticism/caspar-david-friedrich_landscape-with-oak-trees-and-a-hunter.jpg,caspar david friedrich,-96.27439547521841,0.1176320205892288
+Symbolism/viktor-vasnetsov_judgement-day-1896.jpg,viktor vasnetsov,-77.7751411382107,0.3803753007637318
+Romanticism/edward-burne-jones_fatima-1862.jpg,edward burne jones,-83.63567424918047,0.29713866510825654
+Romanticism/caspar-david-friedrich_early-snow.jpg,caspar david friedrich,-81.0201102993559,0.3342872895427182
+Romanticism/richard-parkes-bonington_vessels-in-a-choppy-sea.jpg,richard parkes bonington,-91.72870080922698,0.18219412160456733
+Romanticism/william-turner_south-view-of-christ-church-from-the-meadows-1799.jpg,william turner,-99.96771168828575,0.06517617567434948
+Romanticism/caspar-david-friedrich_not-detected-1-1.jpg,caspar david friedrich,-86.05989276503995,0.26270770302118074
+Romanticism/gustave-dore_the-inferno-canto-32-1.jpg,gustave dore,-65.49323015934655,0.5548142007653618
+Romanticism/caspar-david-friedrich_morning-in-the-sudeten-mountains.jpg,caspar david friedrich,-85.56040671761998,0.26980185936444373
+Romanticism/ivan-aivazovsky_moonlit-night-beside-the-sea-1847.jpg,ivan aivazovsky,-69.09871620436549,0.5036057999923336
+Romanticism/francesco-hayez_thethys-immerses-achilles-in-the-waters-of-styx-1817.jpg,francesco hayez,-80.83495178063374,0.3369170796777719
+Romanticism/jean-leon-gerome_bisharin-warrior.jpg,jean leon gerome,-88.57219888052745,0.22702564051419963
+Romanticism/william-turner_heidelberg.jpg,william turner,-93.69938427099149,0.1542046779493262
+Romanticism/gustave-dore_don-quixote-5.jpg,gustave dore,-86.90953663886641,0.250640285906819
+Romanticism/konstantin-makovsky_self-portrait-1.jpg,konstantin makovsky,-92.73630547321531,0.1678832012986711
+Romanticism/sir-lawrence-alma-tadema_courtship.jpg,sir lawrence alma tadema,-74.20072281314764,0.431142449446268
+Romanticism/gustave-dore_the-true-cross.jpg,gustave dore,-88.49884892439478,0.22806742348144068
+Romanticism/eugene-delacroix_the-death-of-laras-1858(1).jpg,eugene delacroix,-66.56436149819523,0.5396010166910284
+Romanticism/dante-gabriel-rossetti_jane-burden-aged-18-1858.jpg,dante gabriel rossetti,-86.55143394358157,0.255726386950916
+Romanticism/jacek-malczewski_the-painter-boy-1890.jpg,jacek malczewski,-77.02756140908197,0.3909931098194357
+Romanticism/alfred-stevens_in-the-garden.jpg,alfred stevens,-70.91402940548082,0.47782306646609846
+Romanticism/paul-cezanne_luncheon-on-the-grass-1869.jpg,paul cezanne,-72.49332857834959,0.4553924193979994
+Romanticism/francisco-goya_twerp-1823.jpg,francisco goya,-73.5725181136803,0.44006478546869293
+Romanticism/jan-matejko_louis-of-anjou.jpg,jan matejko,-80.83807243073815,0.33687275735916533
+Romanticism/adolphe-joseph-thomas-monticelli_elegant-women-and-cupids.jpg,adolphe joseph thomas monticelli,-76.57328682629652,0.39744513171213314
+Romanticism/ford-madox-brown_at-the-grain-harvest.jpg,ford madox brown,-92.07937603870923,0.1772135122031499
+Romanticism/fyodor-bronnikov_italian-peasant-on-the-barrel.jpg,fyodor bronnikov,-73.80549649707129,0.4367558140071004
+Romanticism/konstantin-makovsky_young-italian-with-sour-oranges.jpg,konstantin makovsky,-75.13297166700454,0.41790180107530756
+Romanticism/dante-gabriel-rossetti_algernon-charles-swinburne-1862.jpg,dante gabriel rossetti,-87.0593091475739,0.24851308015566365
+Romanticism/karl-bryullov_ivan-riboper(1).jpg,karl bryullov,-74.82364645401928,0.42229511983399054
+Romanticism/taras-shevchenko_portrait-of-y-f-rudzinsky-1845.jpg,taras shevchenko,-86.16190742301302,0.2612587978181151
+Romanticism/mykola-pymonenko_easter-vigil.jpg,mykola pymonenko,-72.35299084143419,0.45738562391628396
+Romanticism/francisco-goya_the-blind-guitar-player.jpg,francisco goya,-79.00656516006902,0.3628854938291099
+Romanticism/francisco-goya_may-the-rope-break-1820.jpg,francisco goya,-81.53656364872812,0.32695214810408696
+Romanticism/thomas-cole_catskill-landscape-1846.jpg,thomas cole,-69.04555696036068,0.5043608160533581
+Romanticism/konstantin-makovsky_portrait-of-maria-feodorovna-dagmar-of-denmark.jpg,konstantin makovsky,-82.69269384638994,0.3105317327236258
+Romanticism/richard-parkes-bonington_les-salinieres-by-trouville-1826.jpg,richard parkes bonington,-89.32118644509573,0.2163878360957317
+Romanticism/ivan-aivazovsky_near-coast-of-yalta-1894.jpg,ivan aivazovsky,-92.83386841202831,0.1664975234707864
+Romanticism/william-turner_kidwelly-castle.jpg,william turner,-89.06227536258861,0.2200651273990555
+Romanticism/taras-shevchenko_mangyshlak-garden-1852-1.jpg,taras shevchenko,-69.21477488654008,0.5019574287503489
+Romanticism/jan-matejko_immigration-of-the-jews.jpg,jan matejko,-72.0485724872016,0.46170925099223525
+Romanticism/vasily-tropinin_portrait-of-the-dancer-t-s-karpakova-1818.jpg,vasily tropinin,-65.66656489908866,0.5523523427218769
+Romanticism/gheorghe-tattarescu_painter-s-wife-and-his-son.jpg,gheorghe tattarescu,-77.67796958377505,0.3817554197937731
+Romanticism/orest-kiprensky_portrait-of-m-m-cherkasov-1827.jpg,orest kiprensky,-101.67315871107544,0.04095386180328747
+Romanticism/dante-gabriel-rossetti_the-loving-cup-1867.jpg,dante gabriel rossetti,-82.11566466342451,0.31872722739204895
+Romanticism/francisco-goya_self-portrait-1799.jpg,francisco goya,-81.70526620980112,0.3245560804862972
+Romanticism/george-stubbs_two-bay-mares-and-a-grey-pony-in-a-landscape.jpg,george stubbs,-87.86898280170806,0.23701335655153402
+Romanticism/konstantin-makovsky_portrait-of-princess-s-stroganova.jpg,konstantin makovsky,-83.31751862244282,0.3016574014557966
+Romanticism/john-trumbull_the-death-of-general-montgomery-in-the-attack-on-quebec-1786.jpg,john trumbull,-74.42998892301506,0.42788620307860176
+Romanticism/ferdinand-georg-waldmã¼ller_mill-at-the-outlet-of-the-k-nigssee-1840.jpg,ferdinand georg waldmã¼ller,-88.49422376846609,0.22813311416377224
+Romanticism/cornelis-springer_along-the-canal-1862.jpg,cornelis springer,-84.46741313427228,0.28532555097205436
+Romanticism/franz-richard-unterberger_a-view-of-posilippo-naples.jpg,franz richard unterberger,-90.57027170993295,0.19864718808245324
+Romanticism/cornelis-springer_view-of-oudewater.jpg,cornelis springer,-78.67966072323948,0.3675284887559035
+Romanticism/orest-kiprensky_the-family-of-satyrs.jpg,orest kiprensky,-87.63215812827158,0.24037695653191135
+Romanticism/karl-bryullov_anatole-demidov(1).jpg,karl bryullov,-77.43424223328839,0.38521705788839616
+Romanticism/dante-gabriel-rossetti_may-morris-1872.jpg,dante gabriel rossetti,-75.55409575613997,0.4119206127244564
+Romanticism/francisco-goya_village-procession-1787.jpg,francisco goya,-73.75819858098008,0.4374275821439578
+Romanticism/david-wilkie_not-detected-277182(2).jpg,david wilkie,-84.53143971991994,0.2844161870147305
+Romanticism/gustave-dore_and-seems-a-moving-land-and-at-his-gills-draws-in-and-at-his-trunk-spouts-out-a-sea.jpg,gustave dore,-81.74411348034296,0.32400433612395446
+Romanticism/orest-kiprensky_portrait-of-ivan-alexeevich-gagarin-1811.jpg,orest kiprensky,-92.5663723851942,0.17029674598233596
+Romanticism/arthur-hughes_mariana-at-the-window-1867.jpg,arthur hughes,-86.65834119551631,0.25420799266668886
+Romanticism/gustave-dore_jacob-and-esau-meet.jpg,gustave dore,-92.14344217976989,0.17630358644377878
+Romanticism/anton-melbye_seascape-1843.jpg,anton melbye,-80.18365339248825,0.34616741332670065
+Romanticism/george-stubbs_marske-horse.jpg,george stubbs,-78.91430733334762,0.36419582361716285
+Romanticism/ivan-aivazovsky_sea-with-a-ship-1884.jpg,ivan aivazovsky,-96.55633606191434,0.11362764326605106
+Romanticism/george-frederick-watts_thames.jpg,george frederick watts,-96.09490988977032,0.12018123855258918
+Romanticism/thomas-cole_morning-mist-rising-in-plymouth-new-hampshire-1830.jpg,thomas cole,-93.22060922199663,0.1610046778059132
+Romanticism/george-frederick-watts_sir-galahad.jpg,george frederick watts,-75.53880588440316,0.41213777342620106
+Romanticism/francisco-goya_cardinal-luis-maria-de-borbon-y-vallabriga-1800.jpg,francisco goya,-80.656492285577,0.3394517241696687
+Romanticism/john-william-waterhouse_the-remorse-of-nero-after-the-murder-of-his-mother-1878.jpg,john william waterhouse,-81.53404135602105,0.3269879720052747
+Romanticism/paul-cezanne_portrait-of-a-man-1864.jpg,paul cezanne,-83.7477425867855,0.29554696837877564
+Romanticism/edward-burne-jones_the-dream-of-launcelot-at-the-chapel-of-the-san-graal-1896.jpg,edward burne jones,-76.92075106881592,0.3925101276757671
+Romanticism/ivan-aivazovsky_sea-2.jpg,ivan aivazovsky,-56.255720034917786,0.6860137435427267
+Romanticism/francisco-goya_naked-girl-looking-in-the-mirror.jpg,francisco goya,-72.37349543967116,0.45709439891330295
+Romanticism/gustave-dore_satan-in-council.jpg,gustave dore,-84.34040273177285,0.28712946853332727
+Romanticism/thomas-cole_sketch-for-dream-of-arcadia-1838.jpg,thomas cole,-100.50673437447318,0.05752048393254563
+Romanticism/miklos-barabas_the-artist-s-wife-1844.jpg,miklos barabas,-82.09493312305518,0.31902167563414974
+Romanticism/marcus-larson_stormy-sea-with-ship-wreck-1857.jpg,marcus larson,-87.66686780193072,0.23988397809370782
+Romanticism/camille-corot_odalisque.jpg,camille corot,-78.16243139944855,0.37487465129086595
+Romanticism/theodore-gericault_officer-of-chasseurs-of-the-imperial-guard.jpg,theodore gericault,-92.53221492645697,0.17078188136063555
+Romanticism/william-turner_venice-seen-from-the-giudecca-canal.jpg,william turner,-93.71161270313813,0.15403099860446892
+Romanticism/rudolf-von-alt_torquato-tassos-vaterhaus-in-sorrent-bei-neapel-1836.jpg,rudolf von alt,-86.76252764084438,0.25272824175908304
+Romanticism/franz-xaver-winterhalter_leonilla-wittgenstein.jpg,franz xaver winterhalter,-100.09073645950546,0.06342886568313957
+Romanticism/theodore-gericault_naked-man-reversed-on-the-ground.jpg,theodore gericault,-81.45679494770663,0.3280850959397042
+Romanticism/thomas-cole_the-voyage-of-life-manhood-1840-1.jpg,thomas cole,-84.35257406870565,0.286956600106764
+Romanticism/ferdinand-hodler_dream.jpg,ferdinand hodler,-100.65496929086807,0.05541511646959496
+Romanticism/sir-lawrence-alma-tadema_the-drawing-room-at-townshend-house-1885.jpg,sir lawrence alma tadema,-90.9260287840901,0.1935944016886612
+Romanticism/gustave-dore_don-quixote-3.jpg,gustave dore,-84.30820309817304,0.28758679709362
+Romanticism/jan-matejko_henry-the-bearded.jpg,jan matejko,-76.27861600217801,0.4016303154763099
+Romanticism/ivan-aivazovsky_sunset-at-the-crimean-coast-1856.jpg,ivan aivazovsky,-95.59274835885923,0.12731339455225488
+Romanticism/john-atkinson-grimshaw_forge-valley-scarborough.jpg,john atkinson grimshaw,-80.32288879286212,0.34418986519723604
+Romanticism/gustave-dore_the-heavenly-bands-down-from-a-sky-of-jasper-lighted-now-in-paradise.jpg,gustave dore,-78.22369706916015,0.37400450037943644
+Romanticism/francisco-goya_the-lineage-1799.jpg,francisco goya,-92.39427029661812,0.1727410967898657
+Romanticism/john-atkinson-grimshaw_under-the-moonbeams-1.jpg,john atkinson grimshaw,-88.01851323108852,0.23488958903174115
+Romanticism/alexander-ivanov_monticelli-near-tivoli-1843.jpg,alexander ivanov,-92.4944452437401,0.17131832083800022
+Romanticism/caspar-david-friedrich_wc-cdfriedrichdeinsbaum-0281029.jpg,caspar david friedrich,-92.84278564349486,0.16637087281758084
+Romanticism/fyodor-solntsev_from-portrait-of-margaret-alekseevny.jpg,fyodor solntsev,-79.68834455355693,0.3532022411456737
+Romanticism/ivan-aivazovsky_byron-in-venice.jpg,ivan aivazovsky,-100.10110483010371,0.06328160462864413
+Romanticism/gustave-dore_the-enchantment-of-don-quixote.jpg,gustave dore,-64.9467027479081,0.562576481458987
+Romanticism/gustave-dore_st-francis-of-assisi-1877.jpg,gustave dore,-81.71641430761606,0.3243977450348113
+Romanticism/rudolf-von-alt_the-office-of-count-lanckoronski-vienna-1881.jpg,rudolf von alt,-81.27390966028942,0.3306825995707304
+Romanticism/edwin-henry-landseer_the-sanctuary.jpg,edwin henry landseer,-79.01390750142669,0.3627812112014249
+Romanticism/konstantin-makovsky_still-life-palace-of-facets.jpg,konstantin makovsky,-77.39236391646921,0.3858118519340808
+Romanticism/thomas-moran_green-river-wyoming-1878.jpg,thomas moran,-92.24041191768045,0.17492633379607003
+Romanticism/caspar-david-friedrich_not-detected-2.jpg,caspar david friedrich,-64.06453752137898,0.5751057964817263
+Romanticism/edward-burne-jones_st-george-and-the-dragon-1868.jpg,edward burne jones,-72.59002523243512,0.4540190453358078
+Romanticism/william-turner_the-festival-of-the-opening-of-the-vintage-macon.jpg,william turner,-96.31378261210439,0.11707260855274462
+Romanticism/henry-raeburn_the-allen-brothers.jpg,henry raeburn,-71.11301760703981,0.4749968545636521
+Romanticism/ivan-aivazovsky_winter-scene-in-little-russia-1868.jpg,ivan aivazovsky,-81.69040513279212,0.32476715105428544
+Romanticism/william-turner_a-canal-tunnel-near-leeds.jpg,william turner,-64.14116891908184,0.5740174074888508
+Romanticism/francesco-hayez_portrait-of-antoniet-negroni-prati-morosini-as-child-1858.jpg,francesco hayez,-34.14854525704998,1.0
+Romanticism/karl-bryullov_portrait-of-the-shishmariov-sisters.jpg,karl bryullov,-71.733358232547,0.4661862112911175
+Romanticism/ivan-aivazovsky_in-harbour-1842.jpg,ivan aivazovsky,-98.52393037887028,0.08568207446247433
+Romanticism/george-frederick-watts_portrait-of-the-artist-s-wife-mary(1).jpg,george frederick watts,-59.6905216030795,0.63722955936283
+Romanticism/francesco-hayez_venetian-women-1853.jpg,francesco hayez,-75.34478152510479,0.41489348431417056
+Romanticism/richard-parkes-bonington_lake-brientz-and-interlaken-1826.jpg,richard parkes bonington,-76.54614648849068,0.39783060353982114
+Romanticism/orest-kiprensky_portrait-of-lieutenant-commander-nikolay-epanchin-1829.jpg,orest kiprensky,-84.51737215210929,0.2846159874414566
+Romanticism/ivan-aivazovsky_the-tempest-1899.jpg,ivan aivazovsky,-100.53851536183508,0.05706910136790112
+Romanticism/andrei-ryabushkin_they-are-coming-moscovites-watching-the-entry-of-a-foreign-embassy-into-moscow-at-the-end-of.jpg,andrei ryabushkin,-81.02114641501224,0.3342725736832989
+Romanticism/johan-christian-dahl_gewitterstimmung-bei-dresden-1830.jpg,johan christian dahl,-98.45015735715288,0.08672986619295713
+Romanticism/karl-bryullov_portrait-of-v-a-zhukovsky.jpg,karl bryullov,-90.75278304620241,0.19605499564664583
+Romanticism/paul-cezanne_portrait-of-an-old-man.jpg,paul cezanne,-72.59462974434476,0.4539536478586609
+Romanticism/n.c.-wyeth_launcelot-and-guenevere.jpg,n.c. wyeth,-75.42980066924343,0.41368596489735127
+Romanticism/gustave-dore_cover.jpg,gustave dore,-83.54143589095423,0.2984771242108533
+Romanticism/thomas-cole_sketch-for-the-oxbow-1836.jpg,thomas cole,-92.96732627143311,0.16460203324689468
+Romanticism/william-turner_sunrise-with-a-boat-between-headlands-1840.jpg,william turner,-87.86321231366519,0.2370953142850173
+Romanticism/ferdinand-georg-waldmã¼ller_tree-by-the-brook.jpg,ferdinand georg waldmã¼ller,-96.5864942417914,0.11319930929319787
+Romanticism/ivan-aivazovsky_sunset-over-the-golden-horn-1866.jpg,ivan aivazovsky,-92.6610391339471,0.16895220248681606
+Romanticism/konstantin-makovsky_portrait-of-artist-alexander-popov-1.jpg,konstantin makovsky,-75.68505182973693,0.4100606551440686
+Romanticism/orest-kiprensky_tiburtine-sibyl-1817.jpg,orest kiprensky,-93.13915906273188,0.1621615072448784
+Romanticism/dante-gabriel-rossetti_a-vision-of-fiammetta-1878.jpg,dante gabriel rossetti,-76.04315962311014,0.40497448169227157
+Romanticism/adolphe-joseph-thomas-monticelli_oriental-scene-1876.jpg,adolphe joseph thomas monticelli,-67.07644890166858,0.5323278843975029
+Romanticism/jan-matejko_the-constitution-of-the-3rd-may-1791-1891.jpg,jan matejko,-78.30149205717088,0.37289958501589215
+Romanticism/edward-burne-jones_annunciation-1860.jpg,edward burne jones,-84.07691685505065,0.2908717352359993
+Romanticism/ivan-aivazovsky_arrival-of-peter-i-on-the-neva-1853.jpg,ivan aivazovsky,-97.16944444961202,0.10491971883020346
+Romanticism/paul-cezanne_still-life-with-bread-and-eggs-1865.jpg,paul cezanne,-67.11864795951193,0.5317285348952986
+Romanticism/john-crome_the-river-wensum-norwich-1814.jpg,john crome,-97.08427788743462,0.10612933201244447
+Romanticism/rudolf-von-alt_perchtoldsdorf.jpg,rudolf von alt,-87.8135650632861,0.23780044980986648
+Romanticism/john-william-waterhouse_miss-betty-pollock-1911.jpg,john william waterhouse,-82.7238200457378,0.31008965005547956
+Romanticism/jan-matejko_battle-of-grunwald-witold-detail.jpg,jan matejko,-72.69752899081004,0.4524921789231434
+Romanticism/francesco-hayez_portrait-of-matilde-juva-branca-1851.jpg,francesco hayez,-92.25205918074991,0.1747609087444341
+Romanticism/orest-kiprensky_portrait-of-ekaterina-semenova-1815-1.jpg,orest kiprensky,-89.02347340096868,0.22061622824277055
+Romanticism/john-constable_view-on-the-stour.jpg,john constable,-86.85043227058713,0.25147974004434465
+Romanticism/edward-burne-jones_jesus-and-woman-at-the-well.jpg,edward burne jones,-78.30831802863021,0.3728026363443981
+Romanticism/sir-lawrence-alma-tadema_lady-laura-teresa-gathering.jpg,sir lawrence alma tadema,-65.35944084028446,0.5567143986815754
+Romanticism/rudolf-von-alt_the-courtyard-of-the-doge-s-palace-in-venice-1867.jpg,rudolf von alt,-88.02969120559018,0.23473082924430483
+Romanticism/francisco-goya_saturn-devouring-one-of-his-children-1823.jpg,francisco goya,-76.22610989962897,0.40237605502675855
+Romanticism/alexey-bogolyubov_capturing-of-swedish-44-gun-frigate-venus-by-russian-22-gun-cutter-merkuriy-of-june-1-1789-1845.jpg,alexey bogolyubov,-100.78603380223753,0.05355361875707418
+Romanticism/franz-xaver-winterhalter_princess-leonilla-of-sayn.jpg,franz xaver winterhalter,-72.66455434697998,0.45296051488548345
+Romanticism/johann-koler_eve-after-falling-into-sin-1883.jpg,johann koler,-81.75122149904017,0.32390338156037995
+Romanticism/caspar-david-friedrich_giant-mountains-landscape-with-rising-fog-1820.jpg,caspar david friedrich,-93.09063660144712,0.1628506674892778
+Romanticism/thomas-cole_a-view-of-the-mountain-pass-called-the-notch-of-the-white-mountains-crawford-notch-1839.jpg,thomas cole,-94.16755961976418,0.14755522470151086
+Romanticism/cornelis-springer_st-joseph-s-church-in-hamelen-1877.jpg,cornelis springer,-83.46029477403319,0.2996295643486274
+Romanticism/john-everett-millais_the-knight-errant.jpg,john everett millais,-74.97001166580455,0.42021630762095097
+Romanticism/gustave-dore_thais.jpg,gustave dore,-88.68598574460762,0.2254095357045379
+Romanticism/francesco-hayez_badende-1832.jpg,francesco hayez,-75.02454930819522,0.4194417142890434
+Romanticism/ivan-aivazovsky_strong-wind-1856.jpg,ivan aivazovsky,-70.96335076122912,0.47712255959398964
+Romanticism/caspar-david-friedrich_not-detected-5.jpg,caspar david friedrich,-79.71886644589537,0.3527687413967626
+Romanticism/thomas-cole_a-wild-scene-1832.jpg,thomas cole,-86.08022111062796,0.26241898131905084
+Romanticism/fyodor-bronnikov_portrait-of-the-artist-s-wife-1889.jpg,fyodor bronnikov,-99.92857871854564,0.0657319777972446
+Romanticism/ivan-aivazovsky_the-shipwreck-1875.jpg,ivan aivazovsky,-93.05253316369719,0.16339184725998415
+Romanticism/ivan-aivazovsky_sea-1881.jpg,ivan aivazovsky,-94.0216404794298,0.14962770140101753
+Romanticism/miklos-barabas_venice-at-dusk-1834.jpg,miklos barabas,-94.17265585949743,0.14748284325739014
+Romanticism/francisco-goya_woman-hitting-another-woman-with-a-shoe.jpg,francisco goya,-87.67848526258516,0.2397189763231479
+Romanticism/karl-bryullov_portrait-of-m-a-obolensky-1846.jpg,karl bryullov,-85.27685964489963,0.27382905346714803
+Romanticism/alexander-shilov_young-gypsy-1990(4).jpg,alexander shilov,-99.17173349122687,0.07648138390775676
+Romanticism/john-william-waterhouse_gather-ye-rosebuds-or-ophelia-1908.jpg,john william waterhouse,-81.1225230234181,0.33283273064204527
+Romanticism/edward-burne-jones_danae-and-the-brazen-tower-1888.jpg,edward burne jones,-75.15421419379469,0.41760009533807296
+Romanticism/francisco-goya_the-adoration-of-the-name-of-the-lord-1772.jpg,francisco goya,-70.95570470642343,0.4772311558370297
+Romanticism/francisco-goya_the-shipwreck-1794.jpg,francisco goya,-84.61683228244392,0.2832033639694701
+Romanticism/francisco-goya_triple-generation-1769.jpg,francisco goya,-74.3517125479534,0.4289979555400363
+Romanticism/gustave-dore_don-quixote-139.jpg,gustave dore,-77.97638807557063,0.3775170082356249
+Romanticism/ivan-aivazovsky_storm-at-sea-1873.jpg,ivan aivazovsky,-98.92314155442183,0.08001211329345018
+Romanticism/edward-burne-jones_the-wizard.jpg,edward burne jones,-74.91672830957722,0.4209730864369418
+Romanticism/william-holman-hunt_isabella-and-the-pot-of-basil-1867.jpg,william holman hunt,-76.07182943577784,0.4045672868678169
+Symbolism/louis-janmot_po-me-de-l-me-14-sur-la-montagne.jpg,louis janmot,-72.39750551702507,0.4567533858991411
+Romanticism/thomas-cole_the-course-of-empire-destruction-1836.jpg,thomas cole,-66.10014576568231,0.5461942318578178
+Romanticism/cornelis-springer_binnenpoort-in-culemborg.jpg,cornelis springer,-90.7162119449403,0.19657441177716406
+Romanticism/william-turner_giudecca-la-donna-della-salute-and-san-georgio.jpg,william turner,-78.21141735223542,0.37417890811748056
+Romanticism/dante-gabriel-rossetti_the-return-of-tibullus-to-delia-1868.jpg,dante gabriel rossetti,-79.53659191264182,0.3553575705401896
+Romanticism/gustave-dore_don-quixote-108.jpg,gustave dore,-94.72541812037691,0.1396320095462383
+Romanticism/cornelis-springer_study-for-view-on-den-haag.jpg,cornelis springer,-83.90731241168653,0.29328061220854373
+Romanticism/francesco-hayez_sicilian-evenings-painting-series-scene-1.jpg,francesco hayez,-76.62707348509848,0.3966812045339992
+Romanticism/gustave-dore_the-seventh-circle.jpg,gustave dore,-87.59291071867422,0.24093438403402073
+Romanticism/thomas-cole_landscape-with-dead-tree-1828.jpg,thomas cole,-92.40510220562398,0.17258725214018933
+Romanticism/konstantin-makovsky_portrait-of-the-woman-with-coral-beads.jpg,konstantin makovsky,-97.66138039424641,0.09793279593188897
+Romanticism/edwin-henry-landseer_decoyman-s-dog-and-duck.jpg,edwin henry landseer,-81.1442698457386,0.3325238624398047
+Romanticism/vasily-tropinin_portrait-of-a-p-i-sorokoumovskogo.jpg,vasily tropinin,-86.87033285358756,0.2511970938165745
+Romanticism/ivan-aivazovsky_vesuvius.jpg,ivan aivazovsky,-91.12494425411535,0.1907692227857832
+Romanticism/francisco-goya_portrait-thought-to-be-josepha-bayeu-or-leocadia-weiss.jpg,francisco goya,-95.89416800087436,0.12303235792184058
+Romanticism/vasily-tropinin_portrait-of-p-n-zubov-1839.jpg,vasily tropinin,-94.33053110960978,0.1452405549836456
+Romanticism/ivan-aivazovsky_the-battle-of-navarino-1846.jpg,ivan aivazovsky,-100.19641099059508,0.06192797962451371
+Romanticism/william-turner_one-bedroom.jpg,william turner,-70.69542260588018,0.4809279195887791
+Romanticism/gustave-dore_don-quixote-114.jpg,gustave dore,-88.95886123871718,0.22153390909302875
+Romanticism/william-turner_the-high-street-oxford-1835.jpg,william turner,-81.07317414200816,0.3335336284587022
+Romanticism/karl-bryullov_portrait-of-a-n-lvov(1).jpg,karl bryullov,-97.09902977696005,0.10591981222466962
+Romanticism/edwin-henry-landseer_queen-victoria-and-prince-albert-at-the-bal-costume.jpg,edwin henry landseer,-71.87038910267802,0.4642399739105457
+Romanticism/ivan-aivazovsky_capture-turkish-kocherma-1880.jpg,ivan aivazovsky,-87.3158892841467,0.24486889507216553
+Romanticism/thomas-cole_the-voyage-of-life-childhood-1.jpg,thomas cole,-89.98791930989329,0.20691828793418196
+Romanticism/henry-raeburn_john-playfair.jpg,henry raeburn,-67.16812540938031,0.5310258110321492
+Baroque/joseph-wright_samuel-crompton.jpg,joseph wright,-90.7004162547207,0.1967987565742739
+Romanticism/jan-matejko_augustus-ii-the-strong-1.jpg,jan matejko,-87.04903564941934,0.24865899374519662
+Romanticism/arthur-hughes_asleep-in-the-woods.jpg,arthur hughes,-76.56566000844086,0.39755345473446607
+Romanticism/henryk-siemiradzki_the-funeral-of-ruz-in-bulgar.jpg,henryk siemiradzki,-82.4201709505201,0.3144023514133885
+Romanticism/theodore-gericault_the-croups.jpg,theodore gericault,-81.0980963360728,0.33317966073122524
+Romanticism/francesco-hayez_laocoon-1812.jpg,francesco hayez,-75.72650503607194,0.40947189890515245
+Romanticism/william-turner_mountain-stream-coniston.jpg,william turner,-86.84255385460227,0.25159163649274907
+Romanticism/jean-leon-gerome_entry-of-the-christ-in-jerusalem.jpg,jean leon gerome,-65.44217843824764,0.5555392838641573
+Romanticism/john-atkinson-grimshaw_landscape-with-a-winding-river-1868.jpg,john atkinson grimshaw,-97.72580294273915,0.09701780814914776
+Romanticism/francisco-goya_ravages-of-war.jpg,francisco goya,-86.92499796464277,0.2504206900584502
+Romanticism/richard-parkes-bonington_the-norman-coast.jpg,richard parkes bonington,-78.54125276272336,0.3694942848299387
+Romanticism/francisco-goya_absurdity-of-carnival-1823.jpg,francisco goya,-90.63458656983131,0.19773372979133425
+Romanticism/francisco-goya_the-dog.jpg,francisco goya,-73.56533370729345,0.4401668249598963
+Romanticism/adolphe-joseph-thomas-monticelli_still-life-with-wild-and-garden-flowers.jpg,adolphe joseph thomas monticelli,-70.1287795906516,0.48897590043151445
+Romanticism/william-turner_boscastle-cornwall.jpg,william turner,-88.70563270565773,0.22513049164699225
+Romanticism/konstantin-makovsky_ophelia-2.jpg,konstantin makovsky,-75.8965506480872,0.40705675605310837
+Romanticism/edward-burne-jones_the-wedding-of-psyche-1895.jpg,edward burne jones,-68.05437514653602,0.5184384840646912
+Romanticism/jan-matejko_maria-puslowska.jpg,jan matejko,-65.27686223349681,0.5578872553613293
+Romanticism/konstantin-makovsky_portrait-of-the-artist-s-wife.jpg,konstantin makovsky,-89.42948401310026,0.21484969527480635
+Romanticism/john-constable_the-lock-1824.jpg,john constable,-70.93854859914659,0.47747482251779566
+Romanticism/ivan-aivazovsky_moonlit-view-of-the-bosphorus-1884.jpg,ivan aivazovsky,-95.59801539271008,0.12723858733432308
+Romanticism/gustave-courbet_self-portrait-with-a-black-dog-1841.jpg,gustave courbet,-75.66945605622884,0.41028216054173094
+Romanticism/john-atkinson-grimshaw_under-the-moonbeams-knostrop-hall.jpg,john atkinson grimshaw,-93.51473573099797,0.15682722490140932
+Romanticism/ivan-aivazovsky_constantinople-1856.jpg,ivan aivazovsky,-86.68949292759473,0.25376554735941903
+Romanticism/francisco-goya_nobody-knows-anybody-1799.jpg,francisco goya,-92.45724071272491,0.17184673351551719
+Romanticism/vasily-tropinin_portrait-of-a-a-sannikov-1823.jpg,vasily tropinin,-75.55389246151772,0.4119235001000727
+Romanticism/john-constable_study-for-poppies.jpg,john constable,-74.46020553038052,0.4274570392652764
+Romanticism/ivan-aivazovsky_morning-bay-1878.jpg,ivan aivazovsky,-97.04542172614235,0.10668120264933267
+Romanticism/ivan-aivazovsky_the-bay-of-naples-by-moonlight-1892.jpg,ivan aivazovsky,-94.22725019822443,0.14670744467241073
+Romanticism/ivan-aivazovsky_sorrento-sea-view-1842.jpg,ivan aivazovsky,-76.13948475891296,0.4036063842715309
+Romanticism/camille-corot_the-young-woman-of-albano.jpg,camille corot,-84.85408695293165,0.2798336567788423
+Romanticism/dante-gabriel-rossetti_regina-cordium-1860.jpg,dante gabriel rossetti,-87.07287933380623,0.2483203439956916
+Romanticism/eugene-delacroix_studies-of-antique-medallions(1).jpg,eugene delacroix,-68.74064348019591,0.5086914753593199
+Romanticism/pavel-svinyin_albany.jpg,pavel svinyin,-73.54029656640662,0.44052242526696567
+Romanticism/konstantin-makovsky_in-from-a-stroll.jpg,konstantin makovsky,-72.42519287672243,0.4563601447677024
+Romanticism/thomas-moran_cresheim-glen-wissahickon-autumn-1864-1.jpg,thomas moran,-92.97442363910442,0.16450122995890307
+Romanticism/francisco-goya_witches-ready-to-fly.jpg,francisco goya,-81.61421220901663,0.3258493124405858
+Romanticism/konstantin-makovsky_portrait-of-the-girl-1.jpg,konstantin makovsky,-89.10298555841237,0.21948692407299583
+Romanticism/orest-kiprensky_portrait-of-e-dumont-1816.jpg,orest kiprensky,-82.68378920027881,0.31065820462813665
+Romanticism/eugene-delacroix_monk-at-prayer-1821(1).jpg,eugene delacroix,-85.69392103391648,0.26790556728829124
+Romanticism/ivan-aivazovsky_pushkin-at-the-top-of-the-ai-petri-mountain-at-sunrise-1899.jpg,ivan aivazovsky,-80.0864917217392,0.3475473919796117
+Romanticism/edwin-henry-landseer_scene-in-the-olden-time-at-bolton-abbey.jpg,edwin henry landseer,-79.68208109352277,0.35329120051693474
+Romanticism/pierre-paul-prud'hon_lavinie-barbier-walbonne.jpg,pierre paul prud'hon,-92.34190222149338,0.17348487594896247
+Romanticism/dante-gabriel-rossetti_the-bower-meadow-1872-1.jpg,dante gabriel rossetti,-76.76495650477362,0.3947228641484984
+Romanticism/cornelis-springer_church-in-zaltbommel-1.jpg,cornelis springer,-85.29681766644634,0.2735455914447633
+Romanticism/sir-lawrence-alma-tadema_the-education-of-the-children-of-clovis-1861.jpg,sir lawrence alma tadema,-76.15633252109772,0.4033670969889527
+Romanticism/gustave-dore_the-lion.jpg,gustave dore,-98.56858533141249,0.08504784410414537
+Romanticism/dante-gabriel-rossetti_penelope-1869.jpg,dante gabriel rossetti,-75.5979844566108,0.4112972653768158
+Rococo/joseph-wright_brooke-boothby.jpg,joseph wright,-81.51087694853744,0.32731697404474425
+Romanticism/john-crome_mousehold-heath-norwich-1820.jpg,john crome,-93.66618699777402,0.15467617589724933
+Rococo/joseph-wright_susannah-hurt-with-her-daughter-mary-anne.jpg,joseph wright,-72.72344151428742,0.45212414563423275
+Romanticism/john-william-waterhouse_the-annunciation.jpg,john william waterhouse,-69.26844651541573,0.501195135332128
+Romanticism/gustave-dore_the-styx-phlegyas(1).jpg,gustave dore,-100.36890196603972,0.059478105491038075
+Romanticism/eugene-delacroix_battle-of-poitiers-1830(1).jpg,eugene delacroix,-85.2863311354378,0.2736945307211602
+Romanticism/osman-hamdi_girl-with-yellow-ribbon.jpg,osman hamdi,-89.1923390305367,0.2182178445775071
+Romanticism/thomas-cole_view-of-l-esperance-on-the-schoharie-river-1828.jpg,thomas cole,-93.53045576398148,0.15660395465736085
+Romanticism/gustave-dore_the-plague-of-jerusalem.jpg,gustave dore,-91.73906806599543,0.18204687636969838
+Romanticism/william-turner_scene-on-the-loire-1830.jpg,william turner,-66.49062976416307,0.5406482220161537
+Romanticism/konstantin-makovsky_priest-and-boyarynia.jpg,konstantin makovsky,-79.74718706906043,0.3523665060800619
+Romanticism/orest-kiprensky_portrait-of-p-basin-1829.jpg,orest kiprensky,-92.04232219228436,0.17773978472070082
+Romanticism/gustave-dore_venus.jpg,gustave dore,-90.10516378449482,0.2052530749867867
+Romanticism/sir-lawrence-alma-tadema_lrs-alma-tedemalawer-caracalla-geta-1909.jpg,sir lawrence alma tadema,-68.94399166894617,0.505803338942767
+Romanticism/vasily-tropinin_self-portrait-with-brushes-and-a-palette-against-a-window-facing-the-kremlin-1844.jpg,vasily tropinin,-71.63571989445214,0.46757296000836235
+Romanticism/gustave-dore_the-suicides-ii(1).jpg,gustave dore,-88.9490725550176,0.22167293690555384
+Romanticism/ivan-aivazovsky_katolikos-hrimyan-near-emiadzin-1895.jpg,ivan aivazovsky,-72.33706637686157,0.4576117976841889
+Impressionism/alfred-stevens_young-woman-with-the-red-umbrella-by-the-sea.jpg,alfred stevens,-64.34469501679712,0.5711267442469354
+Romanticism/joseph-wright_an-open-hearth-with-a-fire.jpg,joseph wright,-63.36381188425899,0.5850581409949298
+Romanticism/adolphe-joseph-thomas-monticelli_roasting-two-pheasants.jpg,adolphe joseph thomas monticelli,-68.1829016872802,0.5166130329254498
+Romanticism/eugene-delacroix_the-battle-of-taillebourg-draft-1835(1).jpg,eugene delacroix,-74.6325668671687,0.4250090063782214
+Romanticism/karl-bryullov_portrait-of-a-a-abaz(1).jpg,karl bryullov,-90.84765341202161,0.19470756019586513
+Romanticism/ivan-aivazovsky_moon-night-1885.jpg,ivan aivazovsky,-79.58319021715766,0.3546957389249245
+Romanticism/alfred-stevens_preparing-for-the-ball.jpg,alfred stevens,-76.80086391160216,0.39421287441157055
+Romanticism/gustave-moreau_degas-portrait-in-the-uffizi-1859.jpg,gustave moreau,-84.87021602778515,0.27960457694913754
+Romanticism/sir-lawrence-alma-tadema_a-pyrrhic-dance-1869.jpg,sir lawrence alma tadema,-77.17862488618334,0.3888475685578736
+Romanticism/john-constable_stour-valley-and-dedham-village.jpg,john constable,-82.85501630608142,0.3082262811238814
+Romanticism/orest-kiprensky_sitter-1.jpg,orest kiprensky,-83.28558447418162,0.30211095935120547
+Romanticism/john-atkinson-grimshaw_in-peril-the-harbour-flare-1879.jpg,john atkinson grimshaw,-80.01030985784661,0.34862939628336914
+Romanticism/william-shayer_harvest-time.jpg,william shayer,-87.45337071971053,0.24291625835043146
+Romanticism/gustave-dore_the-return.jpg,gustave dore,-91.3143549049847,0.18807903999231554
+Romanticism/eugene-delacroix_ceres-1853(1).jpg,eugene delacroix,-75.81361523719681,0.40823468039011085
+Romanticism/gustave-dore_the-arrival-at-calvary.jpg,gustave dore,-96.18287792720069,0.11893183626404764
+Romanticism/gustave-moreau_alice-1855.jpg,gustave moreau,-79.63203764438234,0.35400196321789934
+Romanticism/thomas-moran_tower-falls-yellowstone-1876.jpg,thomas moran,-86.01850554132703,0.2632955221147263
+Romanticism/viktor-vasnetsov_guslars-1899.jpg,viktor vasnetsov,-68.79917513224498,0.5078601554599745
+Romanticism/john-constable_flatford-mill-1817.jpg,john constable,-83.42639007341606,0.30011110982560685
+Romanticism/gustave-dore_don-quixote-76.jpg,gustave dore,-87.25813399825313,0.24568918831137668
+Romanticism/vasily-polenov_old-gates-normandy-1874.jpg,vasily polenov,-81.69654906016756,0.3246798893948495
+Romanticism/gustave-dore_saul-and-the-witch-of-endor-1866.jpg,gustave dore,-98.01948304317773,0.09284669554614698
+Romanticism/gustave-dore_the-inferno-canto-22.jpg,gustave dore,-68.04154478723845,0.5186207125278631
+Romanticism/karl-bodmer_the-delaware-water-gap.jpg,karl bodmer,-87.30351384793804,0.2450446623027696
+Romanticism/maxim-vorobiev_visiting-two-arabian-sheikhs.jpg,maxim vorobiev,-75.00570259088715,0.4197093925551958
+Romanticism/john-everett-millais_the-matyr-of-the-solway.jpg,john everett millais,-77.25806215132762,0.38771932807683185
+Romanticism/gustave-dore_the-emperor-alexius-iv-poisoned-and-strangled-by-mourzoufle.jpg,gustave dore,-86.3800211796442,0.25816094734130884
+Romanticism/alphonse-mucha_daughter.jpg,alphonse mucha,-89.88111778766908,0.2084351805486416
+Romanticism/thomas-cole_view-of-boston.jpg,thomas cole,-98.58196420153998,0.08485782518996184
+Romanticism/pavel-svinyin_the-road-in-the-mountains.jpg,pavel svinyin,-88.68938481266204,0.22536125904030674
+Romanticism/ivan-aivazovsky_chumaks-leisure-1885.jpg,ivan aivazovsky,-86.79319795079951,0.25229263404783286
+Romanticism/andrei-ryabushkin_ivan-the-terrible.jpg,andrei ryabushkin,-77.1793603203544,0.38883712325110953
+Romanticism/louis-janmot_portrait-de-l-artiste-1832.jpg,louis janmot,-90.22468640819173,0.2035555056884196
+Romanticism/ivan-aivazovsky_view-of-sudak-bay-1879.jpg,ivan aivazovsky,-87.4439494005838,0.243050068516281
+Romanticism/dante-gabriel-rossetti_annie-miller-1877-1.jpg,dante gabriel rossetti,-74.20683609714396,0.4310556230120468
+Romanticism/william-shayer_near-the-new-forest.jpg,william shayer,-83.25878502087764,0.3024915896263342
+Romanticism/sir-lawrence-alma-tadema_portrait-of-a-woman-1902.jpg,sir lawrence alma tadema,-75.41558789274251,0.4138878277103172
+Romanticism/taras-shevchenko_portrait-of-e-v-keykuatova-1847.jpg,taras shevchenko,-97.82616810588182,0.09559233057589227
+Romanticism/vasily-tropinin_boy-with-a-dead-goldfinch-1829.jpg,vasily tropinin,-84.11100154143716,0.29038763343698815
+Romanticism/john-constable_a-boat-at-the-sluice.jpg,john constable,-74.57089033946727,0.42588499266949753
+Romanticism/gustave-dore_rizpah-s-kindness-toward-the-dead.jpg,gustave dore,-95.6593220849373,0.12636785378371698
+Romanticism/dante-gabriel-rossetti_miss-robinson-mrs-fernandez-1866.jpg,dante gabriel rossetti,-84.23236028227973,0.2886639859285026
+Romanticism/gustave-dore_don-quixote-84.jpg,gustave dore,-84.19520687791059,0.28919167245876826
+Romanticism/konstantin-makovsky_boyaryshnya-8.jpg,konstantin makovsky,-78.24846696940854,0.37365269566761966
+Romanticism/fyodor-bronnikov_before-entering-the-arena-1873.jpg,fyodor bronnikov,-79.978587729627,0.3490799428767993
+Romanticism/arnold-bã¶cklin_campagna-landscape-1858.jpg,arnold bã¶cklin,-90.98872095304965,0.19270399033404048
+Romanticism/arnold-bã¶cklin_portrait-of-alexander-michelis-1846.jpg,arnold bã¶cklin,-100.72510669944792,0.05441896103232717
+Romanticism/jehan-georges-vibert_preparations-for-the-procession.jpg,jehan georges vibert,-71.54351162268333,0.468882585971788
+Romanticism/john-constable_the-cornfield-1826.jpg,john constable,-86.32437377621245,0.2589513025115495
+Romanticism/rudolf-von-alt_the-large-market-in-vienna-1845.jpg,rudolf von alt,-83.20149986458362,0.30330520565624564
+Romanticism/konstantin-makovsky_portrait-6.jpg,konstantin makovsky,-79.47047134351324,0.3562966751604821
+Romanticism/gustave-dore_the-styx-philippo-argenti.jpg,gustave dore,-97.96577105038058,0.09360956224959026
+Romanticism/jan-matejko_gryfino-and-leszek.jpg,jan matejko,-73.18779729479147,0.4455289413781589
+Romanticism/dante-gabriel-rossetti_portrait-of-elizabeth-siddal-1855.jpg,dante gabriel rossetti,-82.12423689507995,0.31860547674077766
+Cubism/salvador-dali_venus-and-sailor-homage-to-salvat-papasseit-1925.jpg,salvador dali,-77.18462480017585,0.38876235230783246
+Cubism/willi-baumeister_depiction-of-apollo-1921.jpg,willi baumeister,-91.43079801708399,0.18642520872596605
+Cubism/marc-chagall_marketplace-in-vitebsk-1917.jpg,marc chagall,-81.8292876943225,0.3227946142638414
+Cubism/man-ray_still-life-with-red-tea-kettle.jpg,man ray,-79.21004368166503,0.35999550630662674
+Cubism/pablo-picasso_girl-in-chair-1952.jpg,pablo picasso,-79.68884985475405,0.35319506439727133
+Cubism/amedee-ozenfant_still-life-1921.jpg,amedee ozenfant,-85.95003848601333,0.26426795367165795
+Cubism/andre-masson_removal.jpg,andre masson,-88.47261193515135,0.2284400651290519
+Cubism/fernand-leger_still-life-1922.jpg,fernand leger,-89.55620650954899,0.21304986681781654
+Cubism/nikos-hadjikyriakos-ghikas_stage-design-for-don-juan-by-andr-obey-1939.jpg,nikos hadjikyriakos ghikas,-84.29257225407042,0.28780880059584774
+Cubism/david-bomberg_in-the-hold-1914.jpg,david bomberg,-92.93594964403358,0.16504767272260434
+Cubism/roger-de-la-fresnaye_standing-nude-from-the-front.jpg,roger de la fresnaye,-76.12688460286503,0.4037853431782215
+Cubism/louis-marcoussis_still-life.jpg,louis marcoussis,-89.2467199917569,0.2174454765744652
+Cubism/otto-dix_warrior-with-a-pipe.jpg,otto dix,-88.72059288054982,0.2249180136004979
+Cubism/roger-de-la-fresnaye_castor-and-pollux-1922.jpg,roger de la fresnaye,-82.95238821628847,0.3068433164584637
+Cubism/fernand-leger_chimneys-on-rooftops-1911.jpg,fernand leger,-70.1594178688966,0.4885407476638224
+Cubism/georges-braque_a-house-at-estaque-1908.jpg,georges braque,-82.7401227475258,0.3098581042177147
+Cubism/conrad-marca-relli_la-citt-1951.jpg,conrad marca relli,-84.45626536351458,0.28548388177837514
+Cubism/georges-braque_big-nude-1908.jpg,georges braque,-86.31567427237825,0.2590748607983675
+Cubism/ernst-ludwig-kirchner_two-seated-woman-and-a-striding-man.jpg,ernst ludwig kirchner,-90.74490755381562,0.1961668505714443
+Cubism/jean-david_houses-in-flames.jpg,jean david,-68.97816712772524,0.5053179479114582
+Cubism/rene-magritte_landscape-1920(1).jpg,rene magritte,-92.41935744475848,0.17238478623417833
+Cubism/amadeo-de-souza-cardoso_cash-register-1917.jpg,amadeo de souza cardoso,-90.61859856351792,0.19796080603698746
+Cubism/pablo-picasso_child-with-flower-1945.jpg,pablo picasso,-77.78697018519249,0.38020729385119834
+Cubism/auguste-herbin_head-1918.jpg,auguste herbin,-93.67798201404388,0.15450865231992034
+Cubism/pablo-picasso_artist-s-studio-1916.jpg,pablo picasso,-87.1129391274127,0.2477513782750451
+Expressionism/amedeo-modigliani_the-zouave-1918.jpg,amedeo modigliani,-81.22303517522579,0.3314051654017253
+Expressionism/jean-david_untitled.jpg,jean david,-79.18522587194413,0.3603479914724624
+Expressionism/jean-helion_la-citrouille-et-son-reflet-1958.jpg,jean helion,-79.62669452955492,0.35407785100724093
+Expressionism/pyotr-konchalovsky_gurzuf-cypresses-1929.jpg,pyotr konchalovsky,-79.04045755243104,0.36240412316519377
+Expressionism/paul-klee_in-the-style-of-kairouan-1914.jpg,paul klee,-90.48174111246709,0.19990458036163586
+Expressionism/egon-schiele_double-self-portrait-1915.jpg,egon schiele,-77.61616162837534,0.3826332727410734
+Expressionism/zinaida-serebriakova_marrakech-the-walls-and-towers-of-the-city-1928.jpg,zinaida serebriakova,-78.42246560320864,0.37118140839529634
+Expressionism/otto-dix_totentanz-anno-17-hohe-toter-mann.jpg,otto dix,-91.78664079276962,0.18137120512091234
+Expressionism/m.c.-escher_not_detected_204723.jpg,m.c. escher,-87.27424620215471,0.24546034809831607
+Expressionism/ernst-ludwig-kirchner_english-dancers.jpg,ernst ludwig kirchner,-85.51744947511611,0.2704119772966104
+Expressionism/frantisek-kupka_prometheus-in-chains-1905-5.jpg,frantisek kupka,-89.46776333474929,0.21430601744057062
+Expressionism/egon-schiele_church-in-stein-on-the-danube-1913.jpg,egon schiele,-84.14416423836273,0.2899166265730938
+Expressionism/lovis-corinth_armor-in-the-studio-1918.jpg,lovis corinth,-63.68140365495766,0.5805474130450542
+Expressionism/saul-steinberg_i-do-i-have-i-am-1971.jpg,saul steinberg,-87.15365781569896,0.24717305433128847
+Expressionism/balthus_the-cherry-tree.jpg,balthus,-73.96300763844872,0.4345186971376521
+Expressionism/august-macke_self-portrait.jpg,august macke,-99.70423208548196,0.06891835326911079
+Expressionism/ernst-ludwig-kirchner_female-nude-kneeling-before-a-red-screen.jpg,ernst ludwig kirchner,-83.2848020419192,0.3021220721677221
+Expressionism/edvard-munch_awakening-men-1916.jpg,edvard munch,-81.22022825908506,0.3314450317844754
+Expressionism/arturo-souto_pair-1951.jpg,arturo souto,-86.02893347296633,0.26314741512001005
+Expressionism/zinaida-serebriakova_dancer-1924.jpg,zinaida serebriakova,-58.6661968834465,0.6517779531465622
+Expressionism/jack-bush_nude-1954.jpg,jack bush,-84.3981676572558,0.2863090383838773
+Expressionism/horia-bernea_the-column(1).jpg,horia bernea,-88.41010776739894,0.2293278063190842
+Expressionism/salvador-dali_velazquez-dying-behind-the-window-on-the-left-side-out-of-which-a-spoon-projects.jpg,salvador dali,-82.11909827546508,0.31867846010262474
+Expressionism/amedeo-modigliani_portrait-of-juan-gris-1915.jpg,amedeo modigliani,-83.92135824948626,0.2930811204112491
+Expressionism/tivadar-kosztka-csontvary_sunset-over-the-bay-of-naples-1901.jpg,tivadar kosztka csontvary,-92.17687067265453,0.17582880450328567
+Abstract_Expressionism/aaron-siskind_chicago-1951.jpg,aaron siskind,-71.41868808414343,0.4706554436968344
+Abstract_Expressionism/john-mccracken_untitled-december-6-1973-1973.jpg,john mccracken,-83.61024102445396,0.29749989095921914
+Abstract_Expressionism/geta-bratescu_medeic-callisthetic-moves-iv-1981.jpg,geta bratescu,-74.90843648875301,0.42109085443787225
+Abstract_Expressionism/jackson-pollock_easter-and-the-totem(1).jpg,jackson pollock,-82.76822993874765,0.30945890025610706
+Abstract_Expressionism/richard-pousette-dart_light-gathers-to-the-question-of-no-1979.jpg,richard pousette dart,-89.16152607351172,0.21865547829252785
+Abstract_Expressionism/theodoros-stamos_high-snow-low-sun-1960.jpg,theodoros stamos,-79.3198144455079,0.3584364418149493
+Abstract_Expressionism/paul-jenkins_phenomena-sung-mantle.jpg,paul jenkins,-79.01909091156934,0.3627075916836563
+Abstract_Expressionism/sam-gilliam_lattice-1981.jpg,sam gilliam,-87.00523040505043,0.24928115577317136
+Abstract_Expressionism/norman-bluhm_gronk-1964.jpg,norman bluhm,-71.97975959564083,0.4626865944309272
+Abstract_Expressionism/esteban-vicente_blue-red-black-and-white-1961.jpg,esteban vicente,-70.03108293240184,0.4903634774647832
+Abstract_Expressionism/frank-stella_the-mat-maker-1990.jpg,frank stella,-80.91864002320862,0.3357284629386542
+Abstract_Expressionism/brice-marden_han-shan-exit-1992.jpg,brice marden,-92.29059440474555,0.174213596351706
+Abstract_Expressionism/philip-guston_drawing-related-to-zone-drawing-no-19.jpg,philip guston,-70.28797861916237,0.48671481064975847
+Abstract_Expressionism/basil-beattie_the-difference-between-ii-2005.jpg,basil beattie,-81.16496563347867,0.3322299219891487
+Abstract_Expressionism/richard-pousette-dart_circle-by-the-falling-waters-1980.jpg,richard pousette dart,-87.03183653677283,0.24890327122744055
+Abstract_Expressionism/joan-mitchell_untitled-1992.jpg,joan mitchell,-86.32577137860049,0.2589314524879149
+Abstract_Expressionism/mark-tobey_electric-night-1944.jpg,mark tobey,-79.11412811920435,0.3613577865932589
+Abstract_Expressionism/louise-nevelson_sky-hook-maquette-1977.jpg,louise nevelson,-86.54171894657519,0.25586436819782693
+Abstract_Expressionism/sam-francis_damn-braces-1960.jpg,sam francis,-83.78624252923152,0.2950001570867898
+Abstract_Expressionism/dan-christensen_torodoro-2004.jpg,dan christensen,-72.34145769084934,0.45754942823835054
+Abstract_Expressionism/forrest-bess_burning-bush-1953.jpg,forrest bess,-81.71772436192208,0.32437913844887545
+Abstract_Expressionism/kenzo-okada_the-cliff.jpg,kenzo okada,-70.67521543019085,0.48121492032550917
+Abstract_Expressionism/sam-francis_around-the-blues-1962.jpg,sam francis,-77.39016674983559,0.38584305809828023
+Abstract_Expressionism/terry-frost_the-spinster-at-mass-1989.jpg,terry frost,-90.64095822875679,0.19764323368074868
+Abstract_Expressionism/blinky-palermo_komposition-blau-rot-auf-weiss-1965.jpg,blinky palermo,-87.21326579974141,0.24632644738343057

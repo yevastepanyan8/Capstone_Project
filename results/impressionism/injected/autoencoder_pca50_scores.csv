@@ -1,0 +1,1576 @@
+filename,artist,ae_recon_error,ae_anomaly_score
+Impressionism/claude-monet_water-lily-pond-at-giverny-1919.jpg,claude monet,0.0031777534,0.21012479
+Impressionism/claude-monet_dandelions.jpg,claude monet,0.008609105,0.89861995
+Impressionism/claude-monet_the-tea-set.jpg,claude monet,0.0027374018,0.15430443
+Impressionism/edgar-degas_seated-bather-1899.jpg,edgar degas,0.0027490202,0.15577723
+Impressionism/victor-brauner_theo-brauner.jpg,victor brauner,0.0036603557,0.27130097
+Impressionism/claude-monet_cliffs-near-pourville.jpg,claude monet,0.0027897775,0.16094375
+Impressionism/cornelis-vreedenburgh_view-on-the-amstel.jpg,cornelis vreedenburgh,0.0033316088,0.229628
+Impressionism/edouard-manet_lady-in-a-fur.jpg,edouard manet,0.0026106548,0.1382376
+Impressionism/claude-monet_zuiderkerk-in-amsterdam.jpg,claude monet,0.0029912929,0.18648846
+Impressionism/william-merritt-chase_sunlight-and-shadow-shinnecock-hills.jpg,william merritt chase,0.002939,0.17985967
+Impressionism/pierre-auguste-renoir_the-swimmer-sitting.jpg,pierre auguste renoir,0.0025727362,0.13343091
+Impressionism/guy-rose_the-bridge-at-vernon.jpg,guy rose,0.0040902216,0.32579213
+Impressionism/santiago-rusinol_la-butte.jpg,santiago rusinol,0.005135932,0.45834965
+Impressionism/edgar-degas_the-tub-1886-1.jpg,edgar degas,0.0058364742,0.5471526
+Impressionism/childe-hassam_lady-in-the-park-aka-in-the-garden.jpg,childe hassam,0.0053543514,0.48603716
+Impressionism/camille-pissarro_pink-peonies-1873.jpg,camille pissarro,0.004660478,0.3980796
+Impressionism/wilhelm-leibl_m-dchen-am-fenster-1899.jpg,wilhelm leibl,0.002799179,0.16213551
+Impressionism/nicolae-vermont_reading-1919.jpg,nicolae vermont,0.0019136838,0.04988737
+Impressionism/max-slevogt_the-dancer-marietta-di-rigardo.jpg,max slevogt,0.0032824632,0.22339813
+Impressionism/zinaida-serebriakova_in-the-studio-braz-france-1906.jpg,zinaida serebriakova,0.002224281,0.08925964
+Impressionism/pierre-auguste-renoir_wilhelm-muhlfeld-1910.jpg,pierre auguste renoir,0.0029305413,0.17878741
+Impressionism/robert-julian-onderdonk_hudson-river-view-1912.jpg,robert julian onderdonk,0.0024912348,0.12309954
+Impressionism/giuseppe-de-nittis_breakfast-in-the-garden-1883.jpg,giuseppe de nittis,0.003943068,0.30713847
+Impressionism/camille-pissarro_old-wingrower-in-moret-1902.jpg,camille pissarro,0.0027183446,0.15188868
+Impressionism/pierre-auguste-renoir_algerian-woman-seated-1882.jpg,pierre auguste renoir,0.0023331959,0.103066035
+Impressionism/pierre-auguste-renoir_roses-in-a-vase-1917.jpg,pierre auguste renoir,0.0038014012,0.28918034
+Impressionism/eugene-boudin_laundresses-on-the-banks-of-the-touques-1.jpg,eugene boudin,0.0035841712,0.2616436
+Impressionism/alfred-sisley_the-island-of-saint-denis-1872.jpg,alfred sisley,0.0040710107,0.3233569
+Impressionism/nicolae-vermont_summer-day-1895.jpg,nicolae vermont,0.003091447,0.19918433
+Impressionism/pierre-auguste-renoir_girl-and-cat-1882.jpg,pierre auguste renoir,0.0036094468,0.2648476
+Impressionism/pierre-auguste-renoir_marie-louise-durand-ruel-1898.jpg,pierre auguste renoir,0.003306365,0.22642802
+Impressionism/john-henry-twachtman_the-portico.jpg,john henry twachtman,0.004035526,0.31885874
+Impressionism/camille-pissarro_the-pont-neuf-afternoon-1901.jpg,camille pissarro,0.0022786858,0.096156165
+Impressionism/childe-hassam_home-sweet-home-cottage.jpg,childe hassam,0.0035341189,0.2552988
+Impressionism/berthe-morisot_the-violin.jpg,berthe morisot,0.004568107,0.38637036
+Impressionism/pierre-auguste-renoir_nude-arranging-her-hair-1885.jpg,pierre auguste renoir,0.0026470008,0.14284493
+Impressionism/valentin-serov_portrait-of-yevdokia-morozova-detail-1908.jpg,valentin serov,0.001966762,0.05661571
+Impressionism/edgar-degas_alexander-and-bucephalus-detail-1861-1.jpg,edgar degas,0.0030919025,0.19924206
+Impressionism/arthur-verona_neagoe-basarab-study.jpg,arthur verona,0.003130136,0.20408867
+Impressionism/edgar-degas_dancer-seated-study-1872.jpg,edgar degas,0.0031113562,0.20170808
+Impressionism/claude-monet_boats-in-the-port-of-honfleur-1.jpg,claude monet,0.0040556365,0.321408
+Impressionism/lovis-corinth_red-and-yellow-tulips-1918.jpg,lovis corinth,0.0035040295,0.25148457
+Impressionism/istvan-nagy_little-girl-with-yellow-babushka-1917.jpg,istvan nagy,0.0040170047,0.31651092
+Impressionism/pierre-auguste-renoir_portrait-of-stephane-mallarme-1892.jpg,pierre auguste renoir,0.0035529258,0.25768283
+Impressionism/camille-pissarro_laundry-and-mill-at-osny-1884.jpg,camille pissarro,0.0039182394,0.3039911
+Impressionism/alfred-sisley_the-moret-bridge-and-mills-under-snow-1890.jpg,alfred sisley,0.0027596287,0.157122
+Impressionism/claude-monet_customs-house-at-varengaville.jpg,claude monet,0.0062892335,0.6045458
+Impressionism/pierre-auguste-renoir_young-girls-by-the-water.jpg,pierre auguste renoir,0.0026536572,0.14368872
+Impressionism/claude-monet_river-thawing-near-vetheuil.jpg,claude monet,0.003109549,0.20147899
+Impressionism/claude-monet_the-manneport.jpg,claude monet,0.0035320837,0.25504082
+Impressionism/valentin-serov_mika-morozov-1901.jpg,valentin serov,0.0027370227,0.15425639
+Impressionism/pierre-auguste-renoir_young-girl-reading-1904.jpg,pierre auguste renoir,0.003386322,0.2365636
+Impressionism/camille-pissarro_road-at-eragny-winter-1885.jpg,camille pissarro,0.0029396946,0.1799477
+Impressionism/childe-hassam_flower-store-and-dairy-store.jpg,childe hassam,0.0043183295,0.3547078
+Impressionism/willard-metcalf_gloucester-harbour-sun.jpg,willard metcalf,0.003742246,0.28168163
+Impressionism/alfred-sisley_a-ponte.jpg,alfred sisley,0.0035200417,0.25351432
+Impressionism/gustave-caillebotte_the-park-at-yerres.jpg,gustave caillebotte,0.0030797713,0.19770427
+Impressionism/giovanni-boldini_portrait-of-sarah-bernhardt-1.jpg,giovanni boldini,0.003254912,0.21990567
+Impressionism/nikolay-bogdanov-belsky_three-boys-in-the-wood.jpg,nikolay bogdanov belsky,0.005129908,0.45758605
+Impressionism/henri-martin_young-peasant-girl-and-her-dog.jpg,henri martin,0.005286421,0.47742614
+Impressionism/eugene-boudin_trouville-beach-scene-1873.jpg,eugene boudin,0.0024791257,0.12156456
+Impressionism/zinaida-serebriakova_green-autumn-1908.jpg,zinaida serebriakova,0.005710981,0.53124464
+Impressionism/mary-cassatt_a-kiss-for-baby-anne-no-3-1897.jpg,mary cassatt,0.0039054907,0.30237505
+Impressionism/john-singer-sargent_venice-sailing-boat.jpg,john singer sargent,0.0030348282,0.19200715
+Impressionism/william-merritt-chase_dorothy-1.jpg,william merritt chase,0.0031693054,0.2090539
+Impressionism/lucian-grigorescu_prim-var-la-balcic-1936.jpg,lucian grigorescu,0.003147647,0.20630841
+Impressionism/camille-pissarro_lovers-seated-at-the-foot-of-a-willow-tree-1901.jpg,camille pissarro,0.005876115,0.5521776
+Impressionism/pierre-auguste-renoir_seated-bather-in-a-landscape-1900.jpg,pierre auguste renoir,0.003807648,0.28997222
+Impressionism/camille-pissarro_marketplace-gisors-1891.jpg,camille pissarro,0.0044838907,0.37569487
+Impressionism/konstantin-makovsky_portrait-of-the-girl.jpg,konstantin makovsky,0.003860873,0.29671916
+Impressionism/edgar-degas_after-the-bath-7.jpg,edgar degas,0.0028874734,0.173328
+Impressionism/mary-cassatt_a-woman-and-child-in-the-driving-seat-1881.jpg,mary cassatt,0.0039571123,0.30891877
+Impressionism/claude-monet_boats-at-rouen.jpg,claude monet,0.0042691124,0.34846887
+Impressionism/childe-hassam_seascape.jpg,childe hassam,0.003090674,0.19908634
+Impressionism/alfred-sisley_the-banks-of-the-loing-1892.jpg,alfred sisley,0.0028168592,0.1643767
+Impressionism/william-merritt-chase_landscape-a-shinnecock-vale.jpg,william merritt chase,0.007198017,0.71974605
+Impressionism/leon-dabo_on-the-hillside.jpg,leon dabo,0.003747561,0.2823554
+Impressionism/eugene-boudin_fervaques-a-village-street-1881.jpg,eugene boudin,0.0020486014,0.06698994
+Impressionism/julian-alden-weir_the-wharves-nassau-1913.jpg,julian alden weir,0.00429676,0.3519736
+Impressionism/frederic-remington_what-an-unbranded-cow-has-cost-1895.jpg,frederic remington,0.0039637475,0.30975989
+Impressionism/pierre-auguste-renoir_still-life-with-anemones.jpg,pierre auguste renoir,0.0038902874,0.30044782
+Impressionism/william-merritt-chase_near-the-sea-aka-shinnecock.jpg,william merritt chase,0.0042472826,0.34570166
+Impressionism/mikhail-nesterov_a-firtree-1890.jpg,mikhail nesterov,0.003367737,0.2342077
+Impressionism/abdullah-suriosubroto_landscape-mountain.jpg,abdullah suriosubroto,0.0034654725,0.24659696
+Impressionism/eugene-boudin_rotterdam-the-pont-de-la-bourse-1876.jpg,eugene boudin,0.0024405576,0.11667554
+Impressionism/t.-c.-steele_whitewater-river.jpg,t. c. steele,0.0037901234,0.28775072
+Impressionism/claude-monet_the-church-at-varengeville.jpg,claude monet,0.003210267,0.21424633
+Impressionism/max-liebermann_terrace-overlooking-the-flower-garden-in-wannsee-1918.jpg,max liebermann,0.005219413,0.46893197
+Impressionism/micaela-eleutheriade_mangalia.jpg,micaela eleutheriade,0.0029160946,0.1769561
+Impressionism/edgar-degas_laundry-girls-ironing-1884-1.jpg,edgar degas,0.002918993,0.1773235
+Impressionism/john-henry-twachtman_beach-at-squam.jpg,john henry twachtman,0.0025662528,0.13260907
+Impressionism/henri-martin_fountain-in-the-garden-at-luxembourg.jpg,henri martin,0.0038550834,0.29598525
+Impressionism/childe-hassam_marche-st-pierre-montmartre.jpg,childe hassam,0.0027966453,0.16181433
+Impressionism/joaquã­n-sorolla_reservoir-at-the-alcazin-seville-1910.jpg,joaquã­n sorolla,0.005201879,0.4667093
+Impressionism/frits-thaulow_beaulieu.jpg,frits thaulow,0.0026871818,0.1479384
+Impressionism/camille-pissarro_the-church-of-st-jacques-in-dieppe-morning-sun-1901.jpg,camille pissarro,0.0024845286,0.12224944
+Impressionism/theodor-pallady_orange-coat.jpg,theodor pallady,0.0032885203,0.22416595
+Impressionism/claude-monet_beach-and-cliffs-at-pourville-morning-effect.jpg,claude monet,0.0032309787,0.2168718
+Impressionism/alfred-sisley_spring-on-the-loing-river-1885.jpg,alfred sisley,0.0034020627,0.23855895
+Impressionism/samuel-mutzner_scen-algerian.jpg,samuel mutzner,0.003133928,0.20456934
+Impressionism/william-merritt-chase_gathering-autumn-flowers.jpg,william merritt chase,0.0030178872,0.18985966
+Impressionism/victor-borisov-musatov_a-tree.jpg,victor borisov musatov,0.0036757537,0.27325287
+Impressionism/armand-guillaumin_view-of-saint-sauves-1900.jpg,armand guillaumin,0.0035800813,0.26112515
+Impressionism/mary-cassatt_the-two-sisters-1894.jpg,mary cassatt,0.0030918177,0.19923131
+Impressionism/alfred-sisley_the-saint-martin-canal-1872.jpg,alfred sisley,0.004069751,0.32319722
+Impressionism/petre-abrudan_andscape-from-baia-mare-with-buffalos.jpg,petre abrudan,0.004916082,0.4304808
+Impressionism/alfred-sisley_kitchen-garden-at-louveciennes-1873.jpg,alfred sisley,0.0031771902,0.2100534
+Impressionism/theo-van-rysselberghe_portrait-of-madame-monnon-1908.jpg,theo van rysselberghe,0.004045102,0.3200726
+Impressionism/john-henry-twachtman_snowbound-1900.jpg,john henry twachtman,0.0034228563,0.24119481
+Impressionism/valentin-serov_peter-i-on-the-hunt-1902.jpg,valentin serov,0.005999459,0.56781304
+Impressionism/edgar-degas_the-mante-family.jpg,edgar degas,0.0036877044,0.2747678
+Impressionism/camille-pissarro_the-pine-trees-of-louveciennes-1870.jpg,camille pissarro,0.0030647994,0.19580638
+Impressionism/edouard-manet_woman-in-furs-portrait-of-mery-laurent-1882.jpg,edouard manet,0.0021555133,0.08054243
+Impressionism/eugene-boudin_beach-scene-1887.jpg,eugene boudin,0.0028940863,0.17416626
+Impressionism/claude-monet_lunch-on-the-grass-central-panel.jpg,claude monet,0.0042757588,0.34931138
+Impressionism/william-james-glackens_beach-scene-new-london-1918.jpg,william james glackens,0.003966736,0.31013873
+Impressionism/konstantin-korovin_alupka-1912.jpg,konstantin korovin,0.004123152,0.32996646
+Impressionism/alfred-sisley_saint-mammes-in-winter.jpg,alfred sisley,0.002531144,0.12815857
+Impressionism/pierre-auguste-renoir_the-little-algerian-girl.jpg,pierre auguste renoir,0.0029051215,0.17556512
+Impressionism/camille-pissarro_the-pont-boieldieu-rouen-sunset-misty-weather-1896.jpg,camille pissarro,0.0033935737,0.23748285
+Impressionism/camille-pissarro_kew-gardens-2-1892.jpg,camille pissarro,0.002859115,0.16973318
+Impressionism/karoly-ferenczy_man-sitting-on-a-log-1895.jpg,karoly ferenczy,0.0033112166,0.227043
+Impressionism/mary-cassatt_mother-and-child-3.jpg,mary cassatt,0.0040465663,0.32025823
+Impressionism/giuseppe-de-nittis_around-the-shade.jpg,giuseppe de nittis,0.0047385194,0.4079724
+Impressionism/pierre-auguste-renoir_woman-s-head-1905.jpg,pierre auguste renoir,0.0026898542,0.14827716
+Impressionism/claude-monet_port-d-aval.jpg,claude monet,0.0026452905,0.14262812
+Impressionism/edgar-degas_the-star-1881.jpg,edgar degas,0.0029223994,0.17775533
+Impressionism/childe-hassam_the-chinese-merchants.jpg,childe hassam,0.0028451919,0.16796824
+Impressionism/paul-cezanne_the-orchard-1877.jpg,paul cezanne,0.0035386668,0.2558753
+Impressionism/pierre-auguste-renoir_study-two-women-s-heads-1895.jpg,pierre auguste renoir,0.0020186827,0.06319735
+Impressionism/constantin-artachino_towards-the-springs.jpg,constantin artachino,0.003112062,0.20179756
+Impressionism/arkhip-kuindzhi_snowy-mountain-peaks-caucasus.jpg,arkhip kuindzhi,0.0034786835,0.24827164
+Impressionism/robert-julian-onderdonk_coastal-scene.jpg,robert julian onderdonk,0.0036238625,0.266675
+Impressionism/ferdinand-hodler_seated-bearded-man-1884.jpg,ferdinand hodler,0.0031610879,0.20801222
+Impressionism/t.-c.-steele_street-scene-1896.jpg,t. c. steele,0.0036833573,0.2742167
+Impressionism/gustave-caillebotte_the-pont-de-europe-study.jpg,gustave caillebotte,0.0038590045,0.29648232
+Impressionism/john-henry-twachtman_hayrick-1900.jpg,john henry twachtman,0.003277804,0.22280753
+Impressionism/joaquã­n-sorolla_arrival-of-the-fishing-boats-on-the-beach-valencia-1898.jpg,joaquã­n sorolla,0.0040535782,0.32114708
+Impressionism/valentin-serov_portrait-of-sergey-muromtsev-1910.jpg,valentin serov,0.0018312676,0.039440032
+Impressionism/kimon-loghi_blooming-apple-trees.jpg,kimon loghi,0.003010978,0.18898381
+Impressionism/eugene-boudin_fishwomen-at-berck.jpg,eugene boudin,0.0028400654,0.1673184
+Impressionism/andre-dunoyer-de-segonzac_le-pont-des-arts-paris.jpg,andre dunoyer de segonzac,0.0022636964,0.09425606
+Impressionism/joaquã­n-sorolla_the-old-bridge-of-avila-1910.jpg,joaquã­n sorolla,0.0037536228,0.2831238
+Impressionism/walter-sickert_belvedere-bath.jpg,walter sickert,0.0032291187,0.21663602
+Impressionism/boris-kustodiev_view-from-the-window-of-the-academy-of-fine-arts.jpg,boris kustodiev,0.0027409033,0.1547483
+Impressionism/pierre-auguste-renoir_woman-s-head-1919.jpg,pierre auguste renoir,0.003788323,0.2875225
+Impressionism/edgar-degas_two-dancers-resting.jpg,edgar degas,0.0040094573,0.3155542
+Impressionism/constantin-artachino_christ-study.jpg,constantin artachino,0.0045455457,0.38351044
+Impressionism/peder-severin-kroyer_beach-of-skagen-1892.jpg,peder severin kroyer,0.005363643,0.48721504
+Impressionism/william-merritt-chase_women-under-trellis.jpg,william merritt chase,0.004660595,0.39809448
+Impressionism/pyotr-konchalovsky_portrait-of-the-artist-s-wife-olga-konchalovskaya-under-the-umbrella-in-the-garden-1904.jpg,pyotr konchalovsky,0.0053356276,0.4836637
+Impressionism/ion-theodorescu-sion_pudica.jpg,ion theodorescu sion,0.0024401832,0.11662808
+Impressionism/gregoire-boonzaier_landskap-met-kronkelende-pad-kenilworth-1975.jpg,gregoire boonzaier,0.0051058615,0.4545378
+Impressionism/ivan-grohar_pogled-z-mojega-okna-1905.jpg,ivan grohar,0.0037162087,0.27838108
+Impressionism/john-singer-sargent_claude-monet-painting-by-the-edge-of-a-wood-1885.jpg,john singer sargent,0.0031644693,0.20844086
+Impressionism/berthe-morisot_girl-with-dog-1.jpg,berthe morisot,0.002408117,0.112563275
+Impressionism/eugene-boudin_sky-at-sunset.jpg,eugene boudin,0.004738718,0.40799755
+Impressionism/claude-monet_the-spring-at-vetheuil.jpg,claude monet,0.0044674133,0.37360612
+Impressionism/joaquã­n-sorolla_the-coast-near-san-sebastian-1918.jpg,joaquã­n sorolla,0.003449572,0.24458137
+Impressionism/pierre-auguste-renoir_landscape-with-white-house-1916.jpg,pierre auguste renoir,0.0039305245,0.3055484
+Impressionism/edgar-degas_dancer-with-bouquet.jpg,edgar degas,0.0037538444,0.2831519
+Impressionism/adam-baltatu_houses-in-hu-i-1.jpg,adam baltatu,0.0033792353,0.23566526
+Impressionism/berthe-morisot_young-woman-leaning-on-her-elbows.jpg,berthe morisot,0.0038808978,0.29925758
+Impressionism/konstantin-korovin_bridge.jpg,konstantin korovin,0.0061440696,0.5861443
+Impressionism/antoine-blanchard_boulevard-de-la-madeleine-2.jpg,antoine blanchard,0.00374036,0.28144258
+Impressionism/childe-hassam_piazza-di-spagna-rome.jpg,childe hassam,0.003482276,0.24872705
+Impressionism/maxime-maufra_cottages-in-the-snow-1891.jpg,maxime maufra,0.0060003633,0.56792766
+Impressionism/stefan-popescu_olt-valley-1918.jpg,stefan popescu,0.0029640524,0.18303537
+Impressionism/edvard-munch_at-the-coffee-table-1883.jpg,edvard munch,0.0030774476,0.19740972
+Impressionism/mary-cassatt_little-girl-with-a-japanese-doll.jpg,mary cassatt,0.0046667974,0.39888066
+Impressionism/kazimir-malevich_spring-garden-in-blossom-1904.jpg,kazimir malevich,0.004924447,0.43154112
+Impressionism/alfred-sisley_the-church-at-moret-in-morning-sun-1893.jpg,alfred sisley,0.004177526,0.3368591
+Impressionism/claude-monet_gardener-s-house-at-antibes.jpg,claude monet,0.0026269576,0.1403042
+Impressionism/lovis-corinth_self-portrait-with-a-glass-1907.jpg,lovis corinth,0.0036640347,0.27176732
+Impressionism/adam-baltatu_still-life-with-apples-and-pipkin.jpg,adam baltatu,0.003620422,0.26623884
+Impressionism/santiago-rusinol_jardines-de-aranjuez-1.jpg,santiago rusinol,0.0034664788,0.24672453
+Impressionism/camille-pissarro_the-louvre-winter-sunlight-morning-2nd-version-1901.jpg,camille pissarro,0.0029646633,0.18311283
+Impressionism/claude-monet_the-grande-creuse-by-the-bridge-at-vervy.jpg,claude monet,0.0027582392,0.15694585
+Impressionism/claude-monet_vetheuil.jpg,claude monet,0.0030599623,0.19519322
+Impressionism/childe-hassam_isle-of-shoals-1.jpg,childe hassam,0.0040537026,0.32116285
+Impressionism/john-singer-sargent_a-hotel-room.jpg,john singer sargent,0.0043677785,0.3609761
+Impressionism/pierre-auguste-renoir_beaulieu-1890.jpg,pierre auguste renoir,0.0035972586,0.2633026
+Impressionism/edmund-charles-tarbell_across-the-room-1899.jpg,edmund charles tarbell,0.004248578,0.3458659
+Impressionism/vasile-popescu_garden-in-c-lim-ne-ti-1942.jpg,vasile popescu,0.0041686133,0.3357293
+Impressionism/zinaida-serebriakova_summer-1910.jpg,zinaida serebriakova,0.003712286,0.27788383
+Impressionism/paul-cezanne_flowers-in-a-vase-1873.jpg,paul cezanne,0.0035111066,0.25238168
+Impressionism/pierre-auguste-renoir_woman-with-a-blue-blouse-1883.jpg,pierre auguste renoir,0.002170355,0.08242382
+Impressionism/pierre-auguste-renoir_madame-hagen-1883.jpg,pierre auguste renoir,0.004753769,0.40990546
+Impressionism/adam-baltatu_winter-landscape-1.jpg,adam baltatu,0.002564112,0.13233767
+Impressionism/john-singer-sargent_woman-with-collie.jpg,john singer sargent,0.0043919515,0.36404034
+Impressionism/pierre-auguste-renoir_woman-s-head-1887.jpg,pierre auguste renoir,0.0038184554,0.2913422
+Impressionism/claude-monet_the-house-seen-from-the-rose-garden-3-1924.jpg,claude monet,0.00440771,0.36603794
+Impressionism/joaquã­n-sorolla_valencian-fiesin-an-orange-grove-1898.jpg,joaquã­n sorolla,0.005385441,0.48997816
+Impressionism/mary-cassatt_the-lamp-1891.jpg,mary cassatt,0.0026684445,0.1455632
+Impressionism/robert-julian-onderdonk_road-to-the-hills-1918.jpg,robert julian onderdonk,0.0031559719,0.2073637
+Impressionism/eugene-boudin_untitled-2.jpg,eugene boudin,0.0032718182,0.22204873
+Impressionism/camille-pissarro_the-fair-in-dieppe-sunny-morning-1901.jpg,camille pissarro,0.0020088854,0.061955415
+Impressionism/alfred-sisley_the-fields-and-hills-of-veneux-nadon-1881.jpg,alfred sisley,0.003133914,0.20456757
+Impressionism/pierre-auguste-renoir_place-de-la-trinite-1875-2.jpg,pierre auguste renoir,0.0020880308,0.071988136
+Impressionism/eugene-boudin_sky-1863.jpg,eugene boudin,0.004473034,0.3743186
+Impressionism/joaquã­n-sorolla_after-the-bath-1916.jpg,joaquã­n sorolla,0.0036643841,0.27181163
+Impressionism/eugene-boudin_trouville-1.jpg,eugene boudin,0.0035026262,0.25130668
+Impressionism/maurice-prendergast_low-tide-beachmont.jpg,maurice prendergast,0.0054871594,0.50287235
+Impressionism/karoly-ferenczy_izvora-in-autumn-1909.jpg,karoly ferenczy,0.0038304008,0.29285643
+Impressionism/pierre-auguste-renoir_the-reader-young-woman-reading-a-book-1876.jpg,pierre auguste renoir,0.002343135,0.10432594
+Impressionism/claude-monet_cliff-near-dieppe-overcast-skies.jpg,claude monet,0.003930581,0.30555555
+Impressionism/childe-hassam_mrs-hassam-in-the-garden.jpg,childe hassam,0.005813739,0.5442706
+Impressionism/julian-alden-weir_girl-standing-by-a-gate-1896.jpg,julian alden weir,0.0050858194,0.45199722
+Impressionism/claude-monet_the-valley-of-creuse-at-fresselines.jpg,claude monet,0.0030148113,0.18946974
+Impressionism/konstantinos-volanakis_admiring-the-ships.jpg,konstantinos volanakis,0.00534418,0.48474783
+Impressionism/gustave-caillebotte_landscape-study-in-yellow-and-rose.jpg,gustave caillebotte,0.0066600675,0.65155387
+Impressionism/eugene-boudin_beach-scene-15.jpg,eugene boudin,0.0032222013,0.21575914
+Impressionism/georges-seurat_farmer-to-work-1883.jpg,georges seurat,0.004505418,0.3784237
+Impressionism/konstantin-korovin_russia-nostalgia.jpg,konstantin korovin,0.002754794,0.15650913
+Impressionism/mary-cassatt_woman-sewing-1914.jpg,mary cassatt,0.0027028704,0.14992714
+Impressionism/edgar-degas_three-dancers-behind-the-scenes.jpg,edgar degas,0.002854392,0.16913448
+Impressionism/childe-hassam_portrait-of-a-lady-in-blue-dress.jpg,childe hassam,0.003673774,0.2730019
+Impressionism/claude-monet_palazzo-dario-3.jpg,claude monet,0.003626316,0.266986
+Impressionism/paul-signac_railway-junction-near-bois-colombes-1886.jpg,paul signac,0.004086515,0.32532224
+Impressionism/arkhip-kuindzhi_sunset-3.jpg,arkhip kuindzhi,0.006861688,0.6771119
+Impressionism/andre-dunoyer-de-segonzac_nature-morte.jpg,andre dunoyer de segonzac,0.003918874,0.30407158
+Impressionism/pierre-auguste-renoir_landscape-19.jpg,pierre auguste renoir,0.0037090818,0.27747765
+Impressionism/claude-monet_on-the-cliff-near-dieppe.jpg,claude monet,0.0023420977,0.104194455
+Impressionism/claude-monet_poplars-on-the-banks-of-the-epte.jpg,claude monet,0.004450498,0.3714619
+Impressionism/claude-monet_rocky-coast-and-the-lion-rock-belle-ile.jpg,claude monet,0.0038392926,0.29398358
+Impressionism/julian-alden-weir_landscape-with-seated-figure.jpg,julian alden weir,0.005214727,0.46833795
+Impressionism/ivan-albright_maine-coast.jpg,ivan albright,0.006031459,0.5718695
+Impressionism/william-merritt-chase_still-life-flowers.jpg,william merritt chase,0.0034010718,0.23843333
+Impressionism/camille-pissarro_road-to-louveciennes.jpg,camille pissarro,0.0029488024,0.18110225
+Impressionism/pierre-auguste-renoir_study-torso-sunlight-effect.jpg,pierre auguste renoir,0.0065578558,0.6385972
+Impressionism/pierre-auguste-renoir_medlar-trees-cagnes-1908.jpg,pierre auguste renoir,0.0043433188,0.35787553
+Impressionism/ilya-mashkov_alupka-park-cabrank.jpg,ilya mashkov,0.0032357108,0.21747166
+Impressionism/edgar-degas_dancers-in-a-studio.jpg,edgar degas,0.004943671,0.43397808
+Impressionism/claude-monet_wild-poppies-near-argenteuil-1873.jpg,claude monet,0.002892427,0.17395592
+Impressionism/mary-cassatt_the-befooted-child-1898.jpg,mary cassatt,0.004519445,0.38020182
+Impressionism/constantin-artachino_tatar-cottage.jpg,constantin artachino,0.005456984,0.49904722
+Impressionism/alfred-sisley_washerwomen-of-bougival-1875.jpg,alfred sisley,0.0030810577,0.19786733
+Impressionism/nikolay-bogdanov-belsky_country-boys-1.jpg,nikolay bogdanov belsky,0.005456896,0.49903607
+Impressionism/camille-pissarro_the-pont-neuf-2-1901.jpg,camille pissarro,0.0031895223,0.21161665
+Impressionism/gregoire-boonzaier_hermanus-seascape-1945.jpg,gregoire boonzaier,0.0035422025,0.25632352
+Impressionism/konstantin-korovin_still-life-with-fruit-and-bottle.jpg,konstantin korovin,0.0044645383,0.3732417
+Impressionism/childe-hassam_lady-walking-down-fifth-avenue.jpg,childe hassam,0.0038564375,0.2961569
+Impressionism/victor-borisov-musatov_boy-with-a-dog-1895.jpg,victor borisov musatov,0.003411872,0.2398024
+Impressionism/nicolae-tonitza_lady-with-veil-1915.jpg,nicolae tonitza,0.004833536,0.420017
+Impressionism/childe-hassam_spring-aka-the-artist-s-sister.jpg,childe hassam,0.0061535514,0.58734626
+Impressionism/pierre-auguste-renoir_blond-in-a-straw-hat-seated-girl.jpg,pierre auguste renoir,0.0023922645,0.110553764
+Impressionism/berthe-morisot_the-artist-s-sister-edma-with-her-daughter-jeanne.jpg,berthe morisot,0.0035201758,0.25353134
+Impressionism/camille-pissarro_the-thaw-eragny-1893.jpg,camille pissarro,0.0024396505,0.11656055
+Impressionism/maxime-maufra_the-cove-at-cape-suzon-1898.jpg,maxime maufra,0.0037918354,0.28796774
+Impressionism/camille-pissarro_old-woman-with-ducks-at-montfoucault.jpg,camille pissarro,0.0031047582,0.20087169
+Impressionism/eugene-boudin_the-manet-family-picnicking-1866.jpg,eugene boudin,0.0033340834,0.22994167
+Impressionism/camille-pissarro_sunset-at-eragny.jpg,camille pissarro,0.0027114134,0.15101008
+Impressionism/constantin-artachino_dobrujan-woman.jpg,constantin artachino,0.0020329328,0.065003745
+Impressionism/francisc-sirato_houses-on-the-shore-of-lake-cernica.jpg,francisc sirato,0.00406936,0.32314762
+Impressionism/alfred-sisley_landscape-with-houses-1873.jpg,alfred sisley,0.0029874952,0.18600707
+Impressionism/konstantin-korovin_summertime-1895.jpg,konstantin korovin,0.003713067,0.2779828
+Impressionism/georges-seurat_the-riverbanks-1883.jpg,georges seurat,0.0031723755,0.20944308
+Impressionism/andre-dunoyer-de-segonzac_paysage-m-diterran-en.jpg,andre dunoyer de segonzac,0.0053875064,0.49024
+Impressionism/john-henry-twachtman_icebound.jpg,john henry twachtman,0.002575586,0.13379218
+Impressionism/berthe-morisot_shepherdess-resting-1891.jpg,berthe morisot,0.0031027605,0.20061846
+Impressionism/alfred-sisley_fishermen-mending-nets-1872.jpg,alfred sisley,0.0032520788,0.21954651
+Impressionism/william-merritt-chase_flowers-aka-roses.jpg,william merritt chase,0.0037315201,0.28032202
+Impressionism/nicolae-darascu_summer-at-balcic.jpg,nicolae darascu,0.0041566547,0.3342134
+Impressionism/william-merritt-chase_a-study-aka-the-artist-s-wife.jpg,william merritt chase,0.0026254323,0.14011084
+Impressionism/gregoire-boonzaier_houses-on-a-hillside-bo-kaap-1940.jpg,gregoire boonzaier,0.0028290695,0.16592453
+Impressionism/john-atkinson-grimshaw_the-cradle-song.jpg,john atkinson grimshaw,0.0019094838,0.04935496
+Impressionism/antoine-blanchard_rue-tronchet-la-madeleine-3.jpg,antoine blanchard,0.0028825933,0.17270938
+Impressionism/georgios-jakobides_child-with-cart.jpg,georgios jakobides,0.0035966611,0.26322687
+Impressionism/joaquã­n-sorolla_skipping-rope-at-la-granja-1907.jpg,joaquã­n sorolla,0.0030103968,0.18891016
+Impressionism/paul-gauguin_garden-in-rue-carcel.jpg,paul gauguin,0.003836073,0.29357544
+Impressionism/william-merritt-chase_at-the-window.jpg,william merritt chase,0.0036945804,0.2756394
+Impressionism/berthe-morisot_children-at-the-basin-1886.jpg,berthe morisot,0.0032073958,0.21388236
+Impressionism/john-singer-sargent_statue-of-perseus-by-night.jpg,john singer sargent,0.004939045,0.43339163
+Impressionism/rudolf-schweitzer-cumpana_str-du-spre-montmartre.jpg,rudolf schweitzer cumpana,0.002864675,0.17043798
+Impressionism/georges-seurat_man-leaning-on-a-parapet-1881.jpg,georges seurat,0.0038986027,0.3015019
+Impressionism/camille-pissarro_the-talk-1892.jpg,camille pissarro,0.003334796,0.23003201
+Impressionism/corneliu-michailescu_still-life-with-blue-flower.jpg,corneliu michailescu,0.004100944,0.32715133
+Impressionism/joaquã­n-sorolla_to-the-water-valencia-1908.jpg,joaquã­n sorolla,0.0053976025,0.4915198
+Impressionism/guy-rose_out-to-sea.jpg,guy rose,0.00434577,0.35818624
+Impressionism/edmund-charles-tarbell_three-firls-reading-1907.jpg,edmund charles tarbell,0.0037513482,0.28283548
+Impressionism/konstantin-korovin_young-woman-on-the-threshold.jpg,konstantin korovin,0.0038402602,0.29410625
+Impressionism/pierre-auguste-renoir_sleeping-girl-girl-with-a-cat-1880.jpg,pierre auguste renoir,0.0027778682,0.1594341
+Impressionism/mary-cassatt_mother-and-children-1901.jpg,mary cassatt,0.0033534162,0.23239236
+Impressionism/claude-monet_the-seine-at-port-villez-blue-effect.jpg,claude monet,0.004604705,0.39100966
+Impressionism/willard-metcalf_the-path.jpg,willard metcalf,0.0021048442,0.074119456
+Impressionism/gregoire-boonzaier_district-6-street-scene-with-figures-buildings-donkey-cart-1971.jpg,gregoire boonzaier,0.003722516,0.2791806
+Impressionism/mary-cassatt_ellen-with-bows-in-her-hair-looking-right.jpg,mary cassatt,0.005294996,0.4785131
+Impressionism/camille-pissarro_the-pilot-s-jetty-le-havre-high-tide-afternoon-sun-1903.jpg,camille pissarro,0.0018326552,0.03961592
+Impressionism/john-singer-sargent_steps-of-a-palace-1903.jpg,john singer sargent,0.0052316543,0.47048372
+Impressionism/ilya-mashkov_georgia-kazbek-day-georgian-military-road-mountain-and-village.jpg,ilya mashkov,0.00432332,0.35534042
+Impressionism/james-mcneill-whistler_edward-guthrie-kennedy-1895.jpg,james mcneill whistler,0.0046601044,0.39803225
+Impressionism/childe-hassam_mrs-hassam-and-her-sister.jpg,childe hassam,0.003955255,0.3086833
+Impressionism/pierre-auguste-renoir_two-women-in-a-garden-1895.jpg,pierre auguste renoir,0.0031391114,0.20522642
+Impressionism/pierre-auguste-renoir_joseph-durand-ruel-1882.jpg,pierre auguste renoir,0.0031725273,0.20946231
+Impressionism/joaquã­n-sorolla_orange-seller-1891.jpg,joaquã­n sorolla,0.00415415,0.33389586
+Impressionism/edgar-degas_woman-ironing-silhouette-1873.jpg,edgar degas,0.0035676404,0.2595481
+Impressionism/gustave-caillebotte_the-nap.jpg,gustave caillebotte,0.004217418,0.34191594
+Impressionism/claude-monet_the-esterel-mountains.jpg,claude monet,0.0032198355,0.21545924
+Impressionism/claude-monet_white-frost.jpg,claude monet,0.003095221,0.19966273
+Impressionism/willard-metcalf_midsummer-twilight.jpg,willard metcalf,0.004712761,0.40470716
+Impressionism/samuel-mutzner_natur-static-cu-muschetar-1932.jpg,samuel mutzner,0.003073188,0.19686976
+Impressionism/ilya-repin_the-yield-on-the-red-porch-1910.jpg,ilya repin,0.004203363,0.34013426
+Impressionism/stefan-luchian_inn-without-clients.jpg,stefan luchian,0.0033457312,0.23141818
+Impressionism/alfred-sisley_the-mouth-of-the-loing-at-saint-mammes-1885.jpg,alfred sisley,0.0020175825,0.06305789
+Impressionism/henri-martin_valley-verde-in-crepuscule.jpg,henri martin,0.00415455,0.3339466
+Impressionism/pierre-auguste-renoir_sleeping-cat-1862.jpg,pierre auguste renoir,0.0037317767,0.28035453
+Impressionism/eugene-boudin_trouville-the-port-at-low-tide-1887.jpg,eugene boudin,0.00496443,0.4366095
+Impressionism/william-merritt-chase_still-life-with-cockatoo.jpg,william merritt chase,0.0032398659,0.21799837
+Impressionism/valentin-serov_peter-i-the-great-1907.jpg,valentin serov,0.0033565932,0.23279509
+Impressionism/ipolit-strambu_woman-with-umbrella.jpg,ipolit strambu,0.003635948,0.26820698
+Impressionism/pierre-auguste-renoir_andree-in-a-pink-dress-1917.jpg,pierre auguste renoir,0.002182178,0.08392253
+Impressionism/auguste-rodin_the-burghers-of-calais-1.jpg,auguste rodin,0.0053505655,0.4855573
+Impressionism/claude-monet_grainstacks-in-the-morning-snow-effect.jpg,claude monet,0.0055135535,0.50621814
+Impressionism/edouard-manet_young-woman-taking-a-walk-holding-an-open-umbrella-1880.jpg,edouard manet,0.0047538443,0.40991503
+Impressionism/james-mcneill-whistler_the-little-red-cap-1899.jpg,james mcneill whistler,0.0042823493,0.35014683
+Impressionism/edgar-degas_portrait-of-madame-edmondo-morbilli-born-therese-de-gas.jpg,edgar degas,0.002945143,0.18063837
+Impressionism/roger-fry_bridge-over-the-allier-1933.jpg,roger fry,0.0035541987,0.25784418
+Impressionism/john-singer-sargent_spirito-santo-saattera.jpg,john singer sargent,0.0035634218,0.25901332
+Impressionism/wilhelm-leibl_strickende-m-dchen-auf-der-ofenbank-1895.jpg,wilhelm leibl,0.0034499713,0.24463199
+Impressionism/claude-monet_train-in-the-snow-at-argenteuil-1875.jpg,claude monet,0.002878952,0.1722478
+Impressionism/camille-pissarro_landscape-at-chaponval-1880.jpg,camille pissarro,0.0044841226,0.37572426
+Impressionism/anders-zorn_in-werner-s-rowing-boat-1917.jpg,anders zorn,0.006084465,0.57858866
+Impressionism/childe-hassam_the-terre-cuite-tea-set-aka-french-tea-garden.jpg,childe hassam,0.0026336203,0.14114878
+Impressionism/peder-severin-kroyer_the-benzon-daughters-1897.jpg,peder severin kroyer,0.0038302138,0.29283273
+Impressionism/gustave-caillebotte_three-partridges-on-a-table.jpg,gustave caillebotte,0.004044683,0.32001954
+Impressionism/piet-mondrian_windmill-in-the-gein-1907.jpg,piet mondrian,0.003985215,0.31248116
+Impressionism/winston-churchill_view-near-vence-in-the-alpes-maritimes.jpg,winston churchill,0.0034926282,0.2500393
+Impressionism/childe-hassam_the-nymph-of-beryl-gorge.jpg,childe hassam,0.0031997752,0.21291634
+Impressionism/pierre-auguste-renoir_the-spring.jpg,pierre auguste renoir,0.003401717,0.23851511
+Impressionism/claude-monet_the-japanese-bridge-2-1924.jpg,claude monet,0.0059449836,0.56090754
+Impressionism/pierre-auguste-renoir_woman-tying-her-shoe.jpg,pierre auguste renoir,0.0032810536,0.22321945
+Impressionism/alfred-sisley_snow-at-marly-le-roi-1875.jpg,alfred sisley,0.0021642903,0.08165503
+Impressionism/frits-thaulow_channel-with-watermill.jpg,frits thaulow,0.0042894287,0.35104424
+Impressionism/claude-monet_boats-on-rapair.jpg,claude monet,0.004994201,0.44038337
+Impressionism/claude-monet_haystacks-at-sunset-frosty-weather-1891.jpg,claude monet,0.004594272,0.38968712
+Impressionism/claude-monet_water-lily-pond.jpg,claude monet,0.0070591327,0.7021406
+Impressionism/pablo-picasso_harlequin-with-guitar-1916.jpg,pablo picasso,0.004395118,0.36444175
+Impressionism/edgar-degas_bowing-dancer.jpg,edgar degas,0.0030844172,0.19829321
+Impressionism/berthe-morisot_getting-out-of-bed-1886.jpg,berthe morisot,0.003493056,0.25009352
+Impressionism/gustave-caillebotte_the-garden.jpg,gustave caillebotte,0.0046723005,0.39957827
+Impressionism/umberto-boccioni_passing-train-1908.jpg,umberto boccioni,0.0042541404,0.346571
+Impressionism/augustus-john_dylan-thomas-1938.jpg,augustus john,0.0021774878,0.083327994
+Impressionism/jacek-malczewski_self-portrait-2.jpg,jacek malczewski,0.0031384963,0.20514844
+Impressionism/salvador-dali_cala-nans.jpg,salvador dali,0.0028072523,0.16315892
+Impressionism/lovis-corinth_self-portrait-at-the-easel-1919.jpg,lovis corinth,0.0027452838,0.15530358
+Impressionism/alfred-sisley_the-pont-at-moret-afternoon-effect-1891.jpg,alfred sisley,0.0034156388,0.2402799
+Impressionism/pierre-auguste-renoir_bather-1887-1.jpg,pierre auguste renoir,0.0051308894,0.45771044
+Impressionism/edgar-degas_jockeys-1895.jpg,edgar degas,0.0027631617,0.15756984
+Impressionism/pierre-auguste-renoir_aline-charigot-with-a-dog-1880.jpg,pierre auguste renoir,0.0051446897,0.4594598
+Impressionism/william-merritt-chase_prospect-park-brooklyn-2.jpg,william merritt chase,0.0039118705,0.3031838
+Impressionism/james-mcneill-whistler_gray-and-gold-the-golden-bay.jpg,james mcneill whistler,0.005721965,0.532637
+Impressionism/pierre-auguste-renoir_breakfast-at-berneval-1898.jpg,pierre auguste renoir,0.0024306793,0.11542334
+Impressionism/rudolf-schweitzer-cumpana_flori-de-prim-var-1973.jpg,rudolf schweitzer cumpana,0.0032974952,0.22530364
+Impressionism/maxime-maufra_cottages-in-the-snow-1891-1.jpg,maxime maufra,0.0049067684,0.42930016
+Impressionism/claude-monet_water-lilies-42.jpg,claude monet,0.0028435467,0.1677597
+Impressionism/john-singer-sargent_mending-a-sail-1905.jpg,john singer sargent,0.004838342,0.4206262
+Impressionism/ivan-albright_alicia-s-azaleas-on-st-mary-s-river.jpg,ivan albright,0.006679552,0.65402377
+Impressionism/childe-hassam_sparyard-inner-harbor-gloucester.jpg,childe hassam,0.0031512424,0.20676418
+Impressionism/claude-monet_vetheuil-the-church.jpg,claude monet,0.0034052762,0.2389663
+Impressionism/camille-pissarro_apple-blossoms-eragny.jpg,camille pissarro,0.0027856266,0.16041757
+Impressionism/childe-hassam_chicken-yard-back-of-the-holley-house.jpg,childe hassam,0.0023269304,0.1022718
+Impressionism/rudolf-schweitzer-cumpana_de-la-f-nt-n-1930.jpg,rudolf schweitzer cumpana,0.0025470383,0.13017336
+Impressionism/pierre-auguste-renoir_portrait-of-mademoiselle-francois.jpg,pierre auguste renoir,0.0027679978,0.15818289
+Impressionism/joaquã­n-sorolla_the-suckling-child-1894.jpg,joaquã­n sorolla,0.0037205701,0.27893394
+Impressionism/alfred-sisley_edge-of-the-fountainbleau-forest-morning-1885.jpg,alfred sisley,0.0020293682,0.06455188
+Impressionism/constantin-artachino_pipkin-with-mallows-1.jpg,constantin artachino,0.0045219637,0.3805211
+Impressionism/eugene-boudin_the-shore-at-plougastel-1872.jpg,eugene boudin,0.0032895647,0.22429834
+Impressionism/philip-wilson-steer_the-bridge.jpg,philip wilson steer,0.0028105972,0.16358292
+Impressionism/pierre-auguste-renoir_le-jardin-de-la-poste-cagnes-1906.jpg,pierre auguste renoir,0.0035908604,0.26249152
+Impressionism/claude-monet_argenteuil-1875(1).jpg,claude monet,0.005645833,0.5229863
+Impressionism/camille-pissarro_rolling-landscape-in-winter-1875.jpg,camille pissarro,0.0046823975,0.4008582
+Impressionism/gustave-caillebotte_self-portrait-1.jpg,gustave caillebotte,0.0033859962,0.2365223
+Impressionism/joaquã­n-sorolla_bathing-time-1904.jpg,joaquã­n sorolla,0.004375129,0.36190787
+Impressionism/alfred-sisley_on-the-banks-of-the-loing-canal-1883.jpg,alfred sisley,0.002393111,0.110661045
+Impressionism/james-mcneill-whistler_arrangement-in-grey-portrait-of-master-stephen-manuel.jpg,james mcneill whistler,0.002570084,0.13309473
+Impressionism/pieter-wenning_still-life-1.jpg,pieter wenning,0.0033254414,0.22884619
+Impressionism/robert-julian-onderdonk_bluebonnets-on-a-grey-day-1922.jpg,robert julian onderdonk,0.0039913077,0.3132535
+Impressionism/joaquã­n-sorolla_two-men-on-a-deck.jpg,joaquã­n sorolla,0.0032315964,0.2169501
+Impressionism/william-merritt-chase_a-friendly-call.jpg,william merritt chase,0.0034047845,0.23890397
+Impressionism/antoine-blanchard_place-de-la-madeleine-4.jpg,antoine blanchard,0.003286352,0.22389108
+Impressionism/georges-seurat_boats-near-the-beach-at-asnieres-1883.jpg,georges seurat,0.0035193167,0.2534224
+Impressionism/kazimir-malevich_unemployed-girl.jpg,kazimir malevich,0.0033713493,0.23466562
+Impressionism/pierre-auguste-renoir_cape-saint-jean-1910.jpg,pierre auguste renoir,0.0034248559,0.24144828
+Impressionism/edgar-degas_manet-at-the-races-1870.jpg,edgar degas,0.0027600802,0.15717922
+Impressionism/berthe-morisot_portrait-of-a-woman-in-a-pink-dress.jpg,berthe morisot,0.0025055858,0.124918714
+Impressionism/pierre-auguste-renoir_young-girl-in-a-hat.jpg,pierre auguste renoir,0.0033153712,0.22756965
+Impressionism/claude-monet_burgo-marina-at-bordighera.jpg,claude monet,0.0027585728,0.15698814
+Impressionism/theophrastos-triantafyllidis_women-in-boating.jpg,theophrastos triantafyllidis,0.002428536,0.11515165
+Impressionism/berthe-morisot_little-girl-with-a-doll.jpg,berthe morisot,0.004576058,0.38737828
+Impressionism/alfred-sisley_barges-on-the-saint-martin-canal.jpg,alfred sisley,0.0038336054,0.29326266
+Impressionism/konstantin-korovin_on-the-road-1885.jpg,konstantin korovin,0.0023984076,0.11133247
+Impressionism/joaquã­n-sorolla_generalife-granada-1910.jpg,joaquã­n sorolla,0.0051078703,0.45479247
+Impressionism/giuseppe-de-nittis_a-lady-from-naples.jpg,giuseppe de nittis,0.005093844,0.45301446
+Impressionism/federico-zandomeneghi_lady-with-a-hat-1895.jpg,federico zandomeneghi,0.0033468553,0.23156068
+Impressionism/piet-mondrian_mill-of-heeswijk-sun.jpg,piet mondrian,0.002997256,0.18724436
+Impressionism/james-mcneill-whistler_pierrot.jpg,james mcneill whistler,0.0054496136,0.49811292
+Impressionism/gustave-caillebotte_the-park-on-the-caillebotte-property-at-yerres.jpg,gustave caillebotte,0.0045300527,0.3815465
+Impressionism/othon-friesz_dufy-in-the-studio-1900.jpg,othon friesz,0.0037554565,0.28335625
+Impressionism/guy-rose_november-twilight-1908.jpg,guy rose,0.0032722435,0.22210266
+Impressionism/james-mcneill-whistler_grey-and-silver-mist-lifeboat.jpg,james mcneill whistler,0.0042377748,0.34449643
+Impressionism/edouard-manet_portrait-of-composer-emmanual-chabrier.jpg,edouard manet,0.0032724887,0.22213374
+Impressionism/claude-monet_view-over-the-sea-1882.jpg,claude monet,0.0029718184,0.18401983
+Impressionism/pierre-auguste-renoir_madame-le-brun-and-her-daughter.jpg,pierre auguste renoir,0.004899105,0.42832872
+Impressionism/mary-cassatt_susan-comforting-the-baby-no-2.jpg,mary cassatt,0.0027463,0.15543242
+Impressionism/alfred-sisley_the-seine-at-point-du-jour-1878.jpg,alfred sisley,0.003996997,0.3139747
+Impressionism/eugene-boudin_the-tourgeville-shores-1894.jpg,eugene boudin,0.005725554,0.533092
+Impressionism/thomas-eakins_boy-reclining.jpg,thomas eakins,0.0035262152,0.2542969
+Impressionism/julius-leblanc-stewart_picnic-under-the-trees(1).jpg,julius leblanc stewart,0.003997732,0.31406784
+Impressionism/rudolf-schweitzer-cumpana_mo-gheorghe-1940.jpg,rudolf schweitzer cumpana,0.0037625548,0.28425607
+Impressionism/john-singer-sargent_villa-torre-galli-the-loggia-1910.jpg,john singer sargent,0.0049874713,0.4395303
+Impressionism/claude-monet_the-japanese-bridge-the-water-lily-pond-1899.jpg,claude monet,0.005213946,0.46823898
+Impressionism/pierre-auguste-renoir_the-mosque-arab-holiday-the-casbah-1881.jpg,pierre auguste renoir,0.0026746595,0.14635102
+Impressionism/john-henry-twachtman_windmill-in-the-dutch-countryside.jpg,john henry twachtman,0.005458596,0.49925157
+Impressionism/claude-monet_the-seine-at-argenteuil-1875.jpg,claude monet,0.003064316,0.19574511
+Impressionism/pierre-auguste-renoir_spanish-dancer-in-a-red-dress.jpg,pierre auguste renoir,0.0026065242,0.13771398
+Impressionism/claude-monet_rain-in-belle-ile.jpg,claude monet,0.004448831,0.3712506
+Impressionism/henri-martin_young-girl-in-the-fields.jpg,henri martin,0.0025034577,0.12464896
+Impressionism/henry-herbert-la-thangue_gathering-plums-1901.jpg,henry herbert la thangue,0.0026142343,0.13869135
+Impressionism/alfred-sisley_banks-of-the-loing-1890.jpg,alfred sisley,0.0043904088,0.36384478
+Impressionism/claude-monet_pathway-in-monet-s-garden-at-giverny-1902.jpg,claude monet,0.002796432,0.1617873
+Impressionism/mikhail-nesterov_adriatic-sea-1893.jpg,mikhail nesterov,0.0023303581,0.10270631
+Impressionism/joaquã­n-sorolla_the-cave-at-san-javea-1895.jpg,joaquã­n sorolla,0.0043846164,0.36311054
+Impressionism/edgar-degas_woman-at-her-toilette.jpg,edgar degas,0.0023706565,0.107814655
+Impressionism/federico-zandomeneghi_the-good-book-1897.jpg,federico zandomeneghi,0.0021759423,0.08313207
+Impressionism/antoine-blanchard_arc-de-triomphe-2.jpg,antoine blanchard,0.0031164864,0.2023584
+Impressionism/paul-gauguin_the-artist-s-children-1884.jpg,paul gauguin,0.0029387856,0.17983249
+Impressionism/konstantin-korovin_harbor-in-norway-1894.jpg,konstantin korovin,0.0033240283,0.22866707
+Impressionism/claude-monet_church-at-jeufosse-snowy-weather.jpg,claude monet,0.003576108,0.2606215
+Impressionism/berthe-morisot_getting-up-1886.jpg,berthe morisot,0.0045662685,0.38613734
+Impressionism/stefan-popescu_harvesting.jpg,stefan popescu,0.004417062,0.3672234
+Impressionism/lovis-corinth_landscape-at-the-walchensee-1923.jpg,lovis corinth,0.0039447076,0.3073463
+Impressionism/john-singer-sargent_atlantic-storm-1876.jpg,john singer sargent,0.0040330915,0.31855014
+Impressionism/pierre-auguste-renoir_dancer-with-castenets-1895.jpg,pierre auguste renoir,0.0031733036,0.20956072
+Impressionism/iosif-iser_tatar-woman-with-mandoline-1946.jpg,iosif iser,0.0031320648,0.20433317
+Impressionism/eugene-boudin_ships-at-le-havre.jpg,eugene boudin,0.0056580096,0.5245298
+Impressionism/t.-c.-steele_the-house-of-the-singing-winds.jpg,t. c. steele,0.005327686,0.48265702
+Impressionism/camille-pissarro_louveciennes-road-snow-effect-1872.jpg,camille pissarro,0.0032991946,0.22551906
+Impressionism/pierre-auguste-renoir_amelie-dieterie-in-a-white-hat.jpg,pierre auguste renoir,0.0023460938,0.10470101
+Impressionism/camille-pissarro_place-du-theatre-francais-1898.jpg,camille pissarro,0.005802474,0.5428426
+Impressionism/mario-zanini_lerici-1950.jpg,mario zanini,0.0029126152,0.17651504
+Impressionism/auguste-rodin_lo-e-fuller.jpg,auguste rodin,0.00377276,0.2855497
+Impressionism/claude-monet_tulip-fields-at-sassenheim-near-leiden-1886.jpg,claude monet,0.002920995,0.17757729
+Impressionism/eugene-boudin_untitled-1890.jpg,eugene boudin,0.0035073292,0.25190285
+Impressionism/arkhip-kuindzhi_forest-swamp.jpg,arkhip kuindzhi,0.00451357,0.37945712
+Impressionism/octav-bancila_valea-agapiei-1915.jpg,octav bancila,0.0040323967,0.31846207
+Impressionism/max-liebermann_birch-grow-1.jpg,max liebermann,0.0058510657,0.54900223
+Impressionism/john-singer-sargent_paul-helleu.jpg,john singer sargent,0.0038893858,0.30033356
+Impressionism/konstantin-korovin_type-of-settlement-1905.jpg,konstantin korovin,0.004014268,0.31616402
+Impressionism/pierre-auguste-renoir_vase-of-flowers.jpg,pierre auguste renoir,0.0038177576,0.29125375
+Impressionism/peder-severin-kroyer_italian-village-workers-making-hats-1880.jpg,peder severin kroyer,0.0037249334,0.27948704
+Impressionism/joaquã­n-sorolla_valencian-dance-in-an-orange-grove-1898.jpg,joaquã­n sorolla,0.004377908,0.36226016
+Impressionism/pierre-auguste-renoir_algerian-girl-1881.jpg,pierre auguste renoir,0.0031462244,0.20612808
+Impressionism/edgar-degas_dancers-in-the-wings-1.jpg,edgar degas,0.004414326,0.36687663
+Impressionism/camille-pissarro_the-chou-quarries-pontoise-1882.jpg,camille pissarro,0.0039214096,0.304393
+Impressionism/winston-churchill_newbuildings-sussex-1921(1).jpg,winston churchill,0.0050314735,0.44510818
+Impressionism/edgar-degas_dancer-in-her-dressing-room-1879.jpg,edgar degas,0.0030805266,0.19780003
+Impressionism/pierre-auguste-renoir_gladioli-1884.jpg,pierre auguste renoir,0.0040968983,0.3266385
+Impressionism/pierre-auguste-renoir_portrait-of-a-woman.jpg,pierre auguste renoir,0.004136229,0.33162415
+Impressionism/alfred-sisley_by-the-river-1881.jpg,alfred sisley,0.0025877478,0.13533382
+Impressionism/camille-pissarro_the-road-from-versalles-to-saint-germain-at-louveciennes-1872.jpg,camille pissarro,0.0053825183,0.4896077
+Impressionism/eugene-boudin_the-entrance-1865.jpg,eugene boudin,0.0056702113,0.52607656
+Impressionism/berthe-morisot_the-old-track-to-auvers-1863.jpg,berthe morisot,0.0043100445,0.35365757
+Impressionism/camille-pissarro_the-path-in-the-village-1875.jpg,camille pissarro,0.0054957257,0.5039582
+Impressionism/peder-severin-kroyer_self-portrait-sitting-by-his-easel-at-skagen-beach-1902.jpg,peder severin kroyer,0.004442567,0.37045655
+Impressionism/eugene-boudin_laundresses-on-the-banks-of-the-touques-9.jpg,eugene boudin,0.0023404171,0.10398142
+Impressionism/claude-monet_entrance-to-the-port-of-trouville.jpg,claude monet,0.002372829,0.10809005
+Impressionism/guy-rose_twin-lakes-high-sierra.jpg,guy rose,0.004110523,0.3283656
+Impressionism/gustave-caillebotte_kitchen-garden-petit-gennevilliers.jpg,gustave caillebotte,0.00229028,0.09762589
+Impressionism/childe-hassam_the-ash-blond.jpg,childe hassam,0.0018871767,0.046527237
+Impressionism/pierre-auguste-renoir_madame-claude-monet-1872.jpg,pierre auguste renoir,0.0022462264,0.09204151
+Impressionism/pierre-auguste-renoir_lady-in-a-black-dress-1876.jpg,pierre auguste renoir,0.0028309464,0.16616245
+Impressionism/maurice-prendergast_revere-beach.jpg,maurice prendergast,0.006241688,0.5985187
+Impressionism/winston-churchill_view-of-chartwell.jpg,winston churchill,0.0017704025,0.031724583
+Impressionism/pericles-pantazis_child-with-crown.jpg,pericles pantazis,0.0036142673,0.26545867
+Impressionism/maurice-prendergast_handkerchief-point-1897.jpg,maurice prendergast,0.00576808,0.53848267
+Impressionism/nassos-daphnis_tree-peonies-1941.jpg,nassos daphnis,0.0040016025,0.3145585
+Impressionism/william-merritt-chase_portrait-of-a-lady-1.jpg,william merritt chase,0.0037602726,0.28396675
+Impressionism/mary-cassatt_nude-baby-on-mother-s-lap-resting-her-arm-on-the-back-of-the-chair-1913.jpg,mary cassatt,0.0037809103,0.28658286
+Impressionism/eugene-boudin_caudebec-en-caux-banks-of-the-seine-1892.jpg,eugene boudin,0.004193442,0.33887666
+Impressionism/pierre-auguste-renoir_margot-berard-1879.jpg,pierre auguste renoir,0.0034795022,0.24837542
+Impressionism/arkhip-kuindzhi_crimea-yayla.jpg,arkhip kuindzhi,0.0022267376,0.089571044
+Impressionism/giovanni-boldini_statue-in-the-park-of-versailles.jpg,giovanni boldini,0.004744646,0.40874904
+Impressionism/eugene-boudin_trouville-1869.jpg,eugene boudin,0.0042815562,0.3500463
+Impressionism/gustave-caillebotte_yerres-soldiers-in-the-woods.jpg,gustave caillebotte,0.0039437423,0.30722395
+Impressionism/claude-monet_trees-in-bloom.jpg,claude monet,0.0031325952,0.2044004
+Impressionism/willard-metcalf_icebound.jpg,willard metcalf,0.0048278645,0.41929805
+Impressionism/john-lavery_the-jockeys-dressing-room-at-ascot-1923.jpg,john lavery,0.003681354,0.2739628
+Impressionism/edgar-degas_red-ballet-skirts.jpg,edgar degas,0.0041902997,0.33847833
+Impressionism/frits-thaulow_river-landscape.jpg,frits thaulow,0.0044479165,0.37113467
+Impressionism/paul-cezanne_still-life-bowl-and-milk-jug.jpg,paul cezanne,0.0056451713,0.5229024
+Impressionism/eugene-boudin_leaving-mass-at-plougastel.jpg,eugene boudin,0.0054973965,0.50417
+Impressionism/berthe-morisot_woman-in-black.jpg,berthe morisot,0.0042545525,0.34662324
+Impressionism/william-james-glackens_the-bathing-hour-1910.jpg,william james glackens,0.0028358183,0.16678002
+Impressionism/maxime-maufra_great-sea.jpg,maxime maufra,0.0034145045,0.2401361
+Impressionism/alfred-sisley_the-hill-path-ville-d-avray-1879.jpg,alfred sisley,0.0034713896,0.24734704
+Impressionism/childe-hassam_quincy-massachusetts.jpg,childe hassam,0.0028363555,0.16684812
+Impressionism/kimon-loghi_blooming-cherry-trees.jpg,kimon loghi,0.002166098,0.081884176
+Impressionism/robert-julian-onderdonk_blue-bonnets-at-twilight-1922.jpg,robert julian onderdonk,0.0028764934,0.17193612
+Impressionism/paul-cezanne_rocks.jpg,paul cezanne,0.0036041501,0.2641762
+Impressionism/pierre-auguste-renoir_madame-charpentier-1878.jpg,pierre auguste renoir,0.0033862328,0.2365523
+Impressionism/camille-pissarro_landscape-bright-sunlight-pontoise-1874.jpg,camille pissarro,0.002962507,0.1828395
+Impressionism/claude-monet_the-beach-at-honfleux.jpg,claude monet,0.0037599187,0.2839219
+Impressionism/arkhip-kuindzhi_sea-gloomy-day.jpg,arkhip kuindzhi,0.0038632283,0.29701772
+Impressionism/victor-borisov-musatov_in-the-light-of-the-setting-sun-1904.jpg,victor borisov musatov,0.003473216,0.24757856
+Impressionism/konstantin-korovin_paris-boulevard-1939.jpg,konstantin korovin,0.0034810998,0.24857794
+Impressionism/paul-gauguin_the-port-of-rouen-1884.jpg,paul gauguin,0.0033869576,0.23664416
+Impressionism/camille-pissarro_the-tuilleries-gardens-morning-spring-sun.jpg,camille pissarro,0.003335498,0.230121
+Impressionism/claude-monet_promenade-near-argenteuil-1873.jpg,claude monet,0.00461963,0.3929016
+Impressionism/camille-pissarro_valhermeil-near-oise-rain-effect-1881.jpg,camille pissarro,0.0048011467,0.41591123
+Impressionism/henri-martin_landscape-with-the-goat.jpg,henri martin,0.0043908837,0.363905
+Impressionism/konstantin-korovin_early-spring.jpg,konstantin korovin,0.006140664,0.5857127
+Impressionism/walter-sickert_jacques-emile-blanche.jpg,walter sickert,0.0028478033,0.16829929
+Impressionism/arkhip-kuindzhi_view-on-moscow-from-sparrow-hills-1882.jpg,arkhip kuindzhi,0.004349083,0.35860622
+Impressionism/mary-cassatt_portrait-of-miss-cassatt-holding-the-cards.jpg,mary cassatt,0.0019589718,0.05562822
+Impressionism/amrita-sher-gil_self-portrait-as-tahitian-1934.jpg,amrita sher gil,0.0028027932,0.16259366
+Impressionism/gustave-caillebotte_peaches-apples-and-grapes-on-a-vine-leaf.jpg,gustave caillebotte,0.005395779,0.49128866
+Impressionism/eugene-boudin_the-coastline-at-berck-at-low-tide-1882.jpg,eugene boudin,0.0038952543,0.30107746
+Impressionism/jean-alexandru-steriadi_mahoane-la-balcic.jpg,jean alexandru steriadi,0.003965673,0.31000397
+Impressionism/claude-monet_camille-on-the-beach-at-trouville.jpg,claude monet,0.0027134628,0.15126985
+Impressionism/max-slevogt_bathing-house-havel.jpg,max slevogt,0.0034314594,0.24228537
+Impressionism/max-slevogt_don-juan-s-encounter-with-the-stony-gues.jpg,max slevogt,0.004548778,0.38392016
+Impressionism/william-merritt-chase_the-japanese-book-1900.jpg,william merritt chase,0.0032226287,0.21581332
+Impressionism/claude-monet_the-house-seen-from-the-rose-garden-1924.jpg,claude monet,0.0030187997,0.18997532
+Impressionism/valentin-serov_portrait-of-count-nikolay-sumarokov-elstone-1903.jpg,valentin serov,0.0033165058,0.22771348
+Impressionism/edouard-manet_pinks-and-clematis-in-a-crystal-vase.jpg,edouard manet,0.004468017,0.37368262
+Impressionism/claude-monet_vetheuil-prairie-inondee.jpg,claude monet,0.003894082,0.30092886
+Impressionism/pierre-auguste-renoir_woman-in-a-red-blouse.jpg,pierre auguste renoir,0.0026667572,0.14534931
+Impressionism/ilya-mashkov_after-the-storm-1922.jpg,ilya mashkov,0.0032025343,0.21326609
+Impressionism/alfred-sisley_ferry-to-the-ile-de-la-loge-flood-1872.jpg,alfred sisley,0.0029438126,0.18046972
+Impressionism/matej-sternen_on-the-couch-1909.jpg,matej sternen,0.003994593,0.31366992
+Impressionism/eugene-boudin_beach-scene-10.jpg,eugene boudin,0.003535167,0.25543168
+Impressionism/mary-cassatt_child-in-a-straw-hat.jpg,mary cassatt,0.0040182783,0.31667235
+Impressionism/edgar-degas_woman-having-her-hair-combed.jpg,edgar degas,0.002144947,0.07920301
+Impressionism/william-merritt-chase_the-bathers.jpg,william merritt chase,0.0053256713,0.4824016
+Impressionism/claude-monet_meadow-in-giverny.jpg,claude monet,0.0025632905,0.13223355
+Impressionism/childe-hassam_a-street-in-denia-spain.jpg,childe hassam,0.0053831683,0.4896901
+Impressionism/childe-hassam_hill-of-the-sun-san-anselmo-california.jpg,childe hassam,0.0032634398,0.22098666
+Impressionism/theodor-pallady_bridge-over-seine.jpg,theodor pallady,0.006078663,0.57785314
+Impressionism/mikhail-nesterov_capri-almond-trees-in-blossom-1908.jpg,mikhail nesterov,0.0041228924,0.32993358
+Impressionism/adam-baltatu_street-in-hu-i.jpg,adam baltatu,0.0028851407,0.17303228
+Impressionism/camille-pissarro_view-of-the-seine-from-the-raised-terrace-of-the-pont-neuf-1901.jpg,camille pissarro,0.0034518412,0.24486902
+Impressionism/robert-julian-onderdonk_a-winter-morning-on-the-guadalupe-river-1911.jpg,robert julian onderdonk,0.004097642,0.32673275
+Impressionism/oleksandr-bogomazov_self-portrait-1907.jpg,oleksandr bogomazov,0.0027791124,0.15959181
+Impressionism/edgar-degas_mademoiselle-fiocre-in-the-ballet-1868.jpg,edgar degas,0.0047435053,0.4086044
+Impressionism/pierre-auguste-renoir_woman-in-a-straw-hat-1918.jpg,pierre auguste renoir,0.0039704125,0.31060475
+Impressionism/rudolf-schweitzer-cumpana_strad-n-paris-1932.jpg,rudolf schweitzer cumpana,0.0039803465,0.31186402
+Impressionism/childe-hassam_august-afternoon-appledore.jpg,childe hassam,0.002777739,0.1594177
+Impressionism/camille-pissarro_portrait-of-rodo-reading-1893.jpg,camille pissarro,0.0041536437,0.3338317
+Impressionism/maurice-prendergast_assisi.jpg,maurice prendergast,0.0045824624,0.38819012
+Impressionism/pierre-auguste-renoir_reclining-nude-1860.jpg,pierre auguste renoir,0.0032460166,0.21877804
+Impressionism/claude-monet_the-sea-at-pourville.jpg,claude monet,0.0039729583,0.31092745
+Impressionism/cornelis-vreedenburgh_view-on-market-in-groningen.jpg,cornelis vreedenburgh,0.0026909893,0.14842105
+Impressionism/antoine-blanchard_notre-dame.jpg,antoine blanchard,0.0031441886,0.20587
+Impressionism/paul-cezanne_still-life-with-seven-apples-1878.jpg,paul cezanne,0.004798352,0.41555694
+Impressionism/nicolae-grigorescu_girl-in-the-mirror.jpg,nicolae grigorescu,0.0036755842,0.2732314
+Impressionism/ilya-mashkov_september-morning-in-artek-1929.jpg,ilya mashkov,0.004229955,0.34350514
+Symbolism/kimon-loghi_winter.jpg,kimon loghi,0.004570416,0.3866631
+Impressionism/robert-julian-onderdonk_hill-country-lane-1911.jpg,robert julian onderdonk,0.0046961335,0.40259942
+Impressionism/claude-monet_girls-in-the-garden.jpg,claude monet,0.0026980662,0.14931813
+Impressionism/claude-monet_the-bridge-under-repair-1872.jpg,claude monet,0.0029610884,0.18265966
+Impressionism/william-merritt-chase_shinnecock-hills-a-view-of-shinnecock.jpg,william merritt chase,0.0053393412,0.48413444
+Impressionism/claude-monet_yellow-irises-and-malva-1917.jpg,claude monet,0.004662806,0.39837474
+Impressionism/pierre-auguste-renoir_after-the-bath.jpg,pierre auguste renoir,0.004276642,0.34942338
+Impressionism/childe-hassam_flower-girl-by-the-seine-paris.jpg,childe hassam,0.0044425004,0.37044808
+Impressionism/pierre-auguste-renoir_nude-boys-on-the-rocks-at-guernsey-1883.jpg,pierre auguste renoir,0.005289429,0.4778074
+Impressionism/alfred-sisley_the-road-to-louveciennes-montbuisson.jpg,alfred sisley,0.0036605722,0.27132842
+Impressionism/claude-monet_rocks-at-belle-ile-port-domois.jpg,claude monet,0.003462319,0.24619722
+Impressionism/john-singer-sargent_artist-in-the-simplon.jpg,john singer sargent,0.006535807,0.6358022
+Impressionism/claude-monet_jeanne-marguerite-lecadre-in-the-garden.jpg,claude monet,0.0035031363,0.25137135
+Impressionism/camille-pissarro_the-stage-on-the-road-from-ennery-to-l-hermigate-pontoise.jpg,camille pissarro,0.0037512826,0.28282714
+Impressionism/samuel-mutzner_al-turi-de-mama-1925.jpg,samuel mutzner,0.0036091662,0.26481205
+Impressionism/claude-monet_the-manneport-rock-arch-west-of-etretat.jpg,claude monet,0.0032945734,0.22493327
+Impressionism/eugene-boudin_elegant-women-on-the-beach-1863.jpg,eugene boudin,0.0025534523,0.13098642
+Impressionism/mary-cassatt_mr-robert-s-cassatt-on-horseback-1885.jpg,mary cassatt,0.004107555,0.32798934
+Impressionism/camille-pissarro_kew-gardens-the-little-greenhouse.jpg,camille pissarro,0.0033872724,0.23668407
+Impressionism/auguste-rodin_the-hand-of-god-1898.jpg,auguste rodin,0.005030083,0.4449319
+Impressionism/guy-rose_the-blue-kimono.jpg,guy rose,0.0033059092,0.22637023
+Impressionism/karoly-ferenczy_gardeners-1891.jpg,karoly ferenczy,0.0045808326,0.3879835
+Symbolism/kimon-loghi_beginning-of-springtime.jpg,kimon loghi,0.003013923,0.18935715
+Impressionism/frederic-remington_ridden-down-1906.jpg,frederic remington,0.0029943269,0.18687308
+Impressionism/frederic-remington_a-brush-with-the-redskins-1891.jpg,frederic remington,0.0039141937,0.30347827
+Impressionism/edgar-degas_combing-the-hair-1895.jpg,edgar degas,0.0032189507,0.2153471
+Impressionism/alfred-sisley_orchard-1885.jpg,alfred sisley,0.004211557,0.341173
+Impressionism/claude-monet_self-portrait-1917.jpg,claude monet,0.0047880616,0.41425252
+Impressionism/robert-julian-onderdonk_mountain-pinks-in-bloom-medina-lake-southwest-texas-1921.jpg,robert julian onderdonk,0.0026563003,0.14402376
+Impressionism/claude-monet_the-japanese-bridge-the-water-lily-pond-symphony-in-rose.jpg,claude monet,0.003331381,0.2295991
+Impressionism/berthe-morisot_the-bath-at-mesnil.jpg,berthe morisot,0.0046910746,0.40195814
+Impressionism/eliseu-visconti_mo-a-no-trigal.jpg,eliseu visconti,0.0058904425,0.55399376
+Impressionism/pierre-auguste-renoir_girl-in-a-red-hat-1913.jpg,pierre auguste renoir,0.0030964904,0.19982363
+Impressionism/gustave-caillebotte_the-house-painters-1877.jpg,gustave caillebotte,0.002527304,0.1276718
+Impressionism/alfred-sisley_by-the-loing.jpg,alfred sisley,0.005018257,0.4434328
+Impressionism/john-singer-sargent_in-a-hayloft.jpg,john singer sargent,0.0039440477,0.30726266
+Impressionism/camille-pissarro_rouen-burial-of-cardinal-bonnechose.jpg,camille pissarro,0.0063129254,0.607549
+Impressionism/gustave-caillebotte_the-garden-at-petit-gennevilliers-in-winter.jpg,gustave caillebotte,0.004639068,0.39536563
+Impressionism/camille-pissarro_barges-on-pontoise-1872.jpg,camille pissarro,0.0026788476,0.14688194
+Impressionism/camille-pissarro_portrait-of-madame-felicie-vellay-estruc.jpg,camille pissarro,0.0021884746,0.084720716
+Impressionism/eugene-boudin_the-beach-1871.jpg,eugene boudin,0.0040899795,0.32576144
+Impressionism/alfred-sisley_hill-path-in-sunlight-1891.jpg,alfred sisley,0.0042692153,0.34848192
+Impressionism/pierre-auguste-renoir_nude-reclining-on-the-grass-1890.jpg,pierre auguste renoir,0.0031331638,0.20447247
+Impressionism/augustus-john_a-west-indian-girl-1940.jpg,augustus john,0.004454301,0.371944
+Impressionism/konstantin-korovin_bath-houses.jpg,konstantin korovin,0.0058373087,0.5472584
+Impressionism/edouard-manet_the-grand-canal-1875.jpg,edouard manet,0.0035659152,0.2593294
+Impressionism/philip-wilson-steer_a-procession-of-yachts.jpg,philip wilson steer,0.004560597,0.38541836
+Impressionism/pierre-auguste-renoir_young-girl-with-a-basket-of-flowers-1888.jpg,pierre auguste renoir,0.0031337643,0.2045486
+Impressionism/gustave-caillebotte_traffic-island-on-boulevard-haussmann.jpg,gustave caillebotte,0.0048425733,0.42116258
+Impressionism/childe-hassam_ten-pound-island.jpg,childe hassam,0.0031646397,0.20846246
+Impressionism/william-merritt-chase_shinnecock-landscape-2.jpg,william merritt chase,0.0035763797,0.2606559
+Impressionism/pierre-auguste-renoir_path-through-the-woods-1874.jpg,pierre auguste renoir,0.003196772,0.21253565
+Impressionism/claude-monet_the-seine-at-port-villez-1883.jpg,claude monet,0.003075366,0.19714583
+Impressionism/mikhail-nesterov_peonies-1908.jpg,mikhail nesterov,0.005294959,0.4785084
+Impressionism/ivan-grohar_cveto-a-jabljana-1907.jpg,ivan grohar,0.005245381,0.47222376
+Impressionism/antoine-blanchard_place-de-la-republique-4.jpg,antoine blanchard,0.0041837385,0.3376466
+Impressionism/pierre-auguste-renoir_profile-of-a-young-woman-in-a-hat.jpg,pierre auguste renoir,0.0024137516,0.113277525
+Impressionism/adolf-hitler_still-life-with-bottle-and-fruit.jpg,adolf hitler,0.0039018702,0.30191612
+Impressionism/julian-alden-weir_still-life-with-flowers.jpg,julian alden weir,0.0038977743,0.3013969
+Impressionism/camille-pissarro_june-morning-view-over-the-hills-over-pontoise-1873.jpg,camille pissarro,0.004555932,0.38482702
+Impressionism/camille-pissarro_enclosed-field-at-eragny-1896.jpg,camille pissarro,0.0038699424,0.29786885
+Impressionism/rudolf-schweitzer-cumpana_pasaj-din-san-remo-arcul-santa-brigita-1939.jpg,rudolf schweitzer cumpana,0.004165764,0.3353681
+Impressionism/pierre-auguste-renoir_village-by-the-sea-1889.jpg,pierre auguste renoir,0.0034059414,0.23905063
+Impressionism/guy-rose_the-model.jpg,guy rose,0.0041723307,0.33620054
+Impressionism/childe-hassam_the-spanish-steps-rome.jpg,childe hassam,0.0036745782,0.27310386
+Impressionism/mary-cassatt_feeding-the-ducks-1895.jpg,mary cassatt,0.0031259295,0.20355543
+Impressionism/claude-monet_landscape-at-port-villez.jpg,claude monet,0.0038531646,0.29574203
+Impressionism/pierre-auguste-renoir_willows-and-figures-in-a-boat.jpg,pierre auguste renoir,0.005530298,0.5083408
+Impressionism/henry-herbert-la-thangue_trellised-vines.jpg,henry herbert la thangue,0.003300337,0.22566386
+Impressionism/paul-gauguin_a-henhouse-1884.jpg,paul gauguin,0.005197728,0.46618313
+Impressionism/alfred-sisley_the-washerwomen-of-moret-1887.jpg,alfred sisley,0.003073989,0.19697128
+Impressionism/childe-hassam_sunset-at-sea.jpg,childe hassam,0.004945686,0.4342335
+Impressionism/eugene-boudin_beach-scene.jpg,eugene boudin,0.002757163,0.15680943
+Impressionism/eugene-boudin_the-cliffs-at-etretat-1890.jpg,eugene boudin,0.004568869,0.38646695
+Impressionism/edgar-degas_the-dancing-examination-1880.jpg,edgar degas,0.003072663,0.1968032
+Impressionism/john-singer-sargent_escutcheon-of-charles-v-1912.jpg,john singer sargent,0.005712321,0.5314145
+Impressionism/claude-monet_shadows-on-the-sea-at-pourville.jpg,claude monet,0.003078431,0.19753437
+Impressionism/john-singer-sargent_mountain-fire.jpg,john singer sargent,0.005643327,0.5226686
+Impressionism/camille-pissarro_portrait-of-madame-pissarro-1883.jpg,camille pissarro,0.0026797117,0.14699146
+Impressionism/john-henry-twachtman_artist-s-home-seen-from-the-back.jpg,john henry twachtman,0.004450413,0.3714511
+Impressionism/pierre-auguste-renoir_woman-in-a-hat-with-flowers-1917.jpg,pierre auguste renoir,0.0022006745,0.0862672
+Impressionism/claude-monet_bennecourt.jpg,claude monet,0.0041072536,0.32795116
+Impressionism/alfred-sisley_sand-on-the-quayside-port-marly-1875.jpg,alfred sisley,0.003281269,0.22324675
+Impressionism/eugene-boudin_dordrecht-la-meuse-view-of-swandrecht-1884.jpg,eugene boudin,0.0023513546,0.105367884
+Impressionism/eugene-boudin_laundresses-on-the-banks-of-the-touques-3.jpg,eugene boudin,0.0035997087,0.26361316
+Impressionism/armand-guillaumin_agay-bay-1910.jpg,armand guillaumin,0.0043984163,0.36485985
+Impressionism/claude-monet_the-promenade-near-argenteuil.jpg,claude monet,0.004539274,0.38271543
+Impressionism/pierre-auguste-renoir_the-coiffure-1888.jpg,pierre auguste renoir,0.0022924757,0.09790421
+Impressionism/edgar-degas_woman-combing-her-hair.jpg,edgar degas,0.0029428676,0.18034993
+Impressionism/camille-pissarro_thaw-pontoise-1872.jpg,camille pissarro,0.002549482,0.13048315
+Impressionism/claude-monet_saint-adresse-beached-sailboat.jpg,claude monet,0.0030758118,0.19720235
+Impressionism/sever-burada_anemone-1925.jpg,sever burada,0.0042930506,0.35150337
+Impressionism/auguste-rodin_untitled(6).jpg,auguste rodin,0.004721371,0.4057986
+Impressionism/constantine-maleas_st-catherine-of-thessaloniki.jpg,constantine maleas,0.0033743244,0.23504275
+Impressionism/john-henry-twachtman_niagara-gorge.jpg,john henry twachtman,0.004243914,0.34527466
+Impressionism/claude-monet_the-railway-bridge-at-argenteuil.jpg,claude monet,0.0038327447,0.29315355
+Impressionism/berthe-morisot_the-reclining-shepherdess.jpg,berthe morisot,0.004160689,0.3347248
+Impressionism/mary-cassatt_study-for-augusta-reading-to-her-daughter.jpg,mary cassatt,0.0032998559,0.22560288
+Impressionism/lovis-corinth_innocentia-1890.jpg,lovis corinth,0.004090229,0.32579306
+Impressionism/joaquã­n-sorolla_louis-comfort-tiffany-1911.jpg,joaquã­n sorolla,0.0041109156,0.32841536
+Impressionism/childe-hassam_a-favorite-corner.jpg,childe hassam,0.0043143746,0.35420647
+Impressionism/alfred-sisley_among-the-vines-near-louveciennes-1874.jpg,alfred sisley,0.0029513536,0.18142563
+Impressionism/claude-monet_haystacks-at-chailly-1865.jpg,claude monet,0.004002517,0.31467444
+Impressionism/pierre-auguste-renoir_near-berneval-1898.jpg,pierre auguste renoir,0.00366084,0.27136236
+Impressionism/claude-monet_water-lilies-nympheas-1907.jpg,claude monet,0.0071131634,0.7089897
+Impressionism/pierre-auguste-renoir_young-woman-in-a-landscape-cagnes.jpg,pierre auguste renoir,0.0026386825,0.14179048
+Impressionism/theodor-pallady_the-little-cigarette-nude-1931.jpg,theodor pallady,0.0026425642,0.14228253
+Impressionism/pierre-auguste-renoir_young-girl-in-a-blue-corset.jpg,pierre auguste renoir,0.0027394092,0.15455891
+Impressionism/giovanni-boldini_the-countess-de-rasty-lying.jpg,giovanni boldini,0.0050631757,0.44912684
+Impressionism/francisc-sirato_still-life-with-vases-and-roses-1920.jpg,francisc sirato,0.0040805303,0.32456362
+Impressionism/camille-pissarro_view-of-rouen.jpg,camille pissarro,0.005846851,0.548468
+Impressionism/pierre-auguste-renoir_the-seine-at-asnieres-the-skiff-1879.jpg,pierre auguste renoir,0.0030180183,0.18987627
+Impressionism/camille-pissarro_the-hill-at-vaches-bazincourt.jpg,camille pissarro,0.0028574031,0.16951619
+Impressionism/pierre-auguste-renoir_first-portrait-of-madame-georges-charpeitier-1877.jpg,pierre auguste renoir,0.002512059,0.12573928
+Impressionism/pierre-auguste-renoir_still-life-with-cantalope-and-peaches-1905.jpg,pierre auguste renoir,0.0046378723,0.39521405
+Impressionism/antoine-blanchard_rue-royal-madeleine-2.jpg,antoine blanchard,0.003291213,0.22450729
+Impressionism/paul-gauguin_pere-jean-s-path-1885.jpg,paul gauguin,0.0023377365,0.10364162
+Impressionism/pierre-auguste-renoir_two-women-with-umbrellas.jpg,pierre auguste renoir,0.004285034,0.35048714
+Impressionism/t.-c.-steele_selma-in-the-garden.jpg,t. c. steele,0.0030248761,0.19074559
+Impressionism/philip-wilson-steer_young-woman-at-the-beach.jpg,philip wilson steer,0.00407192,0.32347217
+Impressionism/pierre-auguste-renoir_bouquet-of-chrysanthemums-1881.jpg,pierre auguste renoir,0.003841891,0.29431295
+Impressionism/augustus-john_proven-al-landscape.jpg,augustus john,0.0044248,0.36820436
+Impressionism/max-slevogt_the-nile-at-aswan.jpg,max slevogt,0.0029928638,0.1866876
+Impressionism/edgar-degas_spartan-girls-challenging-boys-1860.jpg,edgar degas,0.0037549853,0.28329653
+Impressionism/ioannis-altamouras_seascape-1874.jpg,ioannis altamouras,0.00391261,0.30327752
+Impressionism/pierre-auguste-renoir_head-of-a-woman-1.jpg,pierre auguste renoir,0.0022948596,0.09820641
+Impressionism/pierre-auguste-renoir_roses-in-a-vase-1914.jpg,pierre auguste renoir,0.002974354,0.18434124
+Impressionism/pericles-pantazis_best-friends-forever.jpg,pericles pantazis,0.003775997,0.28596005
+Impressionism/claude-monet_gladiolus.jpg,claude monet,0.0026479722,0.14296807
+Impressionism/nassos-daphnis_tree-peony-1941.jpg,nassos daphnis,0.003707115,0.27722833
+Impressionism/nikolay-bogdanov-belsky_doing-the-lessons.jpg,nikolay bogdanov belsky,0.0023426018,0.10425835
+Impressionism/william-merritt-chase_reverie.jpg,william merritt chase,0.0049962765,0.44064647
+Impressionism/vasily-polenov_venice-pipes.jpg,vasily polenov,0.0040080897,0.3153808
+Impressionism/antoine-blanchard_boulevard-de-la-madeleine-7.jpg,antoine blanchard,0.0031912199,0.21183185
+Impressionism/claude-monet_the-artist-s-house-at-giverny.jpg,claude monet,0.0033888284,0.23688132
+Impressionism/alfred-sisley_bassin-de-marly-1875.jpg,alfred sisley,0.0027809984,0.15983088
+Impressionism/edmund-charles-tarbell_mother-and-mary-1922.jpg,edmund charles tarbell,0.0035616264,0.25878575
+Impressionism/claude-monet_cliff-at-pourville-1.jpg,claude monet,0.00377458,0.2857804
+Impressionism/piet-mondrian_woman-and-child-in-front-of-a-farm.jpg,piet mondrian,0.0031736214,0.209601
+Impressionism/pierre-auguste-renoir_the-hatpin-1898.jpg,pierre auguste renoir,0.002670451,0.14581756
+Impressionism/joaquã­n-sorolla_dragging-the-trawler-1904.jpg,joaquã­n sorolla,0.0030386895,0.19249661
+Impressionism/claude-monet_view-of-le-havre-1873.jpg,claude monet,0.0039305077,0.30554628
+Impressionism/edgar-degas_dancers-in-blue-1895.jpg,edgar degas,0.0040825177,0.32481554
+Impressionism/stefan-luchian_the-laundress.jpg,stefan luchian,0.0030326336,0.19172895
+Impressionism/karoly-ferenczy_riding-children-1905.jpg,karoly ferenczy,0.0059538614,0.56203294
+Impressionism/claude-monet_vetheuil-2.jpg,claude monet,0.0038147536,0.29087293
+Impressionism/pierre-auguste-renoir_two-women-in-the-grass.jpg,pierre auguste renoir,0.0035884797,0.26218975
+Impressionism/pierre-auguste-renoir_view-of-cannet.jpg,pierre auguste renoir,0.0031742712,0.20968337
+Impressionism/eva-gonzales_women-in-white.jpg,eva gonzales,0.0035936637,0.2628469
+Impressionism/nikolay-bogdanov-belsky_swimming.jpg,nikolay bogdanov belsky,0.0073271305,0.73611283
+Impressionism/john-singer-sargent_arab-stable-1906.jpg,john singer sargent,0.002811051,0.16364044
+Impressionism/claude-monet_woman-in-a-garden-1876.jpg,claude monet,0.0034729827,0.24754898
+Impressionism/pierre-auguste-renoir_woman-with-bag-1906.jpg,pierre auguste renoir,0.0036610481,0.27138874
+Impressionism/samuel-mutzner_figaro.jpg,samuel mutzner,0.0041197347,0.3295333
+Impressionism/cornelis-vreedenburgh_a-view-of-amsterdam-with-the-st-nicolaas-church.jpg,cornelis vreedenburgh,0.0021904393,0.08496976
+Impressionism/claude-monet_stormy-seascape-1.jpg,claude monet,0.0032230022,0.21586066
+Impressionism/nikolay-bogdanov-belsky_celebration-on-a-steps.jpg,nikolay bogdanov belsky,0.003405336,0.23897389
+Impressionism/berthe-morisot_the-banks-of-the-seine.jpg,berthe morisot,0.003931541,0.30567726
+Impressionism/maurice-prendergast_viewing-the-ships-1896.jpg,maurice prendergast,0.0048882877,0.4269575
+Impressionism/claude-monet_fishing-on-the-river-epte.jpg,claude monet,0.0047832443,0.41364187
+Impressionism/pierre-auguste-renoir_portrait-of-madame-duberville-with-her-son-henri-1910.jpg,pierre auguste renoir,0.0026837352,0.1475015
+Impressionism/konstantin-korovin_roses-evening-1908.jpg,konstantin korovin,0.0043041105,0.35290536
+Impressionism/edgar-degas_three-heads.jpg,edgar degas,0.0035654083,0.25926515
+Impressionism/william-merritt-chase_miss-mary-margaret-sweeny.jpg,william merritt chase,0.0025296512,0.12796932
+Impressionism/maurice-prendergast_may-day.jpg,maurice prendergast,0.0043384847,0.35726273
+Impressionism/alfred-sisley_approach-to-the-railway-station-1888.jpg,alfred sisley,0.0026591856,0.14438951
+Impressionism/claude-monet_wharf-of-louvre-paris-1867.jpg,claude monet,0.0019926229,0.05989393
+Impressionism/robert-julian-onderdonk_landscape-sketch-1909.jpg,robert julian onderdonk,0.0044650207,0.37330285
+Impressionism/claude-monet_poplars-view-from-the-marsh-1892.jpg,claude monet,0.0029006805,0.17500217
+Impressionism/claude-monet_in-the-meadow.jpg,claude monet,0.005301063,0.47928217
+Impressionism/paul-gauguin_tree-in-the-farm-yard-1874-1.jpg,paul gauguin,0.0041714646,0.33609074
+Impressionism/john-singer-sargent_fishing-for-oysters-at-cancale-1878.jpg,john singer sargent,0.0027997466,0.16220747
+Impressionism/edgar-degas_dancer-1.jpg,edgar degas,0.003989213,0.31298798
+Impressionism/stefan-luchian_interior-cu-garoafe.jpg,stefan luchian,0.0035207605,0.25360546
+Impressionism/claude-monet_chrysanthemums-1897-1.jpg,claude monet,0.004337237,0.3571046
+Impressionism/auguste-rodin_nude-study-for-balzac.jpg,auguste rodin,0.006367079,0.6144137
+Impressionism/claude-monet_water-lilies-1919-3.jpg,claude monet,0.003953561,0.3084686
+Impressionism/grace-cossington-smith_reinforcements-troops-marching-1917.jpg,grace cossington smith,0.003556193,0.258097
+Impressionism/claude-monet_the-seine-at-lavacourt.jpg,claude monet,0.005277713,0.47632223
+Impressionism/berthe-morisot_young-woman-in-a-rowboat-eventail.jpg,berthe morisot,0.0055540465,0.51135117
+Impressionism/childe-hassam_the-new-york-bouquet-west-forty-second-street.jpg,childe hassam,0.0024314665,0.11552312
+Impressionism/claude-monet_geese-in-the-creek.jpg,claude monet,0.0033461174,0.23146714
+Impressionism/eugene-boudin_trouville-scene-on-the-beach.jpg,eugene boudin,0.0027590252,0.1570455
+Impressionism/camille-pissarro_boulevard-montmartre-winter-morning-1897.jpg,camille pissarro,0.0027322778,0.15365492
+Impressionism/camille-pissarro_peasant-woman-at-the-well.jpg,camille pissarro,0.0026702427,0.14579114
+Impressionism/john-henry-twachtman_snow-scene-1.jpg,john henry twachtman,0.004661904,0.3982604
+Impressionism/claude-monet_water-lilies-10.jpg,claude monet,0.00535464,0.48607376
+Impressionism/gustave-caillebotte_boating-on-the-yerres.jpg,gustave caillebotte,0.0045976727,0.3901182
+Impressionism/lucian-grigorescu_dealuri-la-balcic.jpg,lucian grigorescu,0.004495528,0.37717006
+Impressionism/theodor-pallady_woman-in-interior-1948.jpg,theodor pallady,0.00511138,0.45523736
+Impressionism/pierre-auguste-renoir_still-life-with-roses.jpg,pierre auguste renoir,0.004740474,0.40822014
+Impressionism/pierre-auguste-renoir_seated-woman-1895.jpg,pierre auguste renoir,0.0056667547,0.5256384
+Impressionism/eugene-boudin_boats.jpg,eugene boudin,0.004238622,0.3446038
+Impressionism/pierre-auguste-renoir_madame-henriot-1874.jpg,pierre auguste renoir,0.0025159528,0.12623288
+Impressionism/james-mcneill-whistler_palaces-brussels.jpg,james mcneill whistler,0.004367798,0.3609786
+Impressionism/octav-bancila_ig-ncu-cu-batic-ro-u-1915.jpg,octav bancila,0.001978377,0.058088094
+Impressionism/pierre-auguste-renoir_reading-the-part-1876.jpg,pierre auguste renoir,0.0020666374,0.06927624
+Impressionism/joaquã­n-sorolla_gray-day-on-valencia-beach-1901.jpg,joaquã­n sorolla,0.0051167356,0.45591626
+Impressionism/janos-tornyai_lesson-on-the-farm-1896.jpg,janos tornyai,0.0024807162,0.12176617
+Impressionism/joaquã­n-sorolla_traditional-dress-from-the-anso-valley-1914.jpg,joaquã­n sorolla,0.005485818,0.5027023
+Impressionism/santiago-rusinol_la-verja.jpg,santiago rusinol,0.0032846027,0.22366934
+Impressionism/eva-gonzales_an-actress-with-a-mask.jpg,eva gonzales,0.0030991475,0.20016046
+Impressionism/paul-cezanne_auvers-view-from-nearby.jpg,paul cezanne,0.00444787,0.37112874
+Impressionism/claude-monet_waterloo-bridge-sunlight-effect-2.jpg,claude monet,0.0033393719,0.23061205
+Impressionism/camille-pissarro_the-fields-of-eragny-the-apple-tree-1894.jpg,camille pissarro,0.0028142193,0.16404207
+Impressionism/eugene-boudin_fishwomen-seated-on-the-beach-at-berck.jpg,eugene boudin,0.0034840363,0.24895017
+Impressionism/joaquã­n-sorolla_galician-party.jpg,joaquã­n sorolla,0.0049551157,0.43542883
+Impressionism/pierre-auguste-renoir_girl-with-red-stockings-1886.jpg,pierre auguste renoir,0.0038181553,0.29130414
+Impressionism/claude-monet_red-boats-argenteuil-1875-oil-on-canvas-1875.jpg,claude monet,0.00404935,0.32061112
+Impressionism/nikolay-bogdanov-belsky_teacher-visitors.jpg,nikolay bogdanov belsky,0.0035225288,0.2538296
+Impressionism/winston-churchill_garden-scene-at-breccles(1).jpg,winston churchill,0.0046363324,0.39501885
+Impressionism/joaquã­n-sorolla_net-menders-in-valencia-1909.jpg,joaquã­n sorolla,0.0027710395,0.15856846
+Impressionism/max-slevogt_achill.jpg,max slevogt,0.0030527543,0.19427952
+Impressionism/theodor-pallady_case-la-turtucaia.jpg,theodor pallady,0.003219282,0.21538909
+Impressionism/joaquã­n-sorolla_portrait-of-a-gentleman.jpg,joaquã­n sorolla,0.00414983,0.33334827
+Impressionism/camille-pissarro_white-frost-at-eragny-1895.jpg,camille pissarro,0.0025096517,0.12543413
+Impressionism/alfred-sisley_a-turn-of-the-river-loing-summer-1896-1.jpg,alfred sisley,0.002485768,0.12240654
+Impressionism/claude-monet_the-grand-dock-at-le-havre-1872.jpg,claude monet,0.0038661975,0.29739413
+Impressionism/pierre-auguste-renoir_jean-renoir-in-a-chair-child-with-a-biscuit.jpg,pierre auguste renoir,0.002880186,0.17240423
+Impressionism/claude-monet_the-railway-bridge-at-argenteuil-1.jpg,claude monet,0.0025893645,0.13553877
+Impressionism/eugene-boudin_the-port-at-deauville.jpg,eugene boudin,0.0046030167,0.39079565
+Impressionism/edgar-degas_the-crucifixion-after-mantegna-1861.jpg,edgar degas,0.0034202498,0.2408644
+Impressionism/edgar-degas_three-dancers-in-yellow-skirts.jpg,edgar degas,0.0039525162,0.30833617
+Impressionism/pierre-auguste-renoir_the-port-of-martigues-1888.jpg,pierre auguste renoir,0.0036186164,0.26600996
+Impressionism/berthe-morisot_griffon-dog-s-head-follette.jpg,berthe morisot,0.0061609615,0.5882856
+Impressionism/alfred-sisley_under-the-bridge-at-hampton-court-1874.jpg,alfred sisley,0.0027813255,0.15987235
+Impressionism/pierre-auguste-renoir_woman-on-a-staircase.jpg,pierre auguste renoir,0.0026645286,0.1450668
+Impressionism/camille-pissarro_two-peasants.jpg,camille pissarro,0.0027860426,0.1604703
+Impressionism/pierre-auguste-renoir_woman-in-blue-and-zaza-in-a-landscape-1919.jpg,pierre auguste renoir,0.0022891965,0.09748853
+Impressionism/othon-friesz_le-haver-the-port-entrance-1897.jpg,othon friesz,0.0048833,0.42632523
+Impressionism/konstantin-korovin_gursuf-1914.jpg,konstantin korovin,0.0035786526,0.26094404
+Impressionism/claude-monet_the-road-to-the-farm-of-saint-simeon-in-winter.jpg,claude monet,0.005993652,0.567077
+Impressionism/claude-monet_the-road-to-vetheuil.jpg,claude monet,0.0017583988,0.030202957
+Impressionism/pierre-auguste-renoir_woman-in-a-red-blouse-1.jpg,pierre auguste renoir,0.00227946,0.0962543
+Impressionism/camille-pissarro_the-cabbage-of-pontoise-1882.jpg,camille pissarro,0.0027577367,0.15688217
+Impressionism/octav-bancila_can-cu-flori-de-c-mp-1930.jpg,octav bancila,0.004491078,0.37660596
+Impressionism/alfred-sisley_a-turn-of-the-river-loing-summer-1896.jpg,alfred sisley,0.0020937717,0.07271587
+Impressionism/pieter-wenning_the-bridge-rondebosch.jpg,pieter wenning,0.0016308404,0.014033244
+Impressionism/camille-pissarro_the-vegetable-garden-with-trees-in-blossom-spring-pontoise-1877.jpg,camille pissarro,0.0044339597,0.36936545
+Impressionism/guy-rose_giverny-hillside-1891.jpg,guy rose,0.0050192354,0.44355682
+Impressionism/antoine-blanchard_arc-de-triomphe-4.jpg,antoine blanchard,0.004723494,0.4060677
+Impressionism/camille-pissarro_resting-in-the-woods-pontoise-1878.jpg,camille pissarro,0.0023085664,0.09994391
+Impressionism/claude-monet_the-magpie-1869.jpg,claude monet,0.006410712,0.61994475
+Impressionism/panayiotis-tetsis_landsapce-of-ydra-2001.jpg,panayiotis tetsis,0.0033286512,0.22925307
+Impressionism/camille-pissarro_village-street-auvers-sur-oise-1873.jpg,camille pissarro,0.0045143324,0.37955374
+Impressionism/william-merritt-chase_shell-beach-at-shinnecock.jpg,william merritt chase,0.004186211,0.33796006
+Impressionism/henrique-pousao_st-sauves-1881.jpg,henrique pousao,0.003909653,0.3029027
+Impressionism/paul-signac_saint-tropez-gale-from-east-1895.jpg,paul signac,0.004258717,0.34715113
+Impressionism/pierre-auguste-renoir_woman-standing-by-a-tree.jpg,pierre auguste renoir,0.0044526677,0.3717369
+Impressionism/pierre-auguste-renoir_a-young-woman-1875.jpg,pierre auguste renoir,0.0018654357,0.04377129
+Impressionism/john-marin_new-york-fantasy-1912.jpg,john marin,0.0059873904,0.56628317
+Impressionism/gustave-caillebotte_the-gardener.jpg,gustave caillebotte,0.003500124,0.2509895
+Impressionism/claude-monet_two-vases-with-chrysanthems.jpg,claude monet,0.004139904,0.33209002
+Impressionism/camille-pissarro_pastoral.jpg,camille pissarro,0.0029776467,0.18475863
+Impressionism/mary-cassatt_a-baby-smiling-at-two-young-women-1873.jpg,mary cassatt,0.0021751234,0.08302827
+Impressionism/lovis-corinth_bowling-alley-1913.jpg,lovis corinth,0.004340861,0.35756397
+Impressionism/berthe-morisot_woman-with-a-child-in-a-boat.jpg,berthe morisot,0.0035457134,0.25676855
+Impressionism/william-james-glackens_mahone-bay-1911.jpg,william james glackens,0.004569333,0.38652578
+Impressionism/adam-baltatu_houses-in-bretania.jpg,adam baltatu,0.004557492,0.38502482
+Impressionism/pierre-auguste-renoir_woman-stoking-a-stove-1912.jpg,pierre auguste renoir,0.003391069,0.23716533
+Impressionism/pierre-auguste-renoir_woman-s-head-2.jpg,pierre auguste renoir,0.002780862,0.15981358
+Impressionism/odilon-redon_trees.jpg,odilon redon,0.0035690176,0.25972268
+Impressionism/rudolf-schweitzer-cumpana_so-ia-artistului-cus-nd-1938.jpg,rudolf schweitzer cumpana,0.004345573,0.35816127
+Impressionism/t.-c.-steele_berry-picker-1894.jpg,t. c. steele,0.0032071276,0.21384835
+Impressionism/eugene-boudin_deauville-the-harbor-1880.jpg,eugene boudin,0.0031079224,0.2012728
+Impressionism/joaquã­n-sorolla_on-san-sebastian-beach-1900.jpg,joaquã­n sorolla,0.0045864116,0.38869074
+Impressionism/alfred-sisley_the-loing-canal-1897.jpg,alfred sisley,0.0027319547,0.15361395
+Impressionism/lucian-grigorescu_cafeneaua-lui-mamut.jpg,lucian grigorescu,0.0021417937,0.07880329
+Impressionism/eugene-boudin_the-port-of-trouville-1895.jpg,eugene boudin,0.0029932167,0.18673235
+Impressionism/antoine-blanchard_flower-market-madeleine-2.jpg,antoine blanchard,0.0024457087,0.11732852
+Impressionism/claude-monet_valley-of-the-creuse-sunset-2.jpg,claude monet,0.0034974061,0.25064498
+Impressionism/claude-monet_norway-sandviken-village-in-the-snow.jpg,claude monet,0.0034756695,0.24788958
+Impressionism/giuseppe-de-nittis_woman-on-the-beach.jpg,giuseppe de nittis,0.0044175517,0.36728552
+Impressionism/gustave-caillebotte_woman-seated-on-the-lawn.jpg,gustave caillebotte,0.0036898311,0.27503738
+Impressionism/santiago-rusinol_white-farmhouse-bunyola-majorca-1902.jpg,santiago rusinol,0.004810903,0.417148
+Impressionism/gustave-caillebotte_rose-bush-in-flower.jpg,gustave caillebotte,0.004566753,0.38619873
+Impressionism/william-merritt-chase_seascape.jpg,william merritt chase,0.0052871974,0.47752452
+Impressionism/william-merritt-chase_shinnecock-landscape-1.jpg,william merritt chase,0.004229381,0.34343243
+Impressionism/egon-schiele_view-from-the-drawing-classroom-klosterneuburg.jpg,egon schiele,0.0023017416,0.09907879
+Impressionism/nicolae-vermont_namaiesti-monastery-1901.jpg,nicolae vermont,0.003133909,0.20456696
+Impressionism/pierre-auguste-renoir_garland-of-flowers.jpg,pierre auguste renoir,0.004684599,0.4011373
+Impressionism/camille-pissarro_self-portrait.jpg,camille pissarro,0.002282209,0.096602775
+Impressionism/paul-gauguin_tree-linen-road-rouen-1885.jpg,paul gauguin,0.0044218022,0.36782432
+Impressionism/berthe-morisot_little-dancer.jpg,berthe morisot,0.0047115926,0.40455905
+Impressionism/joaquã­n-sorolla_maria-1900.jpg,joaquã­n sorolla,0.003599505,0.26358736
+Impressionism/valentin-serov_portrait-of-children-of-s-botkin-1900.jpg,valentin serov,0.0041269143,0.3304434
+Impressionism/mary-cassatt_at-the-window-1889.jpg,mary cassatt,0.0027816102,0.15990844
+Impressionism/eugene-boudin_bordeaux-bacalan-view-from-the-quay.jpg,eugene boudin,0.0026617646,0.14471644
+Impressionism/childe-hassam_the-norwegian-cottage.jpg,childe hassam,0.0038796149,0.29909495
+Impressionism/childe-hassam_october-sundown-newport-1901.jpg,childe hassam,0.0029235957,0.17790698
+Impressionism/mary-cassatt_sara-in-a-large-flowered-hat-looking-right-holding-her-dog.jpg,mary cassatt,0.0032796892,0.2230465
+Impressionism/claude-monet_palazzo-dario-1908.jpg,claude monet,0.0034311402,0.2422449
+Impressionism/edgar-degas_dancer-in-blue-at-the-barre.jpg,edgar degas,0.0045066783,0.3785835
+Impressionism/edmund-charles-tarbell_portrait-of-elanor-hyde-phillips.jpg,edmund charles tarbell,0.003703955,0.27682778
+Impressionism/pierre-auguste-renoir_reclining-nude-the-baker-s-wife-1902.jpg,pierre auguste renoir,0.0032965336,0.22518174
+Impressionism/childe-hassam_flags-on-57th-street-winter-1918.jpg,childe hassam,0.002348553,0.10501274
+Impressionism/octav-bancila_evreu-din-t-rgu-cucului.jpg,octav bancila,0.004123439,0.33000287
+Impressionism/pierre-auguste-renoir_gabrielle-with-a-large-hat.jpg,pierre auguste renoir,0.0015802745,0.007623363
+Impressionism/william-merritt-chase_portrait-of-a-lady-in-pink-aka-lady-in-pink-portrait-of-mrs-leslie-cotton.jpg,william merritt chase,0.0037596927,0.28389323
+Impressionism/william-merritt-chase_dorothy.jpg,william merritt chase,0.004038226,0.319201
+Impressionism/camille-pissarro_landscape-at-saint-charles.jpg,camille pissarro,0.0030537916,0.19441101
+Impressionism/joaquã­n-sorolla_elenita-at-the-beach-asturias-1903.jpg,joaquã­n sorolla,0.0053168028,0.4812774
+Impressionism/lovis-corinth_donna-gravida-1909.jpg,lovis corinth,0.0024796682,0.12163333
+Impressionism/theo-van-rysselberghe_venetian-woman-marcella-1912.jpg,theo van rysselberghe,0.0046132193,0.39208895
+Impressionism/joaquã­n-sorolla_the-river-la-reina-valsain-1907.jpg,joaquã­n sorolla,0.0055846926,0.51523596
+Impressionism/konstantin-korovin_portrait-of-a-woman-1922.jpg,konstantin korovin,0.0033567376,0.23281339
+Impressionism/camille-pissarro_orchard-in-blossom-louveciennes-1872.jpg,camille pissarro,0.0020914099,0.07241648
+Impressionism/stefan-popescu_summer-landscape.jpg,stefan popescu,0.0048584603,0.42317647
+Impressionism/william-merritt-chase_man-with-bandana-1878.jpg,william merritt chase,0.0025287983,0.1278612
+Impressionism/childe-hassam_july-night.jpg,childe hassam,0.0033116585,0.22709903
+Impressionism/stefan-luchian_portrait-of-a-woman.jpg,stefan luchian,0.00384206,0.29433438
+Impressionism/eugene-boudin_beach-scene-5.jpg,eugene boudin,0.0046338905,0.3947093
+Impressionism/claude-monet_water-lilies-22.jpg,claude monet,0.0046004555,0.39047098
+Impressionism/john-henry-twachtman_road-scene-cincinnati.jpg,john henry twachtman,0.009408864,1.0
+Impressionism/edouard-manet_woman-with-a-gold-pin-1879.jpg,edouard manet,0.0036337695,0.2679308
+Impressionism/samuel-mutzner_prim-var-la-balcic-1934.jpg,samuel mutzner,0.0041526523,0.33370605
+Impressionism/theodor-pallady_vedere-spre-mediterana-1930.jpg,theodor pallady,0.0047114156,0.40453663
+Impressionism/john-singer-sargent_dolce-far-niente.jpg,john singer sargent,0.0033111111,0.22702964
+Impressionism/edgar-degas_self-portrait-with-evariste-de-valernes.jpg,edgar degas,0.0028059585,0.1629949
+Impressionism/claude-monet_saint-lazare-gare-normandy-train.jpg,claude monet,0.0017723746,0.03197457
+Impressionism/winston-churchill_wooded-water-near-blenheim.jpg,winston churchill,0.0045751696,0.38726565
+Impressionism/konstantin-korovin_paris-cafe-fragment-1895.jpg,konstantin korovin,0.0042912303,0.3512726
+Impressionism/camille-pissarro_the-brook-at-osny-1883.jpg,camille pissarro,0.005413474,0.49353176
+Impressionism/jean-alexandru-steriadi_case-din-via-ripetta-1921.jpg,jean alexandru steriadi,0.0044266568,0.3684397
+Impressionism/willard-metcalf_the-winter-s-festival.jpg,willard metcalf,0.0030453617,0.1933424
+Impressionism/claude-monet_rocks-at-falaise-near-giverny.jpg,claude monet,0.0024004208,0.11158768
+Impressionism/camille-pissarro_peasant-pushing-a-wheelbarrow-maison-rondest-pontoise-1874.jpg,camille pissarro,0.0043187775,0.35476458
+Impressionism/matej-sternen_woman-with-a-corset.jpg,matej sternen,0.004101378,0.32720634
+Impressionism/edouard-manet_lilac-in-a-glass.jpg,edouard manet,0.004858679,0.4232042
+Impressionism/claude-monet_vetheuil-6.jpg,claude monet,0.0021894975,0.08485037
+Impressionism/ferdynand-ruszczyc_pejzaz-z-cyprysami.jpg,ferdynand ruszczyc,0.004018764,0.31673393
+Impressionism/arkhip-kuindzhi_a-birch-grove-1.jpg,arkhip kuindzhi,0.004652706,0.3970944
+Impressionism/edouard-manet_woman-with-umbrella-1875.jpg,edouard manet,0.0029273569,0.17838374
+Impressionism/theodor-pallady_house-from-oltenia.jpg,theodor pallady,0.004700366,0.40313593
+Impressionism/lovis-corinth_tilla-durieux-as-a-spanish-dancer-1908.jpg,lovis corinth,0.0045348294,0.382152
+Impressionism/claude-monet_three-trees-in-summer.jpg,claude monet,0.002916234,0.17697379
+Impressionism/robert-julian-onderdonk_seascape-with-pines-and-overhanging-clouds-1901.jpg,robert julian onderdonk,0.0060554934,0.5749161
+Impressionism/augustus-john_king-feisal-of-iraq-1919.jpg,augustus john,0.004406226,0.36584982
+Impressionism/camille-pissarro_the-louvre-morning-1903.jpg,camille pissarro,0.0018131201,0.037139595
+Impressionism/pierre-auguste-renoir_view-at-guernsey-1883.jpg,pierre auguste renoir,0.0017844744,0.03350837
+Impressionism/camille-pissarro_mother-presle-montfoucault-1874.jpg,camille pissarro,0.0042736535,0.34904453
+Impressionism/adolf-hitler_bridge-with-towers.jpg,adolf hitler,0.0046249293,0.39357334
+Impressionism/alfred-sisley_langland-bay-1872.jpg,alfred sisley,0.004669078,0.3991698
+Impressionism/walter-sickert_harold-gilman.jpg,walter sickert,0.0033753852,0.23517722
+Impressionism/camille-pissarro_laundring-women-eragny-sur-eptes-1895.jpg,camille pissarro,0.004060896,0.32207474
+Impressionism/claude-monet_branch-of-lemons.jpg,claude monet,0.0041478104,0.33309227
+Impressionism/konstantin-korovin_woman-with-guitar-1919.jpg,konstantin korovin,0.0039840164,0.3123292
+Impressionism/georges-seurat_female-from-back-black-woman-1881.jpg,georges seurat,0.00410044,0.32708746
+Impressionism/joaquã­n-sorolla_castle-of-la-mota-medina-del-campo.jpg,joaquã­n sorolla,0.0032600837,0.22056124
+Impressionism/claude-monet_boaters-at-argenteuil.jpg,claude monet,0.0043022535,0.35266995
+Impressionism/camille-pissarro_a-cottage-in-the-snow-1879.jpg,camille pissarro,0.004042526,0.31974605
+Impressionism/alfred-sisley_women-laudering-1876.jpg,alfred sisley,0.0036739802,0.27302808
+Impressionism/maurice-prendergast_ladies-in-the-rain.jpg,maurice prendergast,0.005361663,0.48696405
+Impressionism/gerard-sekoto_portrait-of-manuels-cousin-1944.jpg,gerard sekoto,0.0028244888,0.16534387
+Impressionism/eva-gonzales_the-young-student.jpg,eva gonzales,0.0022512788,0.092681974
+Impressionism/alfred-sisley_the-barge-port-and-saint-mammes-1884.jpg,alfred sisley,0.004998821,0.44096902
+Impressionism/joaquã­n-sorolla_the-two-sisters-1909.jpg,joaquã­n sorolla,0.0053458405,0.48495832
+Impressionism/claude-monet_the-custom-s-house.jpg,claude monet,0.0034877528,0.24942128
+Impressionism/claude-monet_seascape-near-fecamp.jpg,claude monet,0.0028367713,0.16690083
+Impressionism/edouard-manet_self-portrait-with-skull-cap-1878.jpg,edouard manet,0.004521747,0.38049364
+Impressionism/paul-signac_saint-briac-courtyard-of-the-ville-hue-1885.jpg,paul signac,0.002895666,0.17436652
+Impressionism/theophrastos-triantafyllidis_photographer.jpg,theophrastos triantafyllidis,0.0033862854,0.23655896
+Impressionism/pablo-picasso_woman-with-cat-1900.jpg,pablo picasso,0.0033080694,0.22664405
+Impressionism/salvador-dali_llane-beach-cadaques.jpg,salvador dali,0.006074953,0.57738286
+Impressionism/pierre-auguste-renoir_landscape-with-figures-at-cagnes.jpg,pierre auguste renoir,0.0035361054,0.25555062
+Impressionism/konstantin-korovin_a-poor-shot.jpg,konstantin korovin,0.0045104534,0.37906203
+Impressionism/konstantin-korovin_arctic-ocean-1913.jpg,konstantin korovin,0.006048551,0.57403606
+Impressionism/camille-pissarro_street-in-the-snow-louveciennes.jpg,camille pissarro,0.0048551145,0.42275235
+Impressionism/camille-pissarro_flood-twilight-effect-eragny-1893.jpg,camille pissarro,0.0033301606,0.22944441
+Impressionism/marianne-north_the-street-of-blood-delhi-1880.jpg,marianne north,0.0018929734,0.047262054
+Impressionism/childe-hassam_isles-of-shoals-broad-cove.jpg,childe hassam,0.0037286845,0.27996254
+Impressionism/claude-monet_flowers-in-a-vase.jpg,claude monet,0.0038027645,0.28935316
+Impressionism/giovanni-fattori_self-portrait-1854.jpg,giovanni fattori,0.0030582335,0.19497408
+Impressionism/isaac-levitan_autumn-forest-1886.jpg,isaac levitan,0.004851934,0.42234918
+Impressionism/william-merritt-chase_the-garden-wall.jpg,william merritt chase,0.0034194267,0.24076006
+Impressionism/pierre-auguste-renoir_cagnes-landscape-1910-2.jpg,pierre auguste renoir,0.004179495,0.3371087
+Impressionism/lovis-corinth_portrait-of-sophie-cassirer-1906.jpg,lovis corinth,0.004254475,0.34661338
+Impressionism/arkhip-kuindzhi_lake-evening.jpg,arkhip kuindzhi,0.0039248927,0.3048345
+Impressionism/pierre-auguste-renoir_cagnes-landscape.jpg,pierre auguste renoir,0.0016769756,0.019881496
+Impressionism/camille-pissarro_sunrise-over-the-fields-eragny-1891.jpg,camille pissarro,0.004438852,0.3699856
+Impressionism/edgar-degas_achille-de-gas-1872.jpg,edgar degas,0.0035687601,0.25969002
+Impressionism/joaquã­n-sorolla_beach-of-biarritz-france.jpg,joaquã­n sorolla,0.0052395375,0.471483
+Impressionism/berthe-morisot_in-the-wheatfield-at-gennevilliers-1875.jpg,berthe morisot,0.004930166,0.43226612
+Impressionism/armand-guillaumin_moulin-bouchardon-crozant-1895.jpg,armand guillaumin,0.0036856437,0.27450657
+Impressionism/pierre-auguste-renoir_young-woman-in-a-hat-1.jpg,pierre auguste renoir,0.002303841,0.099344924
+Impressionism/adolf-hitler_country-road.jpg,adolf hitler,0.0047926507,0.41483423
+Impressionism/william-merritt-chase_the-black-kimono-1.jpg,william merritt chase,0.0031066567,0.20111236
+Impressionism/asgrimur-jonsson_scene-from-flj-tsdalsh-ra-in-east-iceland-1951.jpg,asgrimur jonsson,0.004385337,0.36320186
+Impressionism/pierre-auguste-renoir_still-life-with-peaches-and-grapes.jpg,pierre auguste renoir,0.004371426,0.36143848
+Impressionism/willard-metcalf_september.jpg,willard metcalf,0.0018608457,0.043189444
+Impressionism/alfred-sisley_windy-day-at-veneux-1882.jpg,alfred sisley,0.0032679844,0.22156276
+Impressionism/camille-pissarro_landscape-at-eragny.jpg,camille pissarro,0.005492815,0.5035892
+Impressionism/pierre-auguste-renoir_coastal-landscape-1904.jpg,pierre auguste renoir,0.0027676644,0.15814063
+Impressionism/henri-martin_windward.jpg,henri martin,0.0028809938,0.17250662
+Impressionism/edgar-degas_head-of-a-young-woman-1867.jpg,edgar degas,0.003328483,0.22923176
+Impressionism/eugene-boudin_boats-at-anchor-along-the-shore.jpg,eugene boudin,0.0031711864,0.20929234
+Impressionism/ivan-grohar_vrbe-ob-potoku-1911.jpg,ivan grohar,0.0053707943,0.48812154
+Impressionism/claude-monet_at-val-saint-nicolas-near-dieppe-morning.jpg,claude monet,0.0024036074,0.111991614
+Impressionism/claude-monet_garden-at-vetheuil.jpg,claude monet,0.0025565675,0.13138133
+Impressionism/eugene-boudin_oiseme-landscape-near-chartres-1893.jpg,eugene boudin,0.0034414052,0.24354613
+Impressionism/alfred-sisley_street-in-moret-porte-de-bourgogne-from-across-the-bridge.jpg,alfred sisley,0.0041092713,0.32820693
+Impressionism/giovanni-fattori_storming-of-the-madonna-della-scoperta-1862.jpg,giovanni fattori,0.0038425291,0.29439384
+Impressionism/guy-rose_marguerite-1918.jpg,guy rose,0.0035877146,0.26209277
+Impressionism/nutzi-acontz_interior-in-sozopol-1947.jpg,nutzi acontz,0.0036389893,0.2685925
+Impressionism/ilya-mashkov_georgia-kazbek-view-of-the-mountain-kabardzhino-and-village.jpg,ilya mashkov,0.0023549802,0.10582748
+Impressionism/arkhip-kuindzhi_a-birch-grove.jpg,arkhip kuindzhi,0.0063472367,0.6118984
+Impressionism/childe-hassam_gloucester-harbor.jpg,childe hassam,0.0017899695,0.034204952
+Impressionism/willard-metcalf_may-afternoon.jpg,willard metcalf,0.0031656488,0.20859037
+Impressionism/ivan-albright_view-from-the-hotel-window-of-roof-of-guild-hall-brussels-belgium-1976.jpg,ivan albright,0.0030870026,0.19862093
+Impressionism/pierre-auguste-renoir_aline-charigot-future-madame-renoir-1885.jpg,pierre auguste renoir,0.004575662,0.38732806
+Impressionism/john-miller_venice-light.jpg,john miller,0.0053462507,0.48501033
+Impressionism/cornelis-vreedenburgh_flower-beauty.jpg,cornelis vreedenburgh,0.0030626014,0.19552776
+Impressionism/georges-seurat_a-river-bank-the-seine-at-asnieres-1883.jpg,georges seurat,0.0031602585,0.20790708
+Impressionism/edouard-manet_rue-mosnier-decorated-with-flags-1878.jpg,edouard manet,0.0031579523,0.20761475
+Impressionism/claude-monet_a-woman-reading(1).jpg,claude monet,0.0062147216,0.5951004
+Impressionism/henri-matisse_blue-pot-and-lemon-1897.jpg,henri matisse,0.0044502136,0.37142584
+Impressionism/camille-pissarro_varengeville-sunset-1899.jpg,camille pissarro,0.004222614,0.34257463
+Impressionism/pierre-auguste-renoir_caryatides.jpg,pierre auguste renoir,0.0050457115,0.44691303
+Impressionism/pierre-auguste-renoir_leontine-and-coco-1909.jpg,pierre auguste renoir,0.0034225935,0.24116148
+Impressionism/camille-pissarro_the-gardener-afternoon-sun-eragny-1899.jpg,camille pissarro,0.0048923315,0.4274701
+Impressionism/paul-gauguin_rue-jouvenet-rouen-1884.jpg,paul gauguin,0.0021918637,0.085150324
+Impressionism/william-merritt-chase_weary-aka-who-rang.jpg,william merritt chase,0.0034573555,0.24556804
+Impressionism/pierre-auguste-renoir_madame-thurneyssan-and-her-daughter.jpg,pierre auguste renoir,0.003417223,0.2404807
+Impressionism/childe-hassam_rainy-day-boston.jpg,childe hassam,0.0029355553,0.179423
+Impressionism/childe-hassam_the-sonata-1.jpg,childe hassam,0.003691953,0.27530634
+Impressionism/pierre-auguste-renoir_landscape-3.jpg,pierre auguste renoir,0.0034247756,0.24143809
+Impressionism/henri-martin_woman-sitting-in-a-port-1.jpg,henri martin,0.0038960658,0.30118033
+Impressionism/edouard-manet_parisienne-study-of-ellen-andree-1874.jpg,edouard manet,0.004035549,0.31886163
+Impressionism/ion-andreescu_still-life.jpg,ion andreescu,0.003746778,0.28225613
+Impressionism/samuel-mutzner_dealuri-la-balcic.jpg,samuel mutzner,0.0044196635,0.3675532
+Impressionism/pierre-auguste-renoir_bust-of-a-young-girl-in-a-straw-hat-1917.jpg,pierre auguste renoir,0.0023860727,0.10976886
+Impressionism/john-henry-twachtman_tiger-lilies.jpg,john henry twachtman,0.0025300132,0.12801522
+Impressionism/paul-cezanne_bathers-1875.jpg,paul cezanne,0.0052309725,0.4703973
+Impressionism/georgios-jakobides_at-the-studio-1884.jpg,georgios jakobides,0.0040078987,0.3153566
+Impressionism/berthe-morisot_red-haired-girl-sitting-on-a-veranda-1884.jpg,berthe morisot,0.0035082758,0.25202286
+Impressionism/mary-cassatt_after-the-bath.jpg,mary cassatt,0.0029268,0.17831315
+Impressionism/pierre-auguste-renoir_roses-1890.jpg,pierre auguste renoir,0.0041383463,0.33189255
+Impressionism/frits-thaulow_landscape-and-river.jpg,frits thaulow,0.0035130864,0.25263265
+Impressionism/pierre-auguste-renoir_on-the-banks-of-the-seine-at-agenteuil-1880.jpg,pierre auguste renoir,0.0041666944,0.33548605
+Impressionism/gregoire-boonzaier_figures-and-cottages-1966.jpg,gregoire boonzaier,0.006384548,0.6166281
+Impressionism/pierre-auguste-renoir_the-skiff-1880.jpg,pierre auguste renoir,0.0027391603,0.15452735
+Impressionism/john-singer-sargent_rio-dei-mendicanti-venice.jpg,john singer sargent,0.0045022843,0.3780265
+Impressionism/pierre-auguste-renoir_posthumous-portrait-of-frederic-bazille.jpg,pierre auguste renoir,0.0036980433,0.27607837
+Impressionism/guy-rose_carmel-coast-1919.jpg,guy rose,0.0032068759,0.21381645
+Impressionism/edgar-degas_the-promenade-on-houseback-1868.jpg,edgar degas,0.0026812642,0.14718826
+Impressionism/samuel-mutzner_autoportret-la-evalet.jpg,samuel mutzner,0.003315088,0.22753377
+Impressionism/camille-pissarro_the-pont-royal-grey-weather-afternoon-spring-1902.jpg,camille pissarro,0.003697176,0.27596843
+Impressionism/alfred-sisley_a-turn-in-the-road-1885.jpg,alfred sisley,0.0047742613,0.41250312
+Impressionism/pierre-auguste-renoir_cagnes-landscape-1910-1.jpg,pierre auguste renoir,0.002943526,0.18043339
+Impressionism/willard-metcalf_may-pastoral.jpg,willard metcalf,0.0020856466,0.07168591
+Impressionism/pyotr-konchalovsky_study-1907.jpg,pyotr konchalovsky,0.005178545,0.46375144
+Impressionism/john-singer-sargent_the-simplon-1.jpg,john singer sargent,0.0034150367,0.24020357
+Impressionism/pierre-auguste-renoir_landscape-with-snow.jpg,pierre auguste renoir,0.0018947243,0.047484003
+Impressionism/childe-hassam_cotysville.jpg,childe hassam,0.0045221644,0.38054654
+Impressionism/pierre-auguste-renoir_purple-landscape.jpg,pierre auguste renoir,0.0026402697,0.14199167
+Impressionism/berthe-morisot_before-the-theatre.jpg,berthe morisot,0.00415889,0.33449674
+Impressionism/pierre-auguste-renoir_bather-from-the-back.jpg,pierre auguste renoir,0.0029919464,0.18657131
+Impressionism/arkhip-kuindzhi_sunset-1.jpg,arkhip kuindzhi,0.004674517,0.39985925
+Impressionism/nutzi-acontz_tatar-women-in-balcic.jpg,nutzi acontz,0.0037613392,0.28410196
+Impressionism/john-singer-sargent_la-biancheria-1910.jpg,john singer sargent,0.004093792,0.32624468
+Impressionism/auguste-rodin_the-shade-1880.jpg,auguste rodin,0.0055721197,0.5136422
+Impressionism/samuel-mutzner_vene-ia-1928.jpg,samuel mutzner,0.004562678,0.38568217
+Impressionism/nicolae-vermont_gypsy-woman-with-yellow-headscarf-1912.jpg,nicolae vermont,0.003864064,0.2971237
+Impressionism/walter-sickert_woman-washing-her-hair-1906.jpg,walter sickert,0.0044744476,0.3744978
+Impressionism/paul-gauguin_donkey-by-lane-1885.jpg,paul gauguin,0.0019579364,0.05549697
+Impressionism/adolf-hitler_smoking-tank-1916.jpg,adolf hitler,0.0054571647,0.4990701
+Impressionism/john-singer-sargent_reconnoitering.jpg,john singer sargent,0.004850773,0.42220202
+Impressionism/paul-cezanne_poplars-1880.jpg,paul cezanne,0.004758997,0.41056818
+Impressionism/theo-van-rysselberghe_holy-cross-church-at-ixelles-at-night-1886.jpg,theo van rysselberghe,0.003039472,0.19259581
+Impressionism/paul-gauguin_osny-the-gate-of-busagny-farm-1884.jpg,paul gauguin,0.004828533,0.4193828
+Impressionism/claude-monet_the-seine-at-port-villes-clear-weather.jpg,claude monet,0.00462092,0.3930651
+Impressionism/pierre-auguste-renoir_landscape-11.jpg,pierre auguste renoir,0.0030809755,0.19785692
+Impressionism/henri-catargi_landscape-from-arges-valley-1971.jpg,henri catargi,0.0026975044,0.14924692
+Impressionism/mary-cassatt_baby-in-his-mother-s-arms-sucking-his-finger-1889.jpg,mary cassatt,0.0027344322,0.15392801
+Impressionism/thalia-flora-karavia_repos-aux-champs.jpg,thalia flora karavia,0.0024693196,0.120321505
+Impressionism/pierre-auguste-renoir_little-river.jpg,pierre auguste renoir,0.0040586386,0.32178855
+Impressionism/marianne-north_view-of-both-falls-of-niagara-1871.jpg,marianne north,0.005639947,0.52224016
+Impressionism/alfred-sisley_saint-mammes-ducks-on-canal-1885.jpg,alfred sisley,0.0035905882,0.26245704
+Impressionism/claude-monet_the-old-rue-de-la-chaussee-argenteuil.jpg,claude monet,0.0034710858,0.24730852
+Impressionism/lucia-demetriade-balacescu_femeie-cu-evantai-1961.jpg,lucia demetriade balacescu,0.0024300418,0.11534252
+Impressionism/gregoire-boonzaier_shanty-town.jpg,gregoire boonzaier,0.004125573,0.3302734
+Impressionism/claude-monet_the-road-and-the-house.jpg,claude monet,0.0035141592,0.25276867
+Impressionism/claude-monet_jean-pierre-hoschede-called-bebe-jean.jpg,claude monet,0.0046038656,0.39090323
+Impressionism/abraham-manievich_still-life-with-glass.jpg,abraham manievich,0.0040502935,0.32073072
+Impressionism/edgar-degas_reclining-nude.jpg,edgar degas,0.0029143607,0.17673631
+Impressionism/claude-monet_the-arm-of-the-seine.jpg,claude monet,0.0040763407,0.32403255
+Impressionism/berthe-morisot_young-girl-with-a-parrot.jpg,berthe morisot,0.0028462673,0.16810457
+Impressionism/valentin-serov_fishing-vessels-in-arkhangelsk-1894.jpg,valentin serov,0.0022448725,0.09186988
+Impressionism/alfred-sisley_street-scene-in-marly-1876.jpg,alfred sisley,0.0030881716,0.19876912
+Impressionism/eugene-boudin_return-of-the-terre-neuvier-1875.jpg,eugene boudin,0.0050184834,0.4434615
+Impressionism/camille-pissarro_avenue-de-l-opera-morning-sunshine-1898.jpg,camille pissarro,0.0025481393,0.13031293
+Impressionism/henri-de-toulouse-lautrec_master-of-the-hunt.jpg,henri de toulouse lautrec,0.0045865118,0.38870344
+Impressionism/julian-alden-weir_summer-afternoon-shinnecock-landscape-1902.jpg,julian alden weir,0.0040829955,0.32487613
+Impressionism/pierre-auguste-renoir_the-first-step-1876.jpg,pierre auguste renoir,0.0025607313,0.13190913
+Impressionism/claude-monet_the-valley-of-sasso-sunshine.jpg,claude monet,0.0015715755,0.006520648
+Impressionism/claude-monet_ships-in-harbor.jpg,claude monet,0.006096838,0.5801571
+Impressionism/edgar-degas_portrait-of-a-woman.jpg,edgar degas,0.005920181,0.5577635
+Impressionism/alfred-sisley_railroad-embankment-at-sevres-1879.jpg,alfred sisley,0.002897225,0.17456414
+Impressionism/giovanni-boldini_the-two-children.jpg,giovanni boldini,0.0036774105,0.2734629
+Impressionism/mary-cassatt_head-of-a-young-girl-1876.jpg,mary cassatt,0.0044214493,0.36777958
+Impressionism/william-merritt-chase_in-the-park-paris.jpg,william merritt chase,0.0047370614,0.40778756
+Impressionism/isaac-levitan_corniche-southern-france-1894.jpg,isaac levitan,0.0034837287,0.24891119
+Impressionism/edgar-degas_woman-combing-her-hair-1.jpg,edgar degas,0.0029019811,0.17516704
+Impressionism/anders-zorn_a-premiere-1888.jpg,anders zorn,0.0038503858,0.29538977
+Impressionism/konstantin-korovin_paris-seine-1902.jpg,konstantin korovin,0.0027916594,0.16118231
+Impressionism/claude-monet_olive-trees-in-bordigher.jpg,claude monet,0.0041954177,0.33912712
+Impressionism/egon-schiele_forest-with-sunlit-clearing-in-the-background-1907.jpg,egon schiele,0.0033473736,0.23162638
+Impressionism/jan-toorop_edmond-picard-1885.jpg,jan toorop,0.0034466318,0.24420866
+Impressionism/claude-monet_cliffs-of-les-petites-dalles.jpg,claude monet,0.002460487,0.11920185
+Impressionism/pierre-auguste-renoir_landscape-1895.jpg,pierre auguste renoir,0.0037352366,0.2807931
+Impressionism/pierre-auguste-renoir_gabrielle-in-the-garden-at-cagnes-1911.jpg,pierre auguste renoir,0.0022227517,0.08906578
+Impressionism/william-merritt-chase_a-portrait-study.jpg,william merritt chase,0.0021908628,0.08502344
+Impressionism/konstantin-korovin_on-a-terrace-evening-in-the-coutry-1901.jpg,konstantin korovin,0.0042806007,0.34992516
+Impressionism/claude-monet_dolceacqua-bridge.jpg,claude monet,0.003436285,0.24289708
+Impressionism/childe-hassam_a-venetian-regatta.jpg,childe hassam,0.0035866247,0.2619546
+Impressionism/camille-pissarro_view-of-a-farm-in-osny-1883.jpg,camille pissarro,0.0048137805,0.4175127
+Impressionism/william-merritt-chase_portrait-of-a-lady-in-a-white-dress-aka-miss-edith-newbold.jpg,william merritt chase,0.0030041505,0.18811834
+Impressionism/edgar-degas_at-the-milliner-s.jpg,edgar degas,0.002517749,0.12646058
+Impressionism/camille-pissarro_the-fair-by-the-church-of-saint-jacques-dieppe-1901.jpg,camille pissarro,0.0025620922,0.13208164
+Impressionism/pierre-auguste-renoir_woman-with-a-muff.jpg,pierre auguste renoir,0.0039129006,0.30331436
+Impressionism/claude-monet_vetheuil-the-small-arm-of-the-seine.jpg,claude monet,0.0035067126,0.2518247
+Impressionism/claude-monet_the-manneport-seen-from-below.jpg,claude monet,0.0041112863,0.32846233
+Impressionism/john-singer-sargent_val-d-aosta-man-fishing.jpg,john singer sargent,0.0037785247,0.28628045
+Impressionism/robert-julian-onderdonk_evening-near-jackson-southwest-texas.jpg,robert julian onderdonk,0.0037295432,0.2800714
+Impressionism/auguste-herbin_the-coast-at-haute-isle-1906.jpg,auguste herbin,0.003194081,0.21219452
+Impressionism/frits-thaulow_cottage-by-a-canal-in-the-snow.jpg,frits thaulow,0.005819204,0.54496336
+Impressionism/joaquã­n-sorolla_boys-on-the-beach-1908.jpg,joaquã­n sorolla,0.0045878924,0.38887843
+Impressionism/camille-pissarro_the-backwoods-of-st-antony-pontoise-1876.jpg,camille pissarro,0.0027440807,0.15515108
+Impressionism/gustave-caillebotte_a-balcony-in-paris-1881.jpg,gustave caillebotte,0.0025440764,0.1297979
+Impressionism/gustave-caillebotte_horses-in-the-stable.jpg,gustave caillebotte,0.0050023072,0.44141096
+Impressionism/claude-monet_flowering-trees-near-the-coast-1926.jpg,claude monet,0.0035829036,0.2614829
+Impressionism/paul-cezanne_village-behind-trees-1879.jpg,paul cezanne,0.0037202986,0.27889952
+Impressionism/camille-pissarro_boulevard-montmartre-sunset-1897.jpg,camille pissarro,0.001837004,0.04016719
+Impressionism/max-slevogt_girl-in-front-of-the-lion-cage-1901.jpg,max slevogt,0.0033708168,0.23459812
+Impressionism/bela-czobel_sitting-peasant-1904.jpg,bela czobel,0.0043466734,0.35830075
+Impressionism/joaquã­n-sorolla_the-alcazar-1908.jpg,joaquã­n sorolla,0.0040893885,0.3256865
+Impressionism/camille-pissarro_landscape-at-osny.jpg,camille pissarro,0.0042875106,0.3508011
+Impressionism/pierre-auguste-renoir_dancer-1874.jpg,pierre auguste renoir,0.0036793929,0.27371418
+Impressionism/alfred-sisley_a-cardiff-shipping-lane-1897.jpg,alfred sisley,0.0033575965,0.23292227
+Impressionism/john-singer-sargent_oxen-in-repose.jpg,john singer sargent,0.0052276575,0.46997708
+Impressionism/stefan-luchian_lion-s-mouth.jpg,stefan luchian,0.0032440168,0.21852455
+Impressionism/konstantin-korovin_harbour-at-sebastopol-1916.jpg,konstantin korovin,0.0026419326,0.14220247
+Impressionism/maurice-prendergast_figures-on-the-grass-1895.jpg,maurice prendergast,0.002869803,0.17108804
+Impressionism/adam-baltatu_view-towards-balcic.jpg,adam baltatu,0.004731999,0.4071458
+Impressionism/william-merritt-chase_for-the-little-one-aka-hall-at-shinnecock.jpg,william merritt chase,0.003952475,0.3083309
+Impressionism/micaela-eleutheriade_peisaj-pe-valea-prahovei.jpg,micaela eleutheriade,0.002870122,0.17112847
+Impressionism/william-merritt-chase_sketch-on-a-young-girl-on-ocean-steamer.jpg,william merritt chase,0.002039617,0.06585104
+Impressionism/frederic-bazille_portrait-of-auguste-renoir-1867.jpg,frederic bazille,0.0020935035,0.072681874
+Impressionism/ion-andreescu_peasant-woman-with-green-headscarf.jpg,ion andreescu,0.0022308042,0.09008654
+Impressionism/childe-hassam_an-isles-of-shoals-day.jpg,childe hassam,0.004813197,0.41743878
+Impressionism/nicolae-vermont_a-walk-through-the-park-1915.jpg,nicolae vermont,0.0037388206,0.28124744
+Impressionism/claude-monet_valley-of-the-creuse.jpg,claude monet,0.003800452,0.28906003
+Impressionism/alfred-stevens_young-woman-with-the-red-umbrella-by-the-sea.jpg,alfred stevens,0.0047211247,0.40576738
+Impressionism/mary-cassatt_girl-s-head-green-background.jpg,mary cassatt,0.00490098,0.42856637
+Impressionism/egon-schiele_houses-on-the-town-square-in-klosterneuberg-1908.jpg,egon schiele,0.0029414669,0.18017237
+Impressionism/robert-julian-onderdonk_landscape-with-wagon.jpg,robert julian onderdonk,0.004261628,0.3475201
+Impressionism/winston-churchill_valley-in-southern-france.jpg,winston churchill,0.002763037,0.15755406
+Impressionism/winston-churchill_a-view-at-mimizan(1).jpg,winston churchill,0.0044584116,0.37246504
+Impressionism/maxime-maufra_isle-of-brehat-1892.jpg,maxime maufra,0.0030791976,0.19763155
+Impressionism/camille-pissarro_the-louvre-afternoon-rainy-weather-1900.jpg,camille pissarro,0.0034862193,0.2492269
+Impressionism/pierre-auguste-renoir_spring-at-catou-1873.jpg,pierre auguste renoir,0.0067385524,0.66150284
+Impressionism/t.-c.-steele_the-boatman-1884.jpg,t. c. steele,0.0030838496,0.19822125
+Impressionism/john-henry-twachtman_winter-silence-1900.jpg,john henry twachtman,0.003990586,0.313162
+Impressionism/john-atkinson-grimshaw_hampstead.jpg,john atkinson grimshaw,0.0033785119,0.23557356
+Impressionism/claude-monet_the-rock-needle-seen-through-the-porte-d-aval-1886.jpg,claude monet,0.0028015822,0.16244015
+Impressionism/alfred-sisley_thames-at-hampton-court-1874.jpg,alfred sisley,0.0031658113,0.20861098
+Impressionism/berthe-morisot_on-the-beach-at-portrieux.jpg,berthe morisot,0.0031736312,0.20960224
+Impressionism/alfred-sisley_the-loing-canal-at-saint-mammes-1884.jpg,alfred sisley,0.0046545677,0.3973304
+Impressionism/gustave-caillebotte_portrait-of-a-man-writing-in-his-study.jpg,gustave caillebotte,0.0030749822,0.1970972
+Impressionism/joaquã­n-sorolla_garden-of-lindaraja-1909.jpg,joaquã­n sorolla,0.00343862,0.24319305
+Impressionism/john-henry-twachtman_the-cabbage-patch-1893.jpg,john henry twachtman,0.0040168767,0.3164947
+Impressionism/winston-churchill_cloud-swept-landscape-in-south-france(1).jpg,winston churchill,0.0056592487,0.52468693
+Impressionism/eugene-boudin_laundresses-on-the-banks-of-the-touques.jpg,eugene boudin,0.0033038282,0.22610644
+Impressionism/antoine-blanchard_place-de-la-republic-2.jpg,antoine blanchard,0.0033385667,0.23051
+Impressionism/john-henry-twachtman_view-along-a-river.jpg,john henry twachtman,0.005723693,0.53285605
+Impressionism/roger-fry_portrait-of-edith-sitwell-1918.jpg,roger fry,0.0027307433,0.15346038
+Impressionism/abraham-manievich_flowers-on-a-yellow-table.jpg,abraham manievich,0.0037515736,0.28286403
+Impressionism/matej-sternen_presejanje-ita.jpg,matej sternen,0.0035404926,0.25610676
+Impressionism/camille-pissarro_self-portrait-1903.jpg,camille pissarro,0.004171555,0.3361022
+Impressionism/franz-marc_indersdorf-1904.jpg,franz marc,0.004326163,0.3557008
+Impressionism/pierre-auguste-renoir_the-luncheon.jpg,pierre auguste renoir,0.0023595018,0.10640065
+Impressionism/konstantin-korovin_lilacs-1915.jpg,konstantin korovin,0.0031733322,0.20956434
+Impressionism/nikolay-bogdanov-belsky_evening-angler.jpg,nikolay bogdanov belsky,0.0040498506,0.32067457
+Impressionism/antoine-blanchard_place-de-la-madeleine.jpg,antoine blanchard,0.003650336,0.27003086
+Impressionism/childe-hassam_dawn.jpg,childe hassam,0.0057393853,0.5348453
+Impressionism/edouard-manet_railway-1873.jpg,edouard manet,0.0028285692,0.1658611
+Impressionism/claude-monet_sunset-at-giverny.jpg,claude monet,0.0033766981,0.23534365
+Impressionism/childe-hassam_looking-into-beryl-pool.jpg,childe hassam,0.0034353652,0.24278046
+Impressionism/antoine-blanchard_gare-de-lest-2.jpg,antoine blanchard,0.0024631582,0.11954047
+Impressionism/edgar-degas_madame-deitz-monin-1879.jpg,edgar degas,0.003403883,0.23878969
+Impressionism/pierre-auguste-renoir_seated-bather-1913.jpg,pierre auguste renoir,0.0032997325,0.22558723
+Impressionism/claude-monet_the-beach-at-saint-adresse.jpg,claude monet,0.003510616,0.2523195
+Impressionism/john-henry-twachtman_landscape-5.jpg,john henry twachtman,0.0048348173,0.4201794
+Impressionism/robert-julian-onderdonk_mountain-laurel-in-bloom.jpg,robert julian onderdonk,0.0038761294,0.29865313
+Impressionism/pierre-auguste-renoir_the-grape-pickers-at-lunch.jpg,pierre auguste renoir,0.0044366396,0.36970517
+Impressionism/william-merritt-chase_the-model.jpg,william merritt chase,0.0038829306,0.29951528
+Impressionism/marie-bracquemond_woman-with-an-umbrella-1880.jpg,marie bracquemond,0.0037200472,0.27886766
+Impressionism/john-atkinson-grimshaw_reflections-on-the-thames-westminster-1880.jpg,john atkinson grimshaw,0.0050108824,0.44249797
+Impressionism/eugene-boudin_dunkirk-the-holland-basin-1889.jpg,eugene boudin,0.0024325799,0.11566426
+Impressionism/bela-kadar_portrait-of-the-artist-s-wife-1907.jpg,bela kadar,0.0020854734,0.07166395
+Impressionism/pierre-auguste-renoir_the-laundress-1.jpg,pierre auguste renoir,0.0015768812,0.007193206
+Impressionism/pierre-auguste-renoir_landscape-9.jpg,pierre auguste renoir,0.0034323174,0.24239412
+Impressionism/edouard-manet_in-the-bar-le-bouchon.jpg,edouard manet,0.0032144366,0.21477486
+Impressionism/edgar-degas_houses-at-the-foot-of-a-cliff-saint-valery-sur-somme.jpg,edgar degas,0.0030046988,0.18818785
+Impressionism/eugene-boudin_the-beach-at-trouville-1.jpg,eugene boudin,0.002375259,0.108398095
+Impressionism/pierre-auguste-renoir_maison-de-la-poste-1907.jpg,pierre auguste renoir,0.0035742216,0.26038235
+Impressionism/pierre-auguste-renoir_roses-in-a-vase-1.jpg,pierre auguste renoir,0.0049920664,0.4401128
+Impressionism/camille-pissarro_the-laundry-woman.jpg,camille pissarro,0.0039457,0.3074721
+Impressionism/john-singer-sargent_shady-paths-vizcaya-1917.jpg,john singer sargent,0.004139252,0.33200738
+Impressionism/robert-julian-onderdonk_spring-morning-1911.jpg,robert julian onderdonk,0.0026782881,0.14681101
+Impressionism/mary-cassatt_woman-at-her-toilette-1909.jpg,mary cassatt,0.0023863546,0.1098046
+Impressionism/pierre-auguste-renoir_portraits-of-marie-sophie-chocquet-1876.jpg,pierre auguste renoir,0.0036782133,0.27356467
+Impressionism/joaquã­n-sorolla_after-the-bath-1908.jpg,joaquã­n sorolla,0.0056094206,0.51837057
+Impressionism/camille-pissarro_poultry-market-pontoise-1892.jpg,camille pissarro,0.0049871155,0.43948522
+Impressionism/pierre-auguste-renoir_gabrielle-with-open-blouse.jpg,pierre auguste renoir,0.0017690414,0.031552043
+Impressionism/pierre-auguste-renoir_portrait-of-therese-berard-1879.jpg,pierre auguste renoir,0.0040935325,0.3262118
+Impressionism/basuki-abdullah_planning-for-the-future.jpg,basuki abdullah,0.0032191002,0.21536604
+Impressionism/winston-churchill_interior-at-breccles(1).jpg,winston churchill,0.004183642,0.33763438
+Impressionism/nicolae-vermont_docked-ship.jpg,nicolae vermont,0.0020915242,0.07243097
+Impressionism/camille-pissarro_the-seine-and-the-louvre-paris-1903.jpg,camille pissarro,0.0026586277,0.14431879
+Impressionism/edgar-degas_dancers-5.jpg,edgar degas,0.003863168,0.2970101
+Impressionism/boris-kustodiev_family-portrait-of-polenovs-family-portrait-1905.jpg,boris kustodiev,0.0029637327,0.18299486
+Impressionism/pierre-auguste-renoir_seated-woman-in-a-blue-dress-1915.jpg,pierre auguste renoir,0.0029722566,0.18407537
+Impressionism/mary-cassatt_the-banjo-lesson-1894.jpg,mary cassatt,0.004202059,0.33996898
+Impressionism/john-singer-sargent_carrara-workmen-1911.jpg,john singer sargent,0.0062729716,0.60248435
+Impressionism/laszlo-mednyanszky_landscape-at-autumn-1890.jpg,laszlo mednyanszky,0.0040529906,0.3210726
+Impressionism/claude-monet_poppy-field.jpg,claude monet,0.0036449092,0.26934293
+Impressionism/nicolae-darascu_self-portrait-1958.jpg,nicolae darascu,0.003059274,0.19510598
+Impressionism/eva-gonzales_portrait-of-a-young-woman.jpg,eva gonzales,0.0032713339,0.22198735
+Impressionism/childe-hassam_italian-day-may.jpg,childe hassam,0.0036362463,0.2682448
+Impressionism/edgar-degas_portrait-of-princess-pauline-de-metternich.jpg,edgar degas,0.0029719213,0.18403287
+Impressionism/arkhip-kuindzhi_dnieper-1901-1.jpg,arkhip kuindzhi,0.005402991,0.4922029
+Impressionism/camille-pissarro_bathers-3-1894.jpg,camille pissarro,0.0042826994,0.3501912
+Impressionism/edgar-degas_after-the-bath-woman-drying-herself-1892.jpg,edgar degas,0.004152698,0.33371183
+Impressionism/lovis-corinth_reclining-female-nude-1907.jpg,lovis corinth,0.0053972853,0.49147964
+Impressionism/claude-monet_frost.jpg,claude monet,0.0015201359,0.0
+Impressionism/dimitrie-paciurea_woman-nude-1920.jpg,dimitrie paciurea,0.004516844,0.37987214
+Impressionism/henry-herbert-la-thangue_the-plough-boy-1900.jpg,henry herbert la thangue,0.0054568797,0.499034
+Impressionism/claude-monet_bed-of-chrysanthemums.jpg,claude monet,0.004366577,0.3608238
+Impressionism/alfred-sisley_trees-in-bloom-1889.jpg,alfred sisley,0.0023108898,0.10023844
+Impressionism/claude-monet_by-the-river-at-vernon.jpg,claude monet,0.0025528108,0.1309051
+Impressionism/laszlo-mednyanszky_blossoming-trees-1900.jpg,laszlo mednyanszky,0.0050404686,0.4462484
+Impressionism/karoly-ferenczy_b-ni-and-no-mi-1908.jpg,karoly ferenczy,0.004519237,0.3801755
+Impressionism/alfred-sisley_the-straw-rent-1888.jpg,alfred sisley,0.002898218,0.17469002
+Impressionism/antoine-blanchard_caf-de-la-paix-2.jpg,antoine blanchard,0.0026243296,0.13997106
+Impressionism/augustus-john_portrait-of-a-jamaican-woman-1937.jpg,augustus john,0.0028851035,0.17302758
+Impressionism/joaquã­n-sorolla_rocks-and-white-boat-javea-1905.jpg,joaquã­n sorolla,0.002604463,0.13745269
+Impressionism/claude-monet_cliff-near-dieppe.jpg,claude monet,0.0038033288,0.2894247
+Impressionism/eugene-boudin_canel-near-dordrecht-1884.jpg,eugene boudin,0.0042302464,0.3435421
+Impressionism/childe-hassam_maude-sewing.jpg,childe hassam,0.0055904444,0.5159651
+Impressionism/eugene-boudin_beach-at-trouville.jpg,eugene boudin,0.0038602045,0.29663444
+Impressionism/william-merritt-chase_end-of-the-season-sun.jpg,william merritt chase,0.0038376502,0.29377538
+Impressionism/willard-metcalf_winter-in-new-hampshire-1914.jpg,willard metcalf,0.0021775926,0.08334127
+Impressionism/ion-andreescu_chrysanthemum.jpg,ion andreescu,0.0039381515,0.30651525
+Impressionism/philip-wilson-steer_girl-on-a-sofa-1891.jpg,philip wilson steer,0.0047458685,0.408904
+Impressionism/istvan-nagy_waterfront.jpg,istvan nagy,0.003349314,0.23187235
+Impressionism/antoine-blanchard_place-du-chatelet.jpg,antoine blanchard,0.00279449,0.16154112
+Impressionism/claude-monet_the-doges-palace-seen-from-san-giorgio-maggiore-4.jpg,claude monet,0.003379661,0.23571922
+Impressionism/pierre-auguste-renoir_still-life-with-peaches-and-chestnuts.jpg,pierre auguste renoir,0.0023922925,0.1105573
+Impressionism/edgar-degas_man-s-head.jpg,edgar degas,0.005088025,0.4522768
+Impressionism/claude-monet_the-japanese-bridge-5-1924.jpg,claude monet,0.0038878527,0.3001392
+Impressionism/stefan-dimitrescu_mangalia-beach-1930.jpg,stefan dimitrescu,0.0059646927,0.56340593
+Impressionism/camille-pissarro_the-snack-child-and-young-peasant-at-rest-1882.jpg,camille pissarro,0.004121729,0.32978612
+Impressionism/william-merritt-chase_hall-at-shinnecock.jpg,william merritt chase,0.0056776614,0.527021
+Impressionism/claude-monet_snow-at-argenteuil.jpg,claude monet,0.0062485696,0.5993911
+Impressionism/nicolae-vermont_woman-with-red-umbrella-1889.jpg,nicolae vermont,0.0018718741,0.044587437
+Impressionism/adolf-hitler_church-at-dawn.jpg,adolf hitler,0.00235934,0.10638014
+Impressionism/childe-hassam_sunset-isle-of-shoals.jpg,childe hassam,0.0031351394,0.2047229
+Impressionism/camille-pissarro_the-louvre-1902.jpg,camille pissarro,0.0023321633,0.102935135
+Impressionism/guy-rose_study-for-the-cathedral-tours.jpg,guy rose,0.004299137,0.35227486
+Impressionism/paul-gauguin_street-in-rouen-1884.jpg,paul gauguin,0.0030996425,0.20022321
+Impressionism/maurice-prendergast_the-orange-market.jpg,maurice prendergast,0.0023626625,0.10680131
+Impressionism/camille-pissarro_the-pont-neuf-snow-1902.jpg,camille pissarro,0.0037056317,0.2770403
+Impressionism/berthe-morisot_girl-playing-the-mandolin.jpg,berthe morisot,0.0031378865,0.20507114
+Impressionism/rudolf-schweitzer-cumpana_vas-cu-trandafiri-1971.jpg,rudolf schweitzer cumpana,0.0025697404,0.13305116
+Impressionism/claude-monet_morning-on-the-seine-2.jpg,claude monet,0.0032393998,0.21793927
+Impressionism/childe-hassam_flower-market.jpg,childe hassam,0.0026590629,0.14437395
+Impressionism/robert-julian-onderdonk_snow-near-the-cave-central-park-new-york-1902.jpg,robert julian onderdonk,0.004628381,0.39401093
+Impressionism/pierre-auguste-renoir_seated-young-woman-nude-1910.jpg,pierre auguste renoir,0.0034419966,0.2436211
+Impressionism/arkhip-kuindzhi_poplar-trees.jpg,arkhip kuindzhi,0.003088867,0.19885728
+Impressionism/alfred-sisley_near-the-seine-at-by.jpg,alfred sisley,0.0036704657,0.27258253
+Impressionism/childe-hassam_home-sweet-home-cottage-east-hampton.jpg,childe hassam,0.0037984357,0.2888044
+Impressionism/claude-monet_ice-floes-on-the-seine-at-bougival-1868.jpg,claude monet,0.0034439948,0.24387439
+Impressionism/childe-hassam_east-gloucester-end-of-trolly-line.jpg,childe hassam,0.0020857232,0.07169562
+Impressionism/nutzi-acontz_old-street-in-pont-aven.jpg,nutzi acontz,0.0034715862,0.24737196
+Impressionism/ivan-albright_tahiti-1969.jpg,ivan albright,0.004544476,0.38337484
+Impressionism/t.-c.-steele_beech-trees-1895.jpg,t. c. steele,0.0049511623,0.43492767
+Impressionism/guy-rose_laguna-eucalyptus-1917.jpg,guy rose,0.004964015,0.4365569
+Impressionism/nutzi-acontz_the-sleep.jpg,nutzi acontz,0.0052411533,0.47168782
+Impressionism/eugene-boudin_the-valley-of-the-touques-cows-in-the-meadow-1892.jpg,eugene boudin,0.003377813,0.23548496
+Impressionism/antã³nio-de-carvalho-da-silva-porto_no-areinho-douro-1880.jpg,antã³nio de carvalho da silva porto,0.003934137,0.30600637
+Impressionism/ilya-repin_follow-me-satan-temptation-of-jesus-christ-1903.jpg,ilya repin,0.0028866224,0.17322011
+Impressionism/t.-c.-steele_weekly-wash.jpg,t. c. steele,0.0048012743,0.41592738
+Impressionism/lovis-corinth_in-the-fisherman-s-house-1886.jpg,lovis corinth,0.002516089,0.12625013
+Impressionism/eugene-boudin_antibes-the-fortifications.jpg,eugene boudin,0.002509147,0.12537014
+Impressionism/berthe-morisot_the-tuileries.jpg,berthe morisot,0.006444162,0.624185
+Impressionism/claude-monet_leicester-square-at-night.jpg,claude monet,0.0042270804,0.34314078
+Impressionism/william-james-glackens_bowlers-la-ciotat-1930.jpg,william james glackens,0.003353455,0.23239729
+Impressionism/childe-hassam_ponte-santa-trinita.jpg,childe hassam,0.004125058,0.33020812
+Impressionism/claude-monet_the-grand-canal.jpg,claude monet,0.003902871,0.30204296
+Impressionism/childe-hassam_pont-royal-paris.jpg,childe hassam,0.0021488976,0.07970381
+Impressionism/claude-monet_red-houses-at-bjornegaard-in-the-snow-norway.jpg,claude monet,0.005882928,0.5530412
+Impressionism/claude-monet_the-artist-s-house-in-argenteuil.jpg,claude monet,0.0021756992,0.083101265
+Impressionism/pierre-auguste-renoir_woman-in-a-blue-blouse.jpg,pierre auguste renoir,0.0017802694,0.032975342
+Impressionism/stefan-luchian_roses.jpg,stefan luchian,0.0035769558,0.26072893
+Impressionism/max-liebermann_rider-on-the-beach-1904.jpg,max liebermann,0.0026263725,0.14023001
+Impressionism/winston-churchill_a-storm-over-cannes(1).jpg,winston churchill,0.0067400103,0.6616877
+Impressionism/pericles-pantazis_portrait-of-a-boy(1).jpg,pericles pantazis,0.004197295,0.33936507
+Impressionism/pyotr-konchalovsky_archangelsk-ships-in-port-1903.jpg,pyotr konchalovsky,0.006274411,0.6026668
+Impressionism/camille-pissarro_women-tending-the-laundry-study.jpg,camille pissarro,0.0020169646,0.062979564
+Impressionism/edgar-degas_ballet-class-the-dance-hall-1880.jpg,edgar degas,0.002929845,0.17869914
+Impressionism/armand-guillaumin_winter-in-saint-sauves-auvergne-1900.jpg,armand guillaumin,0.0028883961,0.17344496
+Impressionism/claude-monet_path-at-giverny-1903.jpg,claude monet,0.002581248,0.1345099
+Impressionism/pierre-auguste-renoir_self-portrait-2.jpg,pierre auguste renoir,0.0033350072,0.23005879
+Impressionism/john-singer-sargent_boboli-1907.jpg,john singer sargent,0.006815582,0.6712674
+Impressionism/claude-monet_gestrandetes-boot-in-fecamp.jpg,claude monet,0.0041449624,0.33273125
+Impressionism/joaquã­n-sorolla_women-on-the-beach-in-san-sebastian.jpg,joaquã­n sorolla,0.004539069,0.3826894
+Impressionism/guy-rose_laguna-coast-1910.jpg,guy rose,0.002637658,0.14166062
+Impressionism/joaquã­n-sorolla_valencia-beach-in-the-morning-light-1908.jpg,joaquã­n sorolla,0.005134555,0.4581751
+Impressionism/mary-cassatt_woman-standing-holding-a-fan-1879.jpg,mary cassatt,0.0035814059,0.26129305
+Impressionism/william-merritt-chase_portrait-of-erla-howell-aka-little-miss-h.jpg,william merritt chase,0.0031002557,0.20030095
+Impressionism/frantisek-kupka_the-tree-1906.jpg,frantisek kupka,0.0044139232,0.36682555
+Impressionism/umberto-boccioni_self-portrait-1905.jpg,umberto boccioni,0.0032257661,0.21621104
+Impressionism/eugene-boudin_the-beach-at-trouville.jpg,eugene boudin,0.003290982,0.224478
+Impressionism/gustave-caillebotte_cliff-at-villers-sur-me.jpg,gustave caillebotte,0.0035321044,0.25504345
+Impressionism/karoly-ferenczy_morning-sunshine-1905.jpg,karoly ferenczy,0.0036489638,0.2698569
+Impressionism/alfred-sisley_at-moret-sur-loing-1892.jpg,alfred sisley,0.0041707484,0.33599997
+Impressionism/claude-monet_the-coast-of-varengeville.jpg,claude monet,0.003160625,0.20795354
+Impressionism/raoul-dufy_view-of-a-port.jpg,raoul dufy,0.0030231136,0.19052216
+Impressionism/claude-monet_the-seine-below-rouen.jpg,claude monet,0.0028027075,0.1625828
+Impressionism/alfred-sisley_meadow-1875.jpg,alfred sisley,0.0039396845,0.30670956
+Impressionism/robert-julian-onderdonk_redbud-tree-in-bloom-at-leon-springs-san-antonio-1921.jpg,robert julian onderdonk,0.0037613711,0.28410602
+Impressionism/edgar-degas_at-saint-valery-sur-somme.jpg,edgar degas,0.003407433,0.2392397
+Impressionism/alfred-sisley_apple-trees-in-flower-spring-morning-pommiers-en-fleurs-louveciennes-1873.jpg,alfred sisley,0.0020412963,0.06606393
+Impressionism/joaquã­n-sorolla_ibiza-house-1919.jpg,joaquã­n sorolla,0.0037234414,0.27929792
+Impressionism/jean-alexandru-steriadi_vedere-din-balcic-1933.jpg,jean alexandru steriadi,0.005023216,0.4440614
+Impressionism/alfred-sisley_landscape-at-louveciennes.jpg,alfred sisley,0.0034439396,0.2438674
+Impressionism/julian-alden-weir_ravine-near-branchville-1915.jpg,julian alden weir,0.0038519541,0.29558858
+Impressionism/edgar-degas_after-the-bath-1.jpg,edgar degas,0.0033322095,0.22970414
+Impressionism/claude-monet_the-cabin-at-saint-adresse.jpg,claude monet,0.0038265924,0.29237366
+Impressionism/pierre-auguste-renoir_misia-1904.jpg,pierre auguste renoir,0.0022904812,0.09765139
+Impressionism/arkhip-kuindzhi_cloud-1.jpg,arkhip kuindzhi,0.0065198583,0.6337805
+Impressionism/claude-monet_bordighera-the-house-of-gardener.jpg,claude monet,0.0044775377,0.37488952
+Impressionism/john-singer-sargent_washerwomen.jpg,john singer sargent,0.003045443,0.19335271
+Impressionism/claude-monet_geldersekade-of-amsterdam-invierno-1874.jpg,claude monet,0.0050668325,0.44959038
+Impressionism/claude-monet_palm-tree-at-bordighera.jpg,claude monet,0.003348542,0.23177448
+Impressionism/eugene-boudin_le-havre-heavy-winds-off-of-frascati-1896.jpg,eugene boudin,0.004272041,0.34884012
+Impressionism/camille-pissarro_the-effect-of-snow-at-montfoucault-1891.jpg,camille pissarro,0.003922306,0.30450663
+Impressionism/childe-hassam_the-bathers.jpg,childe hassam,0.0042064195,0.34052172
+Impressionism/pierre-auguste-renoir_cabin-with-aloe-plants.jpg,pierre auguste renoir,0.0026373675,0.14162378
+Impressionism/nicolae-darascu_still-life-with-pumpkin.jpg,nicolae darascu,0.004872813,0.42499584
+Impressionism/edgar-degas_jeantaud-linet-and-laine-1871.jpg,edgar degas,0.0020627137,0.068778865
+Impressionism/william-merritt-chase_reflection.jpg,william merritt chase,0.0038269334,0.2924169
+Impressionism/childe-hassam_promenade.jpg,childe hassam,0.0039075105,0.3026311
+Impressionism/edgar-degas_the-cafe-concert-the-song-of-the-dog-1877.jpg,edgar degas,0.003016347,0.18966442
+Impressionism/arkhip-kuindzhi_red-sunset.jpg,arkhip kuindzhi,0.005858164,0.549902
+Impressionism/arkhip-kuindzhi_sunset.jpg,arkhip kuindzhi,0.0046731154,0.39968157
+Impressionism/pierre-auguste-renoir_bather.jpg,pierre auguste renoir,0.00275991,0.15715764
+Impressionism/edouard-manet_madame-manet-at-bellevue-1880.jpg,edouard manet,0.003984788,0.312427
+Impressionism/micaela-eleutheriade_peisaj-la-balcic-1936.jpg,micaela eleutheriade,0.004244957,0.3454069
+Impressionism/konstantin-korovin_flowers-1916.jpg,konstantin korovin,0.002891554,0.17384526
+Impressionism/pierre-auguste-renoir_the-farm-1914.jpg,pierre auguste renoir,0.004397889,0.36479303
+Impressionism/edgar-degas_the-invalid.jpg,edgar degas,0.0020978122,0.07322807
+Impressionism/claude-monet_the-japanese-bridge-8-1924.jpg,claude monet,0.0023250093,0.10202828
+Impressionism/pierre-auguste-renoir_gladiolas-in-a-blue-vase.jpg,pierre auguste renoir,0.003961243,0.30944243
+Impressionism/claude-monet_houses-at-falaise-in-the-fog.jpg,claude monet,0.004489125,0.3763584
+Impressionism/rudolf-schweitzer-cumpana_la-v-rtelni-1929.jpg,rudolf schweitzer cumpana,0.0035793998,0.26103875
+Impressionism/claude-monet_branch-of-lemons-1.jpg,claude monet,0.0049077165,0.42942035
+Impressionism/adam-baltatu_houses-at-the-edge-of-the-forest.jpg,adam baltatu,0.003548869,0.25716856
+Impressionism/nikolay-bogdanov-belsky_first-lesson.jpg,nikolay bogdanov belsky,0.0033127498,0.22723736
+Impressionism/childe-hassam_mountain-home-idaho.jpg,childe hassam,0.0039673224,0.31021303
+Impressionism/helene-schjerfbeck_portrait-of-a-child-1883.jpg,helene schjerfbeck,0.005413643,0.4935532
+Impressionism/nikolay-bogdanov-belsky_road-in-a-winter-garden-1930.jpg,nikolay bogdanov belsky,0.006735566,0.6611243
+Impressionism/ipolit-strambu_in-the-family-1927.jpg,ipolit strambu,0.0038360404,0.29357132
+Impressionism/eugene-boudin_the-port-of-ke-havre-dock-of-la-barre-1888.jpg,eugene boudin,0.0029295452,0.17866115
+Impressionism/valentin-serov_sofia-vladimirovna-born-glebova.jpg,valentin serov,0.0032494513,0.21921344
+Impressionism/childe-hassam_isles-of-shoals-garden-aka-the-garden-in-its-glory.jpg,childe hassam,0.004400593,0.36513582
+Impressionism/john-lavery_a-da-a-moorish-maid.jpg,john lavery,0.004444427,0.37069228
+Impressionism/john-atkinson-grimshaw_day-dreams.jpg,john atkinson grimshaw,0.002878997,0.17225349
+Impressionism/abdullah-suriosubroto_suburnya-negeriku.jpg,abdullah suriosubroto,0.0044458606,0.37087405
+Impressionism/edgar-degas_dancers-resting-1879.jpg,edgar degas,0.0024468962,0.117479034
+Impressionism/anders-zorn_impressions-of-london-1890.jpg,anders zorn,0.0038739902,0.29838195
+Impressionism/petro-kholodny-(elder)_winter-in-the-forest-sketch-1920.jpg,petro kholodny (elder),0.005467757,0.5004128
+Impressionism/camille-pissarro_the-tedder-1884.jpg,camille pissarro,0.0062583108,0.60062593
+Impressionism/childe-hassam_fifth-avenue-in-winter-1.jpg,childe hassam,0.0048083,0.41681802
+Impressionism/frits-thaulow_a-snowy-harbor-view.jpg,frits thaulow,0.0030239902,0.19063328
+Impressionism/eugene-boudin_brest-the-harbor-1.jpg,eugene boudin,0.00274253,0.15495452
+Impressionism/franz-marc_self-portrait-1905.jpg,franz marc,0.0034670415,0.24679586
+Impressionism/ipolit-strambu_girl-sewing.jpg,ipolit strambu,0.0040126373,0.3159573
+Impressionism/william-merritt-chase_reclining-nude.jpg,william merritt chase,0.0044633844,0.37309542
+Impressionism/claude-monet_fog-1872.jpg,claude monet,0.0033573585,0.2328921
+Impressionism/eugene-boudin_fishing-boats-aground-and-at-sea-1880.jpg,eugene boudin,0.0017610666,0.030541131
+Impressionism/pierre-auguste-renoir_the-old-port-of-marseille-people-and-boats-1890.jpg,pierre auguste renoir,0.0043620258,0.36024687
+Impressionism/robert-julian-onderdonk_panoramic-landscape.jpg,robert julian onderdonk,0.004820612,0.41837868
+Impressionism/william-merritt-chase_portrait-of-a-woman.jpg,william merritt chase,0.0028618446,0.1700792
+Impressionism/john-lavery_the-opening-of-the-modern-foreign-and-sargent-galleries-at-the-tate-gallery-26-june-1926-1926.jpg,john lavery,0.0036336505,0.26791573
+Impressionism/henri-martin_marseilles-1.jpg,henri martin,0.0029567962,0.18211557
+Impressionism/pierre-auguste-renoir_gabrielle-in-a-chemise-1905.jpg,pierre auguste renoir,0.0042988937,0.35224405
+Impressionism/paul-cezanne_the-feast-the-banquet-of-nebuchadnezzar.jpg,paul cezanne,0.004519664,0.38022962
+Impressionism/james-mcneill-whistler_blue-and-silver-the-chopping-channel.jpg,james mcneill whistler,0.0066096606,0.64516413
+Impressionism/alfred-sisley_sevres-bridge-1877.jpg,alfred sisley,0.0037889301,0.28759947
+Impressionism/giuseppe-de-nittis_sarah-bernhardt-as-pierrot.jpg,giuseppe de nittis,0.0073855715,0.74352103
+Impressionism/lovis-corinth_the-walchensee-with-a-larch-tree-1921.jpg,lovis corinth,0.004524339,0.3808222
+Impressionism/paul-signac_port-en-bessin-the-beach-1883.jpg,paul signac,0.0034845227,0.24901183
+Impressionism/pierre-auguste-renoir_woman-at-the-garden-1873.jpg,pierre auguste renoir,0.0020749657,0.07033197
+Impressionism/henri-de-toulouse-lautrec_fishing-boat-1880.jpg,henri de toulouse lautrec,0.0037244463,0.2794253
+Impressionism/anders-zorn_self-portrait-with-faun-and-nymph.jpg,anders zorn,0.00273458,0.15394676
+Impressionism/anton-azbe_in-a-studio-1905.jpg,anton azbe,0.004511042,0.37913665
+Impressionism/joaquã­n-sorolla_snapshot-at-biarritz-1906.jpg,joaquã­n sorolla,0.006609215,0.6451076
+Impressionism/edgar-degas_young-spartans-exercising-1860-1.jpg,edgar degas,0.0037916559,0.287945
+Impressionism/childe-hassam_a-long-island-garden.jpg,childe hassam,0.0017981327,0.03523974
+Impressionism/theo-van-rysselberghe_the-dunes-zwin-knokke-1887.jpg,theo van rysselberghe,0.0034986937,0.25080818
+Impressionism/claude-monet_charing-cross-bridge-overcast-weather.jpg,claude monet,0.0049154293,0.43039805
+Impressionism/t.-c.-steele_okemo-mountain-ludlow-vermont-1887.jpg,t. c. steele,0.003569538,0.25978863
+Impressionism/eugene-boudin_camaret-the-jetty-1873.jpg,eugene boudin,0.004538282,0.38258964
+Impressionism/berthe-morisot_lucie-leon-at-the-piano-1892.jpg,berthe morisot,0.0029771158,0.18469134
+Impressionism/alfred-sisley_snow-at-louveciennes-1878.jpg,alfred sisley,0.004961859,0.43628362
+Impressionism/childe-hassam_world-s-fair-chicago-1894.jpg,childe hassam,0.0035132177,0.2526493
+Impressionism/william-merritt-chase_woman-of-holland.jpg,william merritt chase,0.0023752435,0.10839611
+Impressionism/berthe-morisot_in-the-bois-de-boulogne.jpg,berthe morisot,0.0051558064,0.46086898
+Impressionism/mikhail-nesterov_pentecost-1881.jpg,mikhail nesterov,0.0042265547,0.34307414
+Impressionism/claude-monet_lane-in-normandy.jpg,claude monet,0.0032114165,0.21439204
+Impressionism/eugene-boudin_trouville-beach-scene-1.jpg,eugene boudin,0.003974816,0.31116292
+Impressionism/robert-julian-onderdonk_late-afternoon-valley-of-the-leon.jpg,robert julian onderdonk,0.002927842,0.17844525
+Impressionism/childe-hassam_woman-reading.jpg,childe hassam,0.004311828,0.35388362
+Impressionism/octav-angheluta_rest.jpg,octav angheluta,0.0038593197,0.2965223
+Impressionism/piet-mondrian_portrait-of-a-girl-with-flowers-1.jpg,piet mondrian,0.0040065013,0.31517947
+Impressionism/john-singer-sargent_portrait-of-ambrogio-raffele-1911.jpg,john singer sargent,0.0061151786,0.58248204
+Impressionism/claude-monet_water-lilies-1917-2.jpg,claude monet,0.0051232916,0.45674732
+Impressionism/guy-rose_grey-afternoon.jpg,guy rose,0.0034070916,0.23919642
+Impressionism/claude-monet_boats-on-the-beach.jpg,claude monet,0.0038937288,0.3008841
+Impressionism/federico-zandomeneghi_young-girl-reading.jpg,federico zandomeneghi,0.003975141,0.31120414
+Impressionism/edgar-degas_the-dancing-class-1874.jpg,edgar degas,0.0027487488,0.15574282
+Impressionism/pierre-auguste-renoir_onions-1881.jpg,pierre auguste renoir,0.002956431,0.18206926
+Impressionism/valentin-serov_portrait-of-anton-chekhov-1903.jpg,valentin serov,0.003924988,0.3048466
+Impressionism/paul-cezanne_the-pond-of-the-jas-de-bouffan-1878.jpg,paul cezanne,0.0049410528,0.43364614
+Impressionism/pierre-auguste-renoir_young-woman-reading.jpg,pierre auguste renoir,0.003674643,0.2731121
+Impressionism/john-singer-sargent_perseus-florence.jpg,john singer sargent,0.005923824,0.55822533
+Impressionism/mary-cassatt_little-girl-with-cap-sun.jpg,mary cassatt,0.0038276925,0.2925131
+Impressionism/lovis-corinth_portrait-of-eleonore-von-wilke-countess-finkh-1907.jpg,lovis corinth,0.003984466,0.31238624
+Impressionism/eugene-boudin_deauville-on-the-jetty-1889.jpg,eugene boudin,0.0038660236,0.29737207
+Impressionism/edgar-degas_two-horses-in-a-pasture.jpg,edgar degas,0.003289117,0.2242416
+Impressionism/berthe-morisot_portrait-of-the-artist-s-daughter-julie-manet-at-gorey.jpg,berthe morisot,0.004483536,0.37564987
+Impressionism/giovanni-boldini_sewing-hands-of-a-woman.jpg,giovanni boldini,0.0046366164,0.39505485
+Impressionism/childe-hassam_havana.jpg,childe hassam,0.003166168,0.20865619
+Impressionism/georges-seurat_study-for-bathers-at-asnieres-1883.jpg,georges seurat,0.0036094803,0.26485187
+Impressionism/pierre-auguste-renoir_adele-besson-1918.jpg,pierre auguste renoir,0.002021807,0.0635934
+Impressionism/rudolf-schweitzer-cumpana_hamali-n-portul-br-ila-1926.jpg,rudolf schweitzer cumpana,0.004932034,0.4325029
+Impressionism/james-tissot_autumn-on-the-thames.jpg,james tissot,0.003989985,0.31308585
+Impressionism/camille-pissarro_woman-burning-wood.jpg,camille pissarro,0.0034177615,0.24054898
+Impressionism/pablo-picasso_snackbar-in-the-open-air-1900.jpg,pablo picasso,0.0035229179,0.25387892
+Impressionism/nikolay-bogdanov-belsky_on-a-visit.jpg,nikolay bogdanov belsky,0.0024078644,0.11253125
+Impressionism/konstantin-makovsky_portrait-of-the-girl-5.jpg,konstantin makovsky,0.0058078473,0.5435237
+Impressionism/constantin-artachino_lilies.jpg,constantin artachino,0.004766582,0.4115297
+Impressionism/eugene-boudin_street-antibes-1893.jpg,eugene boudin,0.002794566,0.16155078
+Impressionism/yiannis-tsaroychis_montrouge-rose-in-an-english-cup-1968.jpg,yiannis tsaroychis,0.0032467141,0.21886647
+Impressionism/john-henry-twachtman_waterfall-1899.jpg,john henry twachtman,0.0024391683,0.116499424
+Impressionism/claude-monet_monte-carlo-seen-from-roquebrune.jpg,claude monet,0.0024361233,0.11611344
+Impressionism/gustave-caillebotte_le-clos-des-abbesses.jpg,gustave caillebotte,0.004852964,0.42247975
+Impressionism/claude-monet_strada-romada-in-bordighera.jpg,claude monet,0.002338431,0.103729665
+Impressionism/pierre-auguste-renoir_seated-nude-1885.jpg,pierre auguste renoir,0.0041301423,0.3308526
+Impressionism/philip-de-laszlo_lady-frances-gresley-1924.jpg,philip de laszlo,0.0024959096,0.12369213
+Impressionism/konstantin-korovin_on-the-shore-of-the-black-sea.jpg,konstantin korovin,0.002957969,0.18226422
+Impressionism/john-singer-sargent_base-of-a-palace.jpg,john singer sargent,0.00600302,0.5682644
+Impressionism/edmund-charles-tarbell_josephine-knitting-1916.jpg,edmund charles tarbell,0.0044219387,0.36784163
+Impressionism/edgar-degas_study-for-the-medieval-war-scene-1865-1.jpg,edgar degas,0.0033604756,0.23328725
+Impressionism/edgar-degas_two-dancers-on-stage-1877.jpg,edgar degas,0.0035011738,0.25112256
+Impressionism/claude-monet_water-lilies-5.jpg,claude monet,0.004394122,0.36431548
+Impressionism/pierre-auguste-renoir_three-partridges.jpg,pierre auguste renoir,0.0021912537,0.085072994
+Impressionism/edgar-degas_two-dancers-in-yellow-and-pink.jpg,edgar degas,0.0028678554,0.17084114
+Impressionism/claude-monet_grainstacks-at-the-end-of-summer-morning-effect.jpg,claude monet,0.005387236,0.49020573
+Impressionism/claude-monet_a-corner-of-the-garden-at-montgeron-1877(1).jpg,claude monet,0.0024190112,0.113944255
+Impressionism/alfred-sisley_the-sevres-bridge-1877.jpg,alfred sisley,0.0051156,0.45577228
+Impressionism/eliseu-visconti_mother-and-son.jpg,eliseu visconti,0.0026301604,0.14071019
+Impressionism/claude-monet_green-park-in-london.jpg,claude monet,0.0036325473,0.2677759
+Impressionism/frits-thaulow_an-orchard-on-the-banks-of-a-river.jpg,frits thaulow,0.00427726,0.3495017
+Impressionism/pierre-auguste-renoir_paul-cezanne-1880.jpg,pierre auguste renoir,0.0022031965,0.08658691
+Impressionism/berthe-morisot_madame-albine-sermicola-in-the-studio.jpg,berthe morisot,0.002871412,0.171292
+Impressionism/auguste-rodin_age-of-bronze.jpg,auguste rodin,0.005744096,0.5354424
+Impressionism/roger-fry_carpentras-provence-1930.jpg,roger fry,0.0049981796,0.44088772
+Impressionism/pierre-auguste-renoir_female-nude-seated.jpg,pierre auguste renoir,0.002339784,0.10390117
+Impressionism/cornelis-vreedenburgh_corn-sheafs-in-gooi.jpg,cornelis vreedenburgh,0.0055636982,0.5125747
+Impressionism/vasily-surikov_berlin-enbankment.jpg,vasily surikov,0.0024561028,0.11864609
+Impressionism/rudolf-schweitzer-cumpana_mp-r-irea-gr-ului-batoza-lui-malaxa.jpg,rudolf schweitzer cumpana,0.0036190646,0.2660668
+Impressionism/john-henry-twachtman_middlebrook-farm.jpg,john henry twachtman,0.0038250485,0.29217795
+Impressionism/konstantin-korovin_paris-boulevard-1902.jpg,konstantin korovin,0.0049338103,0.43272808
+Impressionism/ioannis-altamouras_1874(1).jpg,ioannis altamouras,0.0036766597,0.2733677
+Impressionism/sever-burada_the-way-home.jpg,sever burada,0.0031307368,0.20416482
+Impressionism/joaquã­n-sorolla_clotilde-with-hat.jpg,joaquã­n sorolla,0.0034585698,0.24572195
+Impressionism/edgar-degas_study-for-la-la-at-the-cirque-fernando-1879.jpg,edgar degas,0.0036915431,0.2752544
+Impressionism/berthe-morisot_young-girl-leaning-on-her-elbow-1887.jpg,berthe morisot,0.003508551,0.25205773
+Impressionism/pierre-auguste-renoir_portrait-of-a-woman-1911.jpg,pierre auguste renoir,0.002237895,0.0909854
+Impressionism/eugene-boudin_berck-low-tide.jpg,eugene boudin,0.0034899288,0.24969712
+Impressionism/walter-battiss_distant-blue-hills-1934.jpg,walter battiss,0.0047692433,0.41186705
+Impressionism/arthur-verona_country-road-1898.jpg,arthur verona,0.0035970055,0.2632705
+Impressionism/eugene-boudin_laundresses-on-the-banks-of-the-touques-the-effect-of-fog.jpg,eugene boudin,0.002853736,0.16905133
+Impressionism/marie-bracquemond_landscape-in-wintertime.jpg,marie bracquemond,0.0027875535,0.16066183
+Impressionism/james-mcneill-whistler_arrangement-in-black-no-3-sir-henry-irving-as-philip-ii-of-spain.jpg,james mcneill whistler,0.0031793087,0.21032195
+Impressionism/alfred-sisley_alley-of-chestnut-trees.jpg,alfred sisley,0.0025930079,0.13600062
+Impressionism/max-liebermann_portrait-of-professor-sauerbruch.jpg,max liebermann,0.003281173,0.2232346
+Impressionism/alfred-sisley_the-loing-at-moret-1883.jpg,alfred sisley,0.0039306986,0.30557048
+Impressionism/arkhip-kuindzhi_forest-burdock.jpg,arkhip kuindzhi,0.003791844,0.28796884
+Impressionism/max-liebermann_portrait-of-the-publisher-bruno-cassirer-1921.jpg,max liebermann,0.00412266,0.3299041
+Impressionism/nicolae-vermont_departure-towards-the-open-sea-1983.jpg,nicolae vermont,0.004329225,0.35608894
+Impressionism/camille-pissarro_wanderer-near-the-wood-1887.jpg,camille pissarro,0.004616312,0.39248103
+Impressionism/pierre-auguste-renoir_girl-with-falcon-1882.jpg,pierre auguste renoir,0.002869484,0.1710476
+Impressionism/gregoire-boonzaier_still-life-with-fruit-1956.jpg,gregoire boonzaier,0.003935331,0.3061577
+Impressionism/edgar-degas_at-the-races-1872.jpg,edgar degas,0.001956387,0.055300552
+Impressionism/jacek-malczewski_self-portrait-with-a-palette.jpg,jacek malczewski,0.0024916718,0.12315494
+Impressionism/edgar-degas_portrait-of-mme-rene-de-gas-born-estelle-musson-1873.jpg,edgar degas,0.004433246,0.36927494
+Impressionism/alfred-sisley_landscape-the-banks-of-the-loing-at-saint-mammes-1881.jpg,alfred sisley,0.0017126626,0.024405291
+Impressionism/giovanni-boldini_the-summer-roses.jpg,giovanni boldini,0.0037749922,0.28583264
+Impressionism/childe-hassam_the-gorge-appledore.jpg,childe hassam,0.0063881185,0.61708075
+Impressionism/edouard-manet_woman-before-a-mirror-1877.jpg,edouard manet,0.0035194135,0.2534347
+Impressionism/john-singer-sargent_trout-stream-in-the-tyrol-1914.jpg,john singer sargent,0.0046644346,0.39858118
+Impressionism/giovanni-boldini_portrait-of-madame-gabrielle-rejane.jpg,giovanni boldini,0.003121588,0.20300508
+Impressionism/edgar-degas_the-start-of-the-hunt.jpg,edgar degas,0.0054114717,0.49327794
+Impressionism/claude-monet_rouen-cathedral-evening-harmony-in-brown-1894.jpg,claude monet,0.0046701715,0.39930838
+Impressionism/andre-dunoyer-de-segonzac_le-morin-pres-de-guerard-1935.jpg,andre dunoyer de segonzac,0.0034478789,0.24436675
+Impressionism/arkhip-kuindzhi_clouds-1875.jpg,arkhip kuindzhi,0.0042759464,0.3493352
+Impressionism/alfred-sisley_dawn-1878.jpg,alfred sisley,0.0037147594,0.27819735
+Impressionism/helene-schjerfbeck_portrait-of-a-girl-1887.jpg,helene schjerfbeck,0.0031121077,0.20180334
+Impressionism/henry-herbert-la-thangue_farm-near-horsey-norfolk-1885.jpg,henry herbert la thangue,0.0044995723,0.37768272
+Impressionism/pierre-auguste-renoir_alfred-sisley-1876.jpg,pierre auguste renoir,0.0019691298,0.05691587
+Impressionism/camille-pissarro_field-at-eragny-1885.jpg,camille pissarro,0.002639401,0.14188156
+Impressionism/antoine-blanchard_la-gare-dorleans-et-le-quai-dorsay.jpg,antoine blanchard,0.0024262727,0.114864744
+Impressionism/henry-herbert-la-thangue_ligurian-artrobus.jpg,henry herbert la thangue,0.0025676053,0.1327805
+Impressionism/adam-baltatu_landscape-with-houses.jpg,adam baltatu,0.003776328,0.28600198
+Impressionism/pierre-auguste-renoir_madame-robert-de-bonnieres-1889.jpg,pierre auguste renoir,0.0027311696,0.15351443
+Impressionism/william-merritt-chase_shinnecock-hills-aka-shinnecock-hills-autumn.jpg,william merritt chase,0.005715183,0.5317773
+Impressionism/giovanni-boldini_the-pansies.jpg,giovanni boldini,0.0044346647,0.3694548
+Impressionism/gustave-caillebotte_woman-seated-beneath-a-tree.jpg,gustave caillebotte,0.0023512652,0.10535655
+Impressionism/claude-monet_cap-martin.jpg,claude monet,0.003561764,0.2588032
+Impressionism/john-singer-sargent_miss-wedewood-and-miss-sargent-sketching-1908.jpg,john singer sargent,0.003596468,0.26320237
+Impressionism/augustus-john_eileen-hawthorne-1930.jpg,augustus john,0.005128848,0.45745164
+Impressionism/laszlo-mednyanszky_house-at-dusk-1910.jpg,laszlo mednyanszky,0.0033529224,0.23232976
+Impressionism/pierre-auguste-renoir_the-reading.jpg,pierre auguste renoir,0.0025266772,0.12759234
+Impressionism/claude-monet_still-life-with-apples-and-grapes.jpg,claude monet,0.00496311,0.43644223
+Impressionism/claude-monet_the-thaw-at-vetheuil.jpg,claude monet,0.0040576817,0.32166725
+Impressionism/henri-edmond-cross_the-bay-of-cavalieri.jpg,henri edmond cross,0.0029084436,0.17598623
+Impressionism/pierre-auguste-renoir_still-life-with-fruit-2.jpg,pierre auguste renoir,0.004379075,0.3624081
+Impressionism/alfred-sisley_the-dam-at-saint-mammes-1885.jpg,alfred sisley,0.0021339408,0.077807836
+Impressionism/paul-gauguin_bouquet-of-peonies-on-a-musical-score-1876.jpg,paul gauguin,0.0034630853,0.24629435
+Impressionism/henri-martin_farmer-1920.jpg,henri martin,0.0030310608,0.19152957
+Cubism/salvador-dali_venus-and-sailor-homage-to-salvat-papasseit-1925.jpg,salvador dali,0.0029949835,0.1869563
+Cubism/willi-baumeister_depiction-of-apollo-1921.jpg,willi baumeister,0.0040621,0.32222733
+Cubism/marc-chagall_marketplace-in-vitebsk-1917.jpg,marc chagall,0.002766557,0.15800025
+Cubism/man-ray_still-life-with-red-tea-kettle.jpg,man ray,0.003677039,0.2734158
+Cubism/pablo-picasso_girl-in-chair-1952.jpg,pablo picasso,0.0028345115,0.16661437
+Cubism/amedee-ozenfant_still-life-1921.jpg,amedee ozenfant,0.002700052,0.14956987
+Cubism/andre-masson_removal.jpg,andre masson,0.0044932486,0.3768811
+Cubism/fernand-leger_still-life-1922.jpg,fernand leger,0.0030926564,0.19933763
+Cubism/nikos-hadjikyriakos-ghikas_stage-design-for-don-juan-by-andr-obey-1939.jpg,nikos hadjikyriakos ghikas,0.003322056,0.22841705
+Cubism/david-bomberg_in-the-hold-1914.jpg,david bomberg,0.005252313,0.47310245
+Cubism/roger-de-la-fresnaye_standing-nude-from-the-front.jpg,roger de la fresnaye,0.0038903246,0.30045256
+Cubism/louis-marcoussis_still-life.jpg,louis marcoussis,0.0025669334,0.13269533
+Cubism/otto-dix_warrior-with-a-pipe.jpg,otto dix,0.00301421,0.1893935
+Cubism/roger-de-la-fresnaye_castor-and-pollux-1922.jpg,roger de la fresnaye,0.0038968634,0.30128142
+Cubism/fernand-leger_chimneys-on-rooftops-1911.jpg,fernand leger,0.0025862698,0.13514647
+Cubism/georges-braque_a-house-at-estaque-1908.jpg,georges braque,0.0036714938,0.2727129
+Cubism/conrad-marca-relli_la-citt-1951.jpg,conrad marca relli,0.004682632,0.40088794
+Cubism/georges-braque_big-nude-1908.jpg,georges braque,0.004586412,0.3886908
+Cubism/ernst-ludwig-kirchner_two-seated-woman-and-a-striding-man.jpg,ernst ludwig kirchner,0.0039081457,0.3027116
+Cubism/jean-david_houses-in-flames.jpg,jean david,0.0049450044,0.43414706
+Cubism/rene-magritte_landscape-1920(1).jpg,rene magritte,0.0033919376,0.23727545
+Cubism/amadeo-de-souza-cardoso_cash-register-1917.jpg,amadeo de souza cardoso,0.0028011664,0.16238745
+Cubism/pablo-picasso_child-with-flower-1945.jpg,pablo picasso,0.004296622,0.35195607
+Cubism/auguste-herbin_head-1918.jpg,auguste herbin,0.0025998757,0.1368712
+Cubism/pablo-picasso_artist-s-studio-1916.jpg,pablo picasso,0.003318661,0.22798666
+Expressionism/amedeo-modigliani_the-zouave-1918.jpg,amedeo modigliani,0.0047347657,0.40749657
+Expressionism/jean-david_untitled.jpg,jean david,0.0038739527,0.2983772
+Expressionism/jean-helion_la-citrouille-et-son-reflet-1958.jpg,jean helion,0.004546157,0.38358793
+Expressionism/pyotr-konchalovsky_gurzuf-cypresses-1929.jpg,pyotr konchalovsky,0.003603762,0.264127
+Expressionism/paul-klee_in-the-style-of-kairouan-1914.jpg,paul klee,0.004176317,0.33670583
+Expressionism/egon-schiele_double-self-portrait-1915.jpg,egon schiele,0.0031918,0.21190539
+Expressionism/zinaida-serebriakova_marrakech-the-walls-and-towers-of-the-city-1928.jpg,zinaida serebriakova,0.002811969,0.16375682
+Expressionism/otto-dix_totentanz-anno-17-hohe-toter-mann.jpg,otto dix,0.003668226,0.27229863
+Expressionism/m.c.-escher_not_detected_204723.jpg,m.c. escher,0.0035108598,0.2523504
+Expressionism/ernst-ludwig-kirchner_english-dancers.jpg,ernst ludwig kirchner,0.0038551479,0.29599345
+Expressionism/frantisek-kupka_prometheus-in-chains-1905-5.jpg,frantisek kupka,0.0037430674,0.28178576
+Expressionism/egon-schiele_church-in-stein-on-the-danube-1913.jpg,egon schiele,0.0025316393,0.12822135
+Expressionism/lovis-corinth_armor-in-the-studio-1918.jpg,lovis corinth,0.004886254,0.42669973
+Expressionism/saul-steinberg_i-do-i-have-i-am-1971.jpg,saul steinberg,0.003544334,0.2565937
+Expressionism/balthus_the-cherry-tree.jpg,balthus,0.0039565964,0.30885336
+Expressionism/august-macke_self-portrait.jpg,august macke,0.0033132723,0.2273036
+Expressionism/ernst-ludwig-kirchner_female-nude-kneeling-before-a-red-screen.jpg,ernst ludwig kirchner,0.004006864,0.31522545
+Expressionism/edvard-munch_awakening-men-1916.jpg,edvard munch,0.0033980506,0.23805036
+Expressionism/arturo-souto_pair-1951.jpg,arturo souto,0.0033763484,0.23529932
+Expressionism/zinaida-serebriakova_dancer-1924.jpg,zinaida serebriakova,0.0036993844,0.27624837
+Expressionism/jack-bush_nude-1954.jpg,jack bush,0.0049129487,0.4300836
+Expressionism/horia-bernea_the-column(1).jpg,horia bernea,0.0033011518,0.22576717
+Expressionism/salvador-dali_velazquez-dying-behind-the-window-on-the-left-side-out-of-which-a-spoon-projects.jpg,salvador dali,0.0034416053,0.24357148
+Expressionism/amedeo-modigliani_portrait-of-juan-gris-1915.jpg,amedeo modigliani,0.0036709714,0.27264664
+Expressionism/tivadar-kosztka-csontvary_sunset-over-the-bay-of-naples-1901.jpg,tivadar kosztka csontvary,0.00433208,0.35645086
+Abstract_Expressionism/aaron-siskind_chicago-1951.jpg,aaron siskind,0.006091465,0.579476
+Abstract_Expressionism/john-mccracken_untitled-december-6-1973-1973.jpg,john mccracken,0.005619917,0.5197011
+Abstract_Expressionism/geta-bratescu_medeic-callisthetic-moves-iv-1981.jpg,geta bratescu,0.004733139,0.40729037
+Abstract_Expressionism/jackson-pollock_easter-and-the-totem(1).jpg,jackson pollock,0.0036411146,0.26886192
+Abstract_Expressionism/richard-pousette-dart_light-gathers-to-the-question-of-no-1979.jpg,richard pousette dart,0.0035301147,0.2547912
+Abstract_Expressionism/theodoros-stamos_high-snow-low-sun-1960.jpg,theodoros stamos,0.004197484,0.33938903
+Abstract_Expressionism/paul-jenkins_phenomena-sung-mantle.jpg,paul jenkins,0.0028990146,0.174791
+Abstract_Expressionism/sam-gilliam_lattice-1981.jpg,sam gilliam,0.0034952792,0.25037536
+Abstract_Expressionism/norman-bluhm_gronk-1964.jpg,norman bluhm,0.004399891,0.3650468
+Abstract_Expressionism/esteban-vicente_blue-red-black-and-white-1961.jpg,esteban vicente,0.005149576,0.4600792
+Abstract_Expressionism/frank-stella_the-mat-maker-1990.jpg,frank stella,0.0031044313,0.20083025
+Abstract_Expressionism/brice-marden_han-shan-exit-1992.jpg,brice marden,0.0031889745,0.21154721
+Abstract_Expressionism/philip-guston_drawing-related-to-zone-drawing-no-19.jpg,philip guston,0.007724689,0.7865086
+Abstract_Expressionism/basil-beattie_the-difference-between-ii-2005.jpg,basil beattie,0.0045052613,0.37840387
+Abstract_Expressionism/richard-pousette-dart_circle-by-the-falling-waters-1980.jpg,richard pousette dart,0.0035881517,0.26214817
+Abstract_Expressionism/joan-mitchell_untitled-1992.jpg,joan mitchell,0.0042933496,0.35154125
+Abstract_Expressionism/mark-tobey_electric-night-1944.jpg,mark tobey,0.006534176,0.63559544
+Abstract_Expressionism/louise-nevelson_sky-hook-maquette-1977.jpg,louise nevelson,0.0031122593,0.20182256
+Abstract_Expressionism/sam-francis_damn-braces-1960.jpg,sam francis,0.003929177,0.30537757
+Abstract_Expressionism/dan-christensen_torodoro-2004.jpg,dan christensen,0.0041549397,0.333996
+Abstract_Expressionism/forrest-bess_burning-bush-1953.jpg,forrest bess,0.004190709,0.3385302
+Abstract_Expressionism/kenzo-okada_the-cliff.jpg,kenzo okada,0.00502877,0.44476545
+Abstract_Expressionism/sam-francis_around-the-blues-1962.jpg,sam francis,0.0057890993,0.5411472
+Abstract_Expressionism/terry-frost_the-spinster-at-mass-1989.jpg,terry frost,0.0038542645,0.29588145
+Abstract_Expressionism/blinky-palermo_komposition-blau-rot-auf-weiss-1965.jpg,blinky palermo,0.0038649235,0.29723263

@@ -26,12 +26,13 @@
 - [Usage](#-usage)
 - [Configuration](#-configuration)
 - [Detailed Results](#-detailed-results)
+- [Interpretability & Error Attribution](#-interpretability--error-attribution)
 
 ---
 
 ## Overview
 
-This project investigates whether **stylistically out-of-distribution artwork** can be automatically detected using deep learning embeddings. We extract feature representations from paintings using a pretrained **ResNet-50** CNN, then apply **eight distinct anomaly detection methods** — ranging from classical statistical tests to deep autoencoders and clustering-based approaches — to identify paintings that deviate from their genre's learned distribution.
+This project investigates whether **stylistically out-of-distribution artwork** can be automatically detected using deep learning embeddings. We extract feature representations from paintings using a pretrained **ResNet-50** CNN, then apply **eight distinct anomaly detection methods** — ranging from classical statistical tests to deep autoencoders and clustering-based approaches — to identify paintings that deviate from their genre's learned distribution. The project also includes **interpretability analysis** through per-dimension error attribution and error-weighted CAM heatmaps that spatially highlight which regions of a painting contribute most to anomaly detection.
 
 The evaluation framework uses **controlled anomaly injection**: 75 cross-genre paintings (Cubism, Expressionism, Abstract Expressionism) are injected into each genre dataset (~5% contamination), providing ground-truth labels for rigorous AUC-ROC benchmarking across three art genres: **Impressionism**, **Realism**, and **Romanticism**.
 
@@ -186,6 +187,7 @@ Capstone_Project/
 ├── run_all_analysis.py                 # Run all 4 statistical methods + AUC
 ├── run_autoencoder_analysis.py         # Autoencoder anomaly detection + AUC
 ├── run_clustering_analysis.py          # LOF, HDBSCAN, GMM clustering analysis + AUC
+├── run_gradcam_heatmaps.py             # Error-weighted CAM heatmaps for spatial attribution
 ├── Data Preprocessing.ipynb            # Exploratory data analysis
 ├── requirements.txt                    # Python dependencies
 └── README.md
@@ -197,6 +199,10 @@ Capstone_Project/
 │   ├── clean/                          #   Original genre embeddings (1500)
 │   └── injected/                       #   Genre + anomaly embeddings (1575)
 ├── results/<genre>/injected/           # Per-method anomaly score CSVs + models
+│   ├── autoencoder_*_scores.csv        #   Autoencoder per-painting anomaly scores
+│   ├── ae_*_dim_error_attribution.csv  #   Per-dimension reconstruction error stats
+│   ├── ae_error_cam_*.png              #   Error-weighted CAM heatmap visualisations
+│   └── ae_*_error_attribution.png      #   Dimension-level error attribution plots
 └── outputs/figures/                    # Visualisation outputs
 ```
 
@@ -245,6 +251,9 @@ python run_autoencoder_analysis.py
 
 # Step 4 — Run clustering-based anomaly detection (LOF, HDBSCAN, GMM)
 python run_clustering_analysis.py
+
+# Step 5 — Generate error-weighted CAM heatmaps (requires autoencoder models)
+python run_gradcam_heatmaps.py
 ```
 
 ### Option B: Step-by-Step
@@ -423,3 +432,43 @@ All shared hyperparameters are centralised in [`src/config.py`](src/config.py):
 4. **Consistent performance** — The autoencoder achieves AUC > 0.88 across all three genres, demonstrating robustness to genre-specific characteristics.
 5. **PCA degrades all methods uniformly** — LOF: 0.80 → 0.43, GMM: 0.73 → 0.41, Autoencoder: 0.90 → 0.57. The 50-dim reduction discards discriminative features needed for anomaly detection.
 6. **HDBSCAN and Isolation Forest fail** — Both density-isolation methods score below random (AUC < 0.35), indicating that anomalies in art embedding space are not globally isolated but rather interspersed with normal samples.
+
+---
+
+## 🔍 Interpretability & Error Attribution
+
+### Per-Dimension Reconstruction Error
+
+The autoencoder's reconstruction error is **not uniformly distributed** across the 2048 embedding dimensions. Analysis reveals that a small subset of ResNet-50 feature channels are responsible for the majority of the anomaly signal:
+
+**Top discriminative dimensions (raw 2048-dim) — consistent across all 3 genres:**
+
+| Dimension | Impressionism | Realism | Romanticism | Interpretation |
+|:---:|:---:|:---:|:---:|:---|
+| **656** | ✅ Rank 1 | ✅ Rank 1 | ✅ Rank 1 | Genre-universal feature |
+| **819** | ✅ Rank 2 | ✅ Rank 2 | ✅ Rank 2 | Genre-universal feature |
+| **1365** | ✅ Rank 3 | ✅ Rank 3 | ✅ Rank 4 | Genre-universal feature |
+| **1395** | ✅ Rank 4 | ✅ Rank 4 | ✅ Rank 3 | Genre-universal feature |
+
+These dimensions encode visual features that the autoencoder learns to reconstruct accurately for the target genre but fails on for injected anomalies (Cubism, Expressionism, Abstract Expressionism), suggesting they capture genre-discriminative characteristics such as texture, brushwork, or composition patterns.
+
+PCA 50-dim top dimensions are genre-specific (no cross-genre overlap), as expected since PCA rotates the feature space independently per genre.
+
+### Error-Weighted CAM Heatmaps
+
+To spatially localise which regions of a painting drive reconstruction error, we generate **error-weighted Class Activation Maps (CAM)**:
+
+1. Extract ResNet-50 `layer4` spatial feature maps (2048 × 7 × 7) for each painting
+2. Compute per-channel autoencoder reconstruction error
+3. Weight spatial maps by channel error → sum → heatmap
+4. Overlay on original painting (jet colormap)
+
+The heatmaps reveal that:
+- **Anomalous paintings** show diffuse, high-intensity activation across most spatial regions — the autoencoder struggles to reconstruct the entire visual representation
+- **Normal paintings** show concentrated, low-intensity activation in small regions — the autoencoder handles most of the image well
+- The spatial error pattern differs between anomaly types (e.g., geometric Cubist compositions vs. expressive brushwork)
+
+Generated outputs per genre in `results/<genre>/injected/`:
+- `ae_error_cam_heatmaps.png` — Grid of 4 normals + 4 anomalies with heatmap overlays
+- `ae_error_cam_top_anomaly.png` — Detailed view of the highest-error anomaly
+- `ae_error_cam_comparison.png` — Side-by-side normal vs anomaly comparison

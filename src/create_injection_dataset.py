@@ -42,22 +42,22 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 import torch
-import torch.nn as nn
 from PIL import Image
 from sklearn.preprocessing import normalize
 from torch.utils.data import DataLoader, Dataset
-from torchvision import models, transforms
+from torchvision import transforms
 from tqdm import tqdm
 
-# ── Paths ─────────────────────────────────────────────────────────────────────
-BASE_DIR    = Path(__file__).resolve().parent.parent
-WIKIART_DIR = BASE_DIR / 'wikiart'
+from config import (
+    PROJECT_ROOT, WIKIART_DIR, EMBEDDINGS_DIR,
+    IMAGENET_MEAN, IMAGENET_STD, IMAGE_SIZE, DEFAULT_BATCH_SIZE,
+    DEFAULT_N_ANOMALIES, DEFAULT_ANOMALY_GENRES, IMAGE_EXTENSIONS,
+)
+from utils import get_device, load_resnet50
 
 # ImageNet preprocessing — must match what was used for the original embeddings
-IMAGENET_MEAN = [0.485, 0.456, 0.406]
-IMAGENET_STD  = [0.229, 0.224, 0.225]
 TRANSFORM = transforms.Compose([
-    transforms.Resize((224, 224)),
+    transforms.Resize(IMAGE_SIZE),
     transforms.ToTensor(),
     transforms.Normalize(mean=IMAGENET_MEAN, std=IMAGENET_STD),
 ])
@@ -80,20 +80,9 @@ class AnomalyImageDataset(Dataset):
 
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
-def get_device() -> torch.device:
-    if torch.cuda.is_available():     return torch.device('cuda')
-    if torch.backends.mps.is_available(): return torch.device('mps')
-    return torch.device('cpu')
 
 
-def load_resnet50(device: torch.device) -> nn.Module:
-    model = models.resnet50(weights=models.ResNet50_Weights.IMAGENET1K_V2)
-    backbone = nn.Sequential(*list(model.children())[:-1])
-    backbone.eval().to(device)
-    return backbone
-
-
-def extract_embeddings(image_paths: list[Path], batch_size: int = 32) -> np.ndarray:
+def extract_embeddings(image_paths: list[Path], batch_size: int = DEFAULT_BATCH_SIZE) -> np.ndarray:
     """Extract 2048-dim ResNet-50 embeddings for a list of image paths."""
     device  = get_device()
     model   = load_resnet50(device)
@@ -143,7 +132,9 @@ def sample_anomaly_images(
             continue
 
         folder = genre_folder_map[genre_key]
-        all_images = sorted(folder.glob('*.jpg')) + sorted(folder.glob('*.png'))
+        all_images = sorted(
+            p for ext in IMAGE_EXTENSIONS for p in folder.glob(f'*{ext}')
+        )
 
         if len(all_images) == 0:
             print(f'  [warn] No images found in {folder} — skipping')
@@ -307,7 +298,7 @@ if __name__ == '__main__':
     )
     parser.add_argument(
         '--genre_dir', type=Path,
-        default=BASE_DIR / 'embeddings' / 'impressionism',
+        default=EMBEDDINGS_DIR / 'impressionism',
         help='Path to genre embeddings folder (contains image_embeddings.npy, pca_model.pkl)'
     )
     parser.add_argument(
@@ -315,12 +306,12 @@ if __name__ == '__main__':
         help='Genre name — used as label in metadata and notebook config'
     )
     parser.add_argument(
-        '--n_anomalies', type=int, default=75,
-        help='Total number of anomaly images to inject (default: 75 ≈ 5%% of 1500)'
+        '--n_anomalies', type=int, default=DEFAULT_N_ANOMALIES,
+        help='Total number of anomaly images to inject (default: 75 \u2248 5%% of 1500)'
     )
     parser.add_argument(
         '--anomaly_genres', nargs='+',
-        default=['Cubism', 'Expressionism', 'Abstract_Expressionism'],
+        default=DEFAULT_ANOMALY_GENRES,
         help='Wikiart genre folder names to sample anomalies from'
     )
     parser.add_argument(

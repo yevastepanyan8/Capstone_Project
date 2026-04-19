@@ -16,8 +16,12 @@ import sys
 import warnings
 from pathlib import Path
 
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+import seaborn as sns
 import torch
 import torch.nn as nn
 from sklearn.metrics import roc_auc_score
@@ -147,6 +151,125 @@ def compute_reconstruction_error(model, embeddings, device, batch_size=512):
     return np.concatenate(errors)
 
 
+def compute_per_dim_error(model, embeddings, device, batch_size=512):
+    """Per-sample, per-dimension squared reconstruction error."""
+    model.eval()
+    tensor = torch.tensor(embeddings, dtype=torch.float32)
+    loader = DataLoader(TensorDataset(tensor), batch_size=batch_size, shuffle=False)
+    all_errors = []
+    with torch.no_grad():
+        for (batch,) in loader:
+            batch = batch.to(device)
+            x_hat = model(batch)
+            sq_err = (batch - x_hat) ** 2  # (B, D)
+            all_errors.append(sq_err.cpu().numpy())
+    return np.concatenate(all_errors, axis=0)  # (N, D)
+
+
+def plot_recon_error_attribution(per_dim_err, is_anomaly, genre, emb_name,
+                                 results_dir, top_k=20):
+    """Create visualisations highlighting which dimensions drive
+    reconstruction error for anomalies vs. normal paintings."""
+
+    normal_mask = is_anomaly == 0
+    anomaly_mask = is_anomaly == 1
+
+    mean_err_normal = per_dim_err[normal_mask].mean(axis=0)
+    mean_err_anomaly = per_dim_err[anomaly_mask].mean(axis=0)
+
+    # Ratio: how much more error per dim for anomalies vs. normals
+    with np.errstate(divide="ignore", invalid="ignore"):
+        ratio = np.where(mean_err_normal > 0,
+                         mean_err_anomaly / mean_err_normal,
+                         0.0)
+
+    # Absolute difference
+    diff = mean_err_anomaly - mean_err_normal
+
+    # Top-k dimensions by difference
+    top_idx_diff = np.argsort(diff)[::-1][:top_k]
+    # Top-k dimensions by ratio
+    top_idx_ratio = np.argsort(ratio)[::-1][:top_k]
+
+    n_dims = per_dim_err.shape[1]
+
+    # ── Save CSV with per-dimension stats ─────────────────────────────────
+    dim_df = pd.DataFrame({
+        "dimension": np.arange(n_dims),
+        "mean_error_normal": mean_err_normal,
+        "mean_error_anomaly": mean_err_anomaly,
+        "error_difference": diff,
+        "error_ratio": ratio,
+    })
+    dim_df.to_csv(results_dir / f"ae_{emb_name}_dim_error_attribution.csv",
+                  index=False)
+
+    # ── Figure 1: Top-K dimensions by absolute error difference ───────────
+    fig, axes = plt.subplots(2, 1, figsize=(12, 10))
+
+    dims = top_idx_diff
+    x = np.arange(len(dims))
+    w = 0.35
+    axes[0].bar(x - w / 2, mean_err_normal[dims], w, label="Normal", color="#4C72B0", alpha=0.85)
+    axes[0].bar(x + w / 2, mean_err_anomaly[dims], w, label="Anomaly", color="#DD5143", alpha=0.85)
+    axes[0].set_xticks(x)
+    axes[0].set_xticklabels([f"d{d}" for d in dims], rotation=45, ha="right")
+    axes[0].set_ylabel("Mean Squared Error")
+    axes[0].set_title(f"{genre.title()} — Top-{top_k} Dimensions by Error Difference ({emb_name})")
+    axes[0].legend()
+
+    # ── Figure 2: Error difference heatmap across ALL dimensions ──────────
+    # Show a 1-row heatmap of the difference
+    if n_dims <= 50:
+        ax1 = axes[1]
+        diff_2d = diff.reshape(1, -1)
+        sns.heatmap(diff_2d, ax=ax1, cmap="Reds", cbar_kws={"label": "Error Difference (Anomaly − Normal)"},
+                    xticklabels=[f"{i}" for i in range(n_dims)], yticklabels=False)
+        ax1.set_xlabel("Embedding Dimension")
+        ax1.set_title(f"{genre.title()} — Per-Dimension Error Difference Heatmap ({emb_name})")
+    else:
+        # For raw 2048-dim, show sorted bar of top 50 dimensions
+        top50 = np.argsort(diff)[::-1][:50]
+        axes[1].barh(np.arange(50), diff[top50], color="#DD5143", alpha=0.8)
+        axes[1].set_yticks(np.arange(50))
+        axes[1].set_yticklabels([f"d{d}" for d in top50], fontsize=6)
+        axes[1].set_xlabel("Error Difference (Anomaly − Normal)")
+        axes[1].set_title(f"{genre.title()} — Top-50 Dimensions by Error Difference ({emb_name})")
+        axes[1].invert_yaxis()
+
+    plt.tight_layout()
+    fig_path = results_dir / f"ae_{emb_name}_error_attribution.png"
+    fig.savefig(fig_path, dpi=150, bbox_inches="tight")
+    plt.close(fig)
+    print(f"    Saved attribution plot → {fig_path.name}")
+
+    # ── Figure 3: Violin/box comparison for top-5 dimensions ─────────────
+    top5 = top_idx_diff[:5]
+    fig2, axes2 = plt.subplots(1, len(top5), figsize=(3 * len(top5), 4), sharey=False)
+    for i, dim in enumerate(top5):
+        ax = axes2[i] if len(top5) > 1 else axes2
+        data = [per_dim_err[normal_mask, dim], per_dim_err[anomaly_mask, dim]]
+        bp = ax.boxplot(data, labels=["Normal", "Anomaly"], patch_artist=True,
+                        widths=0.6, showfliers=False)
+        bp["boxes"][0].set_facecolor("#4C72B0")
+        bp["boxes"][1].set_facecolor("#DD5143")
+        ax.set_title(f"Dim {dim}", fontsize=10)
+        ax.set_ylabel("Squared Error" if i == 0 else "")
+    fig2.suptitle(f"{genre.title()} — Top-5 Discriminative Dimensions ({emb_name})",
+                  fontsize=12, y=1.02)
+    plt.tight_layout()
+    fig2_path = results_dir / f"ae_{emb_name}_top5_dim_boxplot.png"
+    fig2.savefig(fig2_path, dpi=150, bbox_inches="tight")
+    plt.close(fig2)
+    print(f"    Saved top-5 boxplot  → {fig2_path.name}")
+
+    # Print summary
+    print(f"    Top-5 dims by error diff: {top_idx_diff[:5].tolist()}")
+    print(f"    Top-5 dims by error ratio: {top_idx_ratio[:5].tolist()}")
+
+    return dim_df
+
+
 # ── Per-genre analysis ────────────────────────────────────────────────────────
 def run_autoencoder_for_genre(genre, device):
     print(f"\n{'─' * 70}")
@@ -228,6 +351,13 @@ def run_autoencoder_for_genre(genre, device):
         # Save model
         model_path = results_dir / f"autoencoder_{emb_name}_model.pt"
         torch.save(model.state_dict(), model_path)
+
+        # ── Per-dimension error attribution ───────────────────────────────
+        print(f"    Computing per-dimension error attribution ...")
+        per_dim_err = compute_per_dim_error(model, embeddings, device)
+        plot_recon_error_attribution(
+            per_dim_err, is_anomaly, genre, emb_name, results_dir
+        )
 
     return metadata, results_dir
 

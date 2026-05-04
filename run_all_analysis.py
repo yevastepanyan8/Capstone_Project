@@ -297,17 +297,20 @@ def main():
             print(f"    {method:25s} AUC = {auc:.4f}  [{status}]")
 
     # Summary table
-    print(f"\n{'=' * 70}")
+    col_w = 14
+    header_genres = "".join(f"{g.replace('_', ' ').title():>{col_w}s}" for g in GENRES)
+    row_sep = "─" * (27 + col_w * len(GENRES) + 10)
+    print(f"\n{'=' * len(row_sep)}")
     print("  SUMMARY: AUC-ROC Across All Genres")
-    print(f"{'=' * 70}")
-    print(f"  {'Method':25s} {'Impressionism':>15s} {'Realism':>15s} {'Romanticism':>15s} {'Mean':>10s}")
-    print(f"  {'─' * 70}")
+    print(f"{'=' * len(row_sep)}")
+    print(f"  {'Method':25s}{header_genres}{'Mean':>{col_w}s}")
+    print(f"  {row_sep}")
     for method in METHODS:
         aucs = [all_auc.get(g, {}).get(method, float("nan")) for g in GENRES]
         mean_auc = np.nanmean(aucs)
-        vals = [f"{a:.4f}" for a in aucs]
-        print(f"  {method:25s} {vals[0]:>15s} {vals[1]:>15s} {vals[2]:>15s} {mean_auc:>10.4f}")
-    print(f"{'=' * 70}")
+        vals = "".join(f"{a:>{col_w}.4f}" for a in aucs)
+        print(f"  {method:25s}{vals}{mean_auc:>{col_w}.4f}")
+    print(f"{'=' * len(row_sep)}")
 
     # Check all > 0.5
     all_ok = all(

@@ -8,7 +8,7 @@ Creates two versioned embedding datasets for anomaly detection evaluation:
       embeddings_pca50.npy  — PCA-reduced                (N, 50)
       metadata.csv          — metadata with is_anomaly=0
 
-  embeddings/<genre>/injected/
+  embeddings/<genre>/<injection_name>/
       embeddings.npy        — genre + anomaly embeddings      (N+M, 2048)
       embeddings_pca50.npy  — PCA-reduced using SAME model    (N+M, 50)
       metadata.csv          — combined metadata with is_anomaly labels
@@ -18,14 +18,14 @@ so anomalies never influence the projection — this is the correct evaluation s
 
 Usage
 -----
-# Impressionism (default)
-python src/create_injection_dataset.py
+# Standard injection (Cubism, Expressionism, Abstract Expressionism) → injected/
+python src/create_injection_dataset.py --genre_dir embeddings/impressionism --genre impressionism
 
-# Realism
-python src/create_injection_dataset.py --genre_dir embeddings/realism --genre realism
-
-# Romanticism
-python src/create_injection_dataset.py --genre_dir embeddings/romanticism --genre romanticism
+# Hard injection (Fauvism, Post-Impressionism, Pointillism) → injected_hard/
+python src/create_injection_dataset.py \\
+    --genre_dir embeddings/impressionism --genre impressionism \\
+    --anomaly_genres Fauvism Post_Impressionism Pointillism \\
+    --injection_name injected_hard
 
 # Custom anomaly genres and count
 python src/create_injection_dataset.py \\
@@ -82,10 +82,37 @@ class AnomalyImageDataset(Dataset):
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
 
-def extract_embeddings(image_paths: list[Path], batch_size: int = DEFAULT_BATCH_SIZE) -> np.ndarray:
-    """Extract 2048-dim ResNet-50 embeddings for a list of image paths."""
+def extract_embeddings(
+    image_paths: list[Path],
+    expected_dim: int = 2048,
+    batch_size: int = DEFAULT_BATCH_SIZE,
+) -> np.ndarray:
+    """Extract embeddings for a list of image paths.
+
+    Selects the model based on expected_dim so anomaly embeddings match the
+    dimensionality of the existing normal embeddings:
+      - 2048: standard ResNet-50 (final pooled features)
+      - 3584: multi-layer ResNet-50 (layer2+layer3+layer4 GAP concat)
+    """
     device  = get_device()
-    model   = load_resnet50(device)
+    if expected_dim == 2048:
+        model = load_resnet50(device)
+    elif expected_dim == 3584:
+        from extract_embeddings_multilayer import ResNet50MultiLayer
+        model = ResNet50MultiLayer().eval().to(device)
+    elif expected_dim == 768:
+        model = torch.hub.load('facebookresearch/dinov2', 'dinov2_vitb14', verbose=False)
+        model.eval().to(device)
+    elif expected_dim == 8256:
+        from extract_embeddings_vgg_gram import VGGGramExtractor
+        model = VGGGramExtractor().eval().to(device)
+    else:
+        raise ValueError(
+            f'Unsupported embedding dim {expected_dim}. '
+            'Supported: 2048 (standard ResNet-50), 3584 (multi-layer ResNet-50), '
+            '768 (DINOv2 ViT-B/14), 8256 (VGG-19 conv2_1 Gram).'
+        )
+
     dataset = AnomalyImageDataset(image_paths)
     loader  = DataLoader(dataset, batch_size=batch_size, shuffle=False, num_workers=0)
 
@@ -158,12 +185,13 @@ def create_datasets(
     n_anomalies: int,
     anomaly_genres: list[str],
     random_state: int = 42,
+    injection_name: str = 'injected',
 ):
     existing_embeddings = genre_dir / 'image_embeddings.npy'
     existing_metadata   = genre_dir / 'embedding_metadata.csv'
     pca_model_path      = genre_dir / 'pca_model.pkl'
     clean_dir           = genre_dir / 'clean'
-    injected_dir        = genre_dir / 'injected'
+    injected_dir        = genre_dir / injection_name
 
     # ── Validate prerequisites ────────────────────────────────────────────────
     for p, name in [
@@ -221,7 +249,7 @@ def create_datasets(
 
     print(f'  Total anomaly images sampled: {len(anomaly_paths)}')
     print('\nExtracting anomaly embeddings...')
-    anomaly_emb = extract_embeddings(anomaly_paths)
+    anomaly_emb = extract_embeddings(anomaly_paths, expected_dim=normal_emb.shape[1])
     print(f'  Anomaly embeddings shape: {anomaly_emb.shape}')
 
     # ── Build anomaly metadata ────────────────────────────────────────────────
@@ -287,7 +315,7 @@ def create_datasets(
         n = (anomaly_meta['anomaly_genre'] == genre_label).sum()
         print(f'    {genre_label:<35} {n} images')
     print()
-    print(f'  Set GENRE="{genre}" and DATASET_TYPE="injected" in notebook config cells.')
+    print(f'  Set GENRE="{genre}" and DATASET_TYPE="{injection_name}" in notebook config cells.')
     print('  Use the is_anomaly column as ground truth for AUC-ROC evaluation.')
 
 
@@ -318,6 +346,11 @@ if __name__ == '__main__':
         '--random_state', type=int, default=42,
         help='Random seed for reproducibility'
     )
+    parser.add_argument(
+        '--injection_name', type=str, default='injected',
+        help='Name of the output folder inside genre_dir (default: injected). '
+             'Use e.g. injected_hard to avoid overwriting the standard injection.'
+    )
     args = parser.parse_args()
 
     print('── Injection Dataset Creator ─────────────────────────────────────')
@@ -326,6 +359,7 @@ if __name__ == '__main__':
     print(f'  Anomaly genres  : {args.anomaly_genres}')
     print(f'  N anomalies     : {args.n_anomalies}')
     print(f'  Random state    : {args.random_state}')
+    print(f'  Injection name  : {args.injection_name}')
     print()
 
     create_datasets(
@@ -334,4 +368,5 @@ if __name__ == '__main__':
         n_anomalies    = args.n_anomalies,
         anomaly_genres = args.anomaly_genres,
         random_state   = args.random_state,
+        injection_name = args.injection_name,
     )

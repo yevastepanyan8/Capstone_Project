@@ -31,7 +31,8 @@ from config import GENRES, KNN_K, RANDOM_STATE, genre_dataset_dir, genre_results
 
 warnings.filterwarnings("ignore")
 
-DATASET_TYPE = "injected"
+import os
+DATASET_TYPE = os.environ.get("DATASET_TYPE", "injected_hard")
 
 
 def load_genre_data(genre):
@@ -226,15 +227,18 @@ def main():
         key=lambda m: -np.mean([all_results[g].get(m, 0) for g in GENRES]),
     )
 
-    print(f"  {'Method':25s} {'Impressionism':>15s} {'Realism':>15s} {'Romanticism':>15s} {'Mean':>10s}")
-    print(f"  {'─' * 70}")
+    col_w = 14
+    header_genres = "".join(f"{g.replace('_', ' ').title():>{col_w}s}" for g in GENRES)
+    row_sep = "─" * (27 + col_w * len(GENRES) + 12)
+    print(f"  {'Method':25s}{header_genres}{'Mean':>{col_w}s}")
+    print(f"  {row_sep}")
     for method in methods:
         aucs = [all_results[g].get(method, float("nan")) for g in GENRES]
         mean_auc = np.nanmean(aucs)
-        vals = [f"{a:.4f}" if not np.isnan(a) else "   N/A" for a in aucs]
+        vals = "".join(f"{'N/A':>{col_w}s}" if np.isnan(a) else f"{a:>{col_w}.4f}" for a in aucs)
         status = "✓" if mean_auc > 0.5 else "✗"
-        print(f"  {method:25s} {vals[0]:>15s} {vals[1]:>15s} {vals[2]:>15s} {mean_auc:>10.4f}  {status}")
-    print(f"{'=' * 70}")
+        print(f"  {method:25s}{vals}{mean_auc:>{col_w}.4f}  {status}")
+    print(f"{'=' * len(row_sep)}")
 
 
 if __name__ == "__main__":

@@ -2,9 +2,7 @@
 # Dataset / large image folders
 # ============================================================
 wikiart/
-dataset_impressionism/
-dataset_realism/
-dataset_romanticism/
+dataset_*/
 
 # ============================================================
 # Python
@@ -48,7 +46,7 @@ venv.bak/
 # ============================================================
 # ML / data artifacts
 # ============================================================
-embeddings/
+embeddings*/
 *.npy
 *.npz
 *.pkl
@@ -60,9 +58,9 @@ embeddings/
 *.safetensors
 
 # ============================================================
-# Large data / outputs (keep outputs/figures and metadata in git)
+# Large data / outputs
 # ============================================================
-results/
+results*/
 outputs/
 
 # ============================================================

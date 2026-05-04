@@ -41,7 +41,7 @@ from config import (
 
 warnings.filterwarnings("ignore")
 
-DATASET_TYPE = "injected"
+DATASET_TYPE = "injected_hard"
 N_SAMPLES = 4          # number of normal + anomaly paintings to visualise per genre
 TOP_K_ANOMALY = 4      # pick highest-error anomalies
 TOP_K_NORMAL = 4       # pick lowest-error normals (well-reconstructed)
@@ -119,7 +119,7 @@ def resolve_image_path(filename, genre):
     dataset_path = Path(f"dataset_{genre}/images") / filename
     if dataset_path.exists():
         return dataset_path
-    wikiart_path = Path("wikiart/wikiart") / filename
+    wikiart_path = Path("wikiart") / filename
     if wikiart_path.exists():
         return wikiart_path
     return None
@@ -141,14 +141,17 @@ def compute_error_cam(feat_maps, pooled_emb, ae_model, device):
     """
     ae_model.eval()
     with torch.no_grad():
-        recon = ae_model(pooled_emb)  # (1, 2048)
-        channel_err = (pooled_emb - recon) ** 2  # (1, 2048)
-        channel_err = channel_err.squeeze(0)     # (2048,)
+        recon = ae_model(pooled_emb)
+        channel_err = (pooled_emb - recon) ** 2
+        channel_err = channel_err.squeeze(0)
 
-    # Weight spatial maps by channel error: (2048, H, W) * (2048, 1, 1)
-    weights = channel_err.unsqueeze(-1).unsqueeze(-1)  # (2048, 1, 1)
-    spatial = feat_maps.squeeze(0)                      # (2048, H, W)
-    cam = (spatial * weights).sum(dim=0)                # (H, W)
+    # For multi-layer embeddings (3584-dim) only the last 2048 dims are layer4;
+    # use that slice to weight the layer4 spatial maps.
+    spatial_dim = feat_maps.shape[1]  # always 2048 (layer4 channels)
+    layer4_err = channel_err[-spatial_dim:]
+    weights = layer4_err.unsqueeze(-1).unsqueeze(-1)  # (2048, 1, 1)
+    spatial = feat_maps.squeeze(0)                     # (2048, H, W)
+    cam = (spatial * weights).sum(dim=0)               # (H, W)
 
     # ReLU — only keep positive contributions
     cam = F.relu(cam)
@@ -159,6 +162,34 @@ def compute_error_cam(feat_maps, pooled_emb, ae_model, device):
         cam = cam / cam.max()
 
     return cam, channel_err.cpu().numpy()
+
+
+def compute_dinov2_patch_cam(img_tensor, precomp_emb, ae_model, dinov2_model, device):
+    """
+    DINOv2 patch-level CAM: apply the autoencoder to each of the 256 patch tokens
+    (16×16 grid for ViT-B/14 on 224×224) and use per-patch reconstruction error
+    as the spatial heatmap. More meaningful than ResNet spatial maps for ViT models.
+    """
+    ae_model.eval()
+    dinov2_model.eval()
+    with torch.no_grad():
+        # patch_tokens: list of length 1 → (1, N_patches, 768)
+        patch_tokens = dinov2_model.get_intermediate_layers(img_tensor, n=1)[0]
+        patch_tokens = patch_tokens.squeeze(0)           # (N_patches, 768)
+
+        recon        = ae_model(patch_tokens)            # (N_patches, 768)
+        patch_errors = ((patch_tokens - recon) ** 2).mean(dim=1)  # (N_patches,)
+
+    grid = int(patch_errors.shape[0] ** 0.5)            # 16 for ViT-B/14
+    cam  = patch_errors.reshape(grid, grid).cpu().numpy()
+    if cam.max() > 0:
+        cam = cam / cam.max()
+
+    # Also return the CLS-token error for consistency with compute_error_cam
+    with torch.no_grad():
+        cls_recon  = ae_model(precomp_emb)
+        cls_err    = (precomp_emb - cls_recon) ** 2
+    return cam, cls_err.squeeze(0).cpu().numpy()
 
 
 def overlay_heatmap(original_img, cam, alpha=0.5):
@@ -193,7 +224,7 @@ def overlay_heatmap(original_img, cam, alpha=0.5):
 
 
 # ── Main per-genre pipeline ──────────────────────────────────────────────────
-def generate_heatmaps_for_genre(genre, resnet, device):
+def generate_heatmaps_for_genre(genre, resnet, device, dinov2_model=None):
     print(f"\n{'─' * 70}")
     print(f"  Genre: {genre.upper()}")
     print(f"{'─' * 70}")
@@ -212,7 +243,7 @@ def generate_heatmaps_for_genre(genre, resnet, device):
         print(f"  ⚠  No trained model found at {model_path}. Run run_autoencoder_analysis.py first.")
         return
 
-    ae = Autoencoder(2048, HIDDEN_DIMS, LATENT_DIM).to(device)
+    ae = Autoencoder(embeddings_raw.shape[1], HIDDEN_DIMS, LATENT_DIM).to(device)
     ae.load_state_dict(torch.load(model_path, map_location=device))
     ae.eval()
 
@@ -249,12 +280,20 @@ def generate_heatmaps_for_genre(genre, resnet, device):
             print(f"    ⚠  Image not found: {filename}")
             continue
 
-        # Load image and extract spatial features
+        # Load image and extract features
         img_tensor, orig_img = load_image_tensor(img_path, device)
-        feat_maps, pooled = resnet(img_tensor)
+        precomp_emb = torch.tensor(embeddings_raw[idx:idx+1], dtype=torch.float32).to(device)
 
-        # Compute error-weighted CAM
-        cam, channel_errors = compute_error_cam(feat_maps, pooled, ae, device)
+        # Route to appropriate CAM based on embedding dimensionality
+        if embeddings_raw.shape[1] == 768 and dinov2_model is not None:
+            # DINOv2: patch-token reconstruction error heatmap (16×16 grid)
+            cam, channel_errors = compute_dinov2_patch_cam(
+                img_tensor, precomp_emb, ae, dinov2_model, device
+            )
+        else:
+            # ResNet (2048 or 3584-dim): error-weighted layer4 CAM
+            feat_maps, _ = resnet(img_tensor)
+            cam, channel_errors = compute_error_cam(feat_maps, precomp_emb, ae, device)
 
         total_error = per_sample_error[idx]
         rows.append({
@@ -393,11 +432,27 @@ def main():
     print("  Loading ResNet-50 ...")
     resnet = ResNetSpatial(device)
 
+    # Load DINOv2 lazily — only if any genre uses 768-dim embeddings
+    dinov2_model = None
+    from config import genre_dataset_dir as _gdd
+    for _g in GENRES:
+        _emb = _gdd(_g, DATASET_TYPE) / "embeddings.npy"
+        if _emb.exists() and np.load(_emb, mmap_mode="r").shape[1] == 768:
+            print("  Loading DINOv2 ViT-B/14 (for patch-token CAM) ...")
+            dinov2_model = torch.hub.load(
+                "facebookresearch/dinov2", "dinov2_vitb14", verbose=False
+            )
+            dinov2_model.eval().to(device)
+            break
+
     for genre in GENRES:
-        generate_heatmaps_for_genre(genre, resnet, device)
+        generate_heatmaps_for_genre(genre, resnet, device, dinov2_model=dinov2_model)
 
     print(f"\n{'=' * 70}")
-    print("  Done. Heatmaps saved to results/<genre>/injected/")
+    print("  Done. Heatmaps saved per genre:")
+    for genre in GENRES:
+        results_dir = genre_results_dir(genre, DATASET_TYPE)
+        print(f"    {genre:<25s} → {results_dir}")
     print(f"{'=' * 70}")
 
 

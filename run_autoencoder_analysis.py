@@ -33,7 +33,8 @@ from config import GENRES, RANDOM_STATE, genre_dataset_dir, genre_results_dir
 
 warnings.filterwarnings("ignore")
 
-DATASET_TYPE = "injected"
+import os
+DATASET_TYPE = os.environ.get("DATASET_TYPE", "injected_hard")
 
 # ── Autoencoder hyper-parameters ──────────────────────────────────────────────
 LATENT_DIM = 16
@@ -387,17 +388,20 @@ def main():
         summary[genre] = genre_auc
 
     # ── Summary table ─────────────────────────────────────────────────────
-    print(f"\n{'=' * 70}")
+    col_w = 14
+    header_genres = "".join(f"{g.replace('_', ' ').title():>{col_w}s}" for g in GENRES)
+    row_sep = "─" * (22 + col_w * len(GENRES) + 10)
+    print(f"\n{'=' * len(row_sep)}")
     print("  SUMMARY: Autoencoder AUC-ROC Across All Genres")
-    print(f"{'=' * 70}")
-    print(f"  {'Method':20s} {'Impressionism':>15s} {'Realism':>15s} {'Romanticism':>15s} {'Mean':>10s}")
-    print(f"  {'─' * 65}")
+    print(f"{'=' * len(row_sep)}")
+    print(f"  {'Method':20s}{header_genres}{'Mean':>{col_w}s}")
+    print(f"  {row_sep}")
     for method in ["AE (pca50)", "AE (raw)"]:
         aucs = [summary[g].get(method, float("nan")) for g in GENRES]
         mean_auc = np.nanmean(aucs)
-        vals = [f"{a:.4f}" for a in aucs]
-        print(f"  {method:20s} {vals[0]:>15s} {vals[1]:>15s} {vals[2]:>15s} {mean_auc:>10.4f}")
-    print(f"{'=' * 70}")
+        vals = "".join(f"{a:>{col_w}.4f}" for a in aucs)
+        print(f"  {method:20s}{vals}{mean_auc:>{col_w}.4f}")
+    print(f"{'=' * len(row_sep)}")
 
 
 if __name__ == "__main__":

@@ -5,6 +5,7 @@ All magic numbers, paths, and constants live here so every script
 and notebook imports from a single source of truth.
 """
 
+import os
 from pathlib import Path
 
 # ── Project root ──────────────────────────────────────────────────────────────
@@ -12,9 +13,10 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 # ── Data paths ────────────────────────────────────────────────────────────────
 METADATA_DIR = PROJECT_ROOT / "metadata"
-WIKIART_DIR  = PROJECT_ROOT / "wikiart" / "wikiart"
-EMBEDDINGS_DIR = PROJECT_ROOT / "embeddings"
-RESULTS_DIR  = PROJECT_ROOT / "results"
+WIKIART_DIR  = PROJECT_ROOT / "wikiart"
+# Override via env vars: EMBEDDINGS_DIR=embeddings_dinov2 python run_*.py
+EMBEDDINGS_DIR = PROJECT_ROOT / os.environ.get("EMBEDDINGS_DIR", "embeddings_vgg_gram")
+RESULTS_DIR    = PROJECT_ROOT / os.environ.get("RESULTS_DIR", "results_vgg_gram")
 OUTPUTS_DIR  = PROJECT_ROOT / "outputs"
 FIGURES_DIR  = OUTPUTS_DIR / "figures"
 
@@ -41,7 +43,7 @@ IF_N_ARTIST_DIMS = 10
 SWD_N_PROJECTIONS = 200
 
 # ── Supported genres ──────────────────────────────────────────────────────────
-GENRES = ["impressionism", "realism", "romanticism"]
+GENRES = ["impressionism", "realism", "romanticism", "baroque", "northern_renaissance"]
 
 # ── Default anomaly injection ─────────────────────────────────────────────────
 DEFAULT_N_ANOMALIES    = 75

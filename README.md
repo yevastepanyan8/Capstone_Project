@@ -1,474 +1,267 @@
-<div align="center">
+# Automated Stylistic Anomaly Detection in Artwork Collections Using Deep Learning
 
-# 🎨 Anomaly Detection in Artwork Using Deep Learning Embeddings
+Capstone Project, American University of Armenia.
+Author: Yeva Stepanyan. Supervisor: Gurgen Hovakimyan.
 
-**Capstone Project — American University of Armenia**
+## 1. Project Objective
 
-[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-f7931e?logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+This project asks whether a system can identify paintings that
+stylistically do not belong in a genre collection, without ever being
+trained on labeled anomalies. The framing is unsupervised: the system
+learns what normal looks like for a given genre from the embedding
+distribution of that genre, and assigns a continuous anomaly score to
+every painting. The intended use is as a quantitative decision-support
+tool for curators, attribution researchers, and art historians working
+with large digital archives. The project is not an authentication
+system and does not claim to detect forgeries.
 
-*Detecting stylistically anomalous paintings within art genres using CNN embeddings and multiple anomaly detection techniques*
+The full study covers:
 
-</div>
+- Four deep visual embeddings (ResNet-50 standard, ResNet-50
+  multi-layer, DINOv2 ViT-B/14, VGG-19 Gram matrix).
+- Eleven anomaly detection algorithms covering distance, density,
+  isolation, reconstruction, distributional, and clustering paradigms.
+- Five canonical genres (Impressionism, Realism, Romanticism, Baroque,
+  Northern Renaissance), 1,500 paintings each.
+- Two injection regimes for controlled evaluation: standard injection
+  (Cubism, Expressionism, Abstract Expressionism) and hard injection
+  (Fauvism, Post-Impressionism, Pointillism).
 
----
+The headline finding is that multi-layer ResNet-50 paired with a deep
+autoencoder on raw embeddings reaches a mean AUC-ROC of 0.95 on
+standard injection and 0.92 on hard injection. The most interesting
+finding is that the ranking of optimal detectors flips between
+semantic-content embeddings and style-texture embeddings, which means
+stylistic anomaly is not a single problem but a family of geometrically
+distinct ones.
 
-## 📋 Table of Contents
+## 2. Required Software and Libraries
 
-- [Overview](#overview)
-- [Key Results](#-key-results)
-- [Methods](#-methods)
-- [Pipeline Architecture](#-pipeline-architecture)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [Usage](#-usage)
-- [Configuration](#-configuration)
-- [Detailed Results](#-detailed-results)
-- [Interpretability & Error Attribution](#-interpretability--error-attribution)
+- Python 3.10 or newer.
+- A CUDA-capable GPU is recommended for embedding extraction and
+  autoencoder training. The pipeline also runs on CPU but is much
+  slower.
+- All Python dependencies are listed in `requirements.txt`. The main
+  libraries used are PyTorch, torchvision, scikit-learn, hdbscan,
+  statsmodels, matplotlib, seaborn, pandas, and jupyter.
 
----
-
-## Overview
-
-This project investigates whether **stylistically out-of-distribution artwork** can be automatically detected using deep learning embeddings. We extract feature representations from paintings using a pretrained **ResNet-50** CNN, then apply **eight distinct anomaly detection methods** — ranging from classical statistical tests to deep autoencoders and clustering-based approaches — to identify paintings that deviate from their genre's learned distribution. The project also includes **interpretability analysis** through per-dimension error attribution and error-weighted CAM heatmaps that spatially highlight which regions of a painting contribute most to anomaly detection.
-
-The evaluation framework uses **controlled anomaly injection**: 75 cross-genre paintings (Cubism, Expressionism, Abstract Expressionism) are injected into each genre dataset (~5% contamination), providing ground-truth labels for rigorous AUC-ROC benchmarking across three art genres: **Impressionism**, **Realism**, and **Romanticism**.
-
----
-
-## 🏆 Key Results
-
-### AUC-ROC Comparison Across All Methods and Genres
-
-| Method | Impressionism | Realism | Romanticism | **Mean** |
-|:---|:---:|:---:|:---:|:---:|
-| **Autoencoder (raw 2048-dim)** | **0.9128** | **0.8833** | **0.9048** | **0.9003** |
-| LOF (raw 2048-dim) | 0.8025 | 0.8038 | 0.7931 | 0.7998 |
-| Cosine Similarity | 0.8334 | 0.7492 | 0.7988 | 0.7938 |
-| KS Test | 0.8008 | 0.6790 | 0.7683 | 0.7494 |
-| GMM (raw 2048-dim) | 0.7435 | 0.7283 | 0.7271 | 0.7330 |
-| Autoencoder (PCA 50-dim) | 0.5534 | 0.5896 | 0.5781 | 0.5737 |
-| Sliced Wasserstein Distance | 0.4461 | 0.6242 | 0.5520 | 0.5408 |
-| LOF (PCA 50-dim) | 0.4556 | 0.4353 | 0.4101 | 0.4337 |
-| GMM (PCA 50-dim) | 0.2995 | 0.4361 | 0.4983 | 0.4113 |
-| Isolation Forest | 0.3960 | 0.2679 | 0.3355 | 0.3331 |
-| HDBSCAN (PCA 50-dim) | 0.2523 | 0.3136 | 0.2870 | 0.2843 |
-
-> **Key Findings:**
-> - The **Autoencoder on raw 2048-dim embeddings** is the top-performing method with a mean AUC of **0.9003**, significantly outperforming all other methods.
-> - **LOF (raw)** is the strongest unsupervised baseline (mean AUC = 0.7998), nearly matching Cosine Similarity, confirming that local density estimation in high-dimensional space is effective.
-> - **Cosine Similarity** is the strongest non-ML method (mean AUC = 0.7938), confirming that centroid-based distance captures genre coherence.
-> - **Raw 2048-dim space consistently outperforms PCA 50-dim** — LOF drops from 0.80 to 0.43, GMM from 0.73 to 0.41, and Autoencoder from 0.90 to 0.57 after PCA reduction.
-> - **HDBSCAN and Isolation Forest underperform** (AUC < 0.35), suggesting that injected anomalies are not spatially isolated in the PCA-reduced embedding space.
-
----
-
-## 🔬 Methods
-
-### 1. Feature Extraction — ResNet-50
-
-| Component | Detail |
-|:---|:---|
-| **Model** | ResNet-50 (ImageNet1K_V2 weights) |
-| **Output** | 2048-dimensional feature vector per image |
-| **Preprocessing** | Resize to 224×224, ImageNet normalization |
-| **Reduction** | PCA: 2048 → 50 dims (~90% variance explained) |
-
-### 2. Anomaly Detection Techniques
-
-| # | Method | Space | Approach | Score Interpretation |
-|:---:|:---|:---:|:---|:---|
-| 1 | **Cosine Similarity** | Raw 2048-dim | Distance from genre centroid | `1 - cos_sim` (higher = anomalous) |
-| 2 | **Sliced Wasserstein Distance** | PCA 50-dim | KNN neighbourhood vs. global distribution | Inverted normalized SWD |
-| 3 | **Kolmogorov-Smirnov Test** | PCA 50-dim | Per-dimension distribution test + BH-FDR correction | Mean D-statistic |
-| 4 | **Isolation Forest** | PCA 50-dim | Tree-based isolation scoring | Negated decision function |
-| 5 | **Autoencoder** | Raw 2048-dim | Reconstruction error (MSE) | Normalized MSE |
-| 6 | **LOF** | Raw / PCA | Local density deviation from k-nearest neighbours | Negated LOF score |
-| 7 | **HDBSCAN** | PCA 50-dim | Density-based clustering outlier scores | Outlier probability |
-| 8 | **GMM** | Raw / PCA | Gaussian mixture negative log-likelihood | Normalized neg-loglik |
-
-### 3. Evaluation Strategy
-
-- **Ground Truth**: 75 cross-genre paintings injected as known anomalies (~5% contamination)
-- **Anomaly Sources**: Cubism, Expressionism, Abstract Expressionism
-- **Metric**: AUC-ROC (area under receiver operating characteristic curve)
-- **PCA Integrity**: PCA model fitted on clean data only — anomalies projected with pre-learned transform (no data leakage)
-
----
-
-## 🏗 Pipeline Architecture
+Install everything with:
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                        DATA PREPARATION                            │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│  WikiArt Dataset ──► Genre Subset (1500 imgs) ──► ResNet-50        │
-│                       create_subset.py              extract_embeddings.py
-│                                                         │          │
-│                                                    2048-dim embeddings
-│                                                         │          │
-│                                    ┌────────────────────┤          │
-│                                    │                    │          │
-│                               PCA (50-dim)         Raw (2048-dim)  │
-│                              reduce_embeddings.py       │          │
-│                                    │                    │          │
-├────────────────────────────────────┼────────────────────┤──────────┤
-│                     ANOMALY INJECTION                              │
-├────────────────────────────────────┼────────────────────┤──────────┤
-│                                    │                    │          │
-│    create_injection_dataset.py ──► Clean (1500) + Injected (1575)  │
-│    (75 cross-genre anomalies)      with is_anomaly ground truth    │
-│                                    │                    │          │
-├────────────────────────────────────┼────────────────────┤──────────┤
-│                     ANOMALY DETECTION                              │
-├────────────────────────────────────┼────────────────────┤──────────┤
-│                                    │                    │          │
-│  ┌──────────────┐  ┌────────────┐  │  ┌──────────────┐  │          │
-│  │   Wasserstein │  │  KS Test   │  │  │  Isolation   │  │          │
-│  │   Distance    │  │ + BH-FDR   │  │  │   Forest     │  │          │
-│  └──────┬───────┘  └─────┬──────┘  │  └──────┬───────┘  │          │
-│         │                │         │         │          │          │
-│         │     PCA 50-dim space     │         │     Raw 2048-dim    │
-│         │                │         │         │          │          │
-│         │                │         │  ┌──────┴───────┐  │          │
-│         │                │         │  │   Cosine     │  │          │
-│         │                │         │  │  Similarity  │  │          │
-│         │                │         │  └──────┬───────┘  │          │
-│         │                │         │         │          │          │
-│         │                │         │  ┌──────┴───────┐  │          │
-│         │                │         │  │ Autoencoder  │  │          │
-│         │                │         │  │  (MSE loss)  │  │          │
-│         │                │         │  └──────┬───────┘  │          │
-│         │                │         │         │          │          │
-├─────────┴────────────────┴─────────┴─────────┴──────────┴──────────┤
-│                        EVALUATION                                  │
-├────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│    AUC-ROC  ◄── Per-painting anomaly scores vs. is_anomaly labels  │
-│    Ensemble ◄── Score fusion, bootstrap CIs, significance tests    │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📁 Project Structure
-
-```
-Capstone_Project/
-│
-├── src/                                # Core pipeline modules
-│   ├── config.py                       # Shared constants, paths, hyperparameters
-│   ├── utils.py                        # Device selection, model loading utilities
-│   ├── create_subset.py                # Filter WikiArt by genre, sample images
-│   ├── dataset_loader.py               # PyTorch Dataset / DataLoader
-│   ├── extract_embeddings.py           # ResNet-50 → 2048-dim embeddings
-│   ├── reduce_embeddings.py            # PCA reduction (2048 → 50 dims)
-│   └── create_injection_dataset.py     # Clean + anomaly-injected datasets
-│
-├── notebooks/                          # Interactive analysis notebooks
-│   ├── cosine_similarity_analysis.ipynb
-│   ├── wasserstein_analysis.ipynb
-│   ├── ks_test_analysis.ipynb
-│   ├── isolation_forest_analysis.ipynb
-│   ├── embedding_analysis.ipynb        # PCA / UMAP visualisations
-│   ├── auc_roc_evaluation.ipynb        # Cross-method AUC benchmark
-│   ├── ensemble_analysis.ipynb         # Score fusion & significance tests
-│   └── sensitivity_analysis.ipynb      # Hyperparameter robustness
-│
-├── metadata/                           # Dataset metadata
-│   ├── classes.csv                     # WikiArt painting metadata
-│   └── wclasses.csv                    # Numeric class encodings
-│
-├── run_pipeline.py                     # End-to-end data preparation pipeline
-├── run_all_analysis.py                 # Run all 4 statistical methods + AUC
-├── run_autoencoder_analysis.py         # Autoencoder anomaly detection + AUC
-├── run_clustering_analysis.py          # LOF, HDBSCAN, GMM clustering analysis + AUC
-├── run_gradcam_heatmaps.py             # Error-weighted CAM heatmaps for spatial attribution
-├── Data Preprocessing.ipynb            # Exploratory data analysis
-├── requirements.txt                    # Python dependencies
-└── README.md
-```
-
-**Generated directories** (gitignored — reproduced by running the pipeline):
-```
-├── embeddings/<genre>/                 # Raw + PCA embeddings per genre
-│   ├── clean/                          #   Original genre embeddings (1500)
-│   └── injected/                       #   Genre + anomaly embeddings (1575)
-├── results/<genre>/injected/           # Per-method anomaly score CSVs + models
-│   ├── autoencoder_*_scores.csv        #   Autoencoder per-painting anomaly scores
-│   ├── ae_*_dim_error_attribution.csv  #   Per-dimension reconstruction error stats
-│   ├── ae_error_cam_*.png              #   Error-weighted CAM heatmap visualisations
-│   └── ae_*_error_attribution.png      #   Dimension-level error attribution plots
-└── outputs/figures/                    # Visualisation outputs
-```
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- **Python 3.10+**
-- CUDA-capable GPU recommended (CPU works but is slower for embedding extraction and autoencoder training)
-
-### Installation
-
-```bash
-git clone git@github.com:yevastepanyan8/Capstone_Project.git
-cd Capstone_Project
-
-# Create virtual environment
 python -m venv venv
-source venv/bin/activate          # Linux / macOS
-# venv\Scripts\activate           # Windows
-
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Data
+On Windows the activation command is `venv\Scripts\activate`.
 
-Download the [WikiArt dataset](https://www.kaggle.com/datasets/steubk/wikiart) and place it under `wikiart/wikiart/` so that genre folders (`Impressionism/`, `Realism/`, etc.) are direct children.
+## 3. Data Sources and Preprocessing
 
----
+The raw painting images come from the WikiArt dataset, mirrored on
+Kaggle at `https://www.kaggle.com/datasets/steubk/wikiart`. Download it
+and unpack into the project so that the genre folders sit at
+`wikiart/wikiart/<Genre>/`. Each genre folder contains the painting
+JPEGs.
 
-## 💻 Usage
+Genre subsets used by the pipeline are produced by
+`src/create_subset.py`, which samples 1,500 paintings from each of the
+five host genres using a fixed random seed of 42. The script writes
+each subset to a directory named `dataset_<genre>/` with an `images/`
+folder and a `metadata_subset.csv` file.
 
-### Option A: Full Automated Pipeline
+The injection step in `src/create_injection_dataset.py` then samples
+75 paintings from the chosen anomaly genres and appends their
+embeddings to the host-genre embeddings, producing a 5 percent
+contamination rate with known binary labels for evaluation.
 
-```bash
-# Step 1 — Prepare data: subsets → embeddings → PCA → injection
+Variable descriptions for the most relevant CSV columns:
+
+- `filename`: image filename, used as the join key across stages.
+- `artist`: artist name parsed from the filename.
+- `genre`: genre label as stored in the WikiArt metadata.
+- `is_anomaly`: 0 for host-genre paintings and 1 for injected
+  anomalies. Used as the ground truth for AUC-ROC.
+- `anomaly_genre`: the genre an injected painting was sampled from.
+
+## 4. Steps Required to Reproduce the Results
+
+The project is designed to be reproduced with a single command from
+the project root:
+
+```
 python run_pipeline.py
-
-# Step 2 — Run all statistical anomaly detection methods
-python run_all_analysis.py
-
-# Step 3 — Run autoencoder anomaly detection
-python run_autoencoder_analysis.py
-
-# Step 4 — Run clustering-based anomaly detection (LOF, HDBSCAN, GMM)
-python run_clustering_analysis.py
-
-# Step 5 — Generate error-weighted CAM heatmaps (requires autoencoder models)
-python run_gradcam_heatmaps.py
 ```
 
-### Option B: Step-by-Step
+This script runs the full study in two stages.
 
-<details>
-<summary>Click to expand manual steps</summary>
+Stage 1 builds the data for every combination of embedding type and
+genre. For each of the five host genres and each of the four embedding
+types it extracts raw embeddings, fits a PCA model and writes a 50
+component projection, builds the standard injection dataset (Cubism,
+Expressionism, Abstract Expressionism), and builds the hard injection
+dataset (Fauvism, Post-Impressionism, Pointillism).
 
-**1. Create genre subsets**
-```bash
-python src/create_subset.py \
-    --metadata metadata/classes.csv \
-    --images wikiart/wikiart \
-    --output dataset_impressionism \
-    --genre impressionism \
-    --size 1500
-```
+Stage 2 runs the anomaly detectors for every combination of embedding
+type and injection regime. For each pair it executes
+`run_clustering_analysis.py` (LOF, HDBSCAN, GMM) and
+`run_autoencoder_analysis.py` (deep autoencoder with reconstruction
+error). Each detector writes per-painting anomaly scores and per-genre
+AUC-ROC values into the appropriate `results_*` directory.
 
-**2. Extract embeddings**
-```bash
-python src/extract_embeddings.py \
-    --dataset_dir dataset_impressionism \
-    --output_dir embeddings/impressionism
-```
+The pipeline is idempotent. Each stage checks for its primary output
+file and skips itself if the file already exists, so re-running the
+script does not redo finished work. To force a stage to re-run, delete
+its output directory.
 
-**3. PCA reduction**
-```bash
-python src/reduce_embeddings.py \
-    --embeddings_path embeddings/impressionism/image_embeddings.npy \
-    --output_dir embeddings/impressionism \
-    --genre impressionism
-```
+A full cold run on a single GPU takes several hours. CPU-only runs
+take substantially longer because of embedding extraction and
+autoencoder training time.
 
-**4. Create injection datasets**
-```bash
-python src/create_injection_dataset.py \
-    --genre_dir embeddings/impressionism \
-    --genre impressionism
-```
+## 5. How to Run the Code
 
-**5. Run analysis notebooks**
+The recommended entry point is `run_pipeline.py` as described above.
+If a stage needs to be run by itself, the individual scripts are:
 
-Set `GENRE` and `DATASET_TYPE` in the first cell of each notebook:
-```python
-GENRE        = 'impressionism'    # or 'realism', 'romanticism'
-DATASET_TYPE = 'injected'         # 'clean' for exploration, 'injected' for evaluation
-```
+- `src/create_subset.py` builds the 1,500-painting subset for one
+  genre from the full WikiArt dataset.
+- `src/extract_embeddings.py` extracts standard ResNet-50 embeddings
+  (2,048 dimensions) for one genre subset.
+- `src/extract_embeddings_multilayer.py` extracts multi-layer
+  ResNet-50 embeddings (3,584 dimensions) by concatenating pooled
+  activations from layers 2, 3, and 4.
+- `src/extract_embeddings_dinov2.py` extracts DINOv2 ViT-B/14 CLS-token
+  embeddings (768 dimensions).
+- `src/extract_embeddings_vgg_gram.py` extracts VGG-19 Gram-matrix
+  style embeddings (8,256 dimensions) from `conv2_1` activations.
+- `src/reduce_embeddings.py` fits a PCA model to 50 components on the
+  clean host-genre embeddings and writes both the projection and the
+  fitted PCA object.
+- `src/create_injection_dataset.py` builds the clean and injected
+  versions of a genre dataset. Pass `--anomaly_genres` and
+  `--injection_name` to choose between the standard and hard regimes.
+- `run_clustering_analysis.py` runs LOF, HDBSCAN, and GMM on the raw
+  and PCA-50 spaces and writes per-painting scores plus AUC-ROC.
+  Reads `EMBEDDINGS_DIR`, `RESULTS_DIR`, and `DATASET_TYPE` from
+  environment variables.
+- `run_autoencoder_analysis.py` trains a deep autoencoder on the
+  clean host-genre paintings, scores every painting by reconstruction
+  error, and writes per-dimension error attribution plots.
+- `run_all_analysis.py` runs the statistical detectors (cosine
+  similarity, sliced Wasserstein, Kolmogorov-Smirnov, Isolation
+  Forest) for the standard regime.
+- `run_gradcam_heatmaps.py` produces error-weighted spatial heatmaps
+  for paintings flagged by the autoencoder.
 
-</details>
+Hyperparameters and paths live in `src/config.py`. Two environment
+variables control which embedding and which injection regime the
+analysis scripts read:
 
-### Option C: Interactive Notebooks
+- `EMBEDDINGS_DIR` selects the embedding root, for example
+  `embeddings_vgg_gram`. Defaults to `embeddings_vgg_gram`.
+- `RESULTS_DIR` selects the results root, for example
+  `results_vgg_gram`. Defaults to `results_vgg_gram`.
+- `DATASET_TYPE` selects the injection regime. Use `injected` for
+  the standard regime and `injected_hard` for the hard regime.
+  Defaults to `injected_hard`.
 
-Open notebooks in `notebooks/` in the recommended order:
+## 6. How the Paper Figures and Tables Were Generated
 
-1. `cosine_similarity_analysis.ipynb`
-2. `wasserstein_analysis.ipynb`
-3. `ks_test_analysis.ipynb`
-4. `isolation_forest_analysis.ipynb`
-5. `auc_roc_evaluation.ipynb` — requires methods 1–4 complete
-6. `ensemble_analysis.ipynb` — score fusion, bootstrap CIs, significance tests
-7. `sensitivity_analysis.ipynb` — hyperparameter robustness
+All figures and tables in the paper are regenerated programmatically.
+No values are hand-edited.
 
----
+- `figures/pipeline.png` is generated by `pipeline_diagram.py` at the
+  project root, which builds the end-to-end pipeline diagram using
+  matplotlib.
+- `figures/heatmap.png` (embedding-by-method AUC matrix under both
+  injection regimes), `figures/rank.png` (per-embedding method
+  rankings), and `figures/cam.png` (autoencoder reconstruction-error
+  attribution) are generated from
+  `notebooks/final_results_summary.ipynb`. The notebook reads the
+  per-method AUC CSVs from every `results_*` directory and produces
+  the figures used in the Results and Analysis sections.
+- The two summary tables in the paper (mean AUC by embedding and mean
+  AUC by detection method) are computed in the same notebook from the
+  full set of 440 AUC values across the four embeddings, eleven
+  methods, five genres, and two regimes.
 
-## ⚙ Configuration
+To regenerate the figures after a fresh pipeline run, open
+`notebooks/final_results_summary.ipynb` and execute all cells. Saved
+figures are written under `outputs/figures/`.
 
-All shared hyperparameters are centralised in [`src/config.py`](src/config.py):
-
-| Parameter | Default | Description |
-|:---|:---:|:---|
-| `N_PCA_COMPONENTS` | 50 | PCA dimensions for reduced embeddings |
-| `CONTAMINATION` | 0.05 | Top 5% flagged as anomalies |
-| `MIN_ARTIST_IMAGES` | 20 | Minimum paintings for per-artist analysis |
-| `KNN_K` | 20 | Neighbours for per-painting scoring |
-| `IF_N_ESTIMATORS` | 200 | Isolation Forest trees |
-| `SWD_N_PROJECTIONS` | 200 | Random projections for Sliced Wasserstein |
-| `DEFAULT_N_ANOMALIES` | 75 | Injected anomalies (~5% of 1500) |
-| `RANDOM_STATE` | 42 | Global seed for reproducibility |
-
-### Autoencoder Hyperparameters
-
-| Parameter | Raw (2048-dim) | PCA (50-dim) |
-|:---|:---:|:---:|
-| Hidden layers | [128, 64, 32] | [32, 24] |
-| Latent dimension | 16 | 10 |
-| Epochs (max) | 150 | 150 |
-| Batch size | 64 | 64 |
-| Learning rate | 1e-3 | 1e-3 |
-| Early stopping patience | 15 | 15 |
-
----
-
-## 📊 Detailed Results
-
-### Per-Genre Breakdown
-
-<details>
-<summary><strong>Impressionism</strong> (1500 normal + 75 anomalies)</summary>
-
-| Method | AUC-ROC | Status |
-|:---|:---:|:---:|
-| Autoencoder (raw) | **0.9128** | ✅ |
-| Cosine Similarity | 0.8334 | ✅ |
-| KS Test | 0.8008 | ✅ |
-| LOF (raw) | 0.8025 | ✅ |
-| GMM (raw) | 0.7435 | ✅ |
-| Autoencoder (PCA) | 0.5534 | ✅ |
-| LOF (PCA) | 0.4556 | ⚠️ |
-| Wasserstein Distance | 0.4461 | ⚠️ |
-| Isolation Forest | 0.3960 | ⚠️ |
-| GMM (PCA) | 0.2995 | ⚠️ |
-| HDBSCAN (PCA) | 0.2523 | ⚠️ |
-
-</details>
-
-<details>
-<summary><strong>Realism</strong> (1500 normal + 75 anomalies)</summary>
-
-| Method | AUC-ROC | Status |
-|:---|:---:|:---:|
-| Autoencoder (raw) | **0.8833** | ✅ |
-| LOF (raw) | 0.8038 | ✅ |
-| Cosine Similarity | 0.7492 | ✅ |
-| GMM (raw) | 0.7283 | ✅ |
-| KS Test | 0.6790 | ✅ |
-| Wasserstein Distance | 0.6242 | ✅ |
-| Autoencoder (PCA) | 0.5896 | ✅ |
-| GMM (PCA) | 0.4361 | ⚠️ |
-| LOF (PCA) | 0.4353 | ⚠️ |
-| HDBSCAN (PCA) | 0.3136 | ⚠️ |
-| Isolation Forest | 0.2679 | ⚠️ |
-
-</details>
-
-<details>
-<summary><strong>Romanticism</strong> (1498 normal + 75 anomalies)</summary>
-
-| Method | AUC-ROC | Status |
-|:---|:---:|:---:|
-| Autoencoder (raw) | **0.9048** | ✅ |
-| Cosine Similarity | 0.7988 | ✅ |
-| LOF (raw) | 0.7931 | ✅ |
-| KS Test | 0.7683 | ✅ |
-| GMM (raw) | 0.7271 | ✅ |
-| Autoencoder (PCA) | 0.5781 | ✅ |
-| Wasserstein Distance | 0.5520 | ✅ |
-| GMM (PCA) | 0.4983 | ⚠️ |
-| LOF (PCA) | 0.4101 | ⚠️ |
-| Isolation Forest | 0.3355 | ⚠️ |
-| HDBSCAN (PCA) | 0.2870 | ⚠️ |
-
-</details>
-
-### Method Rankings (by Mean AUC-ROC)
+## 7. Directory Layout
 
 ```
- Rank  Method                       Mean AUC    Embedding Space
- ───── ──────────────────────────── ────────── ─────────────────
-  1.   Autoencoder (raw)              0.9003    Raw 2048-dim
-  2.   LOF (raw)                      0.7998    Raw 2048-dim
-  3.   Cosine Similarity              0.7938    Raw 2048-dim
-  4.   KS Test                        0.7494    PCA 50-dim
-  5.   GMM (raw)                      0.7330    Raw 2048-dim
-  6.   Autoencoder (PCA)              0.5737    PCA 50-dim
-  7.   Wasserstein Distance           0.5408    PCA 50-dim
-  8.   LOF (PCA)                      0.4337    PCA 50-dim
-  9.   GMM (PCA)                      0.4113    PCA 50-dim
- 10.   Isolation Forest               0.3331    PCA 50-dim
- 11.   HDBSCAN (PCA)                  0.2843    PCA 50-dim
+Capstone_Project/
+  src/
+    config.py
+    utils.py
+    create_subset.py
+    dataset_loader.py
+    extract_embeddings.py
+    extract_embeddings_multilayer.py
+    extract_embeddings_dinov2.py
+    extract_embeddings_vgg_gram.py
+    reduce_embeddings.py
+    create_injection_dataset.py
+  notebooks/
+    cosine_similarity_analysis.ipynb
+    wasserstein_analysis.ipynb
+    ks_test_analysis.ipynb
+    isolation_forest_analysis.ipynb
+    embedding_analysis.ipynb
+    auc_roc_evaluation.ipynb
+    ensemble_analysis.ipynb
+    sensitivity_analysis.ipynb
+    final_results_summary.ipynb
+    genre_anomaly_galleries.ipynb
+  metadata/
+    classes.csv
+    wclasses.csv
+  run_pipeline.py
+  run_all_analysis.py
+  run_autoencoder_analysis.py
+  run_clustering_analysis.py
+  run_artist_analysis.py
+  run_gradcam_heatmaps.py
+  pipeline_diagram.py
+  paper.tex
+  requirements.txt
+  README.md
 ```
 
-### Observations
+Directories produced by the pipeline (not stored in git):
 
-1. **Raw embedding space is superior** — All top-4 methods (Autoencoder, LOF, Cosine Similarity, GMM) operate on the full 2048-dim ResNet-50 embeddings. PCA reduction consistently degrades performance across all methods.
-2. **Reconstruction-based detection excels** — The autoencoder's ability to learn the normal manifold and flag high-reconstruction-error samples is the most effective approach (AUC = 0.9003).
-3. **Local density methods are strong** — LOF (raw) achieves mean AUC = 0.80, confirming that anomalous paintings occupy locally sparse regions in the original embedding space.
-4. **Consistent performance** — The autoencoder achieves AUC > 0.88 across all three genres, demonstrating robustness to genre-specific characteristics.
-5. **PCA degrades all methods uniformly** — LOF: 0.80 → 0.43, GMM: 0.73 → 0.41, Autoencoder: 0.90 → 0.57. The 50-dim reduction discards discriminative features needed for anomaly detection.
-6. **HDBSCAN and Isolation Forest fail** — Both density-isolation methods score below random (AUC < 0.35), indicating that anomalies in art embedding space are not globally isolated but rather interspersed with normal samples.
+```
+  embeddings/<genre>/                      ResNet-50 standard
+  embeddings_multilayer/<genre>/           ResNet-50 multi-layer
+  embeddings_dinov2/<genre>/               DINOv2 ViT-B/14
+  embeddings_vgg_gram/<genre>/             VGG-19 Gram matrix
+  results/<genre>/<regime>/                Detection outputs per embedding
+  results_multilayer/<genre>/<regime>/
+  results_dinov2/<genre>/<regime>/
+  results_vgg_gram/<genre>/<regime>/
+  outputs/figures/                         Notebook-generated figures
+```
 
----
+## 8. Reproducibility Notes
 
-## 🔍 Interpretability & Error Attribution
+- All random seeds are fixed at 42 across embedding extraction, PCA
+  fitting, injection sampling, GMM initialization, Isolation Forest,
+  Wasserstein projections, and autoencoder training.
+- Hyperparameters are held fixed across all five genres. No per-genre
+  tuning was performed, so reported AUC values reflect a single
+  hyperparameter setting rather than the best-tuned setting per
+  genre.
+- The PCA model is fitted on clean host-genre embeddings only.
+  Injected anomalies are projected with the pre-fitted PCA so they
+  never influence the principal directions.
+- A fresh clone followed by `pip install -r requirements.txt` and
+  `python run_pipeline.py` reproduces every numerical value reported
+  in the paper.
 
-### Per-Dimension Reconstruction Error
+## 9. Acknowledgments
 
-The autoencoder's reconstruction error is **not uniformly distributed** across the 2048 embedding dimensions. Analysis reveals that a small subset of ResNet-50 feature channels are responsible for the majority of the anomaly signal:
-
-**Top discriminative dimensions (raw 2048-dim) — consistent across all 3 genres:**
-
-| Dimension | Impressionism | Realism | Romanticism | Interpretation |
-|:---:|:---:|:---:|:---:|:---|
-| **656** | ✅ Rank 1 | ✅ Rank 1 | ✅ Rank 1 | Genre-universal feature |
-| **819** | ✅ Rank 2 | ✅ Rank 2 | ✅ Rank 2 | Genre-universal feature |
-| **1365** | ✅ Rank 3 | ✅ Rank 3 | ✅ Rank 4 | Genre-universal feature |
-| **1395** | ✅ Rank 4 | ✅ Rank 4 | ✅ Rank 3 | Genre-universal feature |
-
-These dimensions encode visual features that the autoencoder learns to reconstruct accurately for the target genre but fails on for injected anomalies (Cubism, Expressionism, Abstract Expressionism), suggesting they capture genre-discriminative characteristics such as texture, brushwork, or composition patterns.
-
-PCA 50-dim top dimensions are genre-specific (no cross-genre overlap), as expected since PCA rotates the feature space independently per genre.
-
-### Error-Weighted CAM Heatmaps
-
-To spatially localise which regions of a painting drive reconstruction error, we generate **error-weighted Class Activation Maps (CAM)**:
-
-1. Extract ResNet-50 `layer4` spatial feature maps (2048 × 7 × 7) for each painting
-2. Compute per-channel autoencoder reconstruction error
-3. Weight spatial maps by channel error → sum → heatmap
-4. Overlay on original painting (jet colormap)
-
-The heatmaps reveal that:
-- **Anomalous paintings** show diffuse, high-intensity activation across most spatial regions — the autoencoder struggles to reconstruct the entire visual representation
-- **Normal paintings** show concentrated, low-intensity activation in small regions — the autoencoder handles most of the image well
-- The spatial error pattern differs between anomaly types (e.g., geometric Cubist compositions vs. expressive brushwork)
-
-Generated outputs per genre in `results/<genre>/injected/`:
-- `ae_error_cam_heatmaps.png` — Grid of 4 normals + 4 anomalies with heatmap overlays
-- `ae_error_cam_top_anomaly.png` — Detailed view of the highest-error anomaly
-- `ae_error_cam_comparison.png` — Side-by-side normal vs anomaly comparison
+The author thanks Prof. Emma Chookaszian for the qualitative
+art-historical validation of the model outputs, and Prof. Narine
+Sarvazyan for guidance on the structure and presentation of this
+work.
